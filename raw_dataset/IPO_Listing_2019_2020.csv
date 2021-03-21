@@ -1,4 +1,4 @@
-﻿IPO_DATE,SYMBOL,NAME,IPO_PRICE,CURRENT,RETURN
+﻿ipo_date,SYMBOL,company_name,ipo_price,current_price,percent_return
 2020-12-29,MRM,Medirom Healthcare,15,10.3,-0.3133
 2020-12-24,VTAQ,Ventoux CCM Acquisition,10,9.89,-0.011
 2020-12-23,IKT,Inhibikase Therapeutics,10,6.21,-0.379
