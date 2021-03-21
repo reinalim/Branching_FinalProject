@@ -1,4 +1,4 @@
-,SYMBOL,ASSET_TYPE,company_name,EXCHANGE,CURRENCY,COUNTRY,SECTOR,INDUSTRY,ADDRESS
+,SYMBOL,ASSET_TYPE,COMPANY_NAME,EXCHANGE,CURRENCY,COUNTRY,SECTOR,INDUSTRY,ADDRESS
 0,MRM,Common Stock,MEDIROM Healthcare Technologies Inc,NASDAQ,USD,USA,Consumer Cyclical,Personal Services,"Tradepia Odaiba, Tokyo, Japan, 135-0091"
 1,VTAQ,Common Stock,Ventoux CCM Acquisition Corp,NASDAQ,USD,USA,Financial Services,Shell Companies,"1 East Putnam Avenue, Greenwich, CT, United States, 06830"
 2,IKT,Common Stock,"Inhibikase Therapeutics, Inc",NASDAQ,USD,USA,Healthcare,Biotechnology,"3350 Riverwood Parkway, Atlanta, GA, United States, 30339"
