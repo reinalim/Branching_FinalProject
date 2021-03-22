@@ -20,6 +20,6 @@ Reference: https://www.alphavantage.co/documentation/
 
 - How the pandemic affected the companies in the trend?
 
-- Which industries have the best and worst return during the first 3 months of the IOP date?
-
 -  What is the upcoming list of IPO pipline by industry/sector
+
+- Which industries have the best and worst return during the first 3 months of the IOP date?
