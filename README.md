@@ -1,33 +1,112 @@
-# Final Project
+# Group Project 
+UofT Data Analytics - Module 20: Final Project
 
-### Project Topic
-How the global pandemic affected the new IPO listing in 2019 and 2020
+---
 
-### Project Description
+## Contents 
+  * Overview
+    - Purpose
+    - Resources
+    - Team Member
+  * Results
+  * Summary
+ 
+
+---  
+
+## Overview 
+  
 It is typical for companies to delay their initial public offerings when the market for them is weak, but the unprecedented year of 2020 ended with companies delaying IPOs because the market was too strong. We are interested in comparing IPOs have gone public in 2019 and 2020, and discovering the porportion of each industry/sector and how the global pandemic affected the trend.
+   
 
-### Data Source:
+   ### Purpose
+   To apply machine learning and neural networks and use the features within our provided dataset to create a binary classifier that is capable of predicting upcoming IPO returns by industry/sector. 
+   
+   
+  Segment 1 ~ 4 Deliverables:
+   - Deliverable 1: Presentation
+   - Deliverable 2: GitHub
+   - Deliverable 3: Machine Learning Model
+   - Deliverable 4: Database
+  
+   
+  
+   ### Resources
+   * Data source: IPO_Listing_2019_2020.csv,company_overview.csv, balance_sheet.csv, cash_flow.csv, income_statement.csv, three_month_return.csv are created from dataset sourced via Alpha Vantage Inc, a company that has partnered with major exchanges and institutions around the world to provide stock APIs as well as forex (FX) and cryptocurrency data feeds. https://www.alphavantage.co/documentation/
+  
+  * Software: Python, Pandas, GitHub, VS Code, PostgreSQL, Tableau,
+  
+  ### Team Member:
+ * Andrew Sukmawan
+ * Anthony Ng
+ * Lora Borja
+ * Reina Lim
+  
 
-The data source for this project is collected from Alpha Vantage Inc, a company that has partnered with major exchanges and institutions around the world to provide stock APIs as well as forex (FX) and cryptocurrency data feeds. Reference: https://www.alphavantage.co/documentation/
+<br>
 
-The data source for this project is collected from Alpha Vantage Inc, a company that has partnered with major exchanges and institutions around the world to provide stock APIs as well as forex (FX) and cryptocurrency data feeds. 
+--- 
 
-Reference: https://www.alphavantage.co/documentation/
+## Results - Segment #1
 
 
-### Questions to be answered:
-- How many IPOs have gone public in 2019 and 2020? 
+   ### Deliverable 1: Presentation
+   
+   * **Selected Topic:** How the Global Pandemic Affected the New IPO Listing in 2019 and 2020
+  
+   * **Reason why this topic was selected:** It is typical for companies to delay their initial public offerings when the market for them is weak, but the unprecedented year of 2020 ended with companies delaying IPOs because the market was too strong. We are interested in comparing IPOs have gone public in 2019 and 2020, and discovering the porportion of each industry/sector and how the global pandemic affected the trend.
+  
+   * **Description of the source data:** All data was collected from Alpha Vantage (https://www.alphavantage.co/documentation/).  Alpha Vantage Inc, has partnered with major exchanges and institutions around the world to provide stock APIs, forex (FX) and cryptocurrency data. 
+  
+   * **Questions hoping to answer with the provided dataset:**
+   
+     1. How many IPOs have gone public in 2019 and 2020?
 
-- What is the porpotion of each industry/sector? 
+     2. What is the porpotion of each industry/sector?
 
-- What are the key drivers of IPO activities in 2019 and 2020?
+     3. What are the key drivers of IPO activities in 2019 and 2020?
 
-- How the pandemic affected the companies in the trend?
+     4. How the pandemic affected the companies in the trend?
 
-- Which industries have the best and worst return during the first 3 months of the IOP date?
+     5. Which industries have the best and worst return during the first 3 months of the IOP date?
 
--  What is the upcoming list of IPO pipline by industry/sector
+     6. What is the upcoming list of IPO pipline by industry/sector
 
--  What is the upcoming list of IPO pipline by industry/sector
+   
+   ### Deliverable 2: GitHub  
+   Master Branch 
+   * READ.me established - completed
+   * Description of the communication protocols   OR
+   * Individual Branches established, and each team member with min of four commits - Completed 
+   
+   . 
+   
+   ### Deliverable 3: Machine Learning Model
+   
+   * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+      - Takes in data in from the provisional database
+      - Output labels for input data
 
-- Which industries have the best and worst return during the first 3 months of the IOP date?
+   * Outputs labels for input data - Screenshot below (Pending)
+
+     Image Here > 
+      
+     
+   ### Deliverable 4: Database
+   
+   * Present a provisional database that stands in for the final database and accomplishes the following:
+      - Sample data that mimics the expected final database structure or schema  - Complete
+      - Draft machine learning module is connected to the provisional database  - Complete 
+      
+   * Screenshot/Image Here >
+
+
+<br>
+
+---
+
+## Summary
+
+
+
+
