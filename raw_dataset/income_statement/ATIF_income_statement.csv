@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ATIF,2020-07-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,64186,None,None,None,None,None,None
+1,ATIF,2020-04-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,64186,None,None,None,None,None,None
+2,ATIF,2020-01-31,USD,-57325,56380,None,None,None,2581845,None,None,None,None,None,None,None,None,None,None,None,-26054,None,None,None,None,None,None
+3,ATIF,2019-10-31,USD,None,769689.50,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-26054,None,None,None,180481.75,None,None
+4,ATIF,2019-07-31,USD,322996,645990,None,None,-904640,1550630,None,775315,None,None,850,None,None,None,None,None,-892630,-71157,None,-375159,None,-864320,None,-750320
+5,ATIF,2019-04-30,USD,322996,322996,None,None,-452319,775315,None,775315,None,None,None,None,None,None,None,None,-446317,-71157,None,-375159,None,-452319,None,-375159
+6,ATIF,2019-01-31,USD,1216383,2432770,0,0,1576250,856520,0,428262,None,None,1140,0,None,0,None,None,1598680,209569,None,589773,None,788121,None,1179550
+7,ATIF,2018-10-31,USD,1216383,1216383,0,0,788121,428262,0,428262,None,None,None,0,None,0,None,None,799342,209569,None,589773,None,788121,None,589773
+8,ATIF,2018-07-31,USD,None,1906010,None,None,846560,1059450,None,None,None,None,15750,None,None,None,None,None,692520,249830,None,None,None,None,None,442690
+9,ATIF,2018-01-31,USD,1700942,3401880,0,0,1881120,1520760,0,760382,None,None,560,0,None,0,None,None,1971180,233494,None,752095,None,940560,None,1504190
+10,ATIF,2017-10-31,USD,1700942,1700942,0,0,940560,760382,0,760382,None,None,None,0,None,0,None,None,985590,233494,None,752096,None,940560,None,752096

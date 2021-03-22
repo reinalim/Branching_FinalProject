@@ -1,0 +1,11 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,IMAB,2020-09-30,CNY,None,0,None,None,-384903000,139391000,256170000,384903000,None,-297000,-297000,0,None,None,None,None,12218000,None,None,12218000,None,12218000,None,12218000
+1,IMAB,2020-06-30,CNY,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,IMAB,2020-03-31,CNY,None,None,None,None,None,171384000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-564855000,None,None
+3,IMAB,2019-12-31,CNY,0,30000000,0,0,-333471000,654553000,262038000,333471000,None,7217000,7742000,525000,None,0,None,None,-348570000,0,None,-348570000,None,-1413367000,None,-348570000
+4,IMAB,2019-09-30,CNY,0.01,15000000,0,0,-306261000,8148000,313293000,321261000,None,9480000,10010000,530000,None,0,None,None,-246043000,0,None,-246043000,None,-183011000,None,-246043000
+5,IMAB,2019-06-30,CNY,0,15000000,0,0,-824668000,574584000,0.08,0.27,None,None,-33340000,0,None,0,None,None,-857337000,0,None,-0.27,None,-0.26,None,-857337000
+6,IMAB,2019-03-31,CNY,0.01,0.01,0,0,-0.33,0.23,0.11,0.34,None,None,None,0,None,0,None,None,-0.34,0,None,-0.34,None,-0.33,None,-0.34
+7,IMAB,2018-12-31,CNY,0,53781000,0,0,-438638000,66391000,0,0,None,None,68671000,0,None,0,None,None,-401111000,36395.33,None,0,None,0,None,-402833000
+8,IMAB,2018-09-30,CNY,67926.21,22014000,0,0,-112092000,22225000,345219.05,413796.32,None,None,2774000,-4560.50,None,0,None,None,-111013000,5044.94,None,-347585.70,None,-345870.11,None,-112648000
+9,IMAB,2018-06-30,USD,0,3205908.82,0,0,0,2802489.50,0,0,None,None,None,0,None,0,None,None,0,0,None,0,None,0,None,0

@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,VMAR,2020-08-31,CAD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,10655,None,None,None,None,None,None
+1,VMAR,2020-05-31,CAD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,10655,None,None,None,None,None,None
+2,VMAR,2020-02-29,CAD,220556,383190,162634,162634,-184287,371767,None,567477,None,-18339,None,18339,None,None,None,None,-199609,None,None,-199609,None,-148194,None,-199609
+3,VMAR,2019-11-30,CAD,176455,332645,156190,156190,None,298663,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-122208,None,None
+4,VMAR,2019-08-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,24483,None,None,None,None,None,None
+5,VMAR,2019-05-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,24483,None,None,None,None,None,None

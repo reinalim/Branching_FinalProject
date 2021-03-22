@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,MUDS,2020-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+1,MUDS,2020-03-31,USD,None,0,None,None,-3122431,3122431,None,3122431,None,659559,659559,None,None,None,None,None,-2462872,128007,None,-2590879,None,-3122431,None,-2590879
+2,MUDS,2019-12-31,USD,None,0,None,None,-422531,422531,None,422531,None,905168,905168,None,None,None,None,None,482637,179575,None,303062,None,-422531,None,303062
+3,MUDS,2019-09-30,USD,None,0,None,None,-150834,150834,None,150834,None,1115123,1115123,None,None,None,None,None,964289,223676,None,740613,None,-150834,None,740613
+4,MUDS,2019-06-30,USD,0,0,0,0,-143880,143880,0,143880,None,1211631,1211631,0,None,0,None,None,1067751,243942,None,823809,None,-143880,None,823809
+5,MUDS,2019-03-31,USD,0,0,0,0,-158655,158655,0,158655,None,1154606,1154606,0,None,0,None,None,995951,252611,None,743340,None,-158655,None,743340
+6,MUDS,2018-12-31,USD,0,0,0,0,-201800,201800,0,201800,None,None,None,0,None,0,None,None,833216,206854,None,626362,None,-201800,None,626362
+7,MUDS,2018-09-30,USD,0,0,0,0,-136590,136590,0,136590,None,None,None,0,None,0,None,None,779437,181865,None,597572,None,-136590,None,597572
+8,MUDS,2018-06-30,USD,0,0,0,0,-165331,165331,0,353088,None,None,None,0,None,0,None,None,616431,153670,None,462761,None,-165331,None,462761
+9,MUDS,2018-03-31,USD,0,0,0,0,-130225.12,130225.12,0,130225.12,None,None,None,0,None,None,None,None,7784.48,16065.94,None,-8281.46,None,-130225.12,None,-8281.46
+10,MUDS,2017-09-30,USD,0,0,0,0,-1196,1196,None,1196,None,None,None,None,None,None,None,None,-1196,0,None,-1196,None,-1196,None,-1196

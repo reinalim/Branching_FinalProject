@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,LXEH,2020-09-30,CNY,-3668795,19928837,23597632,23597632,-7954183,4285388,None,27883020,None,-420064,23991,444055,None,None,None,None,-3325317,None,None,-3325317,None,-2881262,None,-3325317
+1,LXEH,2020-06-30,USD,25598928,55009380,29410452,29410452,20035106,5563822,None,34974274,None,-450291,14757,465048,None,None,None,None,20159766,None,None,20159766,None,20621312,None,20159766
+2,LXEH,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,LXEH,2019-12-31,CNY,16312139,48508890,32196751,32196751,13641309,2670830,None,34867581,None,-622262,9407,631669,None,None,None,None,16403943,None,None,16403943,None,17041270,None,16403943
+4,LXEH,2019-09-30,CNY,-2101671,19483032,21584703,21584703,-4683794,2582123,None,24166826,None,-709499,17037,726536,None,None,None,None,-5359170,None,None,-5359170,None,-4643509,None,-5359170
+5,LXEH,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+6,LXEH,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

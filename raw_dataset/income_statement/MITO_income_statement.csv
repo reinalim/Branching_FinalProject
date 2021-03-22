@@ -1,0 +1,13 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,MITO,2020-09-30,USD,None,0,None,None,-10882000,4671000,6211000,10882000,None,-328000,2000,330000,None,None,None,None,-11210000,None,None,-11210000,None,-10880000,None,-11210000
+1,MITO,2020-06-30,USD,None,0,None,None,-11928000,4523000,7405000,11928000,None,-441000,14000,455000,None,None,None,None,-12369000,None,None,-12369000,None,-11914000,None,-12369000
+2,MITO,2020-03-31,USD,None,0,None,None,-15027000,5180000,9847000,15027000,None,-513000,123000,636000,None,None,None,None,-15540000,None,None,-15540000,None,-14904000,None,-15540000
+3,MITO,2019-12-31,USD,None,21087000,None,None,4172000,5825000,11090000,16915000,None,-442000,215000,657000,None,None,None,None,3730000,None,None,3730000,None,4463000,None,3730000
+4,MITO,2019-09-30,USD,None,0,None,None,-16089000,6269000,9820000,16089000,None,-441000,223000,664000,None,None,None,None,-16530000,None,None,-16530000,None,-15866000,None,-16530000
+5,MITO,2019-06-30,USD,None,0,None,None,-15430000,6064000,9366000,15430000,None,-320000,342000,662000,None,None,None,None,-15750000,None,None,-15750000,None,-15088000,None,-15750000
+6,MITO,2019-03-31,USD,None,0,None,None,-41485000,4157000,14328000,18485000,None,-4475000,-1693000,4683000,None,None,None,None,-43178000,None,None,-43178000,None,-18277000,None,-43178000
+7,MITO,2018-12-31,USD,0,0,0,0,-20980126,9675636,11304490,20980126,None,None,None,-6935188,None,None,None,None,-26589533,0,None,-26589533,None,-20980126,None,-26589533
+8,MITO,2018-06-30,USD,None,None,None,None,-16390000,4290000,12100000,16390000,None,None,None,-4905000,None,None,None,None,-27057000,None,None,-27057000,None,-16390000,None,-27057000
+9,MITO,2018-03-31,USD,None,None,None,None,-16932000,3496000,13436000,16932000,None,None,None,-3378000,None,None,None,None,-20341000,None,None,-20341000,None,-16932000,None,-20341000
+10,MITO,2017-12-31,USD,0,0,0,0,-20570909,3563536,17007373,20570909,None,None,None,-1570774,None,None,None,None,-22069813,0,None,-22069813,None,-20570909,None,-22069813
+11,MITO,2016-12-31,USD,None,None,None,None,None,61535000,48445000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

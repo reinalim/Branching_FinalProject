@@ -1,0 +1,11 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ESSC,2020-12-31,USD,-293936,0,293936,293936,-293936,None,None,293936,None,3500,3500,None,None,None,None,None,-293936,None,None,-293936,None,-293936,None,-290436
+1,ESSC,2020-09-30,USD,None,0,None,None,-207868,None,None,207868,None,3500,3500,None,None,None,None,None,-204368,None,None,-204368,None,-207868,None,-204368
+2,ESSC,2020-06-30,USD,None,0,None,None,-171586,None,None,171586,None,34592,34592,None,None,None,None,None,-136994,None,None,-136994,None,-171586,None,-136994
+3,ESSC,2020-03-31,USD,None,0,None,None,-94824,None,None,94824,None,792381,792381,None,None,None,None,None,697557,None,None,697557,None,-94824,None,697557
+4,ESSC,2019-12-31,USD,None,0,None,None,-9099,9099,None,9099,None,None,None,None,None,None,None,None,-9099,None,None,-9099,None,-9099,None,-9099
+5,ESSC,2019-09-30,USD,None,0,None,None,-420,None,None,418,None,0,0,None,None,None,None,None,-420,None,None,-418,None,-418,None,-420
+6,ESSC,2019-06-30,USD,None,None,None,None,-14830,None,None,None,None,None,None,None,None,None,None,None,-14830,None,None,None,None,None,None,-14830
+7,ESSC,2019-03-31,USD,None,0,None,None,10,None,None,-13,None,0,0,None,None,None,None,None,10,None,None,13,None,13,None,10
+8,ESSC,2018-12-31,USD,None,None,None,None,-14780,None,None,None,None,None,None,None,None,None,None,None,-14776,None,None,-14776,None,None,None,-14776
+9,ESSC,2018-09-30,USD,None,None,None,None,-60,None,None,None,None,None,None,None,None,None,None,None,-69,None,None,-69,None,None,None,-69

@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,GLSI,2020-09-30,USD,None,0,None,None,-256865,98834,158031,256865,None,None,None,None,None,None,None,None,-256865,None,None,-256865,None,-255962,None,-256865
+1,GLSI,2020-06-30,USD,None,0,None,None,-210430,59626,150804,210430,None,None,None,None,None,None,None,None,-210430,None,None,-210430,None,-210430,None,-210430
+2,GLSI,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,GLSI,2019-12-31,USD,None,0,None,None,-336536,77862,258674,336536,None,None,None,None,None,None,None,None,-336536,None,None,-336536,None,-335634,None,-336536
+4,GLSI,2019-09-30,USD,None,0,None,None,-336013,51509,284504,336013,None,None,None,None,None,None,None,None,-336013,None,None,-336013,None,-335111,None,-336013
+5,GLSI,2019-06-30,USD,None,None,None,None,None,667143,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+6,GLSI,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

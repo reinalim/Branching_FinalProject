@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,SRAC,2020-12-31,USD,None,0,None,None,-2944459,2944459,None,2944459,None,47237,47237,None,None,None,None,None,-2897222,-539,None,-2896683,None,-2944459,None,-2896683
+1,SRAC,2020-09-30,USD,None,0,None,None,-223942,223942,None,223942,None,61541,61541,None,None,None,None,None,-162401,2209,None,-164610,None,-223942,None,-164610
+2,SRAC,2020-06-30,USD,None,0,None,None,-315695,315695,None,315695,None,355824,355824,None,None,None,None,None,40129,3757,None,36372,None,-315695,None,36372
+3,SRAC,2020-03-31,USD,None,0,None,None,-236879,236879,None,236879,None,669789,669789,None,None,None,None,None,432910,173439,None,259471,None,-236879,None,259471
+4,SRAC,2019-12-31,USD,None,None,None,None,-236090,236090,None,None,None,None,346010,None,None,None,None,None,109930,81543,None,None,None,None,None,62360
+5,SRAC,2019-06-30,USD,None,None,None,None,-870,870,None,None,None,None,None,None,None,None,None,None,-870,None,None,-865,None,None,None,-870

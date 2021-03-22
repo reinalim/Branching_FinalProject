@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,IMNM,2020-09-30,USD,None,0,None,None,-2818000,1174000,1644000,2818000,None,-10000,None,10000,None,None,None,None,-8377000,None,None,-8377000,None,-2641000,None,-8377000
+1,IMNM,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,IMNM,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,IMNM,2019-12-31,USD,None,0,None,None,-2888000,456000,2432000,2888000,None,-34000,None,44000,None,None,None,None,-2922000,None,None,-2922000,None,-2717000,None,-2922000
+4,IMNM,2019-09-30,USD,None,0,None,None,-2720000,486000,2234000,2720000,None,-17000,None,17000,None,None,None,None,-2737000,None,None,-2737000,None,-2566000,None,-2737000

@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,YGMZ,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,52026,None,None,None,None,None,None
+1,YGMZ,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,52026,None,None,None,None,None,None
+2,YGMZ,2019-12-31,USD,1268597,8675290,7406693,7406693,1035806,232791,None,7639484,None,-111233,None,111233,None,None,None,None,937272,320511,None,616761,None,1431597,None,616761
+3,YGMZ,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,93726,None,None,None,None,None,None
+4,YGMZ,2018-12-31,USD,1406214,8058332,6652118,6652118,None,234088,None,None,None,None,None,None,None,None,None,None,None,305227,None,None,None,1467937,None,None

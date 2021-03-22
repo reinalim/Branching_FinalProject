@@ -1,0 +1,5 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,BHSE,2020-09-30,USD,None,0,None,None,-50,50,None,50,None,None,None,None,None,None,None,None,-50,None,None,-50,None,-50,None,-50
+1,BHSE,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,BHSE,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,BHSE,2019-12-31,USD,None,0,None,None,-1208,1208,None,1208,None,None,None,None,None,None,None,None,-1208,None,None,-1208,None,-1208,None,-1208

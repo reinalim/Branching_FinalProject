@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,GIX,2020-09-30,USD,None,0,None,None,-361010,361010,None,361005,None,44890,44890,None,None,None,None,None,-316120,14119,None,-330234,None,-361005,None,-330230
+1,GIX,2020-06-30,USD,None,0,None,None,-985520,985520,None,385106,None,56038,972030,None,None,None,None,None,-13490,16722,None,-345790,None,-385106,None,-268780
+2,GIX,2020-03-31,USD,None,0,None,None,-600410,600410,None,600414,None,915995,916000,None,None,None,None,None,315580,238568,None,77013,None,-600414,None,77010
+3,GIX,2019-12-31,USD,None,None,None,None,-376030,376030,None,None,None,None,720740,None,None,None,None,None,344720,326833,None,None,None,None,None,129650
+4,GIX,2019-09-30,USD,None,0,None,None,-395580,395580,None,395583,None,933853,933850,None,None,None,None,None,538270,278662,None,259608,None,-395583,None,259610
+5,GIX,2019-06-30,USD,0,0,0,0,-181820,181820,0,146624,None,218104,218100,0,None,0,None,None,36280,65082,None,6398,None,-146624,None,-28800

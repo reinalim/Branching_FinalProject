@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,CAPA,2020-09-30,USD,None,0,None,None,-50637,50637,None,50637,None,384,384,None,None,None,None,None,-50253,None,None,-50253,None,-50637,None,-50253
+1,CAPA,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,CAPA,2018-03-31,USD,253678,549821,296143,296143,84985,157447,4532,0,None,None,None,18364,None,None,None,None,71006,0,None,71006,None,89370,None,71006
+3,CAPA,2017-12-31,USD,-210749,6787,217536,217536,-492828,159775,166957,0,None,None,None,27569,None,None,None,None,-535751,0,None,-535751,None,-508182,None,-535751
+4,CAPA,2017-09-30,USD,184363,474421,290058,290058,-42864,151075,57252,0,None,None,None,23324,None,None,None,None,-12770,0,None,-12770,None,10554,None,-12770
+5,CAPA,2017-06-30,USD,178337,305479,127142,127142,-37144,134242,51521,0,None,None,None,25285,None,None,None,None,-41999,0,None,-41999,None,-16714,None,-41999
+6,CAPA,2017-03-31,USD,17767,152565,134798,134798,-208835,166311,41838,0,None,None,None,38738,None,None,None,None,-257340,0,None,-257340,None,-218602,None,-257340
+7,CAPA,2016-12-31,USD,-36999,235050,272049,272049,-262470,203315,8013,0,None,None,None,39212,None,None,None,None,-205604,0,None,-205604,None,-166392,None,-205604
+8,CAPA,2016-09-30,USD,388181,595311,207130,207130,102063,129902,48509,0,None,None,None,35155,None,None,None,None,49908,0,None,49908,None,85063,None,49908
+9,CAPA,2016-06-30,USD,245144,294216,49072,49072,-88474,182972,43095,0,None,None,None,34864,None,None,None,None,-148338,0,None,-148338,None,-113474,None,-148338
+10,CAPA,2016-03-31,USD,28787,98349,69562,69562,-306059,146142,83108,0,None,None,None,15550,None,None,None,None,-323609,0,None,-323609,None,-308059,None,-323609

@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,SNOW,2020-12-31,USD,107561000,190465000,82904000,82904000,-200397000,213961000,93997000,390862000,None,1853000,1853000,None,None,None,None,None,-197593000,1342000,None,-198935000,None,-197182000,None,-198935000
+1,SNOW,2020-09-30,USD,92943000,159624000,66681000,66681000,-169454000,188259000,74138000,329078000,None,1517000,1517000,None,None,None,None,None,-168456000,433000,None,-168889000,None,-166605000,None,-168889000
+2,SNOW,2020-06-30,USD,37047750,66187000,29139250,29139250,None,100279750,None,None,None,None,None,None,None,None,None,None,None,531000,None,None,None,-88641500,None,None
+3,SNOW,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-244000,None,None,None,None,None,None
+4,SNOW,2019-12-31,USD,53170000,87692000,34522000,34522000,-85112000,108573000,29709000,172804000,None,2299000,2299000,None,None,None,None,None,-82999000,None,None,-83254000,None,-83847000,None,-83254000
+5,SNOW,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,376000,None,None,None,None,None,None

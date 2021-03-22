@@ -1,0 +1,16 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+0,BWAY,2020-09-30,USD,-1115000,None,None,None,None,834000,644000,None,None,None,-646000,-101000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-966000
+1,BWAY,2020-06-30,USD,616000,None,None,None,None,575000,965000,None,None,None,-968000,-111000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-571000
+2,BWAY,2020-03-31,USD,-2577000,None,None,None,None,739000,946000,None,None,None,-936000,-68000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-3442000
+3,BWAY,2019-12-31,USD,-1230000,None,None,None,None,659000,338000,None,None,None,-396000,22474000,None,None,None,None,None,None,None,None,None,None,26333000,None,None,None,-2316000
+4,BWAY,2019-09-30,USD,-2060000,None,None,None,None,711000,1193000,None,None,None,-1217000,22888000,None,None,None,None,None,None,None,None,None,None,26333000,None,None,None,-2632000
+5,BWAY,2019-06-30,USD,-3023000,None,None,None,None,1069000,1422000,None,None,None,-420000,23251000,None,None,None,None,None,None,None,None,None,None,26333000,None,None,None,-3473000
+6,BWAY,2019-03-31,USD,-946000,None,None,None,None,356000,358000,None,None,None,-413000,-54000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1907000
+7,BWAY,2018-12-31,USD,-1004000,None,None,None,None,247000,532000,None,0,None,485000,17000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-2149000
+8,BWAY,2018-09-30,USD,-337000,None,None,None,None,407000,533000,None,0,None,-535000,-99000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-1477000
+9,BWAY,2018-06-30,USD,-1806000,None,None,None,None,313000,448000,None,0,None,-575000,-183000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-1826000
+10,BWAY,2018-03-31,USD,-626000,None,None,None,None,261000,459000,None,0,None,-511000,-183000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-1027000
+11,BWAY,2000-12-31,USD,None,None,None,None,None,None,35871000,None,156000,None,None,41180000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+12,BWAY,2000-09-30,USD,None,None,None,None,None,None,28059000,None,None,None,3513000,48261000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+13,BWAY,2000-06-30,USD,None,None,None,None,None,None,16466000,None,None,None,None,41155000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+14,BWAY,2000-03-31,USD,None,None,None,None,None,None,7393000,None,None,None,4107000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

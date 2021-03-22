@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,KRON,2020-09-30,USD,None,0,None,None,-20809000,4054000,16755000,20809000,None,-3689000,200000,3889000,None,None,None,None,-39713000,None,None,-39713000,None,-35628000,None,-39713000
+1,KRON,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,KRON,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,KRON,2019-12-31,USD,None,0,None,None,-5856000,1108000,4748000,5856000,None,391000,None,None,None,None,None,None,-5465000,None,None,-5465000,None,-6026000,None,-5465000
+4,KRON,2019-09-30,USD,None,0,None,None,-4323000,797000,3526000,4323000,None,310000,311000,1000,None,None,None,None,-4013000,None,None,-4013000,None,-3922000,None,-4013000

@@ -1,0 +1,13 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,PYPD,2020-12-31,USD,None,0,None,None,-7888000,2882000,5006000,7888000,None,339000,None,None,None,None,None,None,-7549000,None,None,-7549000,None,-7888000,None,-7549000
+1,PYPD,2020-09-30,USD,None,0,None,None,-6676000,2500000,4176000,6676000,None,218000,None,None,None,None,None,None,-6458000,None,None,-6458000,None,-6676000,None,-6458000
+2,PYPD,2020-06-30,USD,None,0,None,None,-7272000,2933000,4339000,7272000,None,-9721000,None,None,None,None,None,None,-16993000,None,None,-16993000,None,-7272000,None,-16993000
+3,PYPD,2020-03-31,USD,None,0,None,None,-4436000,1003000,3433000,4436000,None,-1433000,-1433000,1433000,None,None,None,None,-5869000,None,None,-5869000,None,-4192000,None,-5869000
+4,PYPD,2019-12-31,USD,None,0,None,None,-4408000,1094000,3314000,4408000,None,-11062000,None,None,None,None,None,None,-3860000,None,None,-3860000,None,7262000,None,-3860000
+5,PYPD,2019-09-30,USD,None,0,None,None,-5253000,1464000,3789000,5253000,None,3145000,None,None,None,None,None,None,-2108000,None,None,-2108000,None,-5253000,None,-2108000
+6,PYPD,2019-06-30,USD,None,0,None,None,-4702000,1199000,3503000,4702000,None,4995000,None,None,None,None,None,None,293000,None,None,293000,None,-4702000,None,293000
+7,PYPD,2019-03-31,USD,None,None,None,None,-4197000,720000,None,None,None,None,2967000,None,None,None,None,None,-1230000,None,None,None,None,-4007000,None,-1230000
+8,PYPD,2017-12-31,USD,None,None,None,None,-5015000,1773000,None,None,None,None,-35126000,None,None,None,None,None,-40141000,None,None,None,None,None,None,-40141000
+9,PYPD,2017-09-30,USD,None,None,None,None,-8785000,2291000,None,None,None,None,-5562000,None,None,None,None,None,-14347000,None,None,None,None,None,None,-14347000
+10,PYPD,2016-12-31,USD,None,None,None,None,-3189000,780000,None,None,None,None,None,None,None,None,None,None,-2143000,None,None,None,None,None,None,-2143000
+11,PYPD,2016-09-30,USD,None,None,None,None,-7070000,1771000,None,None,None,None,None,None,None,None,None,None,-9249000,None,None,None,None,None,None,-9249000

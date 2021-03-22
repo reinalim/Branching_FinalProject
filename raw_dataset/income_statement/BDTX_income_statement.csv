@@ -1,0 +1,10 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,BDTX,2020-09-30,USD,None,0,None,None,-18480000,5551000,12929000,18480000,None,1162000,1162000,0,None,None,None,None,-17912000,None,None,-17912000,None,-17898000,None,-17912000
+1,BDTX,2020-06-30,USD,None,0,None,None,-15028000,4858000,10170000,15028000,None,880000,881000,1000,None,None,None,None,-14571000,None,None,-14571000,None,-14557000,None,-14571000
+2,BDTX,2020-03-31,USD,None,0,None,None,-12879000,5525000,7354000,12879000,None,744000,744000,None,None,None,None,None,-12145000,None,None,-12145000,None,-12869000,None,-12145000
+3,BDTX,2019-12-31,USD,None,0,None,None,-10344000,2884000,7460000,10344000,None,440000,440000,None,None,None,None,None,-9875000,None,None,-9875000,None,-3940000,None,-9875000
+4,BDTX,2019-09-30,USD,None,0,None,None,-8148000,2514000,5634000,8148000,None,1000,1000,0,None,None,None,None,-9268000,None,None,-9268000,None,-9255000,None,-9268000
+5,BDTX,2019-06-30,USD,None,0,None,None,-6999000,1353000,5646000,6999000,None,9000,9000,0,None,None,None,None,-12287000,None,None,-12287000,None,-12274000,None,-12287000
+6,BDTX,2019-03-31,USD,None,0,None,None,-3841000,748000,3013000,3841000,None,11000,11000,None,None,None,None,None,-3828000,None,None,-3828000,None,-3829000,None,-3828000
+7,BDTX,2018-12-31,USD,None,None,None,None,-3046000,667000,2379000,3046000,None,None,None,None,None,None,None,None,-3066000,None,None,-3066000,None,-3046000,None,-3066000
+8,BDTX,2018-09-30,USD,None,None,None,None,-2339000,708000,None,None,None,None,None,None,None,None,None,None,-2360000,None,None,None,None,None,None,-2360000

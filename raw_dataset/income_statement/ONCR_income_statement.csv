@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ONCR,2020-12-31,USD,None,0,None,None,-11561000,3968000,7593000,11561000,None,5000,5000,None,None,None,None,None,-11567000,None,None,-11567000,None,-11171000,None,-11567000
+1,ONCR,2020-09-30,USD,None,0,None,None,-8900000,1973000,6927000,8900000,None,2000,2000,None,None,None,None,None,-19531000,None,None,-19531000,None,-8545000,None,-19531000
+2,ONCR,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,ONCR,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+4,ONCR,2019-12-31,USD,None,0,None,None,-9005000,3141000,5864000,9005000,None,178000,178000,None,None,None,None,None,-8867000,None,None,-8867000,None,-8720000,None,-8867000
+5,ONCR,2019-09-30,USD,None,0,None,None,-7734000,1513000,6221000,7734000,None,164000,164000,None,None,None,None,None,-7573000,None,None,-7573000,None,-7467000,None,-7573000

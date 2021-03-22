@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ORPH,2020-12-31,DKK,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,33000,None,None,None,None,None,None
+1,ORPH,2020-09-30,DKK,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,33000,None,None,None,None,None,None
+2,ORPH,2020-06-30,DKK,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-990500,None,None,None,None,None,None
+3,ORPH,2020-03-31,DKK,None,None,None,None,None,39287500,None,None,None,None,None,None,None,None,None,None,None,-990500,None,None,None,None,None,None
+4,ORPH,2019-12-31,DKK,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1502500,None,None,None,None,None,None
+5,ORPH,2019-09-30,DKK,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1502500,None,None,None,None,None,None

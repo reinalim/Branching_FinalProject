@@ -1,0 +1,14 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,GSAH,2020-09-30,USD,None,0,None,None,-369735,369735,None,369735,None,None,None,None,None,55517,None,None,-314218,-65998,None,-248220,None,-314218,None,-248220
+1,GSAH,2020-06-30,USD,None,0,None,None,-58661,58661,None,58661,None,None,None,None,None,None,None,None,-58661,-12262,None,-46399,None,-58661,None,-46399
+2,GSAH,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6131,None,None,None,None,None,None
+3,GSAH,2019-12-31,USD,387200000,0,784300000,784300000,-341,341,None,341,None,None,None,76200000,None,None,None,None,-341,None,None,-341,None,-341,None,-341
+4,GSAH,2019-09-30,USD,None,0,None,None,-850575,850575,None,850575,None,None,None,None,None,None,None,None,2688580,564601,None,2123979,None,-850575,None,2123979
+5,GSAH,2019-06-30,USD,3912187,0,None,None,-433713,433713,None,433713,None,None,None,None,None,None,None,None,3478474,730919,None,2747555,None,-433713,None,2747555
+6,GSAH,2019-03-31,USD,3860055,0,None,None,-448988,448988,None,448988,None,None,None,None,None,None,None,None,3411067,716488,None,2694579,None,-448988,None,2694579
+7,GSAH,2018-12-31,USD,0,0,0,0,-660801,660801,0,660801,None,None,None,0,None,None,None,None,2976673,627804,None,2348869,None,-660801,None,2348869
+8,GSAH,2018-09-30,USD,0,0,0,0,-252407,252407,0,252407,None,None,None,0,None,None,None,None,2903516,607423,None,2296093,None,-252407,None,2296093
+9,GSAH,2018-06-30,USD,0,0,0,0,-122900,122900,0,122900,None,None,None,0,None,None,None,None,490786,104404,None,386382,None,-122900,None,386382
+10,GSAH,2018-03-31,USD,0,0,0,0,-788,788,0,788,None,None,None,0,None,None,None,None,-788,-192,None,-596,None,-788,None,-596
+11,GSAH,2017-12-31,USD,0,0,0,0,-1276,1000,0,1276,None,None,None,0,None,None,None,None,-1276,0,None,-1276,None,-1276,None,-1276
+12,GSAH,2016-12-31,USD,0,0,0,0,-455127,455127,0,455127,None,None,None,0,None,None,None,None,-455127,0,None,-455127,None,-455127,None,-455127

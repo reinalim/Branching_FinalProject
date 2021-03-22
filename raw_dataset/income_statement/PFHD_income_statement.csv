@@ -1,0 +1,11 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,PFHD,2020-12-31,USD,None,19760000,None,None,None,7446000,None,None,None,18140000,20355000,2215000,None,None,None,None,7422000,1881000,None,5541000,None,None,None,5541000
+1,PFHD,2020-09-30,USD,None,18423000,None,None,None,7492000,None,None,None,17357000,18998000,1641000,None,None,None,None,753000,-197000,None,950000,None,None,None,950000
+2,PFHD,2020-06-30,USD,None,17259000,None,None,None,7784000,None,None,None,16160000,18391000,2231000,None,None,None,None,3961000,830000,None,3131000,None,None,None,3131000
+3,PFHD,2020-03-31,USD,None,8917000,None,None,None,5790000,None,None,None,7982000,10941000,2959000,None,None,None,None,-1414000,-97000,None,-1317000,None,None,None,-1317000
+4,PFHD,2019-12-31,USD,None,8119000,None,None,None,5253000,None,None,None,7386000,10558000,3172000,None,None,None,None,1110000,122000,None,988000,None,None,None,988000
+5,PFHD,2019-09-30,USD,7717000,8097000,None,None,676000,5001000,None,7041000,None,7180000,10257000,3077000,None,None,None,None,676000,182000,None,494000,None,None,None,494000
+6,PFHD,2019-06-30,USD,7259000,7754000,None,None,722000,4998000,None,6537000,None,6761000,9428000,2667000,None,None,None,None,722000,223000,None,499000,None,None,None,499000
+7,PFHD,2019-03-31,USD,7126500,6881000,None,None,603000,4777000,None,6523500,None,6521000,8715000,2251000,None,None,None,None,484000,129000,None,355000,None,None,None,355000
+8,PFHD,2018-12-31,USD,6502000,6502000,None,None,846000,5281000,None,5656000,None,6306000,8308000,None,None,None,None,None,846000,60000,None,786000,None,None,None,786000
+9,PFHD,2018-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,814000,240000,None,None,None,None,None,574000

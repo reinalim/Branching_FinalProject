@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,CMPS,2020-12-31,USD,None,0,None,None,-11519000,6975000,4544000,11519000,None,None,None,None,None,None,None,None,-18899000,-93000,None,-18806000,None,-11491000,None,-18806000
+1,CMPS,2020-09-30,USD,None,0,None,None,-13482000,6607000,6875000,13482000,None,None,None,None,None,None,None,None,-16612000,82000,None,-16694000,None,-9124000,None,-16694000
+2,CMPS,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,43000,None,None,None,None,None,None
+3,CMPS,2020-03-31,USD,None,None,None,None,None,10963000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+4,CMPS,2019-12-31,USD,None,0,None,None,-7327000,2751000,4576000,7327000,None,None,None,None,None,None,None,None,-7620000,7500,None,-7635000,None,-7271000,None,-7635000
+5,CMPS,2019-09-30,USD,None,0,None,None,-6270000,3149000,3121000,6270000,None,None,None,None,None,None,None,None,-5680000,7500,None,-5680000,None,-6315000,None,-5680000

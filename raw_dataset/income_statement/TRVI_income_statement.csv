@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,TRVI,2020-09-30,USD,None,0,None,None,-7244000,2416000,4828000,7244000,None,-145000,3000,148000,None,None,None,None,-7389000,-11000,None,-7378000,None,-7228000,None,-7378000
+1,TRVI,2020-06-30,USD,None,0,None,None,-7413000,2492000,4921000,7413000,None,14000,14000,None,None,None,None,None,-7399000,-15000,None,-7384000,None,-7402000,None,-7384000
+2,TRVI,2020-03-31,USD,None,0,None,None,-8639000,2620000,6019000,8639000,None,157000,157000,None,None,None,None,None,-8482000,-9000,None,-8473000,None,-8629000,None,-8473000
+3,TRVI,2019-12-31,USD,None,0,None,None,-6766000,1943000,4823000,6766000,None,225000,225000,0,None,None,None,None,-6541000,-4000,None,-6537000,None,-6532000,None,-6537000
+4,TRVI,2019-09-30,USD,None,0,None,None,-7650000,2000000,5650000,7650000,None,280000,280000,0,None,None,None,None,-7370000,-5000,None,-7365000,None,-7359000,None,-7365000
+5,TRVI,2019-06-30,USD,None,0,None,None,-7417000,1889000,5528000,7417000,None,229000,229000,0,None,None,None,None,-7351000,-5000,None,-7346000,None,-7341000,None,-7346000
+6,TRVI,2019-03-31,USD,None,0,None,None,-4812000,1474000,3338000,4812000,None,58000,6000,0,None,None,None,None,-4806000,-4000,None,-4802000,None,-4797000,None,-4802000
+7,TRVI,2018-12-31,USD,0,0,0,0,-5929000,1406000,4523000,5929000,None,None,None,0,None,None,None,None,-6031000,-49000,None,-5982000,None,-5929000,None,-5982000
+8,TRVI,2018-06-30,USD,None,None,None,None,-4380000,941000,3439000,4380000,None,None,None,-51000,None,None,None,None,-4883000,-25000,None,-4858000,None,-4380000,None,-4858000
+9,TRVI,2018-03-31,USD,None,None,None,None,-3142000,779000,2363000,3142000,None,None,None,-123000,None,None,None,None,-4076000,-25000,None,-4051000,None,-3142000,None,-4051000
+10,TRVI,2017-12-31,USD,0,0,0,0,-2222000,624000,1598000,2222000,None,None,None,-195000,None,None,None,None,-2386000,-8000,None,-2378000,None,-2222000,None,-2378000

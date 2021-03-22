@@ -1,0 +1,9 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,STPK,2020-12-31,USD,None,0,None,None,-3105059,3056292,None,3105059,None,None,None,None,None,None,None,None,-2986866,None,None,-2986866,None,-3105059,None,-2986866
+1,STPK,2020-09-30,USD,None,0,None,None,-392916,243883,None,392916,None,None,None,None,None,None,None,None,-374402,None,None,-374402,None,-411430,None,-374402
+2,STPK,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,STPK,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+4,STPK,2019-12-31,USD,None,0,None,None,-450,0,None,450,None,None,None,None,None,None,None,None,-450,None,None,-450,None,-450,None,-450
+5,STPK,2019-09-30,USD,None,0,None,None,-1080,1080,None,1080,None,None,None,None,None,None,None,None,-1080,None,None,-1080,None,-1080,None,-1080
+6,STPK,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+7,STPK,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

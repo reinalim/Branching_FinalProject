@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,GAN,2020-09-30,USD,6372000,10266000,3894000,3894000,-4058000,13274000,None,14324000,None,-25000,None,25000,None,None,None,None,-4083000,-5000,None,-4078000,None,-4058000,None,-4078000
+1,GAN,2020-06-30,USD,5458000,8323000,2865000,2865000,-8273000,11140000,None,16596000,None,-341000,None,341000,None,None,None,None,-8614000,172000,None,-8786000,None,-8273000,None,-8786000
+2,GAN,2020-03-31,USD,5091000,7670000,2579000,2579000,702000,4389000,None,6968000,None,-24000,None,24000,None,None,None,None,678000,145000,None,533000,None,702000,None,533000
+3,GAN,2019-12-31,USD,8886000,10691000,1805000,1805000,3941000,4945000,None,6750000,None,-19000,None,34000,None,None,None,None,3498000,165000,None,3333000,None,3532000,None,3333000
+4,GAN,2019-09-30,USD,2417000,5516000,3099000,3099000,-1662000,4079000,None,7178000,None,-31000,None,31000,None,None,None,None,-1693000,141000,None,-1834000,None,-1662000,None,-1834000
+5,GAN,2019-06-30,GBP,976000,11276000,3198000,3198000,840000,10436000,None,5925000,None,-30000,-63000,30000,None,None,None,None,777000,32500,None,-1903000,None,-1751000,None,712000
+6,GAN,2019-03-31,USD,5710000,11276000,3880000,3880000,2370000,3340000,None,7220000,None,-32000,None,32000,None,None,None,None,2338000,146000,None,2192000,None,2809000,None,2192000
+7,GAN,2018-12-31,GBP,None,5969000,None,None,-3521130,9310000,None,None,None,None,108130,None,None,None,None,None,-3413000,None,None,None,None,-1023870,None,-3135000
+8,GAN,2018-06-30,GBP,None,4600000,None,None,-3135000,7735000,None,None,None,None,-273000,None,None,None,None,None,-3408000,None,None,None,None,None,None,-3020000
+9,GAN,2017-12-31,GBP,None,4979000,None,None,-1729000,7010000,None,None,None,None,-91000,None,None,None,None,None,-1820000,None,None,None,None,None,None,-1486000
+10,GAN,2017-06-30,GBP,None,4979000,None,None,-2370000,7010000,None,None,None,None,-26000,None,None,None,None,None,-2396000,None,None,None,None,306000,None,-1992000

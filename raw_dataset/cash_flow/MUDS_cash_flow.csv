@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+0,MUDS,2020-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+1,MUDS,2020-03-31,USD,-835947,None,None,None,None,None,0,None,None,None,144258810,-143618760,None,None,None,None,None,None,None,None,None,None,-144218760,None,None,None,-2590879
+2,MUDS,2019-12-31,USD,-318712,None,None,None,None,None,0,None,None,None,260000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,303062
+3,MUDS,2019-09-30,USD,-377643,None,None,None,None,None,0,None,None,None,309325,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,740613
+4,MUDS,2019-06-30,USD,-1225304,None,None,None,None,0,0,0,0,None,1141203,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,823809
+5,MUDS,2019-03-31,USD,-316579,None,None,None,None,0,0,0,0,None,200300,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,743340
+6,MUDS,2018-12-31,USD,-143208,None,None,None,None,0,0,0,0,None,200300,211043720,None,None,None,None,0,0,None,None,None,None,211580000,None,0,0,626362
+7,MUDS,2018-09-30,USD,-43274,None,None,None,None,0,0,0,0,None,200300,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,597572
+8,MUDS,2018-06-30,USD,-113203,None,None,None,None,0,0,0,0,None,200300,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,462761
+9,MUDS,2018-03-31,USD,-188251.94,None,None,None,None,0,0,None,0,None,-258432771.56,259618299.91,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-8281.46
+10,MUDS,2017-09-30,USD,-153030,None,None,None,None,None,0,None,None,None,-210080000,25000,None,None,None,None,None,None,None,None,None,None,25000,None,None,None,-1196
