@@ -84,8 +84,8 @@ It is typical for companies to delay their initial public offerings when the mar
    ### Deliverable 3: Machine Learning Model
    
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-      - Takes in data in from the provisional database
-      - Output labels for input data
+      - Takes in data in from the provisional database - Completed
+      - Output labels for input data - Completed
 
       
      
