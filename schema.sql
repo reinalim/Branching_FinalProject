@@ -33,15 +33,18 @@ CREATE TABLE three_month_return (
 	company_name VARCHAR(60),
 	ipo_price NUMERIC,
 	current_price NUMERIC,
-	percent_return NUMERIC,
+	percentage_return NUMERIC,
 	three_mth_date DATE,
+	three_mth_ipo NUMERIC,
+	price_change NUMERIC,
 	three_mth_return NUMERIC,
+	price_gain_loss VARCHAR(40),
     PRIMARY KEY (symbol),
 	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
 );
 
--- The income_statement table
-CREATE TABLE income_statement (
+-- The filtered_income_statement table
+CREATE TABLE filtered_income_statement (
 	symbol VARCHAR(40) NOT NULL,
 	fiscaldate_end DATE,
 	reported_currency VARCHAR,
@@ -73,11 +76,11 @@ CREATE TABLE income_statement (
 	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
 );
 
--- The balance_sheet table
-CREATE TABLE balance_sheet (
+-- The filtered_balance_sheet table
+CREATE TABLE filtered_balance_sheet (
 	symbol VARCHAR(40) NOT NULL,
 	fiscaldate_end DATE,
-	reported_currency NUMERIC,
+	reported_currency VARCHAR(40),
 	total_assets NUMERIC,
 	total_current_assets NUMERIC,
 	cash_cashequivalent_carrvalue NUMERIC,
@@ -118,11 +121,11 @@ CREATE TABLE balance_sheet (
 	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
 );
 
--- The cash_flow table
-CREATE TABLE cash_flow (
+-- The filtered_cash_flow table
+CREATE TABLE filtered_cash_flow (
 	symbol VARCHAR(40) NOT NULL,
 	fiscaldate_end DATE,
-	reported_currency NUMERIC,
+	reported_currency VARCHAR(40),
 	operating_cashflow NUMERIC,
 	payments_foroperating_activities NUMERIC,
 	proceeds_fromoperating_activities NUMERIC,
@@ -153,3 +156,11 @@ CREATE TABLE cash_flow (
     PRIMARY KEY (symbol),
 	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
 );
+
+-- Loading CSV files into the table (method used as regular Import CSV in pgAdmin4 was giving failed exit code 1)
+COPY Public."ipo_listing_2019_2020" FROM 'C:\Files\ipo_listing_2019_2020.csv' DELIMITER ',' CSV HEADER ;
+COPY Public."company_overview" FROM 'C:\Files\company_overview.csv' DELIMITER ',' CSV HEADER ;
+COPY Public."three_month_return" FROM 'C:\Files\three_month_return.csv' DELIMITER ',' CSV HEADER ;
+COPY Public."filtered_income_statement" FROM 'C:\Files\filtered_income_statement.csv' DELIMITER ',' CSV HEADER ;
+COPY Public."filtered_balance_sheet" FROM 'C:\Files\filtered_balance_sheet.csv' DELIMITER ',' CSV HEADER ;
+COPY Public."filtered_cash_flow" FROM 'C:\Files\filtered_cash_flow.csv' DELIMITER ',' CSV HEADER ;
