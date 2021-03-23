@@ -87,9 +87,6 @@ It is typical for companies to delay their initial public offerings when the mar
       - Takes in data in from the provisional database
       - Output labels for input data
 
-   * Outputs labels for input data - Screenshot below (Pending)
-
-     Image Here > 
       
      
    ### Deliverable 4: Database
@@ -98,7 +95,6 @@ It is typical for companies to delay their initial public offerings when the mar
       - Sample data that mimics the expected final database structure or schema  - Complete
       - Draft machine learning module is connected to the provisional database  - Complete 
       
-   * Screenshot/Image Here >
 
 
 <br>
