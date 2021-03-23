@@ -92,8 +92,8 @@ It is typical for companies to delay their initial public offerings when the mar
    ### Deliverable 4: Database
    
    * Present a provisional database that stands in for the final database and accomplishes the following:
-      - Sample data that mimics the expected final database structure or schema  - Complete
-      - Draft machine learning module is connected to the provisional database  - Complete 
+      - Sample data that mimics the expected final database structure or schema  - Completed
+      - Draft machine learning module is connected to the provisional database  - Completed
       
 
 
