@@ -62,13 +62,13 @@ It is typical for companies to delay their initial public offerings when the mar
    
      1. How many IPOs have gone public in 2019 and 2020?
 
-     2. What is the porpotion of each industry/sector?
+     2. What is the proportion of each industry/sector?
 
      3. What are the key drivers of IPO activities in 2019 and 2020?
 
      4. How the pandemic affected the companies in the trend?
 
-     5. Which industries have the best and worst return during the first 3 months of the IOP date?
+     5. Which industries have the best and worst return during the first 3 months of the IPO date?
 
      6. What is the upcoming list of IPO pipline by industry/sector
 
