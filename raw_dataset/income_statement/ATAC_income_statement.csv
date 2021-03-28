@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,ATAC,2020-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-1,ATAC,2018-06-30,USD,0,0,0,0,-92781,115000,None,92781,None,None,None,None,None,None,None,None,70000,23000,None,47482,None,-92781,None,47000
-2,ATAC,2018-03-31,USD,0,0,0,0,-132259,132259,None,132259,None,None,None,None,None,None,None,None,2091,21262,None,-19171,None,-132259,None,-19171
-3,ATAC,2017-12-31,USD,0,0,0,0,-63341,63341,None,63341,None,None,None,None,None,None,None,None,56000,13349,None,56033,None,-63341,None,56000
-4,ATAC,2017-09-30,USD,0,0,0,0,-30478,30478,None,30478,None,None,None,None,None,None,None,None,19984,21021,None,-1037,None,-30478,None,-1037
-5,ATAC,2017-06-30,USD,0,0,0,0,-30478,30478,None,0,None,None,None,None,None,None,None,None,-56,0,None,-56,None,0,None,-56
-6,ATAC,2017-03-31,USD,0,0,0,0,-30478,30478,None,0,None,None,None,None,None,None,None,None,-41,0,None,-41,None,0,None,-41

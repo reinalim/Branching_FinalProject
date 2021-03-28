@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,SPRB,2020-09-30,USD,None,0,None,None,-9559000,1790000,7769000,9559000,None,-79000,None,79000,None,None,None,None,-9587000,None,None,-9587000,None,-9500000,None,-9587000
-1,SPRB,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,SPRB,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,SPRB,2019-12-31,USD,None,0,None,None,-3134000,286000,2848000,3134000,None,-60000,None,60000,None,None,None,None,-3182000,None,None,-3182000,None,-3113000,None,-3182000
-4,SPRB,2019-09-30,USD,None,0,None,None,-2564000,457000,2107000,2564000,None,-5000,None,5000,None,None,None,None,-2551000,None,None,-2551000,None,-2544000,None,-2551000
-5,SPRB,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-6,SPRB,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

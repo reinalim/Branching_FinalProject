@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,ANNX,2020-09-30,USD,None,0,None,None,-15585000,3810000,11775000,15585000,None,None,None,None,None,None,None,None,-15637000,1000,None,-15638000,None,-15456000,None,-15638000
-1,ANNX,2020-06-30,USD,None,0,None,None,-12237000,2950000,9287000,12237000,None,None,None,None,None,None,None,None,-12236000,4000,None,-12240000,None,-12106000,None,-12240000
-2,ANNX,2020-03-31,USD,None,0,None,None,-12456000,2239000,10217000,12456000,None,None,None,None,None,None,None,None,-12341000,None,None,-12341000,None,-12325000,None,-12341000
-3,ANNX,2019-12-31,USD,None,0,None,None,-8939000,2334000,6795000,9129000,None,None,None,None,None,None,None,None,-8941000,1000,None,-8942000,None,-9000000,None,-8942000
-4,ANNX,2019-09-30,USD,None,0,None,None,-9070000,1981000,7089000,9070000,None,None,None,None,None,None,None,None,-10186000,2000,None,-10188000,None,-8942000,None,-10188000
-5,ANNX,2019-06-30,USD,None,0,None,None,-8217000,2230000,5987000,8217000,None,None,None,None,None,None,None,None,-9401000,None,None,-9401000,None,-8098000,None,-9401000
-6,ANNX,2019-03-31,USD,None,None,None,None,-6102000,1449000,None,None,None,None,None,None,None,None,None,None,-8651000,1000,None,None,None,-5985000,None,-8652000

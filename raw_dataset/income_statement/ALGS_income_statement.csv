@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,ALGS,2020-09-30,USD,None,0,None,None,-21557000,4225000,17332000,21557000,None,234000,234000,None,None,None,None,None,-33297000,None,None,-33297000,None,-20672000,None,-33297000
-1,ALGS,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-29000,None,None,None,None,None,None
-2,ALGS,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-29000,None,None,None,None,None,None
-3,ALGS,2019-12-31,USD,None,0,None,None,-18436000,3463000,14973000,18436000,None,254000,254000,None,None,None,None,None,-18099000,None,None,-18184000,None,-17792000,None,-18184000
-4,ALGS,2019-09-30,USD,None,0,None,None,-14504000,2775000,11729000,14504000,None,345000,345000,None,None,None,None,None,-14051000,None,None,-14051000,None,-13878000,None,-14051000
-5,ALGS,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-6,ALGS,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

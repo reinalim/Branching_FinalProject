@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,KRBP,2020-09-30,USD,None,0,None,None,-2415700,1190000,1225700,2415.70,None,0,None,0,None,None,None,None,-2415700,None,None,-2415700,None,-2365300,None,-2415700
-1,KRBP,2020-06-30,USD,None,0,None,None,-11366900,10094600,1272300,11366900,None,0,None,0,None,None,None,None,-11366900,None,None,-11366900,None,-11332200,None,-11366900
-2,KRBP,2020-03-31,USD,None,0,None,None,-1852700,824600,1028100,1852700,None,0,None,0,None,None,None,None,-1852700,None,None,-1852700,None,-1818900,None,-1852700
-3,KRBP,2019-12-31,USD,None,0,None,None,-2169600,1569400,600200,2169600,None,-100,None,100,None,None,None,None,-2169700,None,None,-2169700,None,-2145800,None,-2169700
-4,KRBP,2019-09-30,USD,None,0,None,None,-879500,607400,272100,879500,None,-7400,None,7400,None,None,None,None,-886900,None,None,-886900,None,-858800,None,-886900
-5,KRBP,2019-06-30,USD,None,None,None,None,None,143100,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-247800,None,None
-6,KRBP,2019-03-31,USD,None,None,None,None,None,183800,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-365500,None,None

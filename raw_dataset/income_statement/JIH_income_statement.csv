@@ -1,7 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,JIH,2020-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,10076,None,None,None,None,None,None
-1,JIH,2020-09-30,USD,None,0,None,None,-1183520,1183520,None,1183520,None,101394,102170,None,None,None,None,None,-1081350,14447,None,-1095793,None,-1183520,None,-1095790
-2,JIH,2020-06-30,USD,None,0,None,None,-157050,157050,None,157050,None,700899,108550,None,None,None,None,None,-48500,158722,None,-207225,None,60040,None,-207230
-3,JIH,2020-03-31,USD,None,0,None,None,-304970,304970,None,304967,None,1338452,1930800,None,None,None,None,None,1625840,435437,None,1190400,None,3556640,None,1190400
-4,JIH,2019-12-31,USD,None,None,None,None,-263020,264190,None,None,None,None,714640,None,None,None,None,None,451630,128820,None,None,None,None,None,322800
-5,JIH,2019-09-30,USD,None,None,None,None,-1180,None,None,None,None,None,None,None,None,None,None,None,-1180,None,None,-1179,None,None,None,-1180

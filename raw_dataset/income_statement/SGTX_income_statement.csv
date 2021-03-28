@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,SGTX,2020-12-31,USD,None,3756000,None,None,-14086000,3505000,14337000,17842000,None,-461000,44000,505000,None,None,None,None,-15189000,None,None,-15189000,None,-14458000,None,-15189000
-1,SGTX,2020-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,SGTX,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,SGTX,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-4,SGTX,2019-12-31,USD,None,3098000,None,None,-14816000,2900000,15014000,17914000,None,89000,277000,188000,None,None,None,None,-14729000,None,None,-14729000,None,-14353000,None,-14729000

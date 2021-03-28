@@ -1,9 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,EIC,2020-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-1,EIC,2020-09-30,USD,1875820,2501910,626090,626090,1715600,87740,None,None,None,None,5206110,None,None,None,None,None,6921700,None,None,None,None,None,None,6921700
-2,EIC,2020-06-30,USD,1889560,2730140,840580,840580,1726020,78750,None,163540,None,None,31084000,None,None,None,None,None,32810030,None,None,None,None,63894030,None,32810030
-3,EIC,2020-03-31,USD,2681310,3507340,826030,826030,2579600,63750,None,101710,None,None,-62493980,None,None,None,None,None,-59914380,None,None,None,None,-122408360,None,-59914380
-4,EIC,2019-12-31,USD,2122870,2815340,692470,692470,1882240,189720,None,240630,None,None,951920,-50481,None,None,None,None,2834160,None,None,2834155,None,3786080,None,2834160
-5,EIC,2019-09-30,USD,1601890,2182000,580110,580110,1480990,86250,None,700750,None,None,-3069160,-258,None,None,None,None,-1588170,None,None,-1588170,None,1481252,None,-1588170
-6,EIC,2019-06-30,USD,1601890,2182000,580110,580110,1480990,86250,0,102810,None,None,-3069160,-258,None,0,None,None,-1588170,0,None,3093388,None,1566590,None,-1588170
-7,EIC,2019-03-31,USD,1669400,1669400,0,0,1566590,80310,0,102810,None,None,None,-258,None,0,None,None,3093388,0,None,3093388,None,1566590,None,3093388

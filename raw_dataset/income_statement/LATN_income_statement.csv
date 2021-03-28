@@ -1,5 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,LATN,2020-12-31,USD,-201872,29136,231008,231008,-231008,231008,None,42500,None,29136,29136,None,None,None,None,None,-231008,None,None,-4231008,-4231008,-231008,None,-201872
-1,LATN,2020-09-30,USD,-186174,50825,236999,None,-236999,236999,None,12500,None,50825,50825,None,None,None,None,None,-186174,None,None,-236999,-5554455,-236999,None,-186174
-2,LATN,2020-06-30,USD,-77423,95656,173079,None,-173079,173079,None,12500,None,95656,95656,None,None,None,None,None,-77423,None,None,-173079,5144377,-173079,None,-77423
-3,LATN,2020-03-31,USD,420028,634168,214140,None,-214140,214140,None,214140,None,634168,634168,None,None,None,None,None,420028,None,None,-214140,-214140,-214140,None,420028

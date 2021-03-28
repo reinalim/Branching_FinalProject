@@ -1,7 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,VIRI,2020-12-31,USD,None,0,None,None,-6421652,6389582,32070,6421652,None,None,None,None,None,None,None,None,-6501228,None,None,-6501228,None,-6421652,None,-6501228
-1,VIRI,2020-09-30,USD,None,0,None,None,-2662810,2554724,108086,2662810,None,-104440,None,104440,None,None,None,None,-2724029,None,None,-2724029,None,-2619589,None,-2724029
-2,VIRI,2020-06-30,USD,None,0,None,None,-538380,514227,24153,538380,None,-116205,None,116205,None,None,None,None,-654585,None,None,-654585,None,-538380,None,-654585
-3,VIRI,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-4,VIRI,2019-12-31,USD,None,0,None,None,-565730,270628,295102,565730,None,-72859,None,72859,None,None,None,None,-638589,None,None,-638589,None,-565730,None,-638589
-5,VIRI,2019-09-30,USD,None,0,None,None,-736328,343496,392832,736328,None,-75491,None,75491,None,None,None,None,-811819,None,None,-811819,None,-736328,None,-811819

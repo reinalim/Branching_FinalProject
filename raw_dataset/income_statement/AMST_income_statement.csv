@@ -1,7 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,AMST,2020-12-31,USD,None,106812,None,None,-2288181,1883979,511014,2394993,None,607,607,0,None,None,None,None,-2287574,None,None,-2287574,None,-2108595,None,-2287574
-1,AMST,2020-09-30,USD,None,110109,None,None,-1472446,1114792,467763,1582555,None,-3613818,13,3613831,None,None,None,None,-5086264,None,None,-5086264,None,-1311459,None,-5086264
-2,AMST,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,AMST,2020-03-31,USD,None,110109,None,None,None,1114792,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1311459,None,None
-4,AMST,2019-12-31,USD,None,32607,None,None,-965193,679815,317985,997800,None,5547,5547,0,None,None,None,None,-959646,None,None,-959646,None,-843084,None,-959646
-5,AMST,2019-09-30,USD,None,7700,None,None,-955464,701478,261686,963164,None,2367,2447,80,None,None,None,None,-953097,None,None,-953097,None,-851769,None,-953097

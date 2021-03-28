@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,AKUS,2020-09-30,USD,None,0,None,None,-13119000,4478000,8641000,13119000,None,21000,21000,None,None,None,None,None,-13089000,None,None,-13089000,None,-12539000,None,-13089000
-1,AKUS,2020-06-30,USD,None,0,None,None,-12601000,2664000,9937000,12601000,None,80000,80000,None,None,None,None,None,-12523000,None,None,-12523000,None,-12072000,None,-12523000
-2,AKUS,2020-03-31,USD,None,0,None,None,-10538000,2504000,8034000,10538000,None,100000,100000,None,None,None,None,None,-10440000,None,None,-10440000,None,-10035000,None,-10440000
-3,AKUS,2019-12-31,USD,None,0,None,None,-9730000,1143000,8587000,9730000,None,115000,115000,None,None,None,None,None,-9618000,None,None,-9618000,None,-9459000,None,-9618000
-4,AKUS,2019-09-30,USD,None,0,None,None,-5264000,887000,4377000,5264000,None,70000,70000,None,None,None,None,None,-8210000,None,None,-8210000,None,-5028000,None,-8210000
-5,AKUS,2019-06-30,USD,None,0,None,None,-5115000,749000,4366000,5115000,None,100000,100000,None,None,None,None,None,-2004000,None,None,-2004000,None,-4971000,None,-2004000
-6,AKUS,2019-03-31,USD,None,None,None,None,-3774000,631000,None,None,None,None,128000,None,None,None,None,None,-5909000,None,None,None,None,-3728000,None,-5909000

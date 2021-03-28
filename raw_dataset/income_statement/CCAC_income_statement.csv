@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,CCAC,2020-09-30,USD,None,0,None,None,-168293,168293,None,168293,None,7004,7004,None,None,None,None,None,-161289,None,None,-161289,None,-168293,None,-161289
-1,CCAC,2020-06-30,USD,None,0,None,None,-165209,165209,None,165209,None,69247,69247,None,None,None,None,None,-95962,None,None,-95962,None,-165209,None,-95962
-2,CCAC,2020-03-31,USD,None,0,None,None,-48536,48536,None,48536,None,1762621,1762621,None,None,None,None,None,1714085,None,None,1714085,None,-48536,None,1714085
-3,CCAC,2019-12-31,USD,None,0,None,None,-22966,22966,None,22966,None,None,None,None,None,None,None,None,-22966,None,None,-22966,None,-22966,None,-22966
-4,CCAC,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

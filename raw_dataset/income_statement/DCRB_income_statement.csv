@@ -1,7 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,DCRB,2020-12-31,USD,None,0,None,None,-5477121,None,None,5477121,None,None,None,None,None,None,None,None,-5474420,None,None,-5474420,None,-5477121,None,-5474420
-1,DCRB,2020-09-30,USD,None,0,None,None,-859,None,None,859,None,None,None,None,None,None,None,None,-859,None,None,-859,None,-859,None,-859
-2,DCRB,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,DCRB,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-4,DCRB,2019-12-31,USD,None,0,None,None,-214124,None,None,214124,None,None,None,None,None,None,None,None,-214124,None,None,-214124,None,-214124,None,-214124
-5,DCRB,2019-09-30,USD,None,0,None,None,-945,None,None,945,None,None,None,None,None,None,None,None,-945,None,None,-945,None,-945,None,-945

@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,EXPC,2020-12-31,USD,None,0,None,None,-257113,257113,None,257113,None,5507,5507,None,None,None,None,None,-251606,86610,None,-338216,None,-257113,None,-338216
-1,EXPC,2020-09-30,USD,None,0,None,None,-160688,160688,None,160688,None,33909,33909,None,None,None,None,None,-126779,-26624,None,-100155,None,-160688,None,-100155
-2,EXPC,2020-06-30,USD,None,0,None,None,-115556,115556,None,115556,None,107984,107984,None,None,None,None,None,-7572,-1590,None,-5982,None,-115556,None,-5982
-3,EXPC,2020-03-31,USD,None,0,None,None,-145130,145130,None,145130,None,869270,869270,None,None,None,None,None,724140,152069,None,572071,None,-145130,None,572071
-4,EXPC,2019-12-31,USD,None,None,None,None,-415729,None,None,415729,None,None,None,None,None,None,None,None,1578728,331533,None,1247195,None,-415729,None,1247195
-5,EXPC,2019-09-30,USD,335856000,-991346000,655490000,655490000,-43053,-126909000,None,-259403000,None,168280,168280,None,None,None,None,None,125227,26088,None,99139,None,-158453000,None,99139
-6,EXPC,2019-06-30,USD,None,None,None,None,-43053,43053,None,None,None,None,None,None,None,None,None,None,-1000,None,None,-1000,None,None,None,-1000

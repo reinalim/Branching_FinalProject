@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,TARS,2020-09-30,USD,None,0,None,None,-10141000,2150000,7991000,10141000,None,4000,None,None,None,None,None,None,-10137000,1000,None,-10138000,None,-10061000,None,-10138000
-1,TARS,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,TARS,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,TARS,2019-12-31,USD,None,0,None,None,-1084000,387000,697000,1084000,None,-24000,None,None,None,None,None,None,-1412000,None,None,-1412000,None,-1005000,None,-1412000
-4,TARS,2019-09-30,USD,None,0,None,None,-633000,234000,399000,633000,None,-21000,None,None,None,None,None,None,-681000,None,None,-681000,None,-613000,None,-681000

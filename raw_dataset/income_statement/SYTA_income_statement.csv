@@ -1,7 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,SYTA,2020-09-30,CAD,966681,3013957,2047000,2047000,-1697051,2207750,None,4710732,None,-645673,None,None,None,None,None,None,-2507307,None,None,-2507307,None,-1216939,None,-2506798
-1,SYTA,2020-06-30,CAD,975243,2953539,1978000,1978000,-1257792,1811462,None,4211035,None,-664613,None,664613,None,None,None,None,-868733,None,None,-868733,None,217453,None,-869028
-2,SYTA,2020-03-31,CAD,992341,3062712,2070000,2070000,-1178980,1736412,None,4241321,None,-580254,None,None,None,None,None,None,-1569712,None,None,-1569712,None,-722922,None,-1569786
-3,SYTA,2019-12-31,CAD,318690,2933445,2614178,2614178,-3842139,2343781,None,6775007,None,-509671,None,509671,None,None,None,None,-4304018,None,None,-4304018,None,-2982299,None,-4303984
-4,SYTA,2019-09-30,CAD,1587285,5045947,3458662,3458662,-816774,2158127,None,5862721,None,-252397,None,252397,None,None,None,None,-1293550,None,None,-1293550,None,-795221,None,-1293550
-5,SYTA,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

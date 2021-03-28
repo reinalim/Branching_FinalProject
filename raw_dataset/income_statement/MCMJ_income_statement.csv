@@ -1,7 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,MCMJ,2020-09-30,USD,None,0,None,None,-153230,153230,None,153230,None,42577,42577,None,None,None,None,None,-109179,-22871,None,-86308,None,-153230,None,-86308
-1,MCMJ,2020-06-30,USD,None,0,None,None,-148736,148736,None,148736,None,220773,220773,None,None,None,None,None,-125334,-26368,None,-98966,None,48635,None,-98966
-2,MCMJ,2020-03-31,USD,None,0,None,None,-210930,None,None,210930,None,494227,494227,None,None,None,None,None,476600,100270,None,376330,None,-404233,None,376330
-3,MCMJ,2019-12-31,USD,None,0,None,None,-167444,None,None,167444,None,None,296020,None,None,None,None,None,128571,None,None,101589,None,-167444,None,101589
-4,MCMJ,2019-09-30,USD,None,0,None,None,-87,87,None,87,None,None,None,None,None,None,None,None,-87,None,None,-87,None,-87,None,-87
-5,MCMJ,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-339,None,None,-339,None,None,None,-339

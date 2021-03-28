@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,AVIR,2020-09-30,USD,None,0,None,None,-17629000,4028000,13601000,17629000,None,7000,7000,None,None,None,None,None,-17622000,None,None,-17622000,None,-17624000,None,-17622000
-1,AVIR,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,AVIR,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,AVIR,2019-12-31,USD,None,0,None,None,-4749000,1260000,3489000,4749000,None,94000,94000,None,None,None,None,None,-4655000,None,None,-4655000,None,-4745000,None,-4655000
-4,AVIR,2019-09-30,USD,None,0,None,None,-3769000,1358000,2411000,3769000,None,137000,137000,None,None,None,None,None,-3632000,None,None,-3632000,None,-3765000,None,-3632000

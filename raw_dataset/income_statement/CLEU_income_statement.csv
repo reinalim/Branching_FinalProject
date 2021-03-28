@@ -1,9 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,CLEU,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,24338,None,None,None,None,None,None
-1,CLEU,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,24338,None,None,None,None,None,None
-2,CLEU,2019-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,51641,None,None,None,None,None,None
-3,CLEU,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,51641,None,None,None,None,None,None
-4,CLEU,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,26378,None,None,None,None,None,None
-5,CLEU,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,26378,None,None,None,None,None,None
-6,CLEU,2018-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,21854,None,None,None,None,None,None
-7,CLEU,2018-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,21855,None,None,None,None,None,None

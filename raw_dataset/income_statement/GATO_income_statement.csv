@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,GATO,2020-09-30,USD,-594000,0,594000,594000,-3724000,2894000,None,3724000,None,-147000,None,147000,None,None,None,None,-1185000,None,None,-1185000,None,-446000,None,-1185000
-1,GATO,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,GATO,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,GATO,2019-12-31,USD,-435000,0,435000,435000,-2704000,1934000,None,2704000,None,None,None,None,None,None,None,None,-14922000,None,None,-14922000,None,12550000,None,-14922000
-4,GATO,2019-09-30,USD,-697000,0,697000,697000,-2483000,1400000,None,2483000,None,0,None,0,None,None,None,None,-4874000,None,None,-4874000,None,-4121000,None,-4874000

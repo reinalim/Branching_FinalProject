@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,RPLA,2020-09-30,USD,None,0,None,None,-1058292,1058292,None,1058292,None,None,None,None,None,None,None,None,-971489,None,None,-971489,None,-1058292,None,-971489
-1,RPLA,2020-06-30,USD,None,0,None,None,-96052,96052,None,96052,None,None,None,None,None,None,None,None,-110220,None,None,-110220,None,-96052,None,-110220
-2,RPLA,2020-03-31,USD,None,0,None,None,-167129,167129,None,167129,None,None,None,-1128750,None,None,None,None,961618,None,None,961618,None,-1295876,None,961618
-3,RPLA,2019-12-31,USD,None,0,None,None,-81419,81419,None,81419,None,None,None,-1231710,None,None,None,None,1150291,None,None,1150291,None,-1313129,None,1150291
-4,RPLA,2019-09-30,USD,None,0,None,None,-111750,111750,None,111750,None,None,None,-1561850,None,None,None,None,1450104,None,None,1450104,None,-1673604,None,1450104
-5,RPLA,2019-06-30,USD,0,0,0,0,-120491,120491,0,120491,None,None,None,-1760590,None,0,None,None,1640103,0,None,1640103,None,-1881085,None,1640103
-6,RPLA,2019-03-31,USD,0,0,0,0,-13740,13740,0,13739,None,None,None,0,None,0,None,None,-13740,0,None,-13739,None,-13739,None,-13740

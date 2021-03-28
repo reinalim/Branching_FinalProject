@@ -1,4 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,PACE,2020-12-31,USD,None,0,None,None,-623360,623360,None,623360,None,5937,5937,None,None,None,None,None,-617423,None,None,-617423,None,-623360,None,-617423
-1,PACE,2020-09-30,USD,None,0,None,None,-19075,19075,None,19075,None,0,0,None,None,None,None,None,-19075,None,None,-19075,None,-19075,None,-19075
-2,PACE,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

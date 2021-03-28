@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,IKT,2020-09-30,USD,None,37680,None,None,-663709,580820,120569,701389,None,-6890,None,6890,None,None,None,None,-670599,None,None,-670599,None,-663709,None,-670599
-1,IKT,2020-06-30,USD,None,219585,None,None,-413921,370331,263175,633506,None,-7948,None,7948,None,None,None,None,-421869,None,None,-421869,None,-413921,None,-421869
-2,IKT,2020-03-31,USD,None,270787,None,None,-540015,527688,283114,810802,None,-7425,None,7425,None,None,None,None,-547440,None,None,-547440,None,-540015,None,-547440
-3,IKT,2019-12-31,USD,None,240276,None,None,-422263,394624,267915,662539,None,-7747,None,7747,None,None,None,None,-430010,None,None,-430010,None,-422263,None,-430010
-4,IKT,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

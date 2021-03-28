@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,CMPI,2020-09-30,USD,None,0,None,None,-9833000,3160000,6673000,9833000,None,4000,4000,None,None,None,None,None,-9829000,None,None,-9829000,None,-9833000,None,-9829000
-1,CMPI,2020-06-30,USD,None,0,None,None,-8271000,1795000,6476000,8271000,None,6000,6000,None,None,None,None,None,-8348000,None,None,-8348000,None,-8271000,None,-8348000
-2,CMPI,2020-03-31,USD,None,0,None,None,-7823000,1510000,6313000,7823000,None,22000,22000,None,None,None,None,None,-7801000,None,None,-7801000,None,-7823000,None,-7801000
-3,CMPI,2019-12-31,USD,None,0,None,None,-8398000,1270000,7128000,8398000,None,37000,37000,None,None,None,None,None,-7961000,None,None,-7961000,None,-8398000,None,-7961000
-4,CMPI,2019-09-30,USD,None,0,None,None,-6284000,1208000,5076000,6284000,None,43000,43000,None,None,None,None,None,-6241000,None,None,-6241000,None,-6284000,None,-6241000
-5,CMPI,2019-06-30,USD,None,0,None,None,-6956000,1107000,5849000,6956000,None,59000,59000,None,None,None,None,None,-6897000,None,None,-6897000,None,-6956000,None,-6897000
-6,CMPI,2019-03-31,USD,None,None,None,None,None,1050000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

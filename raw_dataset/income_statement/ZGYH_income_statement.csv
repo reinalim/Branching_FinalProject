@@ -1,9 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,ZGYH,2020-12-31,USD,None,0,None,None,-424522,424522,None,424522,None,4287,4287,None,None,8574,None,None,-415948,None,None,-415948,None,-415948,None,-420235
-1,ZGYH,2020-09-30,USD,None,0,None,None,-71322,71322,None,71322,None,9423,9423,None,None,None,None,None,-61899,None,None,-61899,None,-71322,None,-61899
-2,ZGYH,2020-06-30,USD,None,0,None,None,-257432,257432,None,257432,None,144912,144912,None,None,None,None,None,331048,None,None,331048,None,-701000,None,331048
-3,ZGYH,2020-03-31,USD,None,0,None,None,-51441,51441,None,51441,None,75369,75369,None,None,None,None,None,-1127663,None,None,-1127663,None,-51441,None,-1127663
-4,ZGYH,2019-12-31,USD,None,0,None,None,0,0,None,0,None,None,None,None,None,None,None,None,0,None,None,0,None,1100150,None,0
-5,ZGYH,2019-09-30,USD,None,0,None,None,-131,131,None,131,None,None,None,None,None,None,None,None,-131,None,None,-131,None,-131,None,-131
-6,ZGYH,2019-06-30,USD,None,0,None,None,-81,81,None,81,None,None,None,None,None,None,None,None,-81,None,None,-81,None,1100150,None,-81
-7,ZGYH,2019-03-31,USD,None,0,None,None,-5000,5000,None,5000,None,0,0,None,None,None,None,None,-5000,None,None,-5000,None,-5000,None,-5000

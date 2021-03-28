@@ -1,6 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,FTIV,2020-12-31,USD,None,0,None,None,-1003637,1003637,None,1003637,None,5798,5798,None,None,None,None,None,-997839,None,None,-997839,None,-1003637,None,-997839
-1,FTIV,2020-09-30,USD,None,0,None,None,-19908,19908,None,19908,None,63,63,None,None,None,None,None,-19845,None,None,-19845,None,-19908,None,-19845
-2,FTIV,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,FTIV,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-4,FTIV,2019-12-31,USD,None,0,None,None,-350,350,None,350,None,None,None,None,None,None,None,None,-350,None,None,-350,None,-350,None,-350

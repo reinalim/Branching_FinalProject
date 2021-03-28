@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,ATHA,2020-09-30,USD,None,0,None,None,-7397000,1567000,5830000,7397000,None,35000,35000,0,None,None,None,None,-8456000,None,None,-8456000,None,-7815000,None,-8456000
-1,ATHA,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,ATHA,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,ATHA,2019-12-31,USD,None,0,None,None,-835000,459000,658000,-282000,None,-103000,7000,110000,None,None,None,None,-974000,None,None,-974000,None,-877000,None,-974000
-4,ATHA,2019-09-30,USD,None,0,None,None,-1346000,509000,1026000,-189000,None,-86000,12000,98000,None,None,None,None,-1530000,None,None,-1530000,None,-1355000,None,-1530000
-5,ATHA,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-6,ATHA,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

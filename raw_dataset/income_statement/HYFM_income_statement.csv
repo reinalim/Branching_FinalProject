@@ -1,4 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,HYFM,2020-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,54000,None,None,None,None,None,None
-1,HYFM,2019-12-31,USD,5510000,53773000,48263000,48263000,-7515000,13025000,None,61288000,None,-3678000,None,3678000,None,None,None,None,-18156000,-445000,None,-17711000,None,-5947000,None,-17711000
-2,HYFM,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-492000,None,None,None,None,None,None

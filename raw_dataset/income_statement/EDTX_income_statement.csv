@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,EDTX,2019-12-31,USD,None,0,None,None,-273546,250896,None,273546,None,294970,294970,None,None,None,None,None,45613,44709,None,904,None,-273546,None,904
-1,EDTX,2019-09-30,USD,None,0,None,None,-170903,149801,None,170903,None,355212,355212,None,None,None,None,None,151332,70163,None,81169,None,-170903,None,81169
-2,EDTX,2019-06-30,USD,0,0,0,0,-195241,170597,0,195241,None,394677,394677,0,None,0,None,None,224482,77558,None,146924,None,-195241,None,146924
-3,EDTX,2019-03-31,USD,0,0,0,0,-141758,120158,0,141758,None,464261,464261,0,None,0,None,None,246979,92945,None,154034,None,-141758,None,154034
-4,EDTX,2018-12-31,USD,0,0,0,0,-315726,234438,0,315726,None,None,None,0,None,0,None,None,168999,83001,None,85998,None,-315726,None,85998
-5,EDTX,2018-09-30,USD,0,0,0,0,-315726,234438,0,0,None,None,None,0,None,0,None,None,-7334,0,None,-7334,None,0,None,-7334
-6,EDTX,2018-06-30,USD,0,0,0,0,-315726,234438,0,0,None,None,None,0,None,0,None,None,-863,0,None,-863,None,0,None,-863

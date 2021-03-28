@@ -1,8 +1,0 @@
-,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
-0,GLTO,2020-09-30,USD,None,0,None,None,-10166000,2515000,7651000,10166,None,None,None,None,None,None,None,None,-11651000,None,None,-11651000,None,-10084000,None,-11651000
-1,GLTO,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-2,GLTO,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-3,GLTO,2019-12-31,USD,None,0,None,None,-24854000,221000,24633000,24854000,None,None,None,None,None,None,None,None,-24423000,None,None,-24423000,None,-22360000,None,-24423000
-4,GLTO,2019-09-30,USD,None,0,None,None,-4826000,1152000,3674000,4826000,None,None,None,None,None,None,None,None,-4105000,None,None,-4105000,None,-4781000,None,-4105000
-5,GLTO,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
-6,GLTO,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
