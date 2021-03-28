@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+NVLS,2017-06-30,USD,None,None,None,None,None,None,0,None,None,None,14971000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2016-12-31,USD,None,None,None,None,None,None,106000,None,None,None,25305000,166000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2016-09-30,USD,None,None,None,None,None,None,90000,None,None,None,12156000,103000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2016-06-30,USD,None,None,None,None,None,None,74000,None,None,None,3891000,92000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2016-03-31,USD,None,None,None,None,None,None,31000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2015-12-31,USD,None,None,None,None,None,None,188000,None,None,None,None,78834000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2015-09-30,USD,None,None,None,None,None,None,142000,None,None,None,None,78772000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2015-06-30,USD,None,None,None,None,None,None,87000,None,None,None,None,80876000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2015-03-31,USD,None,None,None,None,None,None,52000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2014-12-31,USD,None,None,None,None,None,None,4000,None,None,None,None,41166000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+NVLS,2013-12-31,USD,None,None,None,None,None,None,125000,None,None,None,None,10811000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

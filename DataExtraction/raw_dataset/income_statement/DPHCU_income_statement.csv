@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+DPHCU,2020-06-30,USD,None,0,None,None,-484621,484621,None,484621,None,115042,115042,None,None,None,None,None,-369579,None,None,-383243,None,-484621,None,-383243
+DPHCU,2020-03-31,USD,None,0,None,None,-162262,162262,None,162262,None,918157,918157,None,None,None,None,None,755895,None,None,573582,None,-162262,None,573582
+DPHCU,2019-12-31,USD,None,0,None,None,-226776,226776,None,226776,None,1127374,1127374,None,None,None,None,None,900598,226240,None,674360,None,-226776,None,674360
+DPHCU,2019-09-30,USD,None,0,None,None,-149771,149771,None,149771,None,1411990,1411990,None,None,None,None,None,1262219,286030,None,976190,None,-149771,None,976190
+DPHCU,2019-06-30,USD,None,0,None,None,-153798,153798,None,153798,None,1577282,1577282,None,None,None,None,None,1423484,320730,None,1102755,None,-153798,None,1102755
+DPHCU,2019-03-31,USD,None,0,None,None,-88263,88263,None,88263,None,431214,431214,None,None,None,None,None,342951,80060,None,262896,None,-88263,None,262896

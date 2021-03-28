@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SAQNU,2020-09-30,USD,None,0,None,None,-494939,494939,None,494939,None,14074,14074,None,None,None,None,None,-480865,None,None,-453091,None,-494939,None,-453091
+SAQNU,2020-06-30,USD,None,0,None,None,-174812,174812,None,174812,None,62651,62651,None,None,None,None,None,-112161,None,None,-88607,None,-174812,None,-88607
+SAQNU,2020-03-31,USD,None,0,None,None,-238523,238523,None,238523,None,482942,482942,None,None,None,None,None,244419,None,None,193091,None,-238523,None,193091
+SAQNU,2019-12-31,USD,None,None,None,None,-207610,None,None,None,None,None,219910,None,None,None,None,None,12310,None,None,None,None,None,None,10350
+SAQNU,2019-09-30,USD,None,0,None,None,-800,801,None,801,None,0,0,None,None,None,None,None,-800,None,None,-801,None,-801,None,-800
+SAQNU,2019-06-30,USD,None,None,None,None,-2210,None,None,None,None,None,None,None,None,None,None,None,-2210,None,None,None,None,None,None,-2210

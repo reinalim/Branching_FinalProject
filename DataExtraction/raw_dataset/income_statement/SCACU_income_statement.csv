@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SCACU,2018-12-31,USD,-2817897,-2817897,None,None,-10531024,None,None,None,1109010,None,None,9960,None,None,None,None,None,None,None,-12249871,53895,None,None,53895
+SCACU,2018-09-30,USD,1121940,1121940,None,None,1121940,None,None,None,1121940,-4054,0,4054,None,None,None,None,None,None,4054,3361766,-13925116,None,None,-13925116
+SCACU,2018-06-30,USD,957034,957034,None,None,957034,None,None,None,957034,-2443,0,2443,None,None,None,None,None,None,2443,2868659,5737318,None,None,5737318
+SCACU,2018-03-31,USD,721956,721956,None,None,721956,None,None,None,721956,None,None,510,None,None,None,None,None,None,None,2165358,4330716,None,None,4330716
+SCACU,2017-12-31,USD,569099,569099,None,None,-1767607,538035,None,538035,569099,None,None,None,None,None,None,None,577331,None,None,-2255253,378790,-538035,None,378790
+SCACU,2017-09-30,USD,510478,510478,None,None,510478,47609,None,47609,510478,None,None,None,None,None,None,None,127570,None,None,1531434,-2741410,-47609,None,-2741410
+SCACU,2017-06-30,USD,335299,335299,None,None,335299,97294,None,-97294,335299,None,None,None,None,None,None,None,221625,None,None,1005897,2011794,97294,None,2011794
+SCACU,2017-03-31,USD,210968,210968,None,None,210968,222512,None,222512,210968,None,None,None,None,None,None,None,-11544,None,None,632904,1265808,-222512,None,1265808
+SCACU,2016-12-31,USD,95953,95953,None,None,95953,None,None,None,None,None,None,None,None,None,None,None,None,None,None,287859,575718,None,None,575718

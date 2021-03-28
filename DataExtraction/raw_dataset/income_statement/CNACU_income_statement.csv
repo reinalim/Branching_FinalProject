@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CNACU,2018-03-31,USD,0,0,0,0,97330,97330,0,-97330,None,None,None,0,None,None,None,None,-251706,0,None,-251706,None,97330,None,-251706
+CNACU,2017-12-31,USD,0,0,0,0,-97330,97330,0,72791.86,None,None,None,0,None,0,None,None,251706,0,None,251706,None,-97330,None,251706
+CNACU,2017-09-30,USD,0,0,0,0,-104638,104638,0,76843.65,None,None,None,0,None,0,None,None,246452,0,None,246452,None,-104638,None,246452
+CNACU,2017-06-30,USD,0,0,0,0,-22525,22525,0,16363.97,None,None,None,0,None,0,None,None,-31716,0,None,-31716,None,-22525,None,-31716
+CNACU,2016-12-31,USD,0,0,0,0,-22525,22525,0,0,None,None,None,0,None,0,None,None,-31716,0,None,-31716,None,0,None,0

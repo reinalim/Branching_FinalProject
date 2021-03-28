@@ -1,0 +1,3 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+FLLCU,2019-06-30,USD,None,0,None,None,-172,172,None,172,None,None,None,None,None,None,None,None,-172,None,None,-172,None,-172,None,-172
+FLLCU,2019-03-31,USD,None,0,None,None,-5531,5531,None,5531,None,None,None,None,None,None,None,None,-5531,None,None,-5531,None,-5531,None,-5531

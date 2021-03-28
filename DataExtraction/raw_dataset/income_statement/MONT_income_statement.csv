@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MONT,2014-09-30,USD,None,46004000,19346000,19346000,12245000,14413000,9640000,None,None,None,None,None,None,None,None,None,10358000,149000,None,None,None,None,None,10209000
+MONT,2014-06-30,USD,None,40442000,16882000,16882000,11362000,12198000,6985000,None,None,None,None,None,None,None,None,None,7827000,742000,None,None,None,None,None,7085000
+MONT,2014-03-31,USD,None,35587000,12840000,12840000,11237000,11510000,6837000,None,None,None,None,None,None,None,None,None,8396000,569000,None,None,None,None,None,7827000
+MONT,2013-12-31,USD,None,35448000,13311000,13311000,8887000,13250000,8529000,None,None,None,None,None,None,None,None,None,9179000,288000,None,None,None,None,None,8891000
+MONT,2013-09-30,USD,None,30056000,10273000,10273000,8646000,10503000,6623000,None,None,None,None,None,None,None,None,None,8778000,737000,None,None,None,None,None,8041000
+MONT,2013-06-30,USD,None,25308000,15308000,15308000,9529000,10474000,6773000,None,None,None,None,None,None,None,None,None,6084000,601000,None,None,None,None,None,5483000
+MONT,2013-03-31,USD,None,20084000,None,None,None,8800000,5700000,None,None,None,None,None,None,None,None,None,3660000,371000,None,None,None,None,None,3289000
+MONT,2012-12-31,USD,None,23707000,9766000,9766000,3903000,9442000,5264000,None,None,None,None,None,None,None,None,None,3935000,248000,None,None,None,None,None,3687000
+MONT,2012-09-30,USD,None,20601000,7352000,7352000,6701000,6217000,3835000,None,None,None,None,None,None,None,None,None,6792000,427000,None,None,None,None,None,6365000
+MONT,2012-06-30,USD,None,19233000,13378000,13378000,8545000,6036000,4231000,None,None,None,None,None,None,None,None,None,6292000,400000,None,None,None,None,None,5892000
+MONT,2012-03-31,USD,None,14704000,None,None,None,5665000,4238000,None,None,None,None,None,None,None,None,None,2490000,153000,None,None,None,None,None,2337000
+MONT,2011-12-31,USD,None,50338000,22257000,22257000,7952000,19546000,13651000,None,None,None,None,36000,None,None,None,None,7609000,2637000,None,None,None,None,None,4972000

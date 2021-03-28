@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CNXC,2021-02-28,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,34572000,None,None,None,None,None,None
+CNXC,2020-11-30,USD,458632000,1300858000,842226000,842226000,120207000,338425000,None,1180651000,None,-8798000,None,8798000,None,None,None,None,114573000,49946000,None,64627000,None,123371000,None,64627000
+CNXC,2020-08-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,21771000,None,None,None,None,None,None
+CNXC,2020-05-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,9823000,None,None,None,None,None,None
+CNXC,2020-02-29,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,21544000,None,None,None,None,None,None
+CNXC,2019-11-30,USD,458431000,1212836000,754405000,754405000,101454000,356977000,None,1111382000,None,-20226000,None,20226000,None,None,None,None,80827000,None,None,31870000,None,175129000,None,31870000
+CNXC,2019-08-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,16975000,None,None,None,None,None,None

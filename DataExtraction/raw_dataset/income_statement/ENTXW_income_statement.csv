@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ENTXW,2020-03-31,USD,None,42000,42000,42000,-2895000,1290000,None,None,None,None,-46000,None,None,None,None,None,-2918000,None,None,None,None,None,None,-2918000
+ENTXW,2019-12-31,USD,-6000,102000,108000,108000,-3495000,1524000,None,None,None,None,71000,None,None,None,None,None,-3440000,None,None,None,None,None,None,-3440000
+ENTXW,2019-09-30,USD,20000,60000,40000,40000,-2839000,1073000,None,None,None,None,-122000,None,None,None,None,None,-2994000,None,None,None,None,None,None,-2994000
+ENTXW,2019-06-30,USD,12000,74000,62000,62000,-2029000,628000,None,None,None,None,682000,None,None,None,None,None,-1366000,None,None,None,None,None,None,-1366000
+ENTXW,2018-12-31,USD,None,500000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ENTXW,2017-12-31,USD,None,None,None,None,-4390000,3308000,1082000,4390000,None,None,None,None,None,None,None,None,-3775000,None,None,-3775000,None,-4390000,None,-3775000
+ENTXW,2017-09-30,USD,None,None,None,None,-2779000,2373000,406000,2779000,None,None,None,None,None,None,None,None,-3656000,None,None,-3656000,None,-2779000,None,-3656000
+ENTXW,2017-06-30,USD,None,None,None,None,-2993000,2392000,601000,2993000,None,None,None,None,None,None,None,None,-2259000,None,None,-2259000,None,-2993000,None,-2259000
+ENTXW,2017-03-31,USD,None,None,None,None,-2087000,1447000,640000,2087000,None,None,None,None,None,None,None,None,-1883000,None,None,-1883000,None,-2087000,None,-1883000

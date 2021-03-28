@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ZSPH,2015-09-30,USD,None,None,None,None,-35246000,16843000,18403000,-35246000,None,None,None,272000,None,169000,None,None,-35349000,None,None,-35349000,None,-35077000,None,-35349000
+ZSPH,2015-06-30,USD,None,None,None,None,-32453000,15162000,17291000,-32453000,None,None,None,275000,None,125000,None,None,-32603000,None,None,-32603000,None,-32328000,None,-32603000
+ZSPH,2015-03-31,USD,None,None,None,None,-21721000,6404000,15317000,-21721000,None,None,None,275000,None,50000,None,None,-21946000,None,None,-21946000,None,-21671000,None,-21946000
+ZSPH,2014-12-31,USD,None,None,None,None,None,19677000,14574000,None,None,None,None,250000,None,None,None,None,None,None,None,None,None,None,None,None
+ZSPH,2014-09-30,USD,None,None,None,None,-16622000,5699000,10923000,-16622000,None,None,None,272000,None,31000,None,None,-16863000,None,None,-16863000,None,-16591000,None,-16863000
+ZSPH,2014-06-30,USD,None,None,None,None,-14530000,4554000,9976000,14530000,None,None,None,5000,None,10000,None,None,-14525000,None,None,-14525000,None,-14520000,None,-16428000
+ZSPH,2014-03-31,USD,None,None,None,None,None,9035000,6854000,None,None,None,None,3000,None,None,None,None,None,None,None,None,None,None,None,None
+ZSPH,2013-12-31,USD,None,None,None,None,None,10098000,6880000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZSPH,2013-09-30,USD,None,None,None,None,None,9192000,7138000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZSPH,2013-06-30,USD,None,None,None,None,None,7164000,6335000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZSPH,2013-03-31,USD,None,None,None,None,None,5035000,4409000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZSPH,2012-12-31,USD,None,None,None,None,None,8088000,6989000,None,None,None,None,2099000,None,None,None,None,None,None,None,None,None,None,None,None

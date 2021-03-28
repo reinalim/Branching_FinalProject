@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+DPRX,2016-12-31,USD,None,None,None,None,None,None,0,None,None,None,27023000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2016-09-30,USD,None,None,None,None,None,None,0,None,None,None,16023000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2016-06-30,USD,None,None,None,None,None,None,0,None,None,None,12022000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2016-03-31,USD,None,None,None,None,None,None,0,None,None,None,4010000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2015-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,19744000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2015-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,19744000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2015-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,19871000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2014-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,34455000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2014-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,34455000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2014-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,34455000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2014-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,34455000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2013-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,4598000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DPRX,2012-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,1983000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

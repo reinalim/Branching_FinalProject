@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MIIIU,2017-12-31,USD,0,0,0,0,-251215,None,None,0,None,None,None,None,None,None,None,None,83685,43532,None,40153,None,83685,None,40153
+MIIIU,2017-09-30,USD,0,0,0,0,-81014,None,None,0,None,None,None,None,None,None,None,None,219613,105048,None,114565,None,219613,None,114565
+MIIIU,2017-06-30,USD,153918,0,-153918,-153918,-119564,None,None,0,None,None,None,None,None,None,None,None,79966,0,None,79966,None,79966,None,79965
+MIIIU,2017-03-31,USD,-153918,0,153918,153918,-153918,None,None,0,None,None,None,None,None,None,None,None,-31465,0,None,-31465,None,-31465,None,-31464
+MIIIU,2016-12-31,USD,0,0,0,0,-64489,None,None,0,None,None,None,None,None,None,None,None,4685,0,None,4685,None,4685,None,4685

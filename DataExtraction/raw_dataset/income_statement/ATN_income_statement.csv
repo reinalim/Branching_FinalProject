@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ATN,2009-06-30,USD,None,146182000,75018000,75018000,31621000,12268000,None,None,None,None,None,16871000,None,None,None,None,12246000,None,None,None,None,None,None,12231000
+ATN,2009-03-31,USD,None,197980000,116896000,116896000,38507000,14549000,None,None,None,None,None,14961000,None,None,None,None,25603000,None,None,None,None,None,None,25588000
+ATN,2008-12-31,USD,None,161634000,83941000,83941000,41974000,8629000,None,None,None,None,None,16628000,None,None,None,None,28697000,None,None,None,None,None,None,28697000
+ATN,2008-09-30,USD,None,213621000,125420000,125420000,52663000,11952000,None,None,None,None,None,15629000,None,None,None,None,38180000,None,None,None,None,None,None,38180000
+ATN,2008-06-30,USD,None,217556000,129849000,129849000,52473000,12286000,None,None,None,None,None,15098000,None,None,None,None,38376000,None,None,None,None,None,None,38359000
+ATN,2008-03-31,USD,None,194589000,110171000,110171000,50816000,11792000,None,None,None,None,None,13951000,None,None,None,None,37564000,None,None,None,None,None,None,37543000
+ATN,2007-12-31,USD,None,164382000,87977000,87977000,39056000,12095000,None,None,None,None,None,16270000,None,None,None,None,24286000,None,None,None,None,None,None,24286000
+ATN,2007-09-30,USD,None,180269000,107658000,107658000,44536000,9062000,None,None,None,None,None,13754000,None,None,None,None,31612000,None,None,None,None,None,None,31612000
+ATN,2007-06-30,USD,None,128055000,66990000,66990000,42900000,11358000,None,None,None,None,None,2039000,None,None,None,None,41665000,None,None,None,None,None,None,41665000
+ATN,2007-03-31,USD,None,105191000,72165000,72165000,20259000,6899000,None,None,None,None,None,733000,None,None,None,None,19941000,None,None,None,None,None,None,19941000
+ATN,2006-12-31,USD,None,94070000,67632000,67632000,14886000,6220000,None,None,None,None,None,None,None,None,None,None,15293000,None,None,None,None,None,None,21648000
+ATN,2006-09-30,USD,None,81193000,56617000,56617000,10861000,7715000,None,None,None,None,None,None,None,None,None,None,11466000,None,None,None,None,None,None,11466000
+ATN,2006-06-30,USD,None,63608000,42878000,42878000,12356000,2974000,None,None,None,None,None,None,None,None,None,None,12599000,None,None,None,None,None,None,12599000
+ATN,2006-03-31,USD,None,82111000,57522000,57522000,12355000,7695000,None,None,None,None,None,None,None,None,None,None,12469000,None,None,None,None,None,None,12469000
+ATN,2005-09-30,USD,None,221338000,153034000,153034000,41344000,12899000,None,None,None,None,None,None,None,None,None,None,41423000,None,None,None,None,None,None,41423000
+ATN,2004-09-30,USD,None,156423000,106026000,106026000,27124000,11209000,None,None,None,None,None,None,None,None,None,None,27568000,None,None,None,None,None,None,27568000

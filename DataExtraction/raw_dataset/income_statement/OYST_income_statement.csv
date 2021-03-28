@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+OYST,2020-12-31,USD,None,0,None,None,-22244000,10537000,11707000,22244000,None,None,None,None,None,None,None,None,-22232000,None,None,-22232000,None,-22125000,None,-22232000
+OYST,2020-09-30,USD,None,0,None,None,-16322000,8112000,8210000,16322000,None,None,None,None,None,None,None,None,-16305000,None,None,-16305000,None,-16208000,None,-16305000
+OYST,2020-06-30,USD,None,0,None,None,-15494000,6940000,8554000,15494000,None,None,None,None,None,None,None,None,-15464000,None,None,-15464000,None,-15283000,None,-15464000
+OYST,2020-03-31,USD,None,0,None,None,-16929000,5589000,11340000,16929000,None,410000,410000,None,None,None,None,None,-16519000,None,None,-16519000,None,-16912000,None,-16519000
+OYST,2019-12-31,USD,None,0,None,None,-20161000,5127000,15034000,20161000,None,437000,437000,None,None,None,None,None,-19724000,None,None,-19724000,None,-20161000,None,-19724000
+OYST,2019-09-30,USD,None,0,None,None,-11897000,3809000,8088000,11897000,None,400000,400000,None,None,None,None,None,-11497000,None,None,-11497000,None,-11897000,None,-11497000
+OYST,2019-06-30,USD,None,0,None,None,-11233000,3132000,8101000,11233000,None,503000,503000,None,None,None,None,None,-10730000,None,None,-10730000,None,-10480000,None,-10730000
+OYST,2019-03-31,USD,None,0,None,None,-4010000,1605000,2405000,4010000,None,250000,250000,None,None,None,None,None,-3760000,None,None,-3760000,None,-4010000,None,-3760000
+OYST,2018-12-31,USD,None,None,None,None,-4049000,704000,None,None,None,None,None,None,None,None,None,None,-4011000,None,None,None,None,None,None,-4011000
+OYST,2018-09-30,USD,None,None,None,None,-6691000,916000,5775000,6691000,None,None,None,None,None,None,None,None,-6632000,None,None,-6632000,None,-6691000,None,-6632000
+OYST,2018-06-30,USD,None,None,None,None,-2998000,680500,2317500,2998000,None,None,None,None,None,None,None,None,-2930000,None,None,-2930000,None,-2998000,None,-2930000
+OYST,2018-03-31,USD,None,None,None,None,-2998000,680500,2317500,2998000,None,None,None,None,None,None,None,None,-2930000,None,None,-2930000,None,-2998000,None,-2930000

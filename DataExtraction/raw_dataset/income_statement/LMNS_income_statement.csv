@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+LMNS,2015-03-31,USD,None,68505000,30092000,30092000,3536000,33150000,5580000,None,None,None,None,1328000,None,None,None,None,2208000,562000,None,None,None,None,None,1646000
+LMNS,2014-12-31,USD,None,77232000,33610000,33610000,7815000,34134000,5302000,None,None,None,None,827000,None,None,None,None,6559000,None,None,None,None,None,None,6820000
+LMNS,2014-09-30,USD,None,74192000,32400000,32400000,7382000,32286000,5066000,None,None,None,None,847000,None,None,None,None,6285000,761000,None,None,None,None,None,5524000
+LMNS,2014-06-30,USD,None,72491000,31808000,31808000,5426000,33648000,4982000,None,None,None,None,847000,None,None,None,None,4265000,747000,None,None,None,None,None,3518000
+LMNS,2014-03-31,USD,None,65804000,29629000,29629000,2466000,32121000,6268000,None,None,None,None,59000,None,None,None,None,None,664000,None,None,None,None,None,None
+LMNS,2013-12-31,USD,None,71094000,30569000,30569000,6591000,32506000,5981000,None,None,None,None,984000,None,None,None,None,5315000,613000,None,None,None,None,None,4702000
+LMNS,2013-09-30,USD,None,67841000,28754000,28754000,6582000,30734000,5787000,None,None,None,None,2645000,None,None,None,None,3937000,569000,None,None,None,None,None,3368000
+LMNS,2013-06-30,USD,None,66310000,29548000,29548000,3694000,31608000,5368000,None,None,None,None,867000,None,None,None,None,10127000,762000,None,None,None,None,None,9365000
+LMNS,2013-03-31,USD,None,60111000,28173000,28173000,1738000,28948000,5052000,None,None,None,None,966000,None,None,None,None,772000,814000,None,None,None,None,None,None
+LMNS,2012-12-31,USD,None,66269000,32527000,32527000,4076000,29666000,5050000,None,None,None,None,None,None,None,None,None,3966000,None,None,None,None,None,None,5317000
+LMNS,2012-09-30,USD,None,63891000,31868000,31868000,4223000,27800000,4508000,None,None,None,None,None,None,None,None,None,3560000,636000,None,None,None,None,None,2924000
+LMNS,2012-06-30,USD,None,60858000,30901000,30901000,1541000,28416000,4642000,None,None,None,None,None,None,None,None,None,684000,892000,None,None,None,None,None,None
+LMNS,2012-03-31,USD,None,57572000,30028000,30028000,None,28071000,4297000,None,None,None,None,None,None,None,None,None,None,675000,None,None,None,None,None,None

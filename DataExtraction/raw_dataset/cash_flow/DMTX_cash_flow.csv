@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+DMTX,2017-09-30,USD,None,None,None,None,None,None,24000,None,None,None,28505000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2017-06-30,USD,None,None,None,None,None,None,24000,None,None,None,25227000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2017-03-31,USD,None,None,None,None,None,None,24000,None,None,None,12576000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2016-12-31,USD,None,None,None,None,None,None,6716000,None,None,None,None,5143000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2016-09-30,USD,None,None,None,None,None,None,6436000,None,None,None,None,5385000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2016-06-30,USD,None,None,None,None,None,None,4906000,None,None,None,None,3836000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2016-03-31,USD,None,None,None,None,None,None,544000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2015-12-31,USD,None,None,None,None,None,None,2543000,None,None,None,None,143644000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2015-09-30,USD,None,None,None,None,None,None,2186000,None,None,None,None,77669000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2015-06-30,USD,None,None,None,None,None,None,2018000,None,None,None,None,79135000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DMTX,2014-12-31,USD,8760000,None,None,None,None,None,1667000,None,None,None,None,6401000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

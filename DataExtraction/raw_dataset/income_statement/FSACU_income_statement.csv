@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+FSACU,2018-09-30,None,0,0,0,0,-11316318,0,0,None,None,None,None,0,None,None,None,None,0,-1128124,None,None,None,None,None,0
+FSACU,2018-06-30,None,0,0,0,0,-4337461,0,0,None,None,None,None,0,None,None,None,None,0,-133449,None,None,None,None,None,0
+FSACU,2018-03-31,USD,0,0,0,0,-1168250,0,0,None,None,None,None,0,None,None,None,None,0,-74568,None,None,None,None,None,0
+FSACU,2017-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,1434087,521979,None,912108,None,0,None,912108
+FSACU,2017-09-30,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,924033,313598,None,610435,None,0,None,610435
+FSACU,2017-06-30,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-1686,0,None,-1686,None,0,None,-1686
+FSACU,2017-03-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-1686,0,None,-1686,None,0,None,-1686

@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ALRN,2020-12-31,USD,20000,20000,None,None,-4192000,2267000,1925000,4192000,None,None,None,None,20000,-738000,10000,None,None,None,None,-4853000,-4931000,-4192000,None,-4930000
+ALRN,2020-09-30,USD,0,0,None,None,-5028000,2344000,2684000,5028000,None,5000,5000,-5000,0,5000,14000,None,-5023000,None,None,-5028000,-5022000,-5028000,None,-5023000
+ALRN,2020-06-30,USD,None,0,None,None,-4400000,1912000,2488000,4400000,None,10000,10000,-10000,0,10000,69000,None,-4390000,None,None,-4400000,-4391000,-4400000,None,-4390000
+ALRN,2020-03-31,USD,66000,66000,None,None,-6876000,2807000,4069000,6876000,None,62000,62000,-62000,66000,62000,70000,None,-6748000,None,None,-6876000,-6756000,-6876000,None,-6748000
+ALRN,2019-12-31,USD,None,-5000,None,None,-7348000,2639000,4709000,7348000,None,114000,114000,None,-5000,112000,None,None,-7235000,None,None,-7349000,-7246000,-7348000,None,-7236000

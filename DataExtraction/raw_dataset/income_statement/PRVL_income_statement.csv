@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PRVL,2020-09-30,USD,None,0,None,None,-18624000,6303000,12321000,18624000,None,37000,37000,None,None,None,None,None,-18587000,None,None,-18587000,None,-18502000,None,-18587000
+PRVL,2020-06-30,USD,None,0,None,None,-22151000,9208000,12943000,22151000,None,51000,51000,None,None,None,None,None,-22100000,None,None,-22100000,None,-22037000,None,-22100000
+PRVL,2020-03-31,USD,None,0,None,None,-19279000,7862000,11417000,19279000,None,494000,494000,None,None,None,None,None,-18575000,None,None,-18575000,None,-19168000,None,-18575000
+PRVL,2019-12-31,USD,None,0,None,None,-18551000,6955000,11596000,18551000,None,710000,710000,0,None,None,None,None,-17841000,None,None,-17841000,None,-17777000,None,-17841000
+PRVL,2019-09-30,USD,None,0,None,None,-21288000,4452000,16836000,21288000,None,989000,989000,0,None,None,None,None,-20299000,None,None,-20299000,None,-20191000,None,-20299000
+PRVL,2019-06-30,USD,None,0,None,None,-15668000,3713000,11955000,15668000,None,565000,565000,0,None,None,None,None,-15103000,None,None,-15103000,None,-15046825,None,-15103000
+PRVL,2019-03-31,USD,None,0,None,None,-10296510,1885190,8411317,10296506,None,351337,351340,0,None,None,None,None,-9945170,None,None,-9945169,None,-9908344,None,-9945170
+PRVL,2018-12-31,USD,None,None,None,None,-18808550,4681530,None,None,None,None,None,None,None,None,None,None,-19087540,None,None,None,None,None,None,-19087540
+PRVL,2018-09-30,USD,None,None,None,None,-5519000,920000,4599000,5519000,None,None,None,None,None,None,None,None,-5199000,None,None,-5199000,None,-5519000,None,-5199000
+PRVL,2018-06-30,USD,None,None,None,None,-4166000,959000,3207000,4166000,None,None,None,None,None,None,None,None,-3944000,None,None,-3944000,None,-4166000,None,-3944000
+PRVL,2018-03-31,USD,None,None,None,None,-1945644,641223,1304421,1945644,None,None,None,-471078,None,None,None,None,-3198174,None,None,-3198174,None,-1945644,None,-3198174

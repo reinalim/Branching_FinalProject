@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MRD,2016-06-30,USD,None,98986000,144772000,144772000,None,None,None,None,None,None,None,12767000,None,None,None,None,None,None,None,None,None,None,None,None
+MRD,2016-03-31,USD,None,81078000,37495000,37495000,None,None,None,None,None,None,None,11357000,None,None,None,None,8654000,2937000,None,None,None,None,None,5757000
+MRD,2015-12-31,USD,None,175868000,102719000,102719000,None,31003000,None,None,None,None,None,37600000,None,None,None,None,112073000,22086000,None,None,None,None,None,19906000
+MRD,2015-09-30,USD,None,199737000,465291000,465291000,None,36779000,None,None,None,None,None,40431000,None,None,None,None,None,54324000,None,None,None,None,None,53698000
+MRD,2015-06-30,USD,None,78605000,25096000,25096000,None,28543000,None,None,None,None,None,9613000,None,None,None,None,None,None,None,None,None,None,None,None
+MRD,2015-03-31,USD,None,87023000,22760000,22760000,963000,22645000,None,None,None,None,None,9756000,None,None,None,None,98067000,47558000,None,None,None,None,None,50648000
+MRD,2014-12-31,USD,None,250431000,450922000,450922000,None,16309000,None,None,None,None,None,28905000,None,None,None,None,415432000,86573000,None,None,None,None,None,167198000
+MRD,2014-09-30,USD,None,265296000,147666000,147666000,None,46921000,None,None,None,None,None,36345000,None,None,None,None,137871000,25834000,None,None,None,None,None,9928000
+MRD,2014-06-30,USD,None,254777000,61882000,61882000,94101000,23487000,None,None,None,None,None,34531000,None,None,None,None,None,None,None,None,None,None,None,None
+MRD,2014-03-31,USD,None,204621000,56548000,56548000,69965000,18908000,None,None,None,None,None,34052000,None,None,None,None,None,100000,None,None,None,None,None,8372000
+MRD,2013-12-31,USD,None,152282000,42633000,42633000,5297000,50398000,None,None,None,None,None,27256000,None,None,None,None,None,187000,None,None,None,None,None,None
+MRD,2013-09-30,USD,None,153515000,37232000,37232000,29786000,40007000,None,None,None,None,None,20615000,None,None,None,None,97206000,1244000,None,None,None,None,None,84727000
+MRD,2013-06-30,USD,None,147045000,35236000,35236000,48424000,18067000,None,None,None,None,None,12009000,None,None,None,None,78346000,188000,None,None,None,None,None,43183000
+MRD,2013-03-31,USD,None,122181000,34120000,34120000,30083000,13442000,None,None,None,None,None,9370000,None,None,None,None,180000,None,None,None,None,None,None,4249000
+MRD,2012-12-31,USD,None,396868000,158363000,158363000,15837000,78987000,None,None,None,None,None,33238000,None,None,None,None,27104000,107000,None,None,None,None,None,29698000

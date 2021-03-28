@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+GRCYU,2020-09-30,USD,None,0,None,None,-113040,113040,None,113040,None,5822,5822,None,None,None,None,None,-109200,None,None,-109200,None,-111058,None,-109200
+GRCYU,2020-06-30,USD,None,0,None,None,-1203,1203,None,1203,None,None,None,None,None,None,None,None,-1203,None,None,-1203,None,-1203,None,-1203
+GRCYU,2020-03-31,USD,None,0,5430,5430,-5425,5425,None,5425,None,None,None,None,None,None,None,None,-5425,None,None,-5425,None,-5425,None,-5425
+GRCYU,2019-12-31,USD,None,0,None,None,-7615,7615,None,7615,None,None,None,None,None,None,None,None,-7615,None,None,-7615,None,-7615,None,-7615
+GRCYU,2019-09-30,USD,None,0,None,None,-8000,8000,None,8000,None,0,0,None,None,None,None,None,-8000,None,None,-8000,None,-8000,None,-8000
+GRCYU,2019-06-30,USD,None,0,None,None,-7025,7025,None,7025,None,None,None,None,None,None,None,None,-7025,None,None,-7025,None,-7025,None,-7025

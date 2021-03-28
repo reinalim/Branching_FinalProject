@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+JMI,2015-12-31,USD,None,5535000,1769000,1769000,3766000,None,None,None,None,None,None,1747000,None,None,None,None,5196000,None,None,None,None,None,None,5196000
+JMI,2015-09-30,USD,None,6685000,1837000,1837000,4848000,None,None,None,None,None,None,1750000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2015-06-30,USD,None,8859000,1750000,1750000,7109000,None,None,None,None,None,None,1530000,None,None,None,None,17229000,None,None,None,None,None,None,17229000
+JMI,2015-03-31,USD,None,14878000,1737000,1737000,13141000,None,None,None,None,None,None,1430000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2014-12-31,USD,None,9327000,1697000,1697000,7630000,None,None,None,None,None,None,1638000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2014-09-30,USD,None,11594000,1487000,1487000,10107000,None,None,None,None,None,None,1697000,None,None,None,None,6572000,None,None,None,None,None,None,6572000
+JMI,2014-06-30,USD,None,13645000,1852000,1852000,11793000,None,None,None,None,None,None,1769000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2014-03-31,USD,None,24900000,2097000,2097000,22803000,None,None,None,None,None,None,1531000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2013-12-31,USD,None,None,1862000,1862000,None,None,None,None,None,None,None,1689000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2013-09-30,USD,None,None,1395000,1395000,None,None,None,None,None,None,None,2000000,None,None,None,None,None,None,None,None,None,None,None,None
+JMI,2013-06-30,USD,None,130000,1170000,1170000,None,None,None,None,None,None,None,1916000,None,None,None,None,38237000,None,None,None,None,None,None,38237000
+JMI,2013-03-31,USD,None,11214000,1003000,1003000,10211000,None,None,None,None,None,None,1727000,None,None,None,None,10978000,2000,None,None,None,None,None,10976000

@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CRSAU,2020-12-31,USD,None,0,None,None,-2510717,2510717,None,2510717,None,6395,6395,None,None,None,None,None,-2504322,None,None,-2430127,None,-2510717,None,-2430127
+CRSAU,2020-09-30,USD,None,0,None,None,-435630,435630,None,435630,None,6395,6395,None,None,None,None,None,-429235,None,None,-417033,None,-435630,None,-417033
+CRSAU,2020-06-30,USD,None,0,None,None,-189350,189350,None,189350,None,63348,63348,None,None,None,None,None,-126002,None,None,-129737,None,-189350,None,-129737
+CRSAU,2020-03-31,USD,None,0,None,None,-129118,129118,None,129118,None,833931,833931,None,None,None,None,None,704813,None,None,485422,None,-129118,None,485422
+CRSAU,2019-12-31,USD,None,0,None,None,-155122,155122,None,155122,None,1161397,1161397,None,None,None,None,None,1006275,530480,None,475794,None,-155122,None,475794
+CRSAU,2019-09-30,USD,0,0,0,0,-124879,124879,None,124879,None,1478279,1478279,None,None,None,None,None,1353400,299930,None,1053472,None,-124879,None,1053472
+CRSAU,2019-06-30,USD,0,0,0,0,-160880,160880,None,160880,None,1530120,1530120,None,None,None,None,None,1369240,319650,None,1049594,None,-160880,None,1049594
+CRSAU,2019-03-31,USD,None,0,None,None,-85740,85740,None,85743,None,None,302660,None,None,None,None,None,216920,45550,None,171366,None,-388404,None,171370

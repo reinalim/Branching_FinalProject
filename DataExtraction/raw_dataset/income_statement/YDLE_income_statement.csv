@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+YDLE,2015-09-30,USD,None,28567000,8664000,8664000,None,19484000,7357000,None,None,None,None,27000,None,None,None,None,None,564000,None,None,None,None,None,None
+YDLE,2015-06-30,USD,None,25955000,8792000,8792000,None,18423000,7082000,None,None,None,None,33000,None,None,None,None,None,490000,None,None,None,None,None,None
+YDLE,2015-03-31,USD,None,24609000,8323000,8323000,None,17607000,6707000,None,None,None,None,41000,None,None,None,None,None,608000,None,None,None,None,None,None
+YDLE,2014-12-31,USD,None,24861000,9288000,9288000,None,18620000,7116000,None,None,None,None,63000,None,None,None,None,None,429000,None,None,None,None,None,None
+YDLE,2014-09-30,USD,None,23154000,7940000,7940000,None,15210000,6225000,None,None,None,None,184000,None,None,None,None,None,532000,None,None,None,None,None,None
+YDLE,2014-06-30,USD,None,21303000,7144000,7144000,36000,13317000,5351000,None,None,None,None,149000,None,None,None,None,104000,465000,None,None,None,None,None,None
+YDLE,2014-03-31,USD,None,19763000,7077000,7077000,None,12152000,4909000,None,None,None,None,121000,None,None,None,None,None,377000,None,None,None,None,None,None
+YDLE,2013-12-31,USD,None,20038000,6308000,6308000,2041000,10922000,4443000,None,None,None,None,142000,None,None,None,None,1941000,694000,None,None,None,None,None,1247000
+YDLE,2013-09-30,USD,None,18266000,6082000,6082000,723000,10837000,4096000,None,None,None,None,153000,None,None,None,None,465000,261000,None,None,None,None,None,204000
+YDLE,2013-06-30,USD,None,16386000,11757000,11757000,None,10642000,4640000,None,None,None,None,300000,None,None,None,None,None,307000,None,None,None,None,None,None
+YDLE,2013-03-31,USD,None,15470000,None,None,None,10351000,4769000,None,None,None,None,None,None,None,None,None,None,177000,None,None,None,None,None,None
+YDLE,2012-12-31,USD,None,17739000,6849000,6849000,1323000,9567000,4523000,None,None,None,None,None,None,None,None,None,1735000,297000,None,None,None,None,None,1438000
+YDLE,2012-09-30,USD,None,14538000,6084000,6084000,None,9477000,3889000,None,None,None,None,None,None,None,None,None,None,201000,None,None,None,None,None,None
+YDLE,2012-06-30,USD,None,13200000,5782000,5782000,None,9699000,3701000,None,None,None,None,None,None,None,None,None,None,458000,None,None,None,None,None,None
+YDLE,2012-03-31,USD,None,12317000,6056000,6056000,None,9940000,4080000,None,None,None,None,None,None,None,None,None,None,135000,None,None,None,None,None,None

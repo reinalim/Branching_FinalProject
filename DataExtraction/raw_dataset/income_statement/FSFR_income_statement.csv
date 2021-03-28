@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+FSFR,2017-06-30,USD,9508666,9508666,0,0,5930467,3578199,None,0,None,None,None,2661975,None,None,None,None,139198,0,None,139198,None,2801173,None,139198
+FSFR,2017-03-31,USD,8012900,8012900,0,0,5086214,2926686,None,0,None,None,None,3006649,None,None,None,None,4832305,0,None,4832305,None,7838954,None,4832305
+FSFR,2016-12-31,USD,9105059,9105059,0,0,5884050,3471009,None,0,None,None,None,2456128,None,None,None,None,739372,0,None,739372,None,3195500,None,724797
+FSFR,2016-09-30,USD,10657340,10657340,0,0,6342050,4315290,None,0,None,None,None,2546007,None,None,None,None,8578374,0,None,8578374,None,11124381,None,8592949
+FSFR,2016-06-30,USD,10677311,10677311,0,0,6163518,4513793,None,0,None,None,None,2437152,None,None,None,None,916060,0,None,916060,None,3353212,None,916060
+FSFR,2016-03-31,USD,10856820,10856820,0,0,5785198,5071622,None,0,None,None,None,2337849,None,None,None,None,-660267,0,None,-660267,None,1677582,None,-660267

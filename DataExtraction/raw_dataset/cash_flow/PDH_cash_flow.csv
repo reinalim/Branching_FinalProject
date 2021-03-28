@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+PDH,2014-06-30,USD,132444000,None,None,None,None,None,15674000,None,6802000,None,None,None,None,None,None,None,-93795000,-93795000,None,None,None,None,None,None,None,None,49267000
+PDH,2014-03-31,USD,48561000,None,None,None,None,None,8568000,None,2433000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,46667000
+PDH,2013-12-31,USD,191025000,None,None,None,None,None,58169000,None,None,None,None,None,None,None,None,None,-144470000,-144470000,None,None,None,None,None,None,None,None,21468000
+PDH,2013-09-30,USD,120906000,None,None,None,None,None,39062000,None,None,None,None,None,None,None,None,None,-81569000,-81569000,None,None,None,None,None,None,None,None,55091000
+PDH,2013-06-30,USD,78882000,None,None,None,None,None,24923000,None,None,None,None,None,None,None,None,None,-44438000,-44438000,None,None,None,None,None,None,None,None,41407000
+PDH,2013-03-31,USD,28415000,None,None,None,None,None,15842000,None,None,None,None,None,None,None,None,None,-7279000,-7279000,None,None,None,None,None,None,None,None,57077000
+PDH,2012-12-31,USD,121046000,None,None,None,None,None,25414000,None,10154000,None,None,None,None,None,None,None,-268619000,-268619000,None,None,None,None,None,None,None,None,25902000
+PDH,2012-09-30,USD,97053000,None,None,None,None,None,16243000,None,4841000,None,None,None,None,None,None,None,-270335000,-270335000,None,None,None,None,None,None,None,None,647000
+PDH,2012-06-30,USD,84565000,None,None,None,None,None,9849000,None,3091000,None,None,None,None,None,None,None,-250000000,-250000000,None,None,None,None,None,None,None,None,None
+PDH,2012-03-31,USD,75749000,None,None,None,None,None,6148000,None,9154000,None,None,None,None,None,None,None,-250000000,-250000000,None,None,None,None,None,None,None,None,None
+PDH,2011-12-31,USD,84647000,None,None,None,None,None,28535000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+PDH,2011-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,24084000
+PDH,2011-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,47628000
+PDH,2010-12-31,USD,None,None,None,None,None,None,187452000,None,None,None,None,210697000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+PDH,2009-12-31,USD,33000,None,None,None,None,None,290953000,None,None,None,None,249139000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

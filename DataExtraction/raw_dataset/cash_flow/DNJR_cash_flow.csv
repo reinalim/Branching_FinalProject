@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+DNJR,2020-09-30,USD,-7615885,None,None,None,None,1171151,7552177,None,None,None,None,6395678,None,None,None,None,None,None,None,None,None,None,None,None,None,None,54
+DNJR,2019-12-31,USD,310959,None,None,None,None,30200,110000,None,None,None,-458084,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6937680
+DNJR,2019-09-30,USD,2673282,None,None,None,None,-57071,436843,None,None,None,-458084,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-3007825
+DNJR,2019-06-30,USD,-984700,None,None,None,None,57070,436843,None,None,None,-458084,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6462430
+DNJR,2019-03-31,USD,-984700,None,None,None,None,28536,436843,None,None,None,-458084,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-3231213
+DNJR,2018-12-31,USD,-5050080,None,None,None,None,82870,753090,0,0,None,-3333730,5944150,None,None,None,None,0,0,None,None,None,None,5944150,None,0,0,-3537130
+DNJR,2018-09-30,USD,-2281183,None,None,None,None,31572,1664916,0,0,None,-1664916,111969,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-1339027
+DNJR,2018-06-30,USD,-487710,None,None,None,None,19730,3890,0,0,None,-3890,5720210,None,None,None,None,0,0,None,None,None,None,5720210,None,0,0,-743250
+DNJR,2018-03-31,USD,-243855,None,None,None,None,9864,1947,0,0,None,-1947,2860105,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-373964
+DNJR,2017-12-31,USD,-1908740,None,None,None,None,57600,49080,None,None,None,-31210,-389640,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-996830
+DNJR,2017-09-30,USD,19974,None,None,None,None,16647,7357,None,None,None,-7203,-194818,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-202006
+DNJR,2017-06-30,USD,-974344,None,None,None,None,12155,34000,None,None,None,-8404,-194818,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-269178
+DNJR,2017-03-31,USD,-974344,None,None,None,None,12155,17184,None,None,None,-8404,-194818,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-269178
+DNJR,2016-12-31,USD,-1092322,None,None,None,None,38973,109000,None,None,None,-108757,8044000,None,None,None,None,None,None,None,None,None,None,6860367,None,None,None,542000
+DNJR,2015-12-31,USD,-2764248,None,None,None,None,38973,258624,None,None,None,-258624,11239200,None,None,None,None,None,None,None,None,None,None,11239200,None,None,None,-1275228

@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+IGMS,2020-09-30,USD,None,0,None,None,-20561000,4732000,15829000,20561000,None,None,None,None,None,None,None,None,-20270000,None,None,-20270000,None,-20313000,None,-20270000
+IGMS,2020-06-30,USD,None,0,None,None,-19407000,4388000,15019000,19407000,None,None,None,None,None,None,None,None,-18839000,None,None,-18839000,None,-19164000,None,-18839000
+IGMS,2020-03-31,USD,None,0,None,None,-18573000,3990000,14583000,18573000,None,None,None,None,None,None,None,None,-17624000,None,None,-17624000,None,-18351000,None,-17624000
+IGMS,2019-12-31,USD,-9275000,0,9275000,9275000,-15937000,3174000,12763000,15937000,None,None,None,None,None,None,None,None,-14815000,None,None,-14815000,None,-15937000,None,-14815000
+IGMS,2019-09-30,USD,-4323000,0,4323000,4323000,-10673000,2394000,8279000,10673000,None,None,None,None,None,None,None,None,-10172000,None,None,-10172000,None,-9313000,None,-10172000
+IGMS,2019-06-30,USD,0,0,0,0,-10531000,2228000,8303000,10531000,None,None,None,-135000,None,0,None,None,-10676000,0,None,-10676000,None,-10386000,None,-10676000
+IGMS,2019-03-31,USD,0,0,0,0,-7357000,1445000,5912000,7357000,None,None,None,-135000,None,0,None,None,-7470000,0,None,-7470000,None,-7243000,None,-7470000
+IGMS,2018-12-31,USD,None,None,None,None,-15591000,2605000,None,None,None,None,None,None,None,None,None,None,-15570000,None,None,None,None,None,None,-15570000
+IGMS,2018-09-30,USD,-3527000,None,3527000,3527000,-6545000,1373000,1645000,6545000,None,None,None,-135000,None,None,None,None,-6517000,None,None,-6517000,None,-6545000,None,-6517000
+IGMS,2018-06-30,USD,0,0,0,0,-3600000,612000,2988000,3600000,None,None,None,-135000,None,0,None,None,-3570500,0,None,-3570500,None,-3600000,None,-3570500
+IGMS,2018-03-31,USD,0,0,0,0,-3600000,612000,2988000,3600000,None,None,None,-135000,None,0,None,None,-3570500,0,None,-3570500,None,-3600000,None,-3570500

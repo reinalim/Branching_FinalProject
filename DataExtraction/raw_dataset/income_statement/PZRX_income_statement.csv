@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PZRX,2017-09-30,USD,0,0,0,0,-2535000,806000,1729000,0,None,None,None,231000,None,None,None,None,-2750000,0,None,-2750000,None,-2519000,None,-2750000
+PZRX,2017-06-30,USD,0,0,0,0,-3320000,1065000,2255000,0,None,None,None,241000,None,None,None,None,-3539000,0,None,-3539000,None,-3298000,None,-3539000
+PZRX,2017-03-31,USD,0,0,0,0,-3915000,1589000,2326000,0,None,None,None,235000,None,None,None,None,-4125000,0,None,-4125000,None,-3890000,None,-4125000
+PZRX,2016-12-31,USD,0,0,0,0,-3268000,1243000,2025000,0,None,None,None,236000,None,None,None,None,-3477000,0,None,-3477000,None,-3241000,None,-3477000

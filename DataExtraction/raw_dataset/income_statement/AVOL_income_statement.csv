@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AVOL,2015-09-30,USD,None,201904000,15580000,15580000,125406000,None,None,None,None,None,None,58320000,None,None,None,None,62765000,4394000,None,None,None,None,None,58371000
+AVOL,2015-06-30,USD,None,183872000,16098000,16098000,110834000,None,None,None,None,None,None,52749000,None,None,None,None,60172000,4553000,None,None,None,None,None,55619000
+AVOL,2015-03-31,USD,None,175689000,14434000,14434000,107356000,None,None,None,None,None,None,56665000,None,None,None,None,52668000,3314000,None,None,None,None,None,49354000
+AVOL,2014-12-31,USD,None,172686000,75558000,75558000,45548000,None,None,None,None,None,None,54025000,None,None,None,None,None,2902000,None,None,None,None,None,None
+AVOL,2014-09-30,USD,None,164380000,6489000,6489000,110160000,None,None,None,None,None,None,51427000,None,None,None,None,44962000,1132000,None,None,None,None,None,43830000
+AVOL,2014-06-30,USD,None,132853000,16199000,16199000,73482000,None,None,None,None,None,None,50645000,None,None,None,None,24785000,857000,None,None,None,None,None,23928000
+AVOL,2014-03-31,USD,None,135403000,9986000,9986000,85463000,None,None,None,None,None,None,50413000,None,None,None,None,37804000,1382000,None,None,None,None,None,36422000
+AVOL,2013-12-31,USD,None,123710000,10961000,10961000,73195000,None,None,None,None,None,None,55217000,None,None,None,None,20058000,421000,None,None,None,None,None,19637000
+AVOL,2013-09-30,USD,None,113391000,9324000,9324000,67047000,None,None,None,None,None,None,40352000,None,None,None,None,28421000,None,None,None,None,None,None,29332000
+AVOL,2013-06-30,USD,None,211424000,16463000,16463000,125920000,None,None,None,None,None,None,65846000,None,None,None,None,64525000,694000,None,None,None,None,None,63831000
+AVOL,2012-12-31,USD,None,324702000,29816000,29816000,183929000,None,None,None,None,None,None,131122000,None,None,None,None,59799000,None,None,None,None,None,None,61161000

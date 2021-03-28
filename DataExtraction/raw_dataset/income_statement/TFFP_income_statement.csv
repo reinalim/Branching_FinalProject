@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TFFP,2020-12-31,USD,23953607,23953607,None,None,-5919029,2864446,3054583,5919029,None,23607,23607,None,None,None,None,None,-5895422,None,None,-5895422,-16125,-5919029,None,-5895422
+TFFP,2020-09-30,USD,20546,20546,None,None,-5078581,2254912,2823669,5078581,None,20546,20546,None,None,None,None,None,-5058035,None,None,-5058035,28172,-5078581,None,-5058035
+TFFP,2020-06-30,USD,25995,25995,None,None,-3842574,1274803,2567771,3842574,None,25995,25995,None,None,None,None,None,-3816579,None,None,-3816579,19208,-3842574,None,-3816579
+TFFP,2020-03-31,USD,56268,56268,None,None,-3853466,1617924,2235542,3853466,None,56268,56268,None,None,None,None,None,-3797198,None,None,-3797198,20283,-3853466,None,-3797198
+TFFP,2019-12-31,USD,23979630,23979630,None,None,-4711820,1443640,3268180,4711820,None,49630,49630,None,None,None,None,None,-4662190,None,None,-4662190,-4662190,-4711820,None,-4662190

@@ -1,0 +1,4 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+DFPHU,2020-09-30,USD,None,0,None,None,-198480,148480,None,198480,None,73393,73393,None,None,None,None,None,-125087,None,None,-137660,None,-198480,None,-137660
+DFPHU,2020-06-30,USD,None,0,None,None,-194558,144508,None,194558,None,78823,78823,None,None,None,None,None,-115735,None,None,-115735,None,-194558,None,-115735
+DFPHU,2020-03-31,USD,None,0,None,None,-87774,38074,None,87774,None,42685,42685,None,None,None,None,None,-45089,None,None,-45089,None,-87774,None,-45089

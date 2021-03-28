@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+LAIX,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-70635000
+LAIX,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-92503000
+LAIX,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-197007000
+LAIX,2019-12-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-205570000
+LAIX,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-214096000
+LAIX,2019-06-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-87843000
+LAIX,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-67272000
+LAIX,2018-12-31,CNY,-16419568.22,None,None,None,None,851057.64,6260376.54,0,0,None,-60727774.95,64545758.52,None,None,None,None,0,0,None,None,None,None,64136948.46,None,0,0,-3452800.88
+LAIX,2018-09-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-20736799.20
+LAIX,2018-06-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-13483203.36
+LAIX,2018-03-31,USD,-4931852.56,None,None,None,None,162051.75,554973.33,None,0,None,1769259.14,-63563.73,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-14510117.67
+LAIX,2017-12-31,USD,-60119867,None,None,None,None,1026728,1648000,None,None,None,10743000,57973000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-242759628
+LAIX,2017-09-30,USD,-30974500,None,None,None,None,1017766,3485510,None,None,None,11111832,-399212,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-64585000
+LAIX,2016-12-31,USD,-38591384,None,None,None,None,549883,182000,None,None,None,-121676530,377190802,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-89169031

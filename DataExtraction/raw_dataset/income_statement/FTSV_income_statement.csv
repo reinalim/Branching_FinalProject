@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+FTSV,2019-12-31,USD,None,0,None,None,-24563000,5800000,18763000,24563000,None,881000,None,None,None,None,None,None,-26236000,None,None,-26236000,None,-24122000,None,-26236000
+FTSV,2019-09-30,USD,None,15678000,None,None,-16373000,4977000,27074000,32051000,None,1210000,None,None,None,None,None,None,-15163000,None,None,-15163000,None,-15922000,None,-15163000
+FTSV,2019-06-30,USD,None,0,None,None,-23886000,5057000,18829000,23886000,None,680000,None,None,None,None,None,None,-23206000,None,None,-23206000,None,-23505000,None,-23206000
+FTSV,2019-03-31,USD,None,0,None,None,-23710000,4584000,19126000,23710000,None,694000,None,None,None,None,None,None,-23016000,None,None,-23016000,None,-23397000,None,-23016000
+FTSV,2018-12-31,USD,0,0,0,0,-17784000,3844000,13940000,17784000,None,None,None,0,None,None,None,None,-17214000,0,None,-17214000,None,-17784000,None,-17214000
+FTSV,2018-09-30,USD,0,0,0,0,-22367000,22271000,20570000,22367000,None,None,None,0,None,None,None,None,-21659000,0,None,-21659000,None,-22367000,None,-21659000
+FTSV,2018-06-30,USD,0,0,0,0,-16958000,16861000,15853000,16958000,None,None,None,0,None,None,None,None,-16722000,0,None,-16722000,None,-16958000,None,-16722000
+FTSV,2018-03-31,USD,0,0,0,0,-14996000,14900000,12859000,14996000,None,None,None,0,None,None,None,None,-14775000,0,None,-14775000,None,-14996000,None,-14775000
+FTSV,2017-12-31,USD,0,0,0,0,-34411000,12488000,11541000,34411000,None,None,None,0,None,None,None,None,-34065000,0,None,-34065000,None,-34411000,None,-34065000
+FTSV,2017-09-30,USD,0,0,0,0,-21891000,10800000,9702000,21891000,None,None,None,0,None,None,None,None,-21822000,0,None,-21822000,None,-21891000,None,-21822000
+FTSV,2017-06-30,USD,0,0,0,0,21940000,10793000,10001000,-21940000,None,None,None,0,None,None,None,None,21897000,0,None,21897000,None,21940000,None,21897000
+FTSV,2017-03-31,USD,0,0,0,0,-10942000,10852000,9791000,10942000,None,None,None,0,None,None,None,None,-10908000,0,None,-10908000,None,-10942000,None,-10908000
+FTSV,2016-12-31,USD,0,0,0,0,-19617000,19483000,14464000,19617000,None,None,None,0,None,None,None,None,-19539000,0,None,-19539000,None,-19617000,None,-19539000

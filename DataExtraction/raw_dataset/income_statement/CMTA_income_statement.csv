@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CMTA,2018-12-31,USD,0,0,0,0,14776120,5408679,14337339,-14776120,None,None,None,-4000,None,None,None,None,14248417,-528694,None,14777111,None,14776120,None,14777111
+CMTA,2018-09-30,USD,0,0,0,0,-14776120,4555883,10220237,14776120,None,None,None,4000,None,None,None,None,-14248417,528694,None,-14777111,None,-14776120,None,-14777111
+CMTA,2018-06-30,USD,0,0,0,0,-11132769,4015227,7117542,11132769,None,None,None,5000,None,None,None,None,-10621396,146211,None,-10767607,None,-11132769,None,-10767607
+CMTA,2018-03-31,USD,0,0,0,0,-13701763,2978804,10722959,13701763,None,None,None,4000,None,None,None,None,-13190271,40966,None,-13231237,None,-13701763,None,-13231237
+CMTA,2017-12-31,USD,0,0,0,0,-36544614,11921000,10592000,51623145,None,None,None,4000,None,None,None,None,-21714832,396000,None,-22412193,None,-36787605,None,-22412193
+CMTA,2017-09-30,USD,0,0,0,0,-5333954,9745000,7074000,-24823108,None,None,None,2000,None,None,None,None,-193746908,106000,None,-193728736,None,-4847972,None,-193728736
+CMTA,2017-06-30,USD,0,0,0,0,11449089,8601000,6332000,8655619,None,None,None,6000,None,None,None,None,141942576,97000,None,142022363,None,11125101,None,142022363
+CMTA,2017-03-31,USD,0,0,0,0,-5026177,4985000,3408000,0,None,None,None,2000,None,None,None,None,-41292264,45000,None,-41336627,None,-4945180,None,-41336627
+CMTA,2016-12-31,USD,0,0,0,0,-20118377,6073000,5308000,20118377,None,None,None,1000,None,None,None,None,-57365525,29000,None,-57511979,None,-20118377,None,-57511979
+CMTA,2016-09-30,USD,0,0,0,0,0,5111000,4489000,0,None,None,None,3000,None,None,None,None,0,44000,None,0,None,0,None,0
+CMTA,2016-06-30,USD,0,0,0,0,0,4103000,3386000,0,None,None,None,3000,None,None,None,None,0,40000,None,0,None,0,None,0
+CMTA,2016-03-31,USD,0,0,0,0,0,4659000,3669000,0,None,None,None,4000,None,None,None,None,0,33000,None,0,None,0,None,0
+CMTA,2015-12-31,USD,0,0,0,0,-19710272,19562000,14397000,19710272,None,None,None,11000,None,None,None,None,-75740723,156000,None,-75896943,None,-19710272,None,-75896943
+CMTA,2014-12-31,USD,0,0,0,0,-9849185,2052104,7797081,0,None,None,None,2363410,None,None,None,None,-12913743,94866,None,-13008609,None,-10550333,None,-12288609

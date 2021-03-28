@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+GOMO,2014-12-31,USD,None,11596000,4746000,4746000,None,19137000,3939000,None,None,None,None,None,None,None,None,None,None,1129000,None,None,None,None,None,None
+GOMO,2014-09-30,USD,None,16190000,6260000,6260000,None,12450000,4443000,None,None,None,None,None,None,None,None,None,66000,None,None,None,None,None,None,747000
+GOMO,2014-06-30,USD,None,16166000,5516000,5516000,697000,9953000,3448000,None,None,None,None,None,None,None,None,None,1937000,865000,None,None,None,None,None,1072000
+GOMO,2014-03-31,USD,None,15556000,5082000,5082000,1823000,8651000,2624000,None,None,None,None,None,None,None,None,None,3179000,891000,None,None,None,None,None,2288000
+GOMO,2013-12-31,USD,None,16740000,4197000,4197000,3655000,8888000,2883000,None,None,None,None,None,None,None,None,None,3706000,None,None,None,None,None,None,5202000
+GOMO,2013-09-30,USD,None,14885000,4110000,4110000,5022000,5753000,1814000,None,None,None,None,None,None,None,None,None,5057000,544000,None,None,None,None,None,4513000
+GOMO,2013-06-30,USD,None,13142000,3962000,3962000,4022000,5158000,1600000,None,None,None,None,None,None,None,None,None,4031000,430000,None,None,None,None,None,3601000
+GOMO,2013-03-31,USD,None,9554000,3283000,3283000,2088000,4183000,1408000,None,None,None,None,None,None,None,None,None,2099000,248000,None,None,None,None,None,1851000
+GOMO,2012-12-31,USD,None,9880000,3439000,3439000,1679000,4762000,1617000,None,None,None,None,None,None,None,None,None,1693000,None,None,None,None,None,None,2801000
+GOMO,2012-09-30,USD,None,8119000,3113000,3113000,848000,4158000,1234000,None,None,None,None,None,None,None,None,None,860000,None,None,None,None,None,None,860000
+GOMO,2012-06-30,USD,None,6423000,2838000,2838000,None,4237000,1326000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+GOMO,2012-03-31,USD,None,5307000,2617000,2617000,None,3789000,1287000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+GOMO,2011-12-31,USD,None,15347000,6964000,6964000,None,13304000,4797000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

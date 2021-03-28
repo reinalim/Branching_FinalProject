@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PBIB,2018-03-31,USD,0,11266000,1344000,1344000,None,7116000,None,0,None,None,None,490000,None,None,None,None,2263000,329000,None,1934000,None,2753000,None,1934000
+PBIB,2017-12-31,USD,0,11215000,1313000,1313000,3667000,8870000,None,0,None,None,None,403000,None,None,None,None,1371000,-31899000,None,33270000,None,1774000,None,33270000
+PBIB,2017-09-30,USD,0,10628000,1324000,1324000,2339000,7097000,None,0,None,None,None,335000,None,None,None,None,1794000,0,None,1794000,None,2129000,None,1794000
+PBIB,2017-06-30,USD,0,10117000,1309000,1309000,2103000,6822000,None,0,None,None,None,237000,None,None,None,None,1709000,0,None,1709000,None,1946000,None,1709000
+PBIB,2017-03-31,USD,0,10293000,1244000,1244000,2009000,7126000,None,0,None,None,None,240000,None,None,None,None,1680000,0,None,1680000,None,1920000,None,1680000
+PBIB,2016-12-31,USD,0,9897000,1243000,1243000,None,7390000,None,0,None,None,None,222000,None,None,None,None,-6638000,0,None,-6638000,None,-6416000,None,-6638000

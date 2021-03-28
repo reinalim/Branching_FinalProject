@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+EACQU,2018-03-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,63179,None,63179,None,0
+EACQU,2017-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,-295330,None,-295330,None,0
+EACQU,2017-09-30,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,76939,None,76939,None,0
+EACQU,2017-06-30,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,323030,None,323030,None,0
+EACQU,2017-03-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,-347029,None,-347029,None,0
+EACQU,2016-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,-1686451,None,-1686451,None,0

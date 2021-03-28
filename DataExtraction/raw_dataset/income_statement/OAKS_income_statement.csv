@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+OAKS,2018-03-31,USD,0,0,0,0,-3212812,3212812,None,0,None,None,None,18397889,None,None,None,None,11315000,0,None,11315000,None,29712889,None,11315000
+OAKS,2017-12-31,USD,0,0,0,0,-3055064,3055064,None,0,None,None,None,17938325,None,None,None,None,8890728,0,None,8890728,None,26829053,None,8890728
+OAKS,2017-09-30,USD,0,0,0,0,-3052906,3052906,None,0,None,None,None,17880740,None,None,None,None,-4256337,0,None,-4256337,None,13624403,None,-4256337
+OAKS,2017-06-30,USD,0,0,0,0,-3135187,3135187,None,0,None,None,None,16767170,None,None,None,None,-2296571,0,None,-2296571,None,14470599,None,-2296571
+OAKS,2017-03-31,USD,0,0,0,0,-3615395,3615395,None,0,None,None,None,16407550,None,None,None,None,2521463,0,None,2521463,None,18929013,None,2369141
+OAKS,2016-12-31,USD,0,0,0,0,-3297543,3297543,None,0,None,None,None,16259418,None,None,None,None,9677580,0,None,9677580,None,25936998,None,11537580

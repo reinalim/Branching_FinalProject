@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+MUDSU,2020-03-31,USD,-835947,None,None,None,None,None,0,None,None,None,None,-143618760,None,None,None,None,None,None,None,None,None,None,-144218760,None,None,None,-2590879
+MUDSU,2019-12-31,USD,-318712,None,None,None,None,None,0,None,None,None,1910830,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,303062
+MUDSU,2019-09-30,USD,-377643,None,None,None,None,None,0,None,None,None,1650830,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,740613
+MUDSU,2019-06-30,USD,-1225304,None,None,None,None,None,0,None,None,None,1341500,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,823809
+MUDSU,2019-03-31,USD,-316579,None,None,None,None,None,0,None,None,None,200300,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,743340
+MUDSU,2018-12-31,USD,-452720,None,None,None,None,None,0,None,None,None,-210080000,211043720,None,None,None,None,None,None,None,None,None,None,211580000,None,None,None,1679960
+MUDSU,2018-09-30,USD,0,None,None,None,None,0,0,None,0,None,0,211044000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,598000
+MUDSU,2018-06-30,USD,0,None,None,None,None,0,0,None,0,None,0,211044000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,463000
+MUDSU,2018-03-31,USD,0,None,None,None,None,0,0,None,0,None,0,211044000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+MUDSU,2017-12-31,USD,-165,None,None,None,None,None,0,None,None,None,None,75000,None,None,None,None,None,None,None,None,None,None,75000,None,None,None,-8352
+MUDSU,2017-09-30,USD,0,None,None,None,None,0,0,0,0,None,0,25000,None,None,None,None,0,0,None,None,None,None,309.67,None,0,0,-1196

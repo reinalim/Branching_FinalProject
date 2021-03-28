@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ROSG,2017-06-30,USD,301000,870000,569000,569000,-1371000,1196000,476000,2241000,None,None,None,None,None,None,None,None,-1142000,0,None,-1142000,None,-1371000,None,-2071000
+ROSG,2017-03-31,USD,254500,804000,549500,549500,-2264000,1923000,595500,3068000,None,None,None,-45000,None,None,None,None,-1452000,0,None,-1452000,None,-2264000,None,-2293500
+ROSG,2016-12-31,USD,0,0,0,0,-2264000,1923000,595500,0,None,None,None,-45000,None,None,None,None,-1452000,0,None,-1452000,None,0,None,0
+ROSG,2016-09-30,USD,410000,2200000,1790000,1790000,-3940000,3471000,879000,6140000,None,None,None,-16000,None,None,None,None,-3956000,10000,None,-3966000,None,-3940000,None,-3966000

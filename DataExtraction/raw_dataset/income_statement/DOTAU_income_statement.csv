@@ -1,0 +1,4 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+DOTAU,2017-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-134469,-1207,None,-133262,None,0,None,-133262
+DOTAU,2017-09-30,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,6550,1207,None,5343,None,0,None,5343
+DOTAU,2017-03-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-1500,0,None,-1500,None,0,None,-1500

@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SAMAU,2020-09-30,USD,None,0,None,None,-334472,None,None,334472,None,34297,34297,None,None,None,None,None,-300175,None,None,-255684,None,-334472,None,-255684
+SAMAU,2020-06-30,USD,None,0,None,None,-372021,None,None,372021,None,140141,140141,None,None,None,None,None,-316380,None,None,-249941,None,-372021,None,-249941
+SAMAU,2020-03-31,USD,None,0,None,None,-156847,None,None,156847,None,490482,490482,None,None,None,None,None,418135,None,None,330327,None,-241347,None,330327
+SAMAU,2019-12-31,USD,None,0,None,None,-225950,None,None,225950,None,631635,631635,None,None,None,None,None,382027,80350,None,301679,None,-202292,None,301679
+SAMAU,2019-09-30,USD,None,0,None,None,-135101,None,None,135101,None,732727,732727,None,None,None,None,None,582250,122270,None,459977,None,-119725,None,459977
+SAMAU,2019-06-30,USD,None,0,None,None,-137943,None,None,137943,None,792709,792709,None,None,None,None,None,678873,279280,None,531941,None,-162050,None,531941
+SAMAU,2019-03-31,USD,None,0,None,None,-153496,None,None,153496,None,783708,783708,None,None,None,None,None,651020,132350,None,518675,None,-174304,None,518675

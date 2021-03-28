@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+TOTAU,2020-09-30,USD,-555075,None,None,None,None,None,0,None,None,None,None,732036,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-484087
+TOTAU,2020-06-30,USD,-99187,None,None,None,None,None,0,None,None,None,None,33375,None,None,None,None,None,None,None,None,None,None,None,None,None,None,26962
+TOTAU,2020-03-31,USD,-148859,None,None,None,None,None,0,None,None,None,None,48317,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-11945
+TOTAU,2019-12-31,USD,-129752,None,None,None,None,None,0,None,None,None,None,110974,None,None,None,None,None,None,None,None,None,None,282640,None,None,None,10288
+TOTAU,2019-09-30,USD,-197484,None,None,None,None,None,0,None,None,None,None,109100,None,None,None,None,None,None,None,None,None,None,171660,None,None,None,121132
+TOTAU,2019-06-30,USD,-174492,None,None,None,None,None,0,None,None,None,None,62564,None,None,None,None,None,None,None,None,None,None,62560,None,None,None,229929
+TOTAU,2019-03-31,USD,-95246,None,None,None,None,None,0,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-92646
+TOTAU,2018-12-31,USD,-205370,None,None,None,None,None,0,None,None,None,-46000000,46949160,None,None,None,None,None,None,None,None,None,None,48175000,None,None,None,19430
+TOTAU,2018-09-30,USD,-193110,None,None,None,None,None,0,None,None,None,-46000000,46949160,None,None,None,None,None,None,None,None,None,None,48175000,None,None,None,-126450
+TOTAU,2018-06-30,USD,-51780,None,None,None,None,None,0,None,None,None,None,96150,None,None,None,None,None,None,None,None,None,None,96150,None,None,None,-53830
+TOTAU,2018-03-31,USD,-12520,None,None,None,None,None,0,None,None,None,None,75320,None,None,None,None,None,None,None,None,None,None,75320,None,None,None,-38210

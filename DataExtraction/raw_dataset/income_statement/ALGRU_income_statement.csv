@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ALGRU,2019-12-31,USD,None,0,None,None,-300274,300274,None,300274,None,None,None,None,None,None,None,None,315994,123320,None,192676,None,-300274,None,192676
+ALGRU,2019-09-30,USD,None,0,None,None,-124471,124471,None,124471,None,None,None,None,None,None,None,None,695831,164420,None,531413,None,-124471,None,531413
+ALGRU,2019-06-30,USD,None,0,None,None,-18934,18934,None,18934,None,None,None,None,None,None,None,None,901876,186480,None,715394,None,-18934,None,715394
+ALGRU,2019-03-31,USD,None,None,None,None,-212166,212166,None,212166,None,None,None,None,None,None,None,None,664976,177310,None,487664,None,-212166,None,487664
+ALGRU,2018-12-31,USD,None,None,None,None,-137730,137730,None,None,None,None,None,None,None,None,None,None,712010,173890,None,None,None,None,None,538130

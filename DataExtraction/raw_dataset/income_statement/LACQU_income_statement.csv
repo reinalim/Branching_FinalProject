@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+LACQU,2020-12-31,USD,None,0,None,None,-94732,None,None,94732,None,293,293,None,None,None,None,None,-94439,None,None,-74684,None,-94732,None,-74684
+LACQU,2020-09-30,USD,None,0,None,None,-287254,None,None,287254,None,1840,1840,None,None,None,None,None,-285414,None,None,218823,None,-287254,None,218823
+LACQU,2020-06-30,USD,None,0,None,None,-71672,None,None,71672,None,77559,77559,None,None,None,None,None,3304094,None,None,2610234,None,-71672,None,2610234
+LACQU,2020-03-31,USD,None,0,None,None,-915183,None,None,915183,None,639954,639954,None,None,None,None,None,-275229,None,None,-349854,None,364730,None,-349854
+LACQU,2019-12-31,USD,None,0,None,None,-1929144,None,None,1929144,None,752347,752347,None,None,None,None,None,-1219272,99310,None,-1318584,None,-509400,None,-1318584
+LACQU,2019-09-30,USD,None,0,None,None,-584418,None,None,584418,None,1107955,1107955,None,None,None,None,None,504041,14320,None,489723,None,1592500,None,489723
+LACQU,2019-06-30,USD,None,0,None,None,-625938,None,None,625938,None,1209556,1209556,None,None,None,None,None,646116,227210,None,418902,None,1918160,None,418902
+LACQU,2019-03-31,USD,None,0,None,None,-189174,None,None,189174,None,1179970,1179970,None,None,None,None,None,990269,214360,None,775913,None,2169710,None,775913
+LACQU,2018-12-31,USD,0,0,0,0,-141695,0,0,0,None,None,None,0,None,None,None,None,-22558,3635,None,0,None,2037580,None,-26193
+LACQU,2018-09-30,None,0,0,0,0,306538,0,0,0,None,None,None,0,None,None,None,None,-549896,-129786,None,0,None,1663740,None,-420110
+LACQU,2018-06-30,USD,0,0,0,0,-141404,0,0,0,None,None,None,0,None,None,None,None,25715,16671,None,0,None,0,None,9044
+LACQU,2018-03-31,USD,0,0,0,0,-170134,0,0,0,None,None,None,0,None,None,None,None,519181,113115,None,0,None,0,None,406066
+LACQU,2017-09-30,USD,321920000,-1725554000,1403634000,1403634000,0,-160710000,0,-168775000,None,None,None,0,None,0,None,None,-5000,0,None,-5000,None,-170521000,None,-5000

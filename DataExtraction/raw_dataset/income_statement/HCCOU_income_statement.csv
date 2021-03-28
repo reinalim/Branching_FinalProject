@@ -1,0 +1,4 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+HCCOU,2020-06-30,USD,None,0,None,None,-293008,None,None,293008,None,848983,848983,None,None,None,None,None,-227107,None,None,-179478,None,-293008,None,-179478
+HCCOU,2020-03-31,USD,None,0,None,None,-197581,197581,None,197581,None,975664,975664,None,None,None,None,None,1563445,None,None,1235061,None,-197581,None,1235061
+HCCOU,2019-12-31,USD,None,0,None,None,-96257,96257,None,96257,None,137528,137528,None,None,None,None,None,28305,None,None,22272,None,-96257,None,22272
