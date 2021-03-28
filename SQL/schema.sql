@@ -2,14 +2,20 @@
 -- Creating the Database in PostgreSQL
 -- Creating the following 6 base tables for ipo-database to connect to drafted machine learning model in Jupyter notebook
 
--- The ipo_listing_2019_2020 table
-CREATE TABLE ipo_listing_2019_2020 (
-	ipo_date DATE,
+-- The ipo_scoop_listing table
+CREATE TABLE ipo_scoop_listing (
+	trade_date DATE,
+	issuer VARCHAR(90),
     symbol VARCHAR(40) NOT NULL,
-	company_name VARCHAR(60),
-	ipo_price NUMERIC,
-	current_price NUMERIC,
-	percent_return NUMERIC,
+	lead_jointlead_managers VARCHAR,
+	offer_price MONEY,
+	opening_price MONEY,
+	firstday_close MONEY,
+	firstday_percent_pxchng NUMERIC,
+	dollar_change_opening MONEY,
+	dollar_change_close MONEY,
+	star_ratings NUMERIC,
+	performed VARCHAR,
     PRIMARY KEY (symbol)
 );
 
@@ -17,32 +23,46 @@ CREATE TABLE ipo_listing_2019_2020 (
 CREATE TABLE company_overview (
     symbol VARCHAR(40) NOT NULL,
 	asset_type VARCHAR(40),
-	company_name VARCHAR(60),
+	company_name VARCHAR,
 	exchange VARCHAR(40),
 	currency VARCHAR(40),
 	country VARCHAR(40),
 	sector VARCHAR(60),
 	industry VARCHAR(60),
 	address VARCHAR(90),
-	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol),
+	FOREIGN KEY (symbol) REFERENCES ipo_scoop_listing (symbol),
     PRIMARY KEY (symbol)
 );
 
 -- The three_month_return table
 CREATE TABLE three_month_return (
 	symbol VARCHAR(40) NOT NULL,
-	ipo_date DATE,
-	company_name VARCHAR(60),
-	ipo_price NUMERIC,
-	current_price NUMERIC,
-	percentage_return NUMERIC,
+	asset_type VARCHAR(40),
+	company_name VARCHAR,
+	exchange VARCHAR(40),
+	currency VARCHAR(40),
+	country VARCHAR(40),
+	sector VARCHAR(60),
+	industry VARCHAR(60),
+	address VARCHAR(90),
+	trade_date DATE,
+	issuer VARCHAR(90),
+	lead_jointlead_managers VARCHAR,
+	offer_price MONEY,
+	opening_price MONEY,
+	firstday_close MONEY,
+	firstday_percent_pxchng NUMERIC,
+	dollar_change_opening MONEY,
+	dollar_change_close MONEY,
+	star_ratings NUMERIC,
+	performed VARCHAR,
 	three_mth_date DATE,
 	three_mth_ipo NUMERIC,
 	price_change NUMERIC,
 	three_mth_return NUMERIC,
 	price_gain_loss VARCHAR(40),
     PRIMARY KEY (symbol),
-	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
+	FOREIGN KEY (symbol) REFERENCES ipo_scoop_listing (symbol)
 );
 
 -- The filtered_income_statement table
@@ -75,7 +95,7 @@ CREATE TABLE filtered_income_statement (
 	ebitda NUMERIC,
 	netincome NUMERIC,
     PRIMARY KEY (symbol),
-	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
+	FOREIGN KEY (symbol) REFERENCES ipo_scoop_listing (symbol)
 );
 
 -- The filtered_balance_sheet table
@@ -120,7 +140,7 @@ CREATE TABLE filtered_balance_sheet (
 	common_stock NUMERIC,
 	common_stockshares_outstanding NUMERIC,
     PRIMARY KEY (symbol),
-	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
+	FOREIGN KEY (symbol) REFERENCES ipo_scoop_listing (symbol)
 );
 
 -- The filtered_cash_flow table
@@ -156,13 +176,13 @@ CREATE TABLE filtered_cash_flow (
 	changein_exchangerate NUMERIC,
 	netincome NUMERIC,
     PRIMARY KEY (symbol),
-	FOREIGN KEY (symbol) REFERENCES ipo_listing_2019_2020 (symbol)
+	FOREIGN KEY (symbol) REFERENCES ipo_scoop_listing (symbol)
 );
 
 -- Loading CSV files into the table via copy from C drive (method used as regular Import CSV in pgAdmin4 was giving failed exit code 1)
 -- Created a "Files" folder on the C drive and placed all the needed CSV files in it to load into pgAdmin4
 -- Use this queries if the regular import method to load in the CSV files don't work
-COPY Public."ipo_listing_2019_2020" FROM 'C:\Files\IPO_Listing_2019_2020.csv' DELIMITER ',' CSV HEADER ;
+COPY Public."ipo_scoop_listing" FROM 'C:\Files\IPO_SCOOP_Listing.csv' DELIMITER ',' CSV HEADER ;
 COPY Public."company_overview" FROM 'C:\Files\company_overview.csv' DELIMITER ',' CSV HEADER ;
 COPY Public."three_month_return" FROM 'C:\Files\three_month_return.csv' DELIMITER ',' CSV HEADER ;
 COPY Public."filtered_income_statement" FROM 'C:\Files\filtered_income_statement.csv' DELIMITER ',' CSV HEADER ;
@@ -178,7 +198,7 @@ SELECT * FROM filtered_balance_sheet;
 SELECT * FROM filtered_cash_flow;
 
 -- FinalProject_IPO Segment 2: Due Apr 4, 2021
--- Created ipo-database interfaces with updates to extracted data
+-- Created ipo-database interfaces with any updates to extracted data from Segment 1
 -- Create one "master table" housing all data from all base tables from Segment 1 using joins and connect to drafted machine learning model in Jupyter notebook 
 -- In order to get one "master table" we'll need to do multiple joins
 
