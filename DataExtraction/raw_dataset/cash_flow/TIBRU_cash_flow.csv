@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+TIBRU,2019-12-31,USD,-462483,None,None,None,None,None,0,None,None,None,None,350000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,125162
+TIBRU,2019-09-30,USD,-362458,None,None,None,None,None,0,None,None,None,None,90000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,406454
+TIBRU,2019-06-30,USD,-507776,None,None,None,None,None,0,None,None,None,None,30000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,762649
+TIBRU,2019-03-31,USD,-316549,None,None,None,None,None,0,None,None,None,None,30000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,642940
+TIBRU,2018-09-30,None,-496088,None,None,None,None,0,0,None,0,None,-174225000,175161126,None,None,None,None,0,0,None,None,None,None,174225000,None,None,None,-14349
+TIBRU,2018-06-30,USD,-14086,None,None,None,None,0,0,None,0,None,-174225000,175161126,None,None,None,None,0,0,None,None,None,None,174225000,None,None,None,-14086
+TIBRU,2018-03-31,USD,0,None,None,None,None,0,0,None,0,None,0,175532392,None,None,None,None,0,0,None,None,None,None,174225000,None,None,None,-12500
+TIBRU,2017-12-31,USD,-12804,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-1948
+TIBRU,2016-12-31,USD,-12804,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0

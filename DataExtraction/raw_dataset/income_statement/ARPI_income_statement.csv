@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ARPI,2015-09-30,USD,None,31967000,36614000,36614000,None,None,None,None,None,None,None,7725000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2015-06-30,USD,None,32050000,33923000,33923000,None,None,None,None,None,None,None,7636000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2015-03-31,USD,None,27502000,31296000,31296000,None,None,None,None,None,None,None,7316000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-12-31,USD,None,25243000,30409000,30409000,None,None,None,None,None,None,None,7604000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-09-30,USD,None,23401000,26767000,26767000,None,None,None,None,None,None,None,5961000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-06-30,USD,None,20658000,23531000,23531000,None,None,None,None,None,None,None,4869000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-03-31,USD,None,17404000,20968000,20968000,None,None,None,None,None,None,None,4230000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-12-31,USD,None,13186000,15746000,15746000,None,None,None,None,None,None,None,2856000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-09-30,USD,None,11119000,14504000,14504000,None,None,None,None,None,None,None,1204000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-06-30,USD,None,8378000,15883000,15883000,None,None,None,None,None,None,None,682000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-03-31,USD,None,5337000,9025000,9025000,None,None,None,None,None,None,None,371000,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2012-12-31,USD,None,3013000,9251000,9251000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

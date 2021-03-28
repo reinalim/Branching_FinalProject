@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ATHL,2014-09-30,USD,None,166041000,28324000,28324000,73570000,13628000,None,None,None,None,None,21131000,None,None,None,None,117560000,42662000,None,None,None,None,None,72693000
+ATHL,2014-06-30,USD,None,136510000,23374000,23374000,59215000,15229000,None,None,None,None,None,17263000,None,None,None,None,12892000,4719000,None,None,None,None,None,7893000
+ATHL,2014-03-31,USD,None,105669000,17488000,17488000,51136000,8774000,None,None,None,None,None,10392000,None,None,None,None,29972000,10535000,None,None,None,None,None,18775000
+ATHL,2013-12-31,USD,None,91037000,15723000,15723000,41911000,8064000,None,None,None,None,None,10236000,None,None,None,None,35093000,12345000,None,None,None,None,None,22005000
+ATHL,2013-09-30,USD,None,88425000,14260000,14260000,46057000,4323000,None,None,None,None,None,10109000,None,None,None,None,4201000,1934000,None,None,None,None,None,2482000
+ATHL,2013-06-30,USD,None,65165000,12087000,12087000,29409000,3149000,None,None,None,None,None,9313000,None,None,None,None,29372000,4844000,None,None,None,None,None,23697000
+ATHL,2013-03-31,USD,None,54746000,10976000,10976000,22229000,3339000,None,None,None,None,None,4516000,None,None,None,None,10906000,27000,None,None,None,None,None,10879000
+ATHL,2012-12-31,USD,None,46002000,10507000,10507000,15332000,3342000,None,None,None,None,None,3978000,None,None,None,None,10888000,382000,None,None,None,None,None,10506000
+ATHL,2012-09-30,USD,None,42086000,10040000,10040000,14698000,2134000,None,None,None,None,None,2546000,None,None,None,None,None,None,None,None,None,None,None,None
+ATHL,2012-06-30,USD,None,35791000,8405000,8405000,11726000,2481000,None,None,None,None,None,1705000,None,None,None,None,56590000,1986000,None,None,None,None,None,54604000
+ATHL,2012-03-31,USD,None,33232000,7073000,7073000,13842000,2597000,None,None,None,None,None,1495000,None,None,None,None,None,None,None,None,None,None,None,None
+ATHL,2011-12-31,USD,None,65681000,18115000,18115000,10232000,17243000,None,None,None,None,None,2932000,None,None,None,None,None,470000,None,None,None,None,None,None

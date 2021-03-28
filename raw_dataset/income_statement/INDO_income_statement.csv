@@ -1,0 +1,9 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,INDO,2020-06-30,USD,-18786,510849,None,None,None,1756444,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+1,INDO,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,INDO,2019-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,INDO,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+4,INDO,2019-06-30,USD,884630,2197830,1313200,1313200,-501750,937310,None,1349792,None,None,67040,-10183,None,None,None,None,-456180,None,None,-228092,None,-250875,None,-456180
+5,INDO,2019-03-31,USD,884630,2197830,1313200,1313200,-250875,937310,None,1386380,None,None,None,-10183,None,None,None,None,-228092,None,None,-228092,None,59930,None,-228092
+6,INDO,2018-12-31,USD,3315990,5856340,2540350,2540350,143380,2016110,None,3172610,None,None,42060,-12684,None,None,None,None,140990,None,None,-485980,None,735510,None,145720
+7,INDO,2018-06-30,USD,1622440,3037260,1414820,1414820,209720,803960,None,1413770,None,None,-56990,-11298,None,None,None,None,126860,None,None,63429,None,104862,None,131590

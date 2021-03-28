@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+LIZI,2020-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-5847000
+LIZI,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6074000
+LIZI,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-22028000
+LIZI,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-48235000
+LIZI,2019-12-31,CNY,-38191000,None,None,None,None,4021000,3865000,0,0,None,-3865000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-28950000
+LIZI,2019-09-30,CNY,-26302000,None,None,None,None,3306000,12646000,0,0,None,-12646000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-48485000
+LIZI,2019-06-30,CNY,-26302000,None,None,None,None,4318000,12859000,0,0,None,-12646000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-44151000
+LIZI,2019-03-31,CNY,-26302000,None,None,None,None,0,0,0,0,None,-12646000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-0.02
+LIZI,2018-12-31,CNY,42900.90,None,None,None,None,17919.93,368116.99,0,0,None,-367229.30,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-197447.84
+LIZI,2018-09-30,USD,250838.31,None,None,None,None,57649.36,58772.68,0,0,None,-69539.54,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-32766.88

@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+KYTH,2015-06-30,USD,-47193000,None,None,None,None,0,587000,None,4009000,None,-23976000,134255000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-65966000
+KYTH,2015-03-31,USD,-21858000,None,None,None,None,0,268000,None,0,None,24161000,134341000,None,None,None,None,0,0,None,None,None,None,134973000,None,None,None,-28812000
+KYTH,2014-12-31,USD,-59529000,None,None,None,None,0,2056000,None,0,None,-18296000,-4467000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-135621000
+KYTH,2014-09-30,USD,-43697000,None,None,None,None,0,1913000,None,0,None,-24992000,-3093000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-111398000
+KYTH,2014-06-30,USD,-29421000,None,None,None,None,0,791000,None,0,None,3175000,-1660000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-88927000
+KYTH,2014-03-31,USD,0,None,None,None,None,0,42000,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+KYTH,2013-12-31,USD,-44869000,None,None,None,None,0,42000,None,0,None,-56502000,133578000,None,None,None,None,0,0,None,None,None,None,124999000,None,None,None,-51911000
+KYTH,2013-09-30,USD,-34153000,None,None,None,None,0,42000,None,0,None,-29428000,9456000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-37893000
+KYTH,2013-06-30,USD,-24484000,None,None,None,None,0,42000,None,0,None,-32428000,10187000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-26384000
+KYTH,2013-03-31,USD,0,None,None,None,None,0,34000,None,0,None,0,10075000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+KYTH,2012-12-31,USD,-32688000,None,None,None,None,0,190000,None,0,None,-190000,77612000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-36799000
+KYTH,2012-09-30,USD,None,None,None,None,None,None,147000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+KYTH,2012-06-30,USD,None,None,None,None,None,None,131000,None,None,None,None,48000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,4506000
+KYTH,2011-12-31,USD,None,None,None,None,None,None,696000,None,None,None,None,36304000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+KYTH,2010-12-31,USD,1945000,None,None,None,None,None,100000,None,None,None,12597000,58000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

@@ -1,0 +1,10 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ZCMD,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,261240,None,None,None,None,None,None
+1,ZCMD,2020-03-31,USD,2810746,4231125,None,None,None,1668508,None,None,None,None,None,None,None,None,None,None,None,261240,None,None,None,None,None,None
+2,ZCMD,2019-12-31,USD,10226930,14882760,4655830,4655830,3642140,5720470,None,None,None,None,211480,None,None,None,None,None,4387640,90617,None,None,None,None,None,4046670
+3,ZCMD,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,90617,None,None,None,None,None,None
+4,ZCMD,2019-06-30,USD,4750340,6987620,2237280,2237280,1260260,2936800,276641,2863678,None,None,118940,None,None,None,None,None,1914800,102955,None,854444,None,630134,None,1687250
+5,ZCMD,2019-03-31,USD,2375173,3493812,1118639,1118639,630134,1468398,276641,2863678,None,None,None,None,None,None,None,None,957399,102955,None,854444,None,630134,None,865265
+6,ZCMD,2018-12-31,USD,8409520,12865870,4456350,4456350,3274650,3686920,411803,2443530,None,None,191610,None,None,None,None,None,3503620,208972,None,1225142,None,1373300,None,3019320
+7,ZCMD,2018-09-30,USD,2457045,3816830,1359785,1359785,1373300,671942,411803,2443530,None,None,None,None,None,None,None,None,1434113,208972,None,1225142,None,1373300,None,1237900
+8,ZCMD,2018-06-30,USD,3495430,5232210,1736780,1736780,528050,2343040,None,None,None,None,81380,None,None,None,None,None,635390,84190,None,None,None,None,None,558890

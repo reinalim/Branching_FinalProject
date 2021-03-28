@@ -1,0 +1,3 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ACKIT,2020-09-30,USD,None,0,None,None,-2846,2846,None,2846,None,None,None,None,None,None,None,None,-2846,None,None,-2846,None,-2846,None,-2846
+1,ACKIT,2019-12-31,USD,None,0,None,None,-2461,2461,None,2461,None,None,None,None,None,None,None,None,-2461,None,None,-2461,None,-2461,None,-2461

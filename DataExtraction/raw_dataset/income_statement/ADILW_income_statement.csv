@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ADILW,2020-03-31,USD,None,None,None,None,-2300250,1245636,None,None,None,None,23430,None,None,None,None,None,-2276810,None,None,None,None,-2300104,None,-2276810
+ADILW,2019-12-31,USD,None,None,None,None,-2090880,886969,None,None,None,None,32390,None,None,None,None,None,-2058490,None,None,None,None,-2090741,None,-2058490
+ADILW,2019-09-30,USD,None,None,None,None,-1745740,881462,None,None,None,None,29860,None,None,None,None,None,-1715880,None,None,None,None,-1745601,None,-1715880
+ADILW,2019-06-30,USD,None,None,None,None,-2159010,948574,None,None,None,None,24600,None,None,None,None,None,-2134410,None,None,None,None,-2158869,None,-2134410
+ADILW,2019-03-31,USD,None,None,None,None,-2249270,1562352,None,None,None,None,8380,None,None,None,None,None,-2682650,None,None,None,None,-2249124,None,-2682650
+ADILW,2018-12-31,USD,None,None,None,None,-1090140,6111036,None,None,None,None,None,None,None,None,None,None,-1269150,None,None,None,None,-903605,None,-1269150

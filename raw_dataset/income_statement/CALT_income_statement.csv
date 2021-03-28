@@ -1,0 +1,9 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,CALT,2020-12-31,SEK,None,400000,None,None,-135941000,63881000,73992000,136341000,None,-37332000,None,None,None,None,None,None,-173273000,175000,None,-173448000,None,-135941000,None,-170431000
+1,CALT,2020-09-30,SEK,None,0,None,None,-104891000,41037000,64887000,-1033000,None,-33051000,None,None,None,None,None,None,-137942000,80000,None,-138022000,None,-104891000,None,-138022000
+2,CALT,2020-06-30,SEK,None,0,None,None,-66562000,18797000,48386000,66562000,None,5303000,None,None,None,None,None,None,-61259000,67000,None,-61326000,None,-66562000,None,-61326000
+3,CALT,2020-03-31,SEK,None,474000,None,None,-72326000,18009000,54106000,1467000,None,8649000,8649000,None,None,None,None,None,-63677000,38000,None,-63715000,None,-72326000,None,-63715000
+4,CALT,2019-12-31,SEK,None,46586000,None,None,-17903000,23790000,41709000,64489000,None,153000,-4930000,None,None,None,None,None,-22973000,77000,None,-23050000,None,-22200000,None,-23050000
+5,CALT,2019-09-30,SEK,None,0,None,None,-52638000,10295000,46186000,1747000,None,2499000,2499000,None,None,None,None,None,-50139000,None,None,-50139000,None,-52638000,None,-50139000
+6,CALT,2019-06-30,SEK,None,138243000,None,None,85416000,18996000,31191000,3237000,None,-2219000,-2219000,None,None,None,None,None,83167000,None,None,83167000,None,85416000,None,83167000
+7,CALT,2019-03-31,SEK,None,0,None,None,-42724000,9801000,30740000,2183000,None,168000,168000,None,None,None,None,None,-42556000,None,None,-42556000,None,-42724000,None,-42556000

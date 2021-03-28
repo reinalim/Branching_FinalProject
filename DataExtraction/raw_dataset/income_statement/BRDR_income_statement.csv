@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+BRDR,2015-03-31,USD,None,24784000,17981000,17981000,None,9470000,2599000,None,None,None,None,141000,None,None,None,None,None,108000,None,None,None,None,None,None
+BRDR,2014-12-31,USD,None,36718000,26254000,26254000,909000,8359000,2502000,None,None,None,None,None,None,None,None,None,689000,195000,None,None,None,None,None,494000
+BRDR,2014-09-30,USD,None,30515000,22079000,22079000,None,9118000,2486000,None,None,None,None,None,None,None,None,None,None,45000,None,None,None,None,None,None
+BRDR,2014-06-30,USD,None,30964000,21976000,21976000,None,8809000,2159000,None,None,None,None,None,None,None,None,None,None,104000,None,None,None,None,None,None
+BRDR,2014-03-31,USD,None,26514000,19242000,19242000,None,7095000,1789000,None,None,None,None,None,None,None,None,None,None,53000,None,None,None,None,None,None
+BRDR,2013-12-31,USD,None,35886000,26168000,26168000,2481000,6623000,1964000,None,None,None,None,None,None,None,None,None,2023000,215000,None,None,None,None,None,1808000
+BRDR,2013-09-30,USD,None,23216000,18098000,18098000,None,6583000,1818000,None,None,None,None,None,None,None,None,None,None,32000,None,None,None,None,None,None
+BRDR,2013-06-30,USD,None,25583000,19030000,19030000,None,6932000,1627000,None,None,None,None,None,None,None,None,None,None,47000,None,None,None,None,None,None
+BRDR,2013-03-31,USD,None,25772000,18855000,18855000,238000,6113000,1247000,None,None,None,None,None,None,None,None,None,401000,40000,None,None,None,None,None,361000
+BRDR,2012-12-31,USD,None,28976000,22973000,22973000,915000,5088000,1588000,None,None,None,None,None,None,None,None,None,961000,118000,None,None,None,None,None,843000
+BRDR,2012-09-30,USD,None,19006000,15169000,15169000,None,4593000,837000,None,None,None,None,None,None,None,None,None,None,123000,None,None,None,None,None,None
+BRDR,2012-06-30,USD,None,18485000,13849000,13849000,491000,4145000,1256000,None,None,None,None,None,None,None,None,None,657000,43000,None,None,None,None,None,614000
+BRDR,2012-03-31,USD,None,14917000,11242000,11242000,473000,3202000,864000,None,None,None,None,None,None,None,None,None,None,24000,None,None,None,None,None,None

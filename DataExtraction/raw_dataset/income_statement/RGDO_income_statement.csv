@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+RGDO,2015-03-31,USD,None,None,None,None,None,7828000,3653000,None,None,None,None,63000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2014-12-31,USD,None,None,None,None,None,7819000,5596000,None,None,None,None,117000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2014-09-30,USD,None,None,None,None,None,10931000,17709000,None,None,None,None,135000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2014-06-30,USD,None,None,None,None,None,21318000,18506000,None,None,None,None,136000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2014-03-31,USD,None,None,None,None,None,15640000,13115000,None,None,None,None,187000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2013-12-31,USD,None,None,None,None,None,13985000,10948000,None,None,None,None,135000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2013-09-30,USD,None,None,None,None,None,11193000,9597000,None,None,None,None,147000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2013-06-30,USD,None,None,None,None,None,5434000,4265000,None,None,None,None,283000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2013-03-31,USD,None,None,None,None,None,3166000,1732000,None,None,None,None,115000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2012-12-31,USD,None,None,None,None,None,2276000,1487000,None,None,None,None,466000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2012-09-30,USD,None,None,None,None,None,2582000,1607000,None,None,None,None,136000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2012-06-30,USD,None,None,None,None,None,7305000,4912000,None,None,None,None,302000,None,None,None,None,None,None,None,None,None,None,None,None
+RGDO,2011-12-31,USD,None,None,None,None,None,18534000,11862000,None,None,None,None,301000,None,None,None,None,None,None,None,None,None,None,None,None

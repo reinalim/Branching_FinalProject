@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+GSUM,2019-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-126299000
+GSUM,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-126714000
+GSUM,2019-06-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-123526000
+GSUM,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-161390000
+GSUM,2018-12-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-0.08
+GSUM,2018-09-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-24702281.30
+GSUM,2018-06-30,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-13645021
+GSUM,2018-03-31,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-9952710.77
+GSUM,2017-12-31,USD,-306704000,None,None,None,None,31474000,3528000,None,None,None,-198521000,29348000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-238996000
+GSUM,2017-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-34127000
+GSUM,2017-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-32346000
+GSUM,2017-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-57172000
+GSUM,2016-12-31,USD,-235177000,None,None,None,None,23893000,6128000,None,None,None,-116388000,93711000,None,None,None,None,None,None,None,None,None,None,615032000,None,None,None,-98574000
+GSUM,2016-06-30,USD,None,None,None,None,None,None,2675000,None,None,None,None,1565000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+GSUM,2015-12-31,USD,-97377000,None,None,None,None,13100000,3196000,None,None,None,-23454000,39751000,None,None,None,None,None,None,None,None,None,None,615032000,None,None,None,-61757000
+GSUM,2014-12-31,USD,769000,None,None,None,None,7037000,4179000,None,None,None,-25931000,645000,None,None,None,None,None,None,None,None,None,None,615032000,None,None,None,-37260000

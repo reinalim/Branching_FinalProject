@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,KROS,2020-09-30,USD,None,0,None,None,-11948000,-3553000,8395000,11948000,None,-2000,None,2000,None,None,None,None,-12036000,None,None,-12036000,None,-11876000,None,-12036000
+1,KROS,2020-06-30,USD,None,0,None,None,-10914000,3650000,7264000,10914000,None,-1000,None,1000,None,None,None,None,-10757000,None,None,-10757000,None,-10846000,None,-10757000
+2,KROS,2020-03-31,USD,None,0,None,None,-10504000,1977000,8527000,10504000,None,-2000,-1492000,2000,None,None,None,None,-12064000,-172000,None,-11892000,None,-11999000,None,-11892000
+3,KROS,2019-12-31,USD,None,2500000,None,None,-2728000,1067000,4161000,5228000,None,-1000,None,None,None,None,None,None,-2751000,None,None,-2751000,None,-926000,None,-2751000
+4,KROS,2019-09-30,USD,None,2500000,None,None,-2326000,972000,3854000,4826000,None,-3000,None,3000,None,None,None,None,-3549000,None,None,-3549000,None,-3491000,None,-3549000
+5,KROS,2019-06-30,USD,None,2500000,None,None,-2651000,654000,4497000,5151000,None,-2000,None,2000,None,None,None,None,-2853000,None,None,-2853000,None,-2802000,None,-2853000
+6,KROS,2019-03-31,USD,None,2500000,None,None,-2858000,491000,4867000,5358000,None,-2000,-606000,None,None,None,None,None,-3183000,None,None,-3183000,None,-2813000,None,-3183000

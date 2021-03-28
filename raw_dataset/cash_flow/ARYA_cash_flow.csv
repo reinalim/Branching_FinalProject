@@ -1,0 +1,10 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+0,ARYA,2020-09-30,USD,-485648,None,None,None,None,None,0,None,None,None,-149500000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-158991
+1,ARYA,2020-06-30,USD,-485648,None,None,None,None,None,0,None,None,None,-149500000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-11717
+2,ARYA,2020-03-31,USD,-172676,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-3269852
+3,ARYA,2019-12-31,USD,-88992,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,385490
+4,ARYA,2019-09-30,USD,-52188,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,617205
+5,ARYA,2019-06-30,USD,-60364,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,857162
+6,ARYA,2019-03-31,USD,-122436,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,718765
+7,ARYA,2018-12-31,USD,-238300,None,None,None,None,None,0,None,None,None,-143750000,145186600,None,None,None,None,None,None,None,None,None,None,149703130,None,None,None,626600
+8,ARYA,2018-09-30,USD,-122436,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-2352

@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+AHPAU,2018-09-30,None,-723181,None,None,None,None,0,0,None,0,None,0,600000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,5157743
+AHPAU,2018-06-30,USD,-436475,None,None,None,None,0,0,None,0,None,0,375000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,221335
+AHPAU,2018-03-31,USD,-226393,None,None,None,None,0,0,None,0,None,0,200000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-135653
+AHPAU,2017-12-31,EUR,-586604,None,None,None,None,0,0,None,0,None,0,-327578,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-2093913
+AHPAU,2017-09-30,EUR,-494762,None,None,None,None,0,0,None,0,None,0,-427578,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-1595806
+AHPAU,2017-06-30,EUR,48968,None,None,None,None,0,0,None,0,None,-375000,-427578,None,None,None,None,0,0,None,None,None,None,0,None,None,None,521197
+AHPAU,2017-03-31,EUR,-126290,None,None,None,None,0,0,None,0,None,0,-427578,None,None,None,None,0,0,None,None,None,None,0,None,None,None,140863
+AHPAU,2016-09-30,USD,-24486,None,None,None,None,0,0,None,0,None,0,70258,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-30542

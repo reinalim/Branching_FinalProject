@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+RIGP,2016-09-30,USD,264000000,None,None,None,None,None,18000000,None,None,None,None,None,None,None,None,None,-74000000,-74000000,None,None,None,None,None,None,None,None,42000000
+RIGP,2016-06-30,USD,173000000,None,None,None,None,None,12000000,None,None,None,None,None,None,None,None,None,-50000000,-50000000,None,None,None,None,None,None,None,None,36000000
+RIGP,2016-03-31,USD,78000000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-25000000,-25000000,None,None,None,None,None,None,None,None,31000000
+RIGP,2015-12-31,USD,312000000,None,None,None,None,None,16000000,None,None,None,None,None,None,None,None,None,-100000000,-100000000,None,None,None,None,None,None,None,None,34000000
+RIGP,2015-09-30,USD,244000000,None,None,None,None,None,12000000,None,None,None,None,None,None,None,None,None,-75000000,-75000000,None,None,None,None,None,None,None,None,None
+RIGP,2015-06-30,USD,177000000,None,None,None,None,None,10000000,None,None,None,None,None,None,None,None,None,-50000000,-50000000,None,None,None,None,None,None,None,None,35000000
+RIGP,2015-03-31,USD,121000000,None,None,None,None,None,3000000,None,None,None,None,None,None,None,None,None,-25000000,-25000000,None,None,None,None,None,None,None,None,None
+RIGP,2014-12-31,USD,190000000,None,None,None,None,None,3000000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,19000000
+RIGP,2014-09-30,USD,141000000,None,None,None,None,None,2000000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,39000000
+RIGP,2014-06-30,USD,104000000,None,None,None,None,None,2000000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,50000000
+RIGP,2014-03-31,USD,70000000,None,None,None,None,None,1000000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,63000000
+RIGP,2013-12-31,USD,239000000,None,None,None,None,None,4000000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,46000000
+RIGP,2013-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,60000000
+RIGP,2013-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,47000000
+RIGP,2013-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,36000000
+RIGP,2012-12-31,USD,340000000,None,None,None,None,None,15000000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,255000000

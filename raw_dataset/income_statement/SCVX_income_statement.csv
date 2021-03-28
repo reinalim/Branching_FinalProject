@@ -1,0 +1,4 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,SCVX,2020-09-30,USD,None,0,None,None,-171971,171971,None,171971,None,None,None,None,None,None,None,None,-151118,None,None,-151118,None,-171971,None,-151118
+1,SCVX,2020-06-30,USD,None,0,None,None,-120417,120417,None,120417,None,240741,240741,None,None,None,None,None,120324,None,None,120324,None,-120417,None,120324
+2,SCVX,2020-03-31,USD,None,0,None,None,-170233,170233,None,170233,None,282947,282947,None,None,None,None,None,112714,None,None,112714,None,-170233,None,112714

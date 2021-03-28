@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+HHHHU,2020-03-31,USD,None,0,None,None,-285035,None,None,285035,None,177418,177418,None,None,None,None,None,-103166,None,None,-103166,None,-285035,None,-103166
+HHHHU,2019-12-31,USD,None,0,None,None,-358209,None,None,358209,None,246612,246612,None,None,None,None,None,-116245,None,None,-116245,None,-358209,None,-116245
+HHHHU,2019-09-30,USD,None,0,None,None,-188472,188472,None,188472,None,312316,312316,None,None,None,None,None,109516,None,None,109516,None,-188472,None,109516
+HHHHU,2019-06-30,USD,None,0,None,None,-240006,240006,None,240006,None,347261,347261,None,None,None,None,None,127075,None,None,127075,None,-240006,None,127075
+HHHHU,2019-03-31,USD,None,0,None,None,-150058,150058,None,150058,None,178921,178921,None,None,None,None,None,31047,None,None,31047,None,-150058,None,31047
+HHHHU,2018-12-31,USD,None,None,None,None,-60840,None,None,None,None,None,None,None,None,None,None,None,-60840,None,None,None,None,None,None,-60840

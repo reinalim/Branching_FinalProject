@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,LMPX,2020-09-30,USD,13199645,13371336,171691,171691,-923778,881538,None,14123423,None,-63285,None,63285,None,None,None,None,-752087,None,63285,-923778,-923778,-923778,None,-752087
+1,LMPX,2020-06-30,USD,14422665,7715764,-6706901,134000,82102,675135,None,7499662,None,-51,None,51,None,None,None,None,216102,None,51,82102,216102,82102,None,216102
+2,LMPX,2020-03-31,USD,-1720188,5349713,7069901,276704,-3341782,1621594,None,1621594,None,-55747,None,55747,None,None,None,None,-1720188,None,55747,-3341782,-3341782,-3341782,None,-1720188
+3,LMPX,2019-12-31,USD,247874,3032480,2784606,2784606,-648305,758051,None,-8344414,None,-23233,-23230,25206,None,None,None,None,-572195,None,None,-572195,None,-273426,None,-572195
+4,LMPX,2019-09-30,USD,-169315,1177887,1347202,1347202,-713989,520678,None,1953280,None,-4162,-11400,2189,None,None,None,None,-775393,None,None,-775393,None,-521630,None,-775393
+5,LMPX,2019-06-30,USD,173245,1710480,1537235,1537235,-370056,521127,None,2992132,None,-2833,None,2833,None,None,None,None,-1281652,None,None,-1281652,None,-1031408,None,-1281652
+6,LMPX,2019-03-31,USD,-110820,4937747,5048570,5048570,-1396200,1041728,None,6059919,None,-4409,-4410,4409,None,None,None,None,-1400610,None,None,-1400611,None,-1082194,None,-1400611

@@ -1,0 +1,5 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,PUBM,2020-12-31,USD,44792000,56242000,11450000,11450000,22206000,19616000,2970000,34036000,None,None,None,None,None,None,None,None,21688000,2863000,None,18825000,None,26375000,None,18825000
+1,PUBM,2020-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1621000,None,None,None,None,None,None
+2,PUBM,2019-12-31,USD,25070000,34393000,9323000,9323000,5869000,16082000,3119000,28524000,None,291000,291000,None,None,None,None,None,5783000,1659000,None,4124000,None,9200000,None,4124000
+3,PUBM,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1039000,None,None,None,None,None,None

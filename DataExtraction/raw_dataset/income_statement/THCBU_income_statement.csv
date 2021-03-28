@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+THCBU,2020-09-30,USD,None,None,None,None,-174340,None,None,174340,None,579117,579117,None,None,None,None,None,-128211,None,None,-101287,None,-174340,None,-101287
+THCBU,2020-06-30,USD,None,0,None,None,-251714,None,None,251714,None,983408,983408,None,None,None,None,None,-206579,None,None,-163197,None,-161440,None,-163197
+THCBU,2020-03-31,USD,None,0,None,None,-228749,None,None,228749,None,1027157,1027157,None,None,None,None,None,2236648,None,None,1766055,None,4702050,None,1766055
+THCBU,2019-12-31,USD,None,0,None,None,-251152,None,None,251152,None,1254820,1254820,None,None,None,None,None,1167661,245210,None,922451,None,2586470,None,922451
+THCBU,2019-09-30,USD,None,0,None,None,-262271,None,None,262271,None,1577268,1577268,None,None,None,None,None,1127691,231100,None,896594,None,2517650,None,896594
+THCBU,2019-06-30,USD,None,0,None,None,-195350,None,None,195350,None,1670719,1670719,None,None,None,None,None,1608439,418940,None,1264809,None,4199540,None,1264809
+THCBU,2019-03-31,USD,None,0,None,None,-70040,None,None,70042,None,409539,428680,None,None,None,None,None,358640,75310,None,283325,None,787320,None,283330

@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+NEBUU,2020-03-31,USD,None,0,None,None,-914593,864543,None,914593,None,None,None,None,None,None,None,None,123994,None,None,-167702,None,-914593,None,-167702
+NEBUU,2019-12-31,USD,None,0,None,None,-1798933,879585,None,1798933,None,None,None,None,None,None,None,None,-555949,-666320,None,110372,None,-1798933,None,110372
+NEBUU,2019-09-30,USD,None,0,None,None,-140316,90316,None,140316,None,None,None,None,None,None,None,None,1345514,450830,None,894682,None,-140316,None,894682
+NEBUU,2019-06-30,USD,None,0,None,None,-157351,107351,None,157351,None,None,None,None,None,None,None,None,1439034,908760,None,530275,None,-157351,None,530275
+NEBUU,2019-03-31,USD,None,0,None,None,-152509,102409,None,152509,None,None,None,None,None,None,None,None,1367694,308980,None,1058716,None,-152509,None,1058716
+NEBUU,2018-12-31,USD,None,None,None,None,-129750,129750,None,None,None,None,None,None,None,None,None,None,1243630,277910,None,None,None,None,None,965720

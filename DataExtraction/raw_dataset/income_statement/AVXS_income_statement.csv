@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AVXS,2018-03-31,USD,0,0,0,0,-222456000,221189000,199709000,0,None,None,None,None,None,None,None,None,-222102000,0,None,-222102000,None,-222102000,None,-222102000
+AVXS,2017-12-31,USD,0,0,0,0,-82523000,81568000,51445000,0,None,None,None,None,None,None,None,None,-81665000,0,None,-81665000,None,-81665000,None,-81665000
+AVXS,2017-09-30,USD,0,0,0,0,-49520000,48934000,33425000,0,None,None,None,None,None,None,None,None,-48638000,0,None,-48638000,None,-48638000,None,-48638000
+AVXS,2017-06-30,USD,0,0,0,0,-58359000,57874000,45206000,0,None,None,None,None,None,None,None,None,-58029000,0,None,-58029000,None,-58029000,None,-58029000
+AVXS,2017-03-31,USD,0,0,0,0,-29964894,29721000,20315000,0,None,None,None,None,None,None,None,None,-29718954,0,None,-29718954,None,-29718954,None,-29718954
+AVXS,2016-12-31,USD,0,0,0,0,-25547569,25516000,18350000,0,None,None,None,None,None,None,None,None,-25374804,0,None,-25374804,None,-25374804,None,-25374804
+AVXS,2016-09-30,USD,0,0,0,0,-21180186,21174000,14097000,0,None,None,None,None,None,None,None,None,-21081873,0,None,-21081873,None,-21081873,None,-21081873
+AVXS,2016-06-30,USD,0,0,0,0,-15797788,15782000,10380000,0,None,None,None,None,None,None,None,None,-15718958,0,None,-15718958,None,-15718958,None,-15718958
+AVXS,2016-03-31,USD,None,None,None,None,None,20878000,16065000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+AVXS,2015-12-31,USD,None,None,None,None,None,13160000,8738000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+AVXS,2015-09-30,USD,None,None,None,None,None,10026000,6289000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+AVXS,2015-06-30,USD,None,None,None,None,None,9922000,7656000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+AVXS,2015-03-31,USD,None,None,None,None,None,5453000,4811000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+AVXS,2014-12-31,USD,None,None,None,None,None,15417000,13550000,None,None,None,None,16000,None,None,None,None,None,None,None,None,None,None,None,None

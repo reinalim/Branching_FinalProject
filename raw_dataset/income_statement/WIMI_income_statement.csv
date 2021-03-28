@@ -1,0 +1,10 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,WIMI,2020-06-30,CNY,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,490829,None,None,None,None,None,None
+1,WIMI,2020-03-31,CNY,26403415,85417950,None,None,None,8185967,None,None,None,None,None,None,None,None,None,None,None,490829,None,None,None,None,None,None
+2,WIMI,2019-12-31,CNY,173013580,319181420,146167840,146167840,None,41806640,None,60162040,None,None,None,None,None,None,None,None,None,-792612,None,None,None,105920650,None,None
+3,WIMI,2019-09-30,CNY,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-792612,None,None,None,None,None,None
+4,WIMI,2019-06-30,CNY,52144762,79989127,27844365,27844365,42287136,8356114,1501512,37701991,None,-815545,435052,1250597,None,None,None,None,42615036,831237,None,41783799,None,47273680,None,41783799
+5,WIMI,2019-03-31,CNY,55890630,78492280,22601650,22601650,42031140,12434800,1424695,13859490,None,-1251591,-1251590,1259580,None,None,None,None,41376860,3883067,None,37493792,None,43513580,None,37493790
+6,WIMI,2018-12-31,CNY,139857500,225271560,85414060,85414060,100802590,31034830,None,None,None,None,-4846920,None,None,None,None,None,97293390,8075600,None,None,None,None,None,89217790
+7,WIMI,2018-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1349783,None,None,None,None,None,None
+8,WIMI,2018-03-31,CNY,33185540,49226630,16041090,16041090,25239330,6308370,None,None,None,None,-1675290,None,None,None,None,None,23639080,1412147,None,None,None,None,None,22226930

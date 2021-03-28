@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,VITL,2020-09-30,USD,18350000,53367000,35017000,35017000,2413000,15937000,None,50954000,None,-110000,None,110000,None,None,None,None,2282000,620000,None,1662000,None,3006000,None,1677000
+1,VITL,2020-06-30,USD,22698000,59341000,36643000,36643000,9062000,13636000,None,50279000,None,-97000,None,97000,None,None,None,None,8784000,2848000,None,5936000,None,9379000,None,5964000
+2,VITL,2020-03-31,USD,15855000,47579000,31724000,31724000,2903000,12952000,None,44676000,None,-158000,None,158000,None,None,None,None,2765000,831000,None,1934000,None,3379000,None,1945000
+3,VITL,2019-12-31,USD,9773000,41421000,31648000,31648000,-6006000,15779000,None,47427000,None,-99000,None,99000,None,None,None,None,-6057000,None,None,-4324000,None,-5156000,None,-4301000
+4,VITL,2019-09-30,USD,10598000,34082000,23484000,23484000,1184000,9414000,None,32898000,None,-85000,None,85000,None,None,None,None,1146000,323000,None,823000,None,1624000,None,829000
+5,VITL,2019-06-30,USD,11000000,32285000,21285000,21285000,None,7091000,None,None,None,None,None,None,None,None,None,None,None,1095000,None,None,None,4332000,None,None
+6,VITL,2019-03-31,USD,11506000,32945000,21439000,21439000,None,7243000,None,None,None,None,None,None,None,None,None,None,None,1421000,None,None,None,5888000,None,None

@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,GHLD,2020-09-30,USD,None,562500000,None,None,None,281979000,None,None,None,-1094000,14905000,15999000,None,None,None,None,246309000,64223000,None,182086000,None,None,None,182086000
+1,GHLD,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,18232500,None,None,None,None,None,None
+2,GHLD,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,18232500,None,None,None,None,None,None
+3,GHLD,2019-12-31,USD,None,-44320000,None,None,None,-134806000,None,None,None,-1391000,14614000,16005000,None,None,None,None,62382000,None,None,44079000,None,None,None,44079000
+4,GHLD,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-2661000,None,None,None,None,None,None

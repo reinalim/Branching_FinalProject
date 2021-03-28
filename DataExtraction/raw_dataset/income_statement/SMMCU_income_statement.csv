@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SMMCU,2020-09-30,USD,None,0,None,None,-207011,207011,None,207011,None,20326,20326,None,None,None,None,None,-186685,None,None,-147481,None,-207011,None,-147481
+SMMCU,2020-06-30,USD,None,0,None,None,-243841,243841,None,243841,None,96195,96195,None,None,None,None,None,-147646,None,None,-116641,None,-243841,None,-116641
+SMMCU,2020-03-31,USD,None,0,None,None,-245851,245851,None,245851,None,787134,787134,None,None,None,None,None,541283,None,None,427614,None,-245851,None,427614
+SMMCU,2019-12-31,USD,None,None,None,None,-272390,None,None,None,None,None,1005670,None,None,None,None,None,733280,153990,None,None,None,None,None,579290
+SMMCU,2019-09-30,USD,None,0,None,None,-222295,222295,None,222295,None,1245883,1245883,None,None,None,None,None,1023588,214950,None,808635,None,-222295,None,808635
+SMMCU,2019-06-30,USD,None,0,None,None,-65808,65808,None,65808,None,86506,86506,None,None,None,None,None,20698,4140,None,16561,None,-65808,None,16561
+SMMCU,2019-03-31,USD,None,None,None,None,-1000,None,None,None,None,None,None,None,None,None,None,None,-1000,None,None,None,None,None,None,-1000

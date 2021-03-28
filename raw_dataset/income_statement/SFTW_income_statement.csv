@@ -1,0 +1,9 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,SFTW,2020-09-30,USD,None,0,None,None,-2205105,2205105,None,2205105,None,101658,101658,None,None,None,None,None,-2119726,-251353,None,-1868373,None,-2205105,None,-1868373
+1,SFTW,2020-06-30,USD,None,0,None,None,-198382,198382,None,198382,None,435966,435966,None,None,None,None,None,-144865,-30422,None,-114443,None,184067,None,-114443
+2,SFTW,2020-03-31,USD,None,0,None,None,-258326,258326,None,258326,None,1207866,1207866,None,None,None,None,None,1327790,278836,None,1048954,None,-636576,None,1048954
+3,SFTW,2019-12-31,USD,None,0,None,None,-261465,261465,None,261465,None,None,708510,None,None,None,None,None,447049,93275,None,353774,None,-261465,None,353774
+4,SFTW,2019-09-30,USD,-1061,0,1061,1061,-1061,1061,None,1061,None,None,None,None,None,None,None,None,-1061,None,None,-1061,None,-1061,None,-1061
+5,SFTW,2019-06-30,USD,None,0,None,None,-1019,1019,None,1019,None,0,0,None,None,None,None,None,-1019,None,None,-1019,None,-1019,None,-1019
+6,SFTW,2019-03-31,USD,None,0,None,None,-800,800,None,801,None,0,0,None,None,None,None,None,-800,None,None,-801,None,-801,None,-800
+7,SFTW,2018-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-798,None,None,-798,None,None,None,-798

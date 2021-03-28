@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MNPR,2020-12-31,USD,132302,132302,0,None,-2260750,628377,1632373,2260750,None,9902,None,None,None,None,None,None,None,None,None,-2279111,-2126277,-2260750,None,-2128448
+MNPR,2020-09-30,USD,8541,8541,0,None,-1647979,392063,1255916,1647979,None,8541,8541,None,None,None,None,None,-1639438,None,None,-1647979,-1637928,-1647979,None,-1639438
+MNPR,2020-06-30,USD,18322,18322,0,None,-1464132,631629,832503,1464132,None,18322,18322,None,None,None,None,None,-1445810,None,None,-1464132,-1442353,-1464132,None,-1445810
+MNPR,2020-03-31,USD,45137,45137,0,None,-1136014,791607,344407,1136014,None,45137,45137,None,None,None,None,None,-1090877,None,None,-1136014,-1094918,-1136014,None,-1090877
+MNPR,2019-12-31,USD,-80851,18036,98887,None,-1224895,641117,583778,1224895,None,18036,18036,None,None,None,None,None,-1206859,None,None,-1224895,-1205634,-1224895,None,-1206859
+MNPR,2019-09-30,USD,23368,23368,80851,None,-759448,539602,219846,759448,None,23368,23368,None,None,None,None,None,-736080,None,None,-759448,-744819,-759448,None,-736080
+MNPR,2019-06-30,USD,26409,26409,None,None,-932109,602815,329294,932109,None,26409,26409,None,None,None,None,None,-905700,None,None,-932109,-904633,-932109,None,-905700

@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+RSO,2018-03-31,USD,12277000,12277000,0,0,5424000,6840000,None,0,None,None,None,14384000,None,None,None,None,-169000,-32000,None,-137000,None,14215000,None,110000
+RSO,2017-12-31,USD,11570000,11570000,0,0,4295000,7262000,None,0,None,None,None,15203000,None,None,None,None,1645000,675000,None,970000,None,16848000,None,-2314000
+RSO,2017-09-30,USD,10872000,10872000,0,0,690000,10156000,None,0,None,None,None,13853000,None,None,None,None,29209000,4464000,None,24745000,None,43062000,None,18658000
+RSO,2017-06-30,USD,10121000,10121000,0,0,3137000,6952000,None,0,None,None,None,14347000,None,None,None,None,12543000,-25000,None,12568000,None,26890000,None,8384000
+RSO,2017-03-31,USD,11146000,11146000,0,0,3570000,7331000,None,0,None,None,None,14254000,None,None,None,None,10673000,1499000,None,9174000,None,24927000,None,8613000
+RSO,2016-12-31,USD,8208000,8208000,0,0,173000,6530000,None,0,None,None,None,13346000,None,None,None,None,4640000,1434000,None,3206000,None,17986000,None,-3522000
+RSO,2016-09-30,USD,12102000,12102000,0,0,-45536000,31561000,None,0,None,None,None,19833000,None,None,None,None,-37893000,8939000,None,-40669000,None,-18060000,None,-39458000
+RSO,2016-06-30,USD,16620000,16620000,0,0,-6889000,22873000,None,0,None,None,None,21105000,None,None,None,None,6968000,-2729000,None,14765000,None,28073000,None,9597000
+RSO,2016-03-31,USD,23605000,23605000,0,0,7591000,15373000,None,0,None,None,None,15771000,None,None,None,None,14783000,763000,None,16332000,None,30554000,None,16332000

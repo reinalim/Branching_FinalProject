@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,WAFU,2020-03-31,USD,1264110,3137180,1873070,1873070,None,None,None,None,None,None,None,None,None,None,None,None,None,13032,None,None,None,-297530,None,None
+1,WAFU,2019-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,13032,None,None,None,None,None,None
+2,WAFU,2019-09-30,USD,986310,2500200,1513890,1513890,-1037660,2023960,None,1768928,None,None,46450,None,None,None,None,None,-996940,93217,None,-591687,None,-518831,None,-1225030
+3,WAFU,2019-06-30,USD,986310,2500200,1513890,1513890,-518831,2023960,None,2023970,None,None,None,None,None,None,None,None,-498470,93217,None,-591687,None,-878380,None,-612514
+4,WAFU,2019-03-31,USD,986310,2500200,1513890,1513890,-1515170,2023960,0,2023970,None,None,52120,0,None,0,None,None,-1461990,-109947,None,-621048,None,-878380,None,-1090370
+5,WAFU,2018-12-31,USD,1839370,2896110,1056740,1056740,-757589,1089726,0,1988546,None,None,None,0,None,0,None,None,-730995,-109947,None,-621048,None,399850,None,-545186
+6,WAFU,2018-09-30,USD,1641910,2906560,1264650,1264650,276590,1291170,0,1291170,None,None,74540,0,None,0,None,None,346660,61545,None,111784,None,702080,None,144190
+7,WAFU,2018-06-30,USD,1641910,2906560,1264650,1264650,138293,1291170,0,1291170,None,None,None,0,None,0,None,None,173329,61545,None,111784,None,702080,None,72094
+8,WAFU,2018-03-31,USD,664280,2461920,1797640,1797640,350740,1291170,0,1277912,None,None,120330,0,None,None,None,None,470750,-9542,None,244918,None,-1185150,None,537550
+9,WAFU,2017-12-31,USD,828879,1453281,624401,624401,175369,645586,0,1277912,None,None,None,0,None,None,None,None,235375,-9542,None,244918,None,175369,None,268774
+10,WAFU,2017-09-30,USD,2096480,3061330,964850,964850,721750,1374730,None,None,None,None,113820,None,None,None,None,None,824750,111110,None,None,None,None,None,607060

@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ACAMU,2020-09-30,USD,None,0,None,None,-255207,None,None,255207,None,98485,98485,None,None,None,None,None,-156722,None,None,-167195,None,-255207,None,-167195
+ACAMU,2020-06-30,USD,None,0,None,None,-253693,None,None,253693,None,491146,491146,None,None,None,None,None,237453,None,None,144812,None,-253693,None,144812
+ACAMU,2020-03-31,USD,None,0,None,None,-936005,None,None,936005,None,1185986,1185986,None,None,None,None,None,249981,None,None,11236,None,-936005,None,11236
+ACAMU,2019-12-31,USD,None,0,None,None,-274361,None,None,274361,None,1387475,1387475,None,None,None,None,None,1113114,281050,None,832064,None,-274361,None,832064
+ACAMU,2019-09-30,USD,None,0,None,None,-268252,None,None,268252,None,1683965,1683965,None,None,None,None,None,1415713,343570,None,1072146,None,-268252,None,1072146
+ACAMU,2019-06-30,USD,None,0,None,None,-271121,None,None,271121,None,1808625,1808625,None,None,None,None,None,1537504,369680,None,1167827,None,-271121,None,1167827
+ACAMU,2019-03-31,USD,None,0,None,None,-119100,None,None,119100,None,651492,651492,None,None,None,None,None,532390,126230,None,406165,None,-119100,None,406170

@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+KAACU,2017-12-31,GBP,0,0,0,0,-251508,150358,0,251508,None,None,None,0,None,None,None,None,594687,269182,None,325505,None,-251508,None,325505
+KAACU,2017-09-30,GBP,0,0,0,0,-179856,123956,0,179856,None,None,None,0,None,None,None,None,477002,256345,None,220657,None,-179856,None,220657
+KAACU,2017-06-30,GBP,0,0,0,0,-1106946,1063946,0,1106946,None,None,None,0,None,None,None,None,-562921,170349,None,-733270,None,-1106946,None,-733270
+KAACU,2017-03-31,GBP,0,0,0,0,-553473,531973,0,553473,None,None,None,0,None,None,None,None,-281461,85175,None,-366635,None,-553473,None,-366635

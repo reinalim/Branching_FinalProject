@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,GNRS,2020-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-35746,None,None,None,None,None,None
+1,GNRS,2020-09-30,USD,None,0,None,None,-436062,436062,None,436062,None,4377,4377,None,None,None,None,None,-431685,-90338,None,-341347,None,-436062,None,-341347
+2,GNRS,2020-06-30,USD,None,0,None,None,-273652,273652,None,273652,None,43276,43276,None,None,None,None,None,-230376,-48373,None,-182003,None,-187090,None,-182003
+3,GNRS,2020-03-31,USD,None,0,None,None,-275379,275379,None,275379,None,1104572,1104572,None,None,None,None,None,829193,174457,None,654736,None,1933770,None,654736
+4,GNRS,2019-12-31,USD,None,None,None,None,-2200,None,None,None,None,None,None,None,None,None,None,None,-2200,None,None,None,None,None,None,-2200
+5,GNRS,2019-09-30,USD,None,None,None,None,-1620,None,None,None,None,None,None,None,None,None,None,None,-1620,None,None,None,None,None,None,-1620

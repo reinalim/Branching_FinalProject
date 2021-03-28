@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CBYL,2016-09-30,USD,None,7000,None,None,None,2412000,332000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2016-06-30,USD,None,7000,None,None,None,3551000,948000,None,None,None,None,155000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2016-03-31,USD,None,7000,None,None,None,5041000,3532000,None,None,None,None,88000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2015-12-31,USD,None,8000,None,None,None,5542000,4260000,None,None,None,None,88000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2015-09-30,USD,None,7000,None,None,None,4873000,3533000,None,None,None,None,95000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2015-06-30,USD,None,7000,None,None,None,5640000,4504000,None,None,None,None,169000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2015-03-31,USD,None,7000,None,None,None,4877000,3902000,None,None,None,None,836000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2014-12-31,USD,None,8000,None,None,None,3808000,3031000,None,None,None,None,562000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2014-09-30,USD,None,10000,None,None,None,3561000,2088000,None,None,None,None,357000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2014-06-30,USD,None,5000,None,None,None,2431000,1750000,None,None,None,None,83000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2014-03-31,USD,None,6000,None,None,None,1852000,1425000,None,None,None,None,80000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2013-12-31,USD,None,415000,None,None,None,5604000,4229000,None,None,None,None,405000,None,None,None,None,None,None,None,None,None,None,None,None
+CBYL,2012-12-31,USD,None,1538000,None,None,None,3333000,1959000,None,None,None,None,256000,None,None,None,None,None,None,None,None,None,None,None,None

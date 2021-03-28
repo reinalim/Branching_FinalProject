@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+NCFT,2015-03-31,USD,None,95011000,69121000,69121000,8980000,13570000,None,None,None,None,None,2335000,None,None,None,None,5432000,1749000,None,None,None,None,None,3015000
+NCFT,2014-12-31,USD,None,93957000,68511000,68511000,7411000,14811000,None,None,None,None,None,2422000,None,None,None,None,4973000,None,None,None,None,None,None,4516000
+NCFT,2014-09-30,USD,None,100424000,71661000,71661000,11956000,13660000,None,None,None,None,None,2420000,None,None,None,None,None,None,None,None,None,None,None,None
+NCFT,2014-06-30,USD,None,97601000,69578000,69578000,11151000,13685000,None,None,None,None,None,2389000,None,None,None,None,6002000,1246000,None,None,None,None,None,4032000
+NCFT,2014-03-31,USD,None,84030000,61511000,61511000,6814000,12472000,None,None,None,None,None,2318000,None,None,None,None,2794000,437000,None,None,None,None,None,2013000
+NCFT,2013-12-31,USD,None,80493000,58368000,58368000,5060000,13742000,None,None,None,None,None,6527000,None,None,None,None,None,879000,None,None,None,None,None,None
+NCFT,2013-09-30,USD,None,91570000,66624000,66624000,8073000,13685000,None,None,None,None,None,7258000,None,None,None,None,None,None,None,None,None,None,None,None
+NCFT,2013-06-30,USD,None,90284000,64948000,64948000,9055000,13022000,None,None,None,None,None,7250000,None,None,None,None,1828000,25000,None,None,None,None,None,1803000
+NCFT,2013-03-31,USD,None,77348000,56466000,56466000,5914000,11604000,None,None,None,None,None,7227000,None,None,None,None,None,None,None,None,None,None,None,None
+NCFT,2012-12-31,USD,None,71232000,54595000,54595000,3222000,13415000,None,None,None,None,None,7227000,None,None,None,None,None,None,None,None,None,None,None,None
+NCFT,2012-09-30,USD,None,73863000,55360000,55360000,4654000,13849000,None,None,None,None,None,7241000,None,None,None,None,None,None,None,None,None,None,None,None
+NCFT,2012-06-30,USD,None,143687000,105319000,105319000,11488000,26880000,None,None,None,None,None,14471000,None,None,None,None,None,None,None,None,None,None,None,None
+NCFT,2011-12-31,USD,None,269305000,190918000,190918000,22353000,42627000,None,None,None,None,None,28569000,None,None,None,None,None,None,None,None,None,None,None,None

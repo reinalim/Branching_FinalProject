@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CNNX,2017-09-30,USD,56658000,56658000,0,0,34665000,16364000,None,0,None,None,None,1197000,None,None,None,None,33468000,0,None,28914000,None,34665000,None,28914000
+CNNX,2017-06-30,USD,56534000,56534000,0,0,34790000,16069000,None,0,None,None,None,1124000,None,None,None,None,29752000,0,None,28991000,None,30876000,None,28991000
+CNNX,2017-03-31,USD,58958000,58958000,0,0,34278000,19009000,None,0,None,None,None,1038000,None,None,None,None,33240000,0,None,30067000,None,34278000,None,30067000
+CNNX,2016-12-31,USD,57827000,57827000,0,0,22591000,29419000,None,0,None,None,None,694000,None,None,None,None,31980000,0,None,24849000,None,32674000,None,24849000
+CNNX,2016-09-30,USD,60729000,60729000,0,0,26603000,28734000,None,0,None,None,None,305000,None,None,None,None,36381000,0,None,23631000,None,36686000,None,23631000
+CNNX,2016-06-30,USD,58407000,58407000,0,0,24847000,18324000,None,0,None,None,None,381000,None,None,None,None,24466000,0,None,23216000,None,24847000,None,23216000

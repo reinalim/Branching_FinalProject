@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,TSHA,2020-12-31,USD,None,0,None,None,-18367000,6107000,12260000,18367000,None,49000,None,0,None,None,None,None,-18318000,None,None,-18318000,None,-18312000,None,-18318000
+1,TSHA,2020-09-30,USD,None,0,None,None,-15041000,3984000,11057000,15041000,None,-1000,None,1000,None,None,None,None,-15042000,None,None,-15042000,None,-15041000,None,-15042000
+2,TSHA,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,TSHA,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+4,TSHA,2019-12-31,USD,None,0,None,None,-1115000,128000,987000,1115000,None,None,None,None,None,None,None,None,-1115000,None,None,-1115000,None,-1115000,None,-1115000

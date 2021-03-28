@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+GHIVU,2020-09-30,USD,None,0,None,None,-5388410,5338410,None,5388410,None,39551,39551,None,None,None,None,None,-5348859,None,None,-5349146,None,-5388410,None,-5349146
+GHIVU,2020-06-30,USD,None,0,None,None,-234825,184825,None,234825,None,173361,173361,None,None,None,None,None,-61464,None,None,-48557,None,-234825,None,-48557
+GHIVU,2020-03-31,USD,None,0,None,None,-236200,186200,None,236200,None,880040,880040,None,None,None,None,None,643840,None,None,516825,None,-236200,None,516825
+GHIVU,2019-12-31,USD,None,0,None,None,-17785,16672,None,17785,None,None,None,None,None,None,None,None,-17771,None,None,-17771,None,-17785,None,-17771
+GHIVU,2019-09-30,USD,None,0,None,None,-21217,20500,None,21217,None,-14,None,None,None,None,None,None,-21231,None,None,-21231,None,-21217,None,-21231
+GHIVU,2019-06-30,USD,None,None,None,None,-20500,20500,None,20500,None,None,None,None,None,None,None,None,-20500,224,None,-20724,None,-20500,None,-20724

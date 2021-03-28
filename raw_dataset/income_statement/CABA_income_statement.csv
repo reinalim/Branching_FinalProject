@@ -1,0 +1,12 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,CABA,2020-12-31,USD,None,0,None,None,-9330000,3555000,5775000,9330000,None,21000,21000,None,None,None,None,None,-9309000,None,None,-9309000,None,-9220000,None,-9309000
+1,CABA,2020-09-30,USD,None,0,None,None,-8416000,2766000,5650000,8416000,None,23000,23000,None,None,None,None,None,-8393000,None,None,-8393000,None,-8326000,None,-8393000
+2,CABA,2020-06-30,USD,None,0,None,None,-8192000,2861000,5331000,8192000,None,40000,40000,None,None,None,None,None,-8152000,None,None,-8152000,None,-8114000,None,-8152000
+3,CABA,2020-03-31,USD,None,0,None,None,-7895000,3275000,4620000,7895000,None,410000,410000,None,None,None,None,None,-7485000,None,None,-7485000,None,-7819000,None,-7485000
+4,CABA,2019-12-31,USD,None,0,None,None,-5860000,2834000,3026000,5860000,None,457000,457000,None,None,None,None,None,-5403000,None,None,-5403000,None,-5809000,None,-5403000
+5,CABA,2019-09-30,USD,None,0,None,None,-5031000,1811000,3220000,5031000,None,381000,381000,None,None,None,None,None,-4650000,None,None,-4650000,None,-4999000,None,-4650000
+6,CABA,2019-06-30,USD,None,0,None,None,-3802000,1138000,2664000,3802000,None,444000,444000,None,None,None,None,None,-3358000,None,None,-3358000,None,-3781000,None,-3358000
+7,CABA,2019-03-31,USD,None,0,None,None,-3990000,1229000,2761000,3990000,None,458000,458000,None,None,None,None,None,-3532000,None,None,-3532000,None,-3990000,None,-3532000
+8,CABA,2018-12-31,USD,None,None,None,None,-2572500,662000,1910500,2572500,None,None,None,None,None,None,None,None,-5590500,None,None,-5590500,None,-2572500,None,-5590500
+9,CABA,2018-09-30,USD,None,None,None,None,-3080000,491000,2589000,3080000,None,None,None,None,None,None,None,None,-9276000,None,None,-9276000,None,-3080000,None,-9276000
+10,CABA,2018-06-30,USD,None,None,None,None,None,409000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

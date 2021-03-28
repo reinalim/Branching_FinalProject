@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+BRPAU,2020-09-30,USD,559,559,None,None,-169028,None,None,169028,None,559,559,None,None,None,None,None,-168469,-42690,None,-125779,-125779,-169028,None,-125779
+BRPAU,2020-06-30,USD,25017,25017,None,None,-181259,None,None,181259,None,25017,25017,None,None,None,None,None,-156242,-6741,None,-149501,-149501,-181259,None,-149501
+BRPAU,2020-03-31,USD,465148,465148,None,None,-119300,119300,None,119300,None,113077,113077,None,None,None,None,None,345848,72628,None,273220,273220,-119300,None,273220
+BRPAU,2019-12-31,USD,172283,172283,None,None,-190959,190960,None,190959,None,172283,172283,None,None,None,None,None,-18676,-3922,None,-14754,-14754,-190959,None,-14754
+BRPAU,2019-09-30,USD,258236,258236,None,None,-183305,183310,None,183305,None,258236,258236,None,None,None,None,None,74931,15736,None,59195,59195,-183305,None,59195
+BRPAU,2019-06-30,USD,392439,392439,None,None,-175742,175740,None,175742,None,392439,392439,None,None,None,None,None,216697,40676,None,176021,176021,-175742,None,176021
+BRPAU,2019-03-31,USD,382862,382862,None,None,-163181,163180,None,163181,None,382862,382860,None,None,None,None,None,219681,31716,None,187965,187965,-163181,None,187965
+BRPAU,2018-12-31,USD,319474,319474,None,None,-322076,0,None,322076,None,319474,None,None,None,None,None,None,-2602,-31741,None,29139,29139,-322076,None,29139
+BRPAU,2018-09-30,USD,283390,283390,None,None,-220243,15000,None,220243,None,283390,None,None,None,None,None,None,63073,34989,None,28083,28083,-220243,None,28084
+BRPAU,2018-06-30,USD,272482,272482,None,None,-271810,30000,None,271810,None,272482,None,None,None,None,None,None,2346,8948,None,-6602,-6602,-271810,None,-6602
+BRPAU,2018-03-31,USD,213569,213569,None,None,-192374,30000,None,192374,None,213569,None,None,None,None,None,None,19596,4115,None,15481,15481,-192374,None,15481

@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TMCXU,2018-12-31,None,0,0,0,0,-329127,0,0,0,None,None,None,0,None,None,None,None,2383739,-212569,None,0,None,0,None,-440325
+TMCXU,2018-09-30,None,0,0,0,0,-41405,0,0,0,None,None,None,0,None,None,None,None,1004583,371891,None,0,None,0,None,1224607
+TMCXU,2018-06-30,USD,0,0,0,0,-182192,0,0,0,None,None,None,0,None,None,None,None,592729,152404,None,0,None,0,None,441953
+TMCXU,2018-03-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,0,None,0,None,-814

@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,AYLA,2020-09-30,USD,0,658000,658000,658000,-7283000,1862000,5421000,7941000,None,-40000,None,None,None,None,None,None,-7323000,115000,None,-7438000,None,-7234000,None,-7438000
+1,AYLA,2020-06-30,USD,0,1045000,1045000,1045000,-6613000,1546000,5067000,7658000,None,40000,40000,None,None,None,None,None,-6573000,139000,None,-6712000,None,-6577000,None,-6712000
+2,AYLA,2020-03-31,USD,0,1001000,1001000,1001000,-6439000,1311000,5128000,7440000,None,-38000,-38000,None,None,None,None,None,-6477000,121000,None,-6598000,None,-6386000,None,-6598000
+3,AYLA,2019-12-31,USD,-3000,372000,375000,375000,-5386000,1522000,3861000,5758000,None,42000,42000,None,None,None,None,None,-5344000,None,None,-5423000,None,-5283000,None,-5423000
+4,AYLA,2019-09-30,USD,360000,845000,485000,485000,-4957000,945000,4372000,5802000,None,-51000,None,None,None,None,None,None,-5008000,39000,None,-5047000,None,-4938000,None,-5047000
+5,AYLA,2019-06-30,USD,692000,852000,160000,160000,-3768000,1021000,3439000,4620000,None,98000,98000,None,None,None,None,None,-3670000,113000,None,-3783000,None,-3760000,None,-3783000
+6,AYLA,2019-03-31,USD,0,265000,265000,265000,-3600000,848000,2752000,3865000,None,136000,136000,None,None,None,None,None,-3464000,75000,None,-3539000,None,-3580000,None,-3539000

@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+UXIN,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-258902000
+UXIN,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,143349000
+UXIN,2020-03-31,CNY,-411271000,None,None,None,None,22678000,307000,None,3478000,None,159898000,-165519000,None,None,None,None,None,None,None,None,None,None,-7000000,None,None,None,-2484179000
+UXIN,2019-12-31,CNY,-411271000,None,None,None,None,None,0,None,None,None,159898000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1071631000
+UXIN,2019-09-30,CNY,-411271000,None,None,None,None,0,0,0,0,None,159898000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-266850000
+UXIN,2019-06-30,CNY,-411271000,None,None,None,None,0,0,0,0,None,159898000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-365657000
+UXIN,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-284538000
+UXIN,2018-12-31,CNY,-2281333000,None,None,None,None,88803000,133907000,0,0,None,-1078617000,4274052000,None,None,None,None,0,0,None,None,None,None,4248418000,None,0,0,-1538285000
+UXIN,2018-09-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-86261264.54
+UXIN,2018-06-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,32351829.63
+UXIN,2018-03-31,USD,-59303399.41,None,None,None,None,3144176.42,6595016.32,None,5329352.76,None,-48617944.43,255723588.89,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-132426239.95
+UXIN,2017-12-31,USD,-1834243000,None,None,None,None,71863000,12482000,None,-67252000,None,-1498219000,505486000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-2722596000
+UXIN,2017-06-30,USD,-819910000,None,None,None,None,21260000,22842000,None,44389000,None,-242782000,747575000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-560578000
+UXIN,2017-03-31,USD,-483220000,None,None,None,None,16504000,22810000,None,-107834000,None,-609648000,1250589000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-506474000
+UXIN,2016-12-31,USD,-661210000,None,None,None,None,52503000,13672000,None,-4345000,None,1345000,-133001000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1357745000

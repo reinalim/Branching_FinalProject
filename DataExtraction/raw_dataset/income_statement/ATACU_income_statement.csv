@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ATACU,2018-06-30,USD,0,0,0,0,0,82,0,None,None,None,None,0,None,None,None,None,-82,0,None,None,None,None,None,-82
+ATACU,2018-03-31,USD,0,0,0,0,0,25,0,None,None,None,None,0,None,None,None,None,0,0,None,None,None,None,None,-25
+ATACU,2017-12-31,USD,0,0,0,0,-63341,63341,None,63341,None,None,None,None,None,None,None,None,69382,13349,None,56033,None,-63341,None,56033
+ATACU,2017-09-30,USD,0,0,0,0,-30478,30478,0,30478,None,None,None,0,None,None,None,None,19984,21021,None,-1037,None,-30478,None,-1037
+ATACU,2017-06-30,USD,0,0,0,0,-30478,30478,0,0,None,None,None,0,None,None,None,None,-56,0,None,-56,None,0,None,-56
+ATACU,2017-03-31,USD,0,0,0,0,-30478,30478,None,0,None,None,None,None,None,None,None,None,-41,0,None,-41,None,0,None,-41

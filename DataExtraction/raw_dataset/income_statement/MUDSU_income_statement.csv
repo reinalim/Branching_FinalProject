@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MUDSU,2020-03-31,USD,None,0,None,None,-3122431,3122431,None,3122431,None,659559,659559,None,None,None,None,None,-2462872,None,None,-2590879,None,-1803310,None,-2590879
+MUDSU,2019-12-31,USD,None,0,None,None,-422531,422531,None,422531,None,905168,905168,None,None,None,None,None,482637,179580,None,303062,None,1387810,None,303062
+MUDSU,2019-09-30,USD,None,0,None,None,-150834,150834,None,150834,None,1115123,1115123,None,None,None,None,None,964289,223680,None,740613,None,2079410,None,740613
+MUDSU,2019-06-30,USD,None,0,None,None,-143880,143880,None,143880,None,1211631,1211631,None,None,None,None,None,1067751,243940,None,823809,None,2279380,None,823809
+MUDSU,2019-03-31,USD,None,0,None,None,-158655,158655,None,158655,None,1154606,1154606,None,None,None,None,None,995951,252610,None,743340,None,2150560,None,743340
+MUDSU,2018-12-31,USD,0,0,0,0,-201800,137000,0,0,None,None,None,0,None,None,None,None,-779000,-181000,None,0,None,1868230,None,-598000
+MUDSU,2018-09-30,USD,0,0,0,0,0,137000,0,0,None,None,None,0,None,None,None,None,779000,181000,None,0,None,1695470,None,598000
+MUDSU,2018-06-30,USD,0,0,0,0,0,165000,0,0,None,None,None,0,None,None,None,None,617000,154000,None,0,None,0,None,463000
+MUDSU,2018-03-31,USD,0,0,0,0,0,106000,0,0,None,None,None,0,None,None,None,None,6000,13000,None,0,None,0,None,0
+MUDSU,2017-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-7156,0,None,-7156,None,0,None,-7156
+MUDSU,2017-09-30,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,0,None,None,-1196,0,None,-1196,None,0,None,-1196

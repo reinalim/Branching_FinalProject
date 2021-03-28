@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+ARPI,2015-09-30,USD,17794000,None,None,None,None,None,0,None,None,None,None,19123000,None,None,None,None,-3222000,-3222000,None,None,None,None,None,None,None,None,None
+ARPI,2015-06-30,USD,9487000,None,None,None,None,None,0,None,None,None,None,22582000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2015-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,37672000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-12-31,USD,14015000,None,None,None,None,None,0,None,None,None,None,469793000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-09-30,USD,11976000,None,None,None,None,None,0,None,None,None,None,358160000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-06-30,USD,12215000,None,None,None,None,None,0,None,None,None,None,193041000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2014-03-31,USD,7088000,None,None,None,None,None,0,None,None,None,None,133835000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-12-31,USD,7179000,None,None,None,None,None,0,None,None,None,None,541122000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-09-30,USD,9054000,None,None,None,None,None,0,None,None,None,None,431265000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-06-30,USD,2150000,None,None,None,None,None,0,None,None,None,None,263456000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2013-03-31,USD,624000,None,None,None,None,None,0,None,None,None,None,29515000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ARPI,2012-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,347035000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

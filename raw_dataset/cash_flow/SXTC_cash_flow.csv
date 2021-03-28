@@ -1,0 +1,16 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+0,SXTC,2020-09-30,USD,-166754,None,None,None,None,None,0,None,None,None,1369024,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+1,SXTC,2020-06-30,USD,-166754,None,None,None,None,None,0,None,None,None,1369024,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2,SXTC,2020-03-31,USD,1479041,None,None,None,None,None,0,None,None,None,-4418,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+3,SXTC,2019-12-31,USD,1479041,None,None,None,None,None,0,None,None,None,-4418,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+4,SXTC,2019-09-30,USD,-1011917,None,None,None,None,None,0,None,None,None,-2743934,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+5,SXTC,2019-06-30,USD,-1011917,None,None,None,None,None,0,None,None,None,-2743934,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+6,SXTC,2019-03-31,USD,237161,None,None,None,None,49118,263135,None,38702,None,-268775,4521042,None,None,None,None,None,None,None,None,None,None,None,None,None,None,273432
+7,SXTC,2018-12-31,USD,237161,None,None,None,None,49118,263135,None,38702,None,-268775,4521042,None,None,None,None,None,None,None,None,None,None,None,None,None,None,273432
+8,SXTC,2018-09-30,USD,-117565,None,None,None,None,41341,36268,None,-3111,None,-36268,4521042,None,None,None,None,None,None,None,None,None,None,None,None,None,None,496182
+9,SXTC,2018-06-30,USD,-117565,None,None,None,None,41341,36268,None,-3111,None,-36268,4521042,None,None,None,None,None,None,None,None,None,None,None,None,None,None,496182
+10,SXTC,2018-03-31,USD,1920160,None,None,None,None,123270,1050730,None,4423,None,-1143150,-314220,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1187580
+11,SXTC,2017-12-31,USD,-213820,None,None,None,None,95440,54660,None,None,None,480120,-310110,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1005710
+12,SXTC,2017-09-30,USD,162730,None,None,None,None,30944,49520,None,-216621,None,-53825,-153881,None,None,None,None,None,None,None,None,None,None,None,None,None,None,393652
+13,SXTC,2017-03-31,USD,293000,None,None,None,None,14597,179000,None,384000,None,-93046,394,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1185000
+14,SXTC,2016-03-31,USD,182000,None,None,None,None,None,60000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,142000

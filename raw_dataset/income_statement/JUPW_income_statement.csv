@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,JUPW,2020-09-30,USD,81727,178335,96608,96608,-568685,650412,None,747020,None,-38604,1068,39672,None,None,None,None,-607289,None,None,-607289,None,-520727,None,-607289
+1,JUPW,2020-06-30,USD,220873,457667,236794,236794,-397240,618113,None,854907,None,-36135,69,36204,None,None,None,None,-433375,None,None,-433375,None,-350438,None,-433375
+2,JUPW,2020-03-31,USD,17824,117727,99903,99903,-464429,482253,None,582156,None,-17369,846,18215,None,None,None,None,-481798,None,None,-481798,None,-442725,None,-481798
+3,JUPW,2019-12-31,USD,-12896,56,12952,12952,-650686,637790,None,650742,None,-4312,1315,5627,None,None,None,None,-654998,None,None,-654998,None,-649371,None,-654998
+4,JUPW,2019-09-30,USD,1946,5068,3122,3122,-127032,128978,None,132100,None,-864,66,930,None,None,None,None,-127896,None,None,-127896,None,-126966,None,-127896

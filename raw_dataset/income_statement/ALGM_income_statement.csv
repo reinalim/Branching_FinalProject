@@ -1,0 +1,10 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,ALGM,2020-12-31,USD,74425000,164449000,90024000,90024000,-24224000,67650000,30999000,188673000,None,-2598000,None,None,None,None,None,None,-35583000,-30523000,None,-5060000,None,-12025000,None,-5095000
+1,ALGM,2020-09-30,USD,55701000,115001000,59300000,59300000,12402000,26789000,25130000,124247000,None,350000,None,None,None,None,None,None,11700000,2082000,None,9618000,None,15939000,None,9584000
+2,ALGM,2020-06-30,USD,55701000,115001000,59300000,59300000,4532000,26789000,24380000,110469000,None,313000,None,None,None,None,None,None,5382000,528000,None,4854000,None,15939000,None,4820000
+3,ALGM,2020-03-31,USD,71758000,174604000,102846000,102846000,18905000,28366000,24487000,155699000,None,-50000,None,None,None,None,None,None,17792000,None,None,13329000,None,35905000,None,13296000
+4,ALGM,2019-12-31,USD,61525000,159802000,98277000,98277000,11131000,24909000,25485000,148671000,None,10000,None,None,None,None,None,None,10500000,1542000,None,8958000,None,27262000,None,8926000
+5,ALGM,2019-09-30,USD,59387000,152443000,93056000,93056000,15061000,25528000,25952000,148179000,None,-65000,None,None,None,None,None,None,14416000,2833000,None,11583000,None,20469000,None,11565000
+6,ALGM,2019-06-30,USD,59387000,152443000,93056000,93056000,None,25528000,None,None,None,None,None,None,None,None,None,None,None,7335000,None,None,None,20469000,None,None
+7,ALGM,2007-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1592000,None,None,None,None,None,None
+8,ALGM,2007-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1227500,None,None,None,None,None,None

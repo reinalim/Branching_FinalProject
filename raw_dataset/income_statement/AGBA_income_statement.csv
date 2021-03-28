@@ -1,0 +1,8 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,AGBA,2020-09-30,USD,None,0,None,None,-87281,87281,None,87281,None,48,48,None,None,None,None,None,-86687,None,None,-86687,None,-87281,None,-86687
+1,AGBA,2020-06-30,USD,None,0,None,None,-80962,80962,None,80962,None,334574,334574,None,None,None,None,None,260651,None,None,260651,None,602260,None,260651
+2,AGBA,2020-03-31,USD,None,0,None,None,-132978,132978,None,132978,None,22,22,None,None,None,None,None,-132771,None,None,-132771,None,-132560,None,-132771
+3,AGBA,2019-12-31,USD,None,0,None,None,-76671,76671,None,76671,None,505882,505882,None,None,None,None,None,429392,None,None,429392,None,935450,None,429392
+4,AGBA,2019-09-30,USD,None,0,None,None,-136639,136639,None,136639,None,17,17,None,None,None,None,None,-136617,None,None,-136617,None,-136600,None,-136617
+5,AGBA,2019-06-30,USD,0,0,0,0,-115319,115319,0,115319,None,31,31,0,None,0,None,None,-115288,0,None,-115288,None,-115260,None,-115288
+6,AGBA,2019-03-31,USD,0,0,0,0,-10020,10020,0,10020,None,5,5,0,None,0,None,None,-10015,0,None,-10015,None,-10020,None,-10015

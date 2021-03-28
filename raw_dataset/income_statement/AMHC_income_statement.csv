@@ -1,0 +1,6 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,AMHC,2020-09-30,USD,None,0,None,None,-220289,220289,None,220289,None,10883,10883,None,None,None,None,None,-209406,-8215,None,-201191,None,-220289,None,-201191
+1,AMHC,2020-06-30,USD,None,0,None,None,-327561,327561,None,327561,None,44307,44307,None,None,None,None,None,-283254,-1195,None,-282059,None,-238950,None,-282059
+2,AMHC,2020-03-31,USD,None,0,None,None,-228666,228666,None,228666,None,325348,325348,None,None,None,None,None,96682,57823,None,38859,None,422030,None,38859
+3,AMHC,2019-12-31,USD,None,None,None,None,-135300,136300,None,None,None,None,154570,None,None,None,None,None,19270,16230,None,None,None,None,None,3040
+4,AMHC,2019-09-30,USD,None,None,None,None,-1000,None,None,None,None,None,None,None,None,None,None,None,-1000,None,None,-1000,None,None,None,-1000

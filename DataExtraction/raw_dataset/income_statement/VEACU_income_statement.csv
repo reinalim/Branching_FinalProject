@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+VEACU,2018-12-31,None,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,0,None,0,None,1554224
+VEACU,2017-12-31,USD,0,0,0,0,-140524.23,140524.23,0,140524.23,None,None,None,0,None,0,None,None,189390.32,463502,None,118155.75,None,-140524.23,None,118155.75
+VEACU,2017-09-30,USD,0,0,0,0,-4508.97,4508.97,0,4508.97,None,None,None,0,None,0,None,None,132848.02,371400,None,77026.93,None,-4508.97,None,77026.93
+VEACU,2017-06-30,USD,0,0,0,0,-3883.41,3883.41,0,3883.41,None,None,None,0,None,0,None,None,93532.42,213000,None,62120.66,None,-3883.41,None,62120.66
+VEACU,2017-03-31,USD,0,0,0,0,-3823.53,3823.53,0,0,None,None,None,0,None,0,None,None,-1018.14,0,None,-1018.14,None,0,None,-1018.14

@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AGAM,2010-09-30,USD,None,50481000,5286000,5286000,3196000,35555000,12028000,None,None,None,None,2768000,None,None,None,None,931000,None,None,None,None,None,None,1502000
+AGAM,2010-06-30,USD,None,53750000,6312000,6312000,5106000,35926000,11470000,None,None,None,None,2390000,None,None,None,None,3124000,None,None,None,None,None,None,3642000
+AGAM,2010-03-31,USD,None,51276000,5810000,5810000,3499000,35537000,10150000,None,None,None,None,2061000,None,None,None,None,None,None,None,None,None,None,None,None
+AGAM,2009-12-31,USD,None,54170000,6237000,6237000,4087000,37303000,10292000,None,None,None,None,2400000,None,None,None,None,660000,None,None,None,None,None,None,915000
+AGAM,2009-09-30,USD,None,50159000,5214000,5214000,4613000,33869000,8428000,None,None,None,None,3994000,None,None,None,None,1308000,None,None,None,None,None,None,2187000
+AGAM,2009-06-30,USD,None,49961000,6912000,6912000,4680000,32410000,8618000,None,None,None,None,3638000,None,None,None,None,2567000,400000,None,None,None,None,None,2167000
+AGAM,2009-03-31,USD,None,44420000,7764000,7764000,None,30523000,7859000,None,None,None,None,4511000,None,None,None,None,None,None,None,None,None,None,None,None
+AGAM,2008-12-31,USD,None,42413000,6616000,6616000,3829000,27196000,8988000,None,None,None,None,3886000,None,None,None,None,149000,None,None,None,None,None,None,868000
+AGAM,2008-09-30,USD,None,43638000,5663000,5663000,9731000,23266000,7562000,None,None,None,None,4011000,None,None,None,None,5432000,None,None,None,None,None,None,5875000
+AGAM,2008-06-30,USD,None,80845000,10356000,10356000,12732000,47967000,16210000,None,None,None,None,8595000,None,None,None,None,3901000,1548000,None,None,None,None,None,2353000
+AGAM,2007-12-31,USD,None,147255000,19519000,19519000,32457000,76746000,26556000,None,None,None,None,21213000,None,None,None,None,9922000,3844000,None,None,None,None,None,6078000
+AGAM,2006-12-31,USD,None,127529000,22885000,22885000,None,49611000,12096000,None,None,None,None,20193000,None,None,None,None,19534000,6909000,None,None,None,None,None,None

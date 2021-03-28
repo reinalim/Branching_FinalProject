@@ -1,0 +1,4 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MCACU,2020-09-30,USD,None,0,None,None,-153612,None,None,153612,None,18968,18968,None,None,None,None,None,-134644,None,None,-134545,None,-153612,None,-134545
+MCACU,2020-06-30,USD,None,0,None,None,-22749,22749,None,22749,None,4074,4074,None,None,None,None,None,-19846,None,None,-19600,None,-21578,None,-19600
+MCACU,2020-03-31,USD,None,0,None,None,-211,211,None,211,None,None,None,None,None,None,None,None,-211,None,None,-211,None,-211,None,-211

@@ -1,0 +1,13 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,AKRO,2020-12-31,USD,None,0,None,None,-29783000,4074000,25709000,29783000,None,None,None,None,None,None,None,None,-29711000,None,None,-29711000,None,-29772000,None,-29711000
+1,AKRO,2020-09-30,USD,None,0,None,None,-21538000,4159000,17379000,21538000,None,135000,135000,None,None,None,None,None,-21403000,None,None,-21403000,None,-21538000,None,-21403000
+2,AKRO,2020-06-30,USD,None,0,None,None,-16454000,3417000,13037000,16454000,None,247000,247000,None,None,None,None,None,-16207000,None,None,-16207000,None,-16454000,None,-16207000
+3,AKRO,2020-03-31,USD,None,0,None,None,-12379000,3588000,8791000,12379000,None,493000,493000,None,None,None,None,None,-11886000,None,None,-11886000,None,-12379000,None,-11886000
+4,AKRO,2019-12-31,USD,None,0,None,None,-16221000,3083000,13138000,16221000,None,None,None,None,None,None,None,None,-15611000,None,None,-15611000,None,-16221000,None,-15611000
+5,AKRO,2019-09-30,USD,None,0,None,None,-16309000,2424000,13885000,16309000,None,None,None,None,None,None,None,None,-15554000,None,None,-15554000,None,-16309000,None,-15554000
+6,AKRO,2019-06-30,USD,None,0,None,None,-7609000,1649000,5960000,7609000,None,None,None,None,None,None,None,None,-7228000,None,None,-7228000,None,-7609000,None,-7228000
+7,AKRO,2019-03-31,USD,0,0,0,0,-5512000,1449000,4063000,5512000,None,None,None,0,None,None,None,None,-5362000,0,None,-5362000,None,-5512000,None,-5362000
+8,AKRO,2018-12-31,USD,0,0,0,0,-2968000,993000,1975000,2968000,None,None,None,0,None,None,None,None,-61472000,0,None,-61472000,None,-2968000,None,-61472000
+9,AKRO,2018-06-30,USD,None,None,None,None,-8662000,242000,8420000,8662000,None,None,None,None,None,None,None,None,-8673000,None,None,-8673000,None,-8662000,None,-8673000
+10,AKRO,2018-03-31,USD,0,0,0,0,-421000,195000,226000,421000,None,None,None,0,None,None,None,None,-421000,0,None,-421000,None,-421000,None,-421000
+11,AKRO,2017-12-31,USD,0,0,0,0,-959909,280000,679909,959909,None,None,None,0,None,None,None,None,-959909,0,None,-959909,None,-959909,None,-959909

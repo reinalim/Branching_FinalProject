@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ALACU,2020-09-30,USD,None,0,None,None,-100347,None,None,100347,None,383,383,None,None,None,None,None,-99964,None,None,-99964,None,-100347,None,-99964
+ALACU,2020-06-30,USD,None,0,None,None,-146045,None,None,146045,None,24276,24276,None,None,None,None,None,-121769,None,None,-121769,None,-146045,None,-121769
+ALACU,2020-03-31,USD,None,0,None,None,-149055,149055,None,149055,None,535195,535195,None,None,None,None,None,386140,None,None,386140,None,921340,None,386140
+ALACU,2019-12-31,USD,None,0,None,None,-112427,112427,None,112427,None,573977,573977,None,None,None,None,None,461550,None,None,461550,None,1035530,None,461550
+ALACU,2019-09-30,USD,None,0,None,None,-80795,80795,None,80795,None,617379,617379,None,None,None,None,None,536584,None,None,536584,None,1153960,None,536584
+ALACU,2019-06-30,USD,None,0,None,None,-137145,137145,None,137145,None,694360,694360,None,None,None,None,None,557215,None,None,557215,None,2475340,None,557215
+ALACU,2019-03-31,USD,None,0,None,None,-153740,153741,None,153741,None,688753,688750,None,None,None,None,None,535010,None,None,535012,None,1223760,None,535010
+ALACU,2018-12-31,USD,None,None,None,None,-78050,None,None,None,None,None,None,None,None,None,None,None,366340,None,None,None,None,None,None,366340

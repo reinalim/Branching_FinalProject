@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ARYA,2020-09-30,USD,None,0,None,None,-174671,174671,None,174671,None,None,None,None,None,None,None,None,-158991,None,None,-158991,None,-190351,None,-158991
+ARYA,2020-06-30,USD,None,0,None,None,-11717,11717,None,11717,None,None,None,None,None,None,None,None,-11717,None,None,-11717,None,-11717,None,-11717
+ARYA,2020-03-31,USD,None,0,None,None,-4127299,4127299,None,4127299,None,None,None,None,None,None,None,None,-3269852,None,None,-3269852,None,-4127299,None,-3269852
+ARYA,2019-12-31,USD,None,0,None,None,-355113,355113,None,355113,None,None,None,None,None,None,None,None,385490,None,None,385490,None,-355113,None,385490
+ARYA,2019-09-30,USD,None,0,None,None,-177719,177719,None,177719,None,None,None,None,None,None,None,None,617205,None,None,617205,None,-177719,None,617205
+ARYA,2019-06-30,USD,0,0,0,0,-88205,88205,0,88205,None,None,None,0,None,0,None,None,857162,0,None,857162,None,-88205,None,857162
+ARYA,2019-03-31,USD,0,0,0,0,-153570,153570,0,153570,None,None,None,0,None,0,None,None,718765,0,None,718765,None,-153570,None,718765
+ARYA,2018-12-31,USD,0,0,0,0,-109332,1000,0,-2352,None,None,None,0,None,None,None,None,2352,0,None,2352,None,2352,None,628952
+ARYA,2018-09-30,USD,0,0,0,0,-2352,2352,0,2352,None,None,None,0,None,0,None,None,-2352,0,None,-2352,None,-2352,None,-2352

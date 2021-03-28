@@ -1,0 +1,11 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,IMRA,2020-12-31,USD,None,0,None,None,-11550000,2591000,8959000,11550000,None,115000,115000,None,None,None,None,None,-11518000,None,None,-11518000,None,-11550000,None,-11518000
+1,IMRA,2020-09-30,USD,None,0,None,None,-12494000,2961000,9533000,12494000,None,126000,126000,None,None,None,None,None,-12423000,None,None,-12423000,None,-12469000,None,-12423000
+2,IMRA,2020-06-30,USD,None,0,None,None,-10302000,2433000,7869000,10302000,None,110000,110000,None,None,None,None,None,-10204000,None,None,-10204000,None,-10069000,None,-10204000
+3,IMRA,2020-03-31,USD,None,0,None,None,-7352000,1559000,5793000,7352000,None,132000,132000,None,None,None,None,None,-7215000,None,None,-7215000,None,-7328000,None,-7215000
+4,IMRA,2019-12-31,USD,None,0,None,None,-24116000,5107000,5541500,7182500,None,164000,578000,None,None,None,None,None,-23463000,None,None,-6936000,None,-7182500,None,-23463000
+5,IMRA,2019-09-30,USD,None,0,None,None,-6882000,1741000,5141000,6882000,None,254000,254000,None,None,None,None,None,-6622000,None,None,-6622000,None,-6874000,None,-6622000
+6,IMRA,2019-06-30,USD,None,0,None,None,-5557000,1191000,4366000,5557000,None,160000,160000,None,None,None,None,None,-5397000,None,None,-5397000,None,-5557000,None,-5397000
+7,IMRA,2019-03-31,USD,None,0,None,None,-4194000,634000,3560000,4194000,None,0,0,None,None,None,None,None,-4194000,None,None,-4194000,None,-4194000,None,-4194000
+8,IMRA,2018-12-31,USD,None,None,None,None,-10677000,2438000,None,None,None,None,None,None,None,None,None,None,-11337000,None,None,None,None,None,None,-11337000
+9,IMRA,2018-06-30,USD,None,None,None,None,-5079000,942000,None,None,None,None,None,None,None,None,None,None,-5379000,None,None,None,None,None,None,-5379000

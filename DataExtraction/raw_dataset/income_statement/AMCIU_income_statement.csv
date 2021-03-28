@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AMCIU,2020-09-30,USD,None,0,None,None,-464612,414612,None,464612,None,None,None,None,None,None,None,None,-425178,None,None,-617905,None,-464612,None,-617905
+AMCIU,2020-06-30,USD,None,0,None,None,-443205,393205,None,443205,None,None,None,None,None,None,None,None,-345560,None,None,-418925,None,-443205,None,-418925
+AMCIU,2020-03-31,USD,None,0,None,None,-175719,116925,None,175719,None,None,695730,None,None,None,None,None,520011,None,None,365235,None,1215750,None,365235
+AMCIU,2019-12-31,USD,None,0,None,None,-137621,87621,None,137621,None,None,928030,None,None,None,None,None,790406,365860,None,424546,None,1718440,None,424546
+AMCIU,2019-09-30,USD,None,0,None,None,-164179,114179,None,164179,None,None,1179250,None,None,None,None,None,1015074,199920,None,815158,None,2194330,None,815158
+AMCIU,2019-06-30,USD,None,0,None,None,-153620,157540,None,153620,None,None,2531080,None,None,None,None,None,1117070,503140,None,842931,None,4667410,None,842931
+AMCIU,2019-03-31,USD,None,0,None,None,-241140,241140,None,241137,None,None,1260390,None,None,None,None,None,1019250,229000,None,790254,None,2279640,None,790250
+AMCIU,2018-12-31,USD,None,None,None,None,-114860,None,None,None,None,None,None,None,None,None,None,None,424420,113000,None,None,None,963700,None,311420

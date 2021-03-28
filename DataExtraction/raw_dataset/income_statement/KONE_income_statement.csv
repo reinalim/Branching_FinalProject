@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+KONE,2017-09-30,USD,-55000,21000,34000,34000,-445000,390000,None,424000,None,None,None,None,None,None,None,None,11500,0,None,11500,None,-445000,None,11500
+KONE,2017-06-30,USD,-55000,21000,34000,34000,-445000,390000,None,424000,None,None,None,None,None,None,None,None,11500,0,None,11500,None,-445000,None,11500
+KONE,2017-03-31,USD,-33000,107500,140500,140500,-429000,396000,None,536500,None,None,None,None,None,None,None,None,-121000,0,None,-121000,None,-429000,None,-121000
+KONE,2016-12-31,USD,-33000,107500,140500,140500,-429000,396000,None,536500,None,None,None,None,None,None,None,None,-121000,0,None,-121000,None,-429000,None,-121000
+KONE,2016-09-30,USD,-3000,348000,351000,351000,-344500,341000,500,692500,None,None,None,None,None,None,None,None,260500,0,None,260500,None,-344500,None,260500
+KONE,2016-06-30,USD,-3000,348000,351000,351000,-344500,341000,500,692500,None,None,None,None,None,None,None,None,260500,0,None,260500,None,-344500,None,260500

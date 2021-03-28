@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CCCR,2018-03-31,GBP,431054,431054,0,0,-237923,172381,None,668977,None,None,None,None,None,None,None,None,-385898,0,None,-385898,None,0,None,-385898
+CCCR,2017-12-31,GBP,-459480,459480,0,0,-3128396,268630,None,2668916,None,None,None,None,None,None,None,None,-2169496,0,None,-2169496,None,0,None,-2169496
+CCCR,2017-09-30,GBP,566672,566672,0,0,-1158950,194436,None,1725622,None,None,None,None,None,None,None,None,-2515292,0,None,-2515292,None,0,None,-2515292
+CCCR,2017-06-30,GBP,-2118372,2118372,0,0,-2891172,160254,None,772800,None,None,None,None,None,None,None,None,-4729875,0,None,-4729875,None,0,None,-4729875
+CCCR,2017-03-31,USD,0,173826,0,0,-1284982,655310,None,0,None,None,None,None,None,None,None,None,-1228077,0,None,-1228077,None,-1228077,None,-1228077
+CCCR,2016-12-31,USD,0,341926,0,0,-687617,1055885,None,0,None,None,None,-469,None,None,None,None,-1374020,0,None,-1374020,None,-1374489,None,-1374020
+CCCR,2016-09-30,USD,0,131689,0,0,None,535008,None,0,None,None,None,-469,None,None,None,None,-624445,0,None,-624445,None,-624445,None,-624445
+CCCR,2016-03-31,USD,0,1654186,0,0,None,391021,None,0,None,None,None,30057,None,None,None,None,1130476,0,None,1130476,None,1160533,None,1130476

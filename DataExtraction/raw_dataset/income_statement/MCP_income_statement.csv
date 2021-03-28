@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MCP,2015-06-30,None,-62431000,220266000,0,0,-119910000,47710000,6625000,None,None,None,None,0,None,None,None,None,0,6320000,None,None,None,None,None,-436902000
+MCP,2015-03-31,None,-24730000,106424000,0,0,-54901000,21457000,3141000,None,None,None,None,0,None,None,None,None,0,2968000,None,None,None,None,None,-102334000
+MCP,2014-12-31,None,-84508000,351675000,0,0,-401438000,52583000,10911000,0,None,None,None,0,None,None,None,None,0,-26166000,None,0,None,0,None,-499755000
+MCP,2014-09-30,None,24587000,111495000,0,0,50320000,16472000,-2895000,0,None,None,None,0,None,None,None,None,0,12906000,None,0,None,0,None,64782000
+MCP,2014-06-30,None,-39666000,235432000,0,0,-99753000,38379000,7249000,0,None,None,None,0,None,None,None,None,0,-9334000,None,0,None,0,None,-169961000
+MCP,2013-12-31,None,-49806000,407039000,0,0,-298696000,83044000,17607000,0,None,None,None,0,None,None,None,None,0,-58042000,None,0,None,0,None,-304457000
+MCP,2013-09-30,None,5678000,135878000,0,0,47358000,28196000,-7346000,0,None,None,None,0,None,None,None,None,0,13120000,None,0,None,0,None,40220000
+MCP,2013-06-30,None,-23040000,283229000,0,0,-105353000,52321000,12911000,0,None,None,None,0,None,None,None,None,0,-26021000,None,0,None,0,None,-110146000
+MCP,2012-12-31,None,6482000,323306000,0,0,-395939000,82201000,18867000,0,None,None,None,0,None,None,None,None,0,-25118000,None,0,None,0,None,-430660000
+MCP,2012-09-30,None,-16091000,16557000,0,0,10608000,15785000,-770000,0,None,None,None,0,None,None,None,None,0,528000,None,0,None,0,None,52188000
+MCP,2012-06-30,None,26954000,189047000,0,0,-50940000,47253000,9699000,0,None,None,None,0,None,None,None,None,0,-29485000,None,0,None,0,None,-71082000
+MCP,2011-09-30,None,0,263927000,0,0,111875000,36597000,0,None,None,None,None,0,None,None,None,None,109412000,14439000,None,None,None,None,None,94260000

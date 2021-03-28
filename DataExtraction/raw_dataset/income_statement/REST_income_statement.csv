@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+REST,2008-03-31,USD,None,1393000,218000,218000,None,3846000,670000,None,None,None,None,127000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2007-12-31,USD,None,788000,165000,165000,None,3653000,711000,None,None,None,None,148000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2007-09-30,USD,None,1153000,209000,209000,None,3684000,707000,None,None,None,None,164000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2007-06-30,USD,None,1036000,218000,218000,None,4304000,807000,None,None,None,None,181000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2007-03-31,USD,None,1124000,211000,211000,None,5101000,1052000,None,None,None,None,196000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2006-12-31,USD,None,1106000,356000,356000,None,4349000,747000,None,None,None,None,217000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2006-09-30,USD,None,1218000,183000,183000,None,4866000,840000,None,None,None,None,231000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2006-06-30,USD,None,1810000,418000,418000,None,4166000,807000,None,None,None,None,202000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2006-03-31,USD,None,1752000,545000,545000,None,4007000,613000,None,None,None,None,84000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2005-12-31,USD,None,1562000,419000,419000,None,2740000,578000,None,None,None,None,8000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2005-09-30,USD,None,1227000,327000,327000,None,2162000,356000,None,None,None,None,7000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2005-06-30,USD,None,1162000,325000,325000,None,2510000,416000,None,None,None,None,7000,None,None,None,None,None,None,None,None,None,None,None,None
+REST,2005-03-31,USD,None,903000,401000,401000,None,2376000,519000,None,None,None,None,3000,None,None,None,None,None,None,None,None,None,None,None,None

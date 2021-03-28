@@ -1,0 +1,7 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,VIAO,2020-12-31,EUR,7300000,44100000,36800000,36800000,-2900000,5800000,1700000,47000000,None,-400000,None,None,None,None,None,None,-3300000,800000,None,-3300000,None,-2900000,None,-3300000
+1,VIAO,2020-09-30,EUR,6400000,43600000,37200000,37200000,1700000,4500000,400000,41900000,None,-300000,None,None,None,None,None,None,1400000,None,None,1400000,None,1700000,None,1400000
+2,VIAO,2020-06-30,EUR,5248985,39172259,33923274,33923274,877118,4327239,491014,38295141,None,-318945,None,None,None,None,None,None,558173,407298,None,150875,None,877118,None,-15642
+3,VIAO,2020-03-31,EUR,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,287893,None,None,None,None,None,None
+4,VIAO,2019-12-31,EUR,2421711,36031335,33609624,33609624,-3053284,3549197,1290259,39084619,None,-442182,None,None,None,None,None,None,-3416073,910058,None,-12457637,None,-3070120,None,-10859184
+5,VIAO,2019-09-30,EUR,500000,30600000,30200000,30200000,-5300000,4100000,700000,36000000,None,-400000,None,None,None,None,None,None,-5600000,-5580000,None,-20000,None,-5300000,None,-20000

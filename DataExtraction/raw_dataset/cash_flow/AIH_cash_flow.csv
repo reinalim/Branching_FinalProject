@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+AIH,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-16914000
+AIH,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-61555000
+AIH,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-79100000
+AIH,2019-12-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-58418000
+AIH,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,115674000
+AIH,2019-06-30,CNY,45691000,None,None,None,None,0.60,52508000,0,0,None,-72823000,3991000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,57295000
+AIH,2019-03-31,CNY,22845500,None,None,None,None,0.72,0.94,0,0,None,-36411500,0.07,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1.43
+AIH,2018-09-30,USD,3325932.83,None,None,None,None,4.01,5.27,0,0,None,-5300921.54,0.40,None,None,None,None,0,0,None,None,None,None,0,None,0,0,2.39
+AIH,2018-06-30,USD,924040.19,None,None,None,None,1212132.57,1822810.44,0,0,None,-4202684.46,1404769.05,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1209883.02
+AIH,2018-03-31,USD,981052.46,None,None,None,None,1286919.83,1935275.85,0,0,None,-4461985.51,1491441.76,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1284531.49

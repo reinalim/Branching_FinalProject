@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+NDRO,2018-06-30,USD,4585505,4585505,0,0,4330219,255286,None,255286,None,None,None,None,None,None,None,None,4432989,0,None,4432989,None,4330219,None,4432989
+NDRO,2018-03-31,USD,2524609,2524609,0,0,2168378,356231,None,356231,None,None,None,None,None,None,None,None,2373261,0,None,2373261,None,2168378,None,2373261
+NDRO,2017-12-31,USD,183962,183962,0,0,39764,144198,None,144198,None,None,None,None,None,None,None,None,38070417,0,None,38070417,None,39764,None,38070417
+NDRO,2017-09-30,USD,1550405,1550405,0,0,1411714,138691,None,138691,None,None,None,None,None,None,None,None,1174602,0,None,1174602,None,1411714,None,1174602
+NDRO,2017-06-30,USD,3546516,3546516,0,0,3379747,166769,None,166769,None,None,None,None,None,None,None,None,3271026,0,None,3271026,None,3379747,None,3271026
+NDRO,2017-03-31,USD,2378074,2378074,0,0,2144794,233280,None,0,None,None,None,None,None,None,None,None,2228028,0,None,2228028,None,2228028,None,2228028
+NDRO,2016-12-31,USD,3344508,3344508,0,0,3200255,144253,None,0,None,None,None,None,None,None,None,None,3194499,0,None,3194499,None,3194499,None,3194499

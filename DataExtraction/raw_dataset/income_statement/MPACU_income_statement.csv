@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MPACU,2017-12-31,USD,0,0,0,0,-616604,616604,0,616604,None,None,None,0,None,None,None,None,974685,502455,None,472230,None,-616604,None,472230
+MPACU,2017-09-30,USD,0,0,0,0,47294,47294,0,-47294,None,None,None,0,None,None,None,None,209622,46817,None,162805,None,47294,None,162805
+MPACU,2017-06-30,USD,0,0,0,0,-206113,206113,0,206113,None,None,None,0,None,None,None,None,355498,207697,None,147801,None,-206113,None,147801
+MPACU,2017-03-31,USD,0,0,0,0,-99910,99910,0,99910,None,None,None,0,None,None,None,None,-25279,0,None,-25279,None,-99910,None,-25279

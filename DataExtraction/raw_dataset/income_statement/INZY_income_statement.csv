@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+INZY,2020-09-30,USD,None,0,None,None,-28316000,3142000,25174000,28316000,None,64000,64000,None,None,None,None,None,-28095000,None,None,-28095000,None,-28273000,None,-28095000
+INZY,2020-06-30,USD,None,0,None,None,-9548000,1671000,7877000,9548000,None,71000,71000,None,None,None,None,None,-9473000,None,None,-9473000,None,-9522000,None,-9473000
+INZY,2020-03-31,USD,None,0,None,None,-7906000,1500000,6406000,7906000,None,171000,171000,None,None,None,None,None,-7738000,None,None,-7738000,None,-7881000,None,-7738000
+INZY,2019-12-31,USD,None,0,None,None,-6768000,1489000,5279000,6768000,None,214000,214000,None,None,None,None,None,-6544000,None,None,-6544000,None,-6743000,None,-6544000
+INZY,2019-09-30,USD,None,0,None,None,-4320000,1003000,3317000,4320000,None,288000,288000,None,None,None,None,None,-4035000,None,None,-4035000,None,-4300000,None,-4035000
+INZY,2019-06-30,USD,None,0,None,None,-4553000,1064000,3489000,4553000,None,394000,394000,None,None,None,None,None,-4173000,None,None,-4173000,None,-4534000,None,-4173000
+INZY,2019-03-31,USD,None,None,None,None,-5164000,1030000,None,None,None,None,210000,None,None,None,None,None,-4971000,None,None,None,None,-5145000,None,-4971000

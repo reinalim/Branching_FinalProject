@@ -1,0 +1,9 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,NBAC,2020-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+1,NBAC,2020-09-30,USD,None,0,None,None,-97034,97034,None,97034,None,87534,87534,None,None,None,None,None,-9500,None,None,-9500,None,-97034,None,-9500
+2,NBAC,2020-06-30,USD,None,0,None,None,-1029429,1029429,None,1029429,None,213104,213104,None,None,None,None,None,-816325,None,None,-816325,None,-1029429,None,-816325
+3,NBAC,2020-03-31,USD,None,0,None,None,-50636,50636,None,50636,None,93672,93672,None,None,None,None,None,43036,None,None,43036,None,-50636,None,43036
+4,NBAC,2019-12-31,USD,None,0,None,None,-175,175,None,175,None,None,None,None,None,None,None,None,-175,None,None,-175,None,-175,None,-175
+5,NBAC,2019-09-30,USD,None,0,None,None,-185,185,None,185,None,0,0,None,None,None,None,None,-185,None,None,-185,None,-185,None,-185
+6,NBAC,2019-06-30,USD,None,0,None,None,-4218,4218,None,4218,None,0,0,None,None,None,None,None,-4218,None,None,-4218,None,-4218,None,-4218
+7,NBAC,2019-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

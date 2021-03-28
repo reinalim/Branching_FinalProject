@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+KBLMU,2020-09-30,USD,-1792373,-1792373,None,None,-1786122,1786122,None,1726122,None,-1792373,-386000,1406373,None,-1567048,None,None,-1888273,-3827,3063895,-3356970,-3356970,-1786122,None,-1884446
+KBLMU,2020-06-30,USD,-270257,-270257,None,None,-3513039,3513039,None,3543039,None,-270257,2950,270257,None,None,None,None,-2320495,-9107,None,-3514539,-3514539,-3513039,None,-2311388
+KBLMU,2020-03-31,USD,408000,408000,None,None,-247592,247592,None,277592,None,408000,35488,None,None,None,None,None,-212104,5307,None,-217411,-217411,-247592,None,-217411
+KBLMU,2019-12-31,USD,-1350000,-1350000,None,None,-421963,421963,None,1645996,None,-1350000,171360,None,None,None,None,None,-250603,39672,None,-290275,-290275,-421963,None,-290275
+KBLMU,2019-09-30,USD,212000,212000,None,None,-225699,225699,None,255699,None,212000,255254,None,None,None,None,None,29555,51345,None,-21790,-21790,-225699,None,-21790
+KBLMU,2019-06-30,USD,-1795000,-1795000,None,None,-296377,296377,None,326377,None,-1795000,355970,None,None,None,None,None,59593,70423,None,-10830,-10830,-296377,None,-10830
+KBLMU,2019-03-31,USD,3006000,3006000,None,None,-264904,264904,None,310383,None,3006000,592310,None,None,None,None,None,327410,95815,None,231595,231595,-264904,None,231595
+KBLMU,2018-12-31,USD,488000,488000,None,None,-172955,172955,None,203233,None,488000,None,None,None,None,None,None,459667,123372,None,336295,336295,-172955,None,336295
+KBLMU,2018-09-30,USD,320000,320000,None,None,-140271,140271,None,187182,None,320000,None,None,None,None,None,None,406999,87386,None,319613,319613,-140271,None,319613
+KBLMU,2018-03-31,USD,767000,767000,None,None,-142639,142639,None,206624,None,767000,None,None,None,None,None,None,244845,50264,None,194581,194581,-142639,None,194581

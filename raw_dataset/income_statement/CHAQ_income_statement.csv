@@ -1,0 +1,5 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,CHAQ,2020-12-31,USD,None,0,None,None,-209897,209897,None,209897,None,1656,1656,None,None,None,None,None,-208241,None,None,-208241,None,-209897,None,-208241
+1,CHAQ,2020-09-30,USD,None,0,None,None,-492799,492799,None,492799,None,7985,7985,None,None,None,None,None,-484814,None,None,-484814,None,-492799,None,-484814
+2,CHAQ,2020-06-30,USD,None,0,None,None,-82342,82342,None,82342,None,11550,11550,None,None,None,None,None,-70792,None,None,-70792,None,-82342,None,-70792
+3,CHAQ,2020-03-31,USD,None,0,None,None,-16923,16923,None,16923,None,None,None,None,None,None,None,None,-16923,None,None,-16923,None,-16923,None,-16923

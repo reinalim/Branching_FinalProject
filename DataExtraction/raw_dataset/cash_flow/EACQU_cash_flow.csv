@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+EACQU,2018-03-31,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+EACQU,2017-12-31,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+EACQU,2017-09-30,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+EACQU,2017-06-30,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+EACQU,2017-03-31,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0
+EACQU,2016-12-31,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,0

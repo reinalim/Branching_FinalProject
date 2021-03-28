@@ -1,0 +1,13 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,KRTX,2020-12-31,USD,None,0,None,None,-24407000,8823000,15584000,24407000,None,441000,441000,0,None,None,None,None,-23966000,43000,None,-24009000,None,-23918000,None,-24009000
+1,KRTX,2020-09-30,USD,None,0,None,None,-19529000,6944000,12585000,19529000,None,688000,688000,0,None,None,None,None,-18841000,None,None,-18841000,None,-18798000,None,-18841000
+2,KRTX,2020-06-30,USD,None,0,None,None,-17825000,7006000,10819000,17825000,None,779000,779000,0,None,None,None,None,-17046000,None,None,-17046000,None,-17013000,None,-17046000
+3,KRTX,2020-03-31,USD,None,0,None,None,-10055000,5635000,4420000,10055000,None,1397000,1397000,0,None,None,None,None,-8658000,None,None,-8658000,None,-8637000,None,-8658000
+4,KRTX,2019-12-31,USD,None,0,None,None,-8866000,3874000,4992000,8866000,None,1092000,1092000,0,None,None,None,None,-7774000,None,None,-7774000,None,-7753000,None,-7774000
+5,KRTX,2019-09-30,USD,None,0,None,None,-9896000,4103000,5793000,9896000,None,858000,858000,0,None,None,None,None,-9038000,None,None,-9038000,None,-9023000,None,-9038000
+6,KRTX,2019-06-30,USD,None,0,None,None,-15070000,8286000,6784000,15070000,None,-70000,452000,522000,None,None,None,None,-15140000,None,None,-15140000,None,-14606000,None,-15140000
+7,KRTX,2019-03-31,USD,-6179000,0,6179000,6179000,-11573000,4606000,6967000,11573000,None,-297000,-432000,412000,None,None,None,None,-12005000,None,None,-12005000,None,-11583000,None,-12005000
+8,KRTX,2018-12-31,USD,None,None,None,None,-8146000,1426000,None,None,None,None,None,None,None,None,None,None,-8327000,None,None,None,None,None,None,-8327000
+9,KRTX,2018-09-30,USD,None,None,None,None,-2473000,1056000,1417000,2473000,None,None,None,-1324000,None,None,None,None,-6238000,None,None,-6238000,None,-2473000,None,-6238000
+10,KRTX,2018-06-30,USD,None,None,None,None,-2431000,256000,2175000,2431000,None,None,None,-392000,None,None,None,None,-539000,None,None,-539000,None,-2431000,None,-539000
+11,KRTX,2018-03-31,USD,-851000,None,851000,851000,-1460000,236000,1224000,1460000,None,None,None,-868000,None,None,None,None,-2408000,None,None,-2408000,None,-1460000,None,-2408000

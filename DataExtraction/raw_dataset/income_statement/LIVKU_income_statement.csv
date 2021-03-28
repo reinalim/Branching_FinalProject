@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+LIVKU,2020-09-30,USD,None,None,None,None,-77000,77000,None,77000,None,3146,3146,None,None,None,None,None,-73854,None,None,-73854,None,-77000,None,-73854
+LIVKU,2020-06-30,USD,None,0,None,None,-120468,120468,None,120468,None,197174,197174,None,None,None,None,None,-106070,None,None,-106070,None,-120468,None,-106070
+LIVKU,2020-03-31,USD,None,0,None,None,-127349,127349,None,127349,None,316742,316742,None,None,None,None,None,372169,None,None,372169,None,-127349,None,372169
+LIVKU,2019-12-31,USD,None,0,None,None,-103585,103585,None,103585,None,49785,49785,None,None,None,None,None,-67402,None,None,-67402,None,-103585,None,-67402

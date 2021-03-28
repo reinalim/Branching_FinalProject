@@ -1,0 +1,9 @@
+,SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+0,AMTI,2020-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+1,AMTI,2020-09-30,USD,None,0,None,None,-16823000,3428000,13395000,16823000,None,59000,59000,None,None,None,None,None,-16793000,None,None,-16793000,None,-16364000,None,-16793000
+2,AMTI,2020-06-30,USD,None,0,None,None,-15323000,2487000,12836000,15323000,None,48000,48000,None,None,None,None,None,-15379000,None,None,-15379000,None,-14958000,None,-15379000
+3,AMTI,2020-03-31,USD,None,0,None,None,-15443000,2489000,12954000,15443000,None,None,132000,None,None,None,None,None,-15311000,None,None,-15311000,None,-15232000,None,-15311000
+4,AMTI,2019-12-31,USD,None,0,None,None,-28290000,1464000,6560000,8024000,None,None,247000,None,None,None,None,None,-28043000,None,None,-7869000,None,-7840000,None,-28043000
+5,AMTI,2019-09-30,USD,None,0,None,None,-7898000,1008000,6890000,7898000,None,36000,36000,None,None,None,None,None,-7865000,None,None,-7865000,None,-7722000,None,-7865000
+6,AMTI,2019-06-30,USD,None,0,None,None,-7367000,867000,6500000,7367000,None,58000,58000,None,None,None,None,None,-7309000,None,None,-7309000,None,-7192000,None,-7309000
+7,AMTI,2019-03-31,USD,None,0,None,None,-5001000,635000,4366000,5001000,None,None,1000,None,None,None,None,None,-5000000,None,None,-5000000,None,-4830000,None,-5000000
