@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+HIRE,2008-06-30,USD,3386000,None,None,None,None,None,959000,None,None,None,24816000,946000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1204000
+HIRE,2008-03-31,USD,547000,None,None,None,None,None,425000,None,None,None,16305000,430000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1503000
+HIRE,2007-12-31,USD,9066000,None,None,None,None,None,1749000,None,None,None,None,39735000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1312000
+HIRE,2007-09-30,USD,4546000,None,None,None,None,None,1315000,None,None,None,None,39825000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1842000
+HIRE,2007-06-30,USD,3721000,None,None,None,None,None,882000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1900000
+HIRE,2007-03-31,USD,860000,None,None,None,None,None,563000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1177000
+HIRE,2006-12-31,USD,9483000,None,None,None,None,None,1435000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,586000
+HIRE,2006-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,6551000
+HIRE,2006-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2356000
+HIRE,2006-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1401000
+HIRE,2005-12-31,USD,388000,None,None,None,None,None,686000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,308000
+HIRE,2005-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,556000
+HIRE,2005-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,28000

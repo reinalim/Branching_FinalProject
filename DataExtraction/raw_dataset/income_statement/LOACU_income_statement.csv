@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+LOACU,2020-11-30,USD,None,0,None,None,-196646,None,None,196646,None,363,363,None,None,None,None,None,-196283,None,None,-196283,None,-196646,None,-196283
+LOACU,2020-08-31,USD,None,0,None,None,-201425,None,None,201425,None,1287,1287,None,None,None,None,None,-200138,None,None,-200138,None,-201425,None,-200138
+LOACU,2020-05-31,USD,None,0,None,None,-168892,None,None,168892,None,45053,45053,None,None,None,None,None,-123839,None,None,-123839,None,-78790,None,-123839
+LOACU,2020-02-29,USD,None,0,None,None,-218240,218240,None,218240,None,152488,152488,None,None,None,None,None,-65752,None,None,-65752,None,-218240,None,-65752
+LOACU,2019-11-30,USD,None,0,None,None,-289884,289884,None,289884,None,180135,180135,None,None,None,None,None,-116123,None,None,-116123,None,185550,None,-116123
+LOACU,2019-08-31,USD,None,0,None,None,-327835,327835,None,327835,None,209002,209002,None,None,None,None,None,-118757,None,None,-118757,None,352180,None,-118757
+LOACU,2019-05-31,USD,None,0,None,None,-242723,242723,None,242723,None,245996,245996,None,None,None,None,None,9571,None,None,9571,None,261860,None,9571
+LOACU,2019-02-28,USD,None,None,None,None,-216022,216022,None,216022,None,220001,220001,None,None,None,None,None,8236,None,None,8236,None,86740,None,8236
+LOACU,2018-11-30,USD,0,0,0,0,-216670,0,0,None,None,None,None,0,None,None,None,None,-15560,0,None,None,None,None,None,-15560

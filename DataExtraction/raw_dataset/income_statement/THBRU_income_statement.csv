@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+THBRU,2020-12-31,USD,None,0,None,None,-1080155,1080155,None,1080155,None,8812,8812,None,None,None,None,None,-1071343,None,None,-1071343,None,-1080155,None,-1071343
+THBRU,2020-09-30,USD,None,0,None,None,-148871,148871,None,148871,None,8812,8812,None,None,None,None,None,-140059,None,None,-140059,None,-148871,None,-140059
+THBRU,2020-06-30,USD,None,0,None,None,-153264,153264,None,153264,None,87114,87114,None,None,None,None,None,-66150,None,None,-66150,None,-153264,None,-66150
+THBRU,2020-03-31,USD,None,0,None,None,-238547,238547,None,238547,None,2017548,2017548,None,None,None,None,None,1779001,None,None,1779001,None,-238547,None,1779001
+THBRU,2019-12-31,USD,None,None,None,None,-750880,None,None,None,None,None,None,550050,None,None,None,None,1392860,None,None,None,None,None,None,1392860
+THBRU,2019-09-30,USD,None,0,None,None,-147173,147173,None,147173,None,None,None,-867170,None,None,None,None,719995,None,None,719995,None,-147173,None,719995
+THBRU,2019-06-30,USD,None,0,None,None,-26355,26355,None,26355,None,0,0,None,None,None,None,None,-26355,None,None,-26355,None,-26355,None,-26355
+THBRU,2019-03-31,USD,None,None,None,None,-5000,None,None,None,None,None,None,None,None,None,None,None,-5000,None,None,None,None,None,None,-5000

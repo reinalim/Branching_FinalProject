@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PTACU,2020-09-30,USD,None,0,None,None,-3143934,3093934,None,3143934,None,None,None,None,None,None,None,None,-3139567,None,None,-3139567,None,-3143934,None,-3139567
+PTACU,2020-06-30,USD,None,0,None,None,-233473,183473,None,233473,None,None,None,None,None,None,None,None,-179151,None,None,-180059,None,-233473,None,-180059
+PTACU,2020-03-31,USD,None,0,None,None,-212074,160057,None,212074,None,None,None,None,None,None,None,None,733886,None,None,545734,None,-212074,None,545734
+PTACU,2019-12-31,USD,None,None,None,None,-166070,166070,None,None,None,None,238710,None,None,None,None,None,72630,32520,None,None,None,None,None,40110
+PTACU,2019-09-30,USD,None,None,None,None,-8000,8000,None,None,None,None,None,None,None,None,None,None,-8000,None,None,None,None,None,None,-8000

@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+INSUU,2020-12-31,USD,1540000,185011465,183471465,183471465,-72835731,None,None,85016731,None,None,None,None,73411000,None,None,None,None,None,None,-81071321,-4500000,-72835731,None,-4500000
+INSUU,2020-09-30,USD,3726000,3726000,0,0,-1691465,None,None,1691465,3859,None,None,None,59914000,None,None,None,-1687606,-12461,None,-1675145,-1675145,-1691465,None,-1675145
+INSUU,2020-06-30,USD,3573000,3573000,0,0,-1381372,None,None,1381372,38310,38310,38310,None,32441000,None,None,None,-1343062,-1510,None,-1341552,-1341552,-1381372,None,-1341552
+INSUU,2020-03-31,USD,-65535,29952000,65535,65535,-342432,None,None,342432,667204,667204,667204,None,29952000,None,None,None,324772,133754,None,191018,191018,-342432,None,191018
+INSUU,2019-12-31,USD,-714000,27350000,28064000,None,-243552,None,None,243552,696625,696625,696625,None,27350000,None,None,None,-20388180,132820,None,320253,-20521000,-243552,None,-20521000
+INSUU,2019-09-30,USD,-852000,45857000,46709000,None,-221338,None,None,221338,938940,938940,938940,None,45857000,None,None,None,717602,187580,None,530022,530022,-221338,None,530022
+INSUU,2019-06-30,USD,-381000,42460000,42841000,None,-240530,None,None,240530,898481,898481,898481,None,42460000,None,None,None,657951,179171,None,478780,478780,-240530,None,478780

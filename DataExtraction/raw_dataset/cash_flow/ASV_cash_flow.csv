@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+ASV,2019-06-30,USD,4801000,None,None,None,None,1231000,151000,None,4687000,None,-151000,-5874000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-223000
+ASV,2019-03-31,USD,-4575000,None,None,None,None,1216000,185000,None,-3943000,None,-185000,5990000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-737000
+ASV,2018-12-31,USD,402000,None,None,None,None,1223000,161000,None,-1775000,None,-161000,-244000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-32741000
+ASV,2018-09-30,USD,-1686000,None,None,None,None,1225000,327000,None,-2798000,None,-327000,2014000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,599000
+ASV,2018-06-30,USD,635000,None,None,None,None,1218000,171000,None,-2625000,None,-171000,-464000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,319000
+ASV,2018-03-31,USD,-201000,None,None,None,None,1184000,330000,None,-1464000,None,-330000,532000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-307000
+ASV,2017-12-31,USD,7523000,None,None,None,None,4810000,548000,None,3494000,None,-548000,-8079000,None,None,None,None,0,0,None,None,None,None,10405000,None,None,None,1709000
+ASV,2017-09-30,USD,8759000,None,None,None,None,0,474000,None,5258000,None,61000,-9384000,None,None,None,None,0,0,None,None,None,None,10405000,None,None,None,521000
+ASV,2017-06-30,USD,5948000,None,None,None,None,0,182000,None,5715000,None,353000,-6868000,None,None,None,None,0,0,None,None,None,None,10405000,None,None,None,1752000
+ASV,2017-03-31,USD,1132000,None,None,None,None,0,38000,None,2348000,None,498000,-2193000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,232000
+ASV,2016-12-31,USD,2417000,None,None,None,None,4728000,325000,None,-1997000,None,-323000,-987000,None,None,None,None,None,None,None,None,None,None,5000000,None,None,None,-1173000
+ASV,2016-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,438000
+ASV,2016-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,770000
+ASV,2015-12-31,USD,-6450000,None,None,None,None,4786000,315000,None,-1734000,None,-315000,6763000,None,None,None,None,None,None,None,None,None,None,5000000,None,None,None,99000

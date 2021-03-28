@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+OPESU,2020-09-30,USD,None,0,None,None,-361978,None,None,361978,None,11160,11160,None,None,None,None,None,-351107,None,None,-343431,None,-361978,None,-343431
+OPESU,2020-06-30,USD,None,0,None,None,-216974,None,None,216974,None,13703,13703,None,None,None,None,None,-203950,None,None,-191857,None,-216974,None,-191857
+OPESU,2020-03-31,USD,None,0,343590,343590,-343592,None,None,343592,None,321864,321864,None,None,None,None,None,-21238,None,None,-15852,None,-343592,None,-15852
+OPESU,2019-12-31,USD,None,0,268380,268380,-268375,None,None,268375,None,399089,399089,None,None,None,None,None,133786,-26730,None,160514,None,-268375,None,160514
+OPESU,2019-09-30,USD,None,0,157430,157430,-157429,None,None,157429,None,621666,621666,None,None,None,None,None,450978,114280,None,336700,None,-157429,None,336700
+OPESU,2019-06-30,USD,None,0,414520,414520,-233367,None,None,233367,None,703004,703004,None,None,None,None,None,486839,328550,None,284309,None,-233367,None,284309
+OPESU,2019-03-31,USD,None,0,181150,181150,-181150,None,None,181150,None,685649,685649,None,None,None,None,None,506260,126020,None,380241,None,-181150,None,380241
+OPESU,2018-12-31,USD,None,None,143200,143200,-143200,None,None,None,None,None,None,None,None,None,None,None,531760,115740,None,None,None,None,None,416020
+OPESU,2018-03-31,USD,0,0,0,0,-69458,69458,0,69458,None,None,None,0,None,0,None,None,28417,5968,None,22449,None,-69458,None,22449
+OPESU,2017-09-30,USD,0,0,0,0,-69458,69458,0,0,None,None,None,0,None,0,None,None,-1140,0,None,-1140,None,0,None,-1140

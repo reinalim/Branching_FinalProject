@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ZU,2015-06-30,USD,92489000,297561000,200628000,200628000,5285000,87204000,None,87204000,None,None,None,-162000,None,8000,None,None,5455000,1915000,None,3540000,None,5293000,None,3540000
+ZU,2015-03-31,USD,92226000,306616000,209907000,209907000,-4453000,96679000,None,-96679000,None,None,None,-170000,None,-63000,None,None,-4346000,-1860000,None,-2486000,None,-4516000,None,-2486000
+ZU,2014-12-31,USD,101067000,391349000,285712000,285712000,11668000,528034000,None,528034000,None,None,None,-79000,None,-58000,None,None,11690000,809000,None,10881000,None,11611000,None,10881000
+ZU,2014-09-30,USD,78689000,285836000,203787000,203787000,-663000,79352000,None,-79352000,None,None,None,-92000,None,76000,None,None,-495000,300000,None,-795000,None,-587000,None,-795000
+ZU,2014-06-30,USD,80956000,285013000,200939000,200939000,7676000,73281000,None,-73281000,None,None,None,-92000,None,-11000,None,None,7756000,None,None,7756000,None,7664000,None,7756000
+ZU,2014-03-31,USD,63734000,237881000,171746000,171746000,-2951000,66685000,None,-66685000,None,None,None,-54000,None,-53000,None,None,-2950000,None,None,-2950000,None,-3004000,None,-2950000
+ZU,2013-12-31,USD,None,257033000,186675000,186675000,12922000,55453000,None,None,None,None,None,None,None,None,None,None,13109000,356000,None,None,None,None,None,12753000
+ZU,2013-09-30,USD,None,166655000,120376000,120376000,None,46784000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZU,2013-06-30,USD,None,145009000,99794000,99794000,4003000,39900000,None,None,None,None,None,None,None,None,None,None,4001000,None,None,None,None,None,None,4001000
+ZU,2013-03-31,USD,None,127012000,89233000,89233000,None,38225000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZU,2012-12-31,USD,None,128479000,92849000,92849000,3232000,31360000,None,None,None,None,None,None,None,None,None,None,3245000,None,None,None,None,None,None,3245000
+ZU,2012-09-30,USD,None,75767000,54914000,54914000,None,27392000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZU,2012-06-30,USD,None,68430000,48215000,48215000,None,21873000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZU,2012-03-31,USD,None,58564000,41596000,41596000,None,20226000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ZU,2011-12-31,USD,None,142545000,104362000,104362000,None,49133000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

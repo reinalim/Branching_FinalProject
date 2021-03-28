@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ANVS,2020-12-31,USD,None,0,None,None,-1704826,497470,1412203,1704826,None,213,None,None,None,None,None,None,-1704613,None,None,-1704613,None,-1704826,None,-1704613
+ANVS,2020-09-30,USD,None,0,None,None,-1016854,884859000,718898,1016854,None,10500,None,None,None,None,None,None,-1006354,None,None,-1006354,None,-1016854,None,-1006354
+ANVS,2020-06-30,USD,None,0,None,None,-2335368,1687150,856478,2335368,None,25878,None,None,None,None,None,None,-2309490,None,None,-2309490,None,-2283610,None,-2309490
+ANVS,2020-03-31,USD,None,0,None,None,-425724,516720,66446,425724,None,10634,None,None,None,None,None,None,-441590,None,None,-441590,None,-457460,None,-441590
+ANVS,2019-12-31,USD,None,0,None,None,-135887,108780,762182,135887,None,-12369,None,-12369,None,None,None,None,-201256,None,None,-201256,None,-109387,None,-201256
+ANVS,2019-09-30,USD,None,0,None,None,-241794,239781,2013,241794,None,-12327,-12327,12327,None,None,None,None,-254121,None,None,-254121,None,-241794,None,-254121
+ANVS,2019-06-30,USD,None,0,None,None,-306076,300036,6040,306076,None,-12124,None,12124,None,None,None,None,-344700,None,None,-344700,None,-306076,None,-344700
+ANVS,2019-03-31,USD,None,0,None,None,-186790,180769,6021,186790,None,-4113,None,4113,None,None,None,None,-190903,None,None,-190903,None,-186790,None,-190903
+ANVS,2018-12-31,USD,None,None,None,None,-168056,154767,13289,168056,None,None,None,-4113,None,None,None,None,-168051,None,None,-168051,None,-168056,None,-168051
+ANVS,2013-09-30,USD,3047,6870,3823,3823,-389018,322220,69845,395888,None,None,None,None,None,None,None,None,-382216,0,None,-382216,None,-389018,None,-382216
+ANVS,2013-06-30,USD,10464,21061,10597,10597,-415306,354143,71627,436367,None,None,None,None,None,None,None,None,-402655,0,None,-402655,None,-415306,None,-402655
+ANVS,2013-03-31,USD,176748,179875,3127,3127,-211541,318684,69605,391416,None,None,None,None,None,None,None,None,-148959,0,None,-148959,None,-211541,None,-148959
+ANVS,2012-12-31,USD,154204,158850,4646,4646,-778633,932837,69605,937483,None,None,None,None,None,None,None,None,-756041,0,None,-756041,None,-778633,None,-1068433

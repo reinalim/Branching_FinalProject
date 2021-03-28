@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PCVX,2020-09-30,USD,None,0,None,None,-20521000,4898000,16410000,20521000,None,33000,33000,0,None,None,None,None,-21018000,None,None,-21018000,None,-20154000,None,-21018000
+PCVX,2020-06-30,USD,None,0,None,None,-20188000,3046000,18178000,-1036000,None,44000,44000,0,None,None,None,None,-20320000,None,None,-20320000,None,-19789000,None,-20320000
+PCVX,2020-03-31,USD,None,0,None,None,-27267000,3281000,24315000,-329000,None,128000,135000,7000,None,None,None,None,-27142000,None,None,-27142000,None,-26748000,None,-27142000
+PCVX,2019-12-31,USD,None,0,None,None,-54153000,2457000,13382000,-183000,None,88000,457000,7000,None,None,None,None,-50274000,None,None,-14621000,None,-14564000,None,-50274000
+PCVX,2019-09-30,USD,None,0,None,None,-12086000,2510000,9630000,-54000,None,111000,120000,9000,None,None,None,None,-11317000,None,None,-11317000,None,-10818000,None,-11317000
+PCVX,2019-06-30,USD,None,0,None,None,-12232000,2264000,9968000,12232000,None,170000,181000,11000,None,None,None,None,-10665000,None,None,-10665000,None,-10299000,None,-10665000
+PCVX,2019-03-31,USD,None,0,None,None,-13944000,1316000,12628000,13944000,None,223000,47000,13000,None,None,None,None,-13671000,None,None,-13671000,None,-13188000,None,-13671000

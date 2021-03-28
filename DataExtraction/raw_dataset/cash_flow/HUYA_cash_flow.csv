@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+HUYA,2020-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,253161000
+HUYA,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,253013000
+HUYA,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,226758000
+HUYA,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,171226000
+HUYA,2019-12-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,159670000
+HUYA,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,123242000
+HUYA,2019-06-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,121801000
+HUYA,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,63460000
+HUYA,2018-12-31,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,14476848.15
+HUYA,2018-09-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,8265078.83
+HUYA,2018-06-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-318753299.34
+HUYA,2018-03-31,USD,0,None,None,None,None,0,0,None,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,None,None,5000716.50
+HUYA,2017-12-31,USD,37262000,None,None,None,None,7387000,5712000,None,None,None,-559561000,119031000,None,None,None,None,None,None,None,None,None,None,264913000,None,None,None,473000
+HUYA,2017-06-30,USD,213723000,None,None,None,None,3201000,24215000,None,None,None,-10144000,6640000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-14963000
+HUYA,2017-03-31,USD,213723000,None,None,None,None,3201000,24215000,None,None,None,-10144000,6640000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-41679000
+HUYA,2016-12-31,USD,-420451000,None,None,None,None,4514000,1000,None,None,None,-96135000,75295000,None,None,None,None,None,None,None,None,None,None,522773000,None,None,None,-625627000

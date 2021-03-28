@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ELECU,2018-02-28,USD,0,0,0,0,-386926,386926,None,0,None,None,None,None,None,None,None,None,-29448,0,None,-29448,None,-29448,None,-29448
+ELECU,2017-11-30,USD,0,0,0,0,-693385,693385,None,0,None,None,None,None,None,None,None,None,-343826,0,None,-343826,None,-343826,None,-343826
+ELECU,2017-08-31,USD,0,0,0,0,-211436,211436,None,0,None,None,None,None,None,None,None,None,162970,0,None,162970,None,162970,None,162970
+ELECU,2017-05-31,USD,0,0,0,0,-277725,277725,None,0,None,None,None,None,None,None,None,None,30641,0,None,30641,None,30641,None,30641
+ELECU,2017-02-28,USD,0,0,0,0,-172335,172335,None,0,None,None,None,None,None,None,None,None,56392,0,None,56392,None,56392,None,56392

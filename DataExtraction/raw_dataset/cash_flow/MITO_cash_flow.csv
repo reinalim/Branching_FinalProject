@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+MITO,2020-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-11210000
+MITO,2020-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-12369000
+MITO,2020-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-15540000
+MITO,2019-12-31,USD,5329000,None,None,None,None,76000,0,None,None,None,None,8209000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,3730000
+MITO,2019-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-16530000
+MITO,2019-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-15750000
+MITO,2019-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-43178000
+MITO,2018-12-31,USD,-21163740,None,None,None,None,73921,0,None,None,None,None,27940621,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-26589533
+MITO,2018-09-30,USD,None,None,None,None,None,None,12000,None,None,None,None,50886000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+MITO,2018-06-30,USD,-21163740,None,None,None,None,73921,0,None,None,None,None,27940621,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-27057000
+MITO,2018-03-31,USD,-21163740,None,None,None,None,73921,0,None,None,None,None,27940621,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-20341000
+MITO,2017-12-31,USD,-18469567,None,None,None,None,84811,161000,None,None,None,-33487,27940621,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-22069813
+MITO,2016-12-31,USD,None,None,None,None,None,None,288000,None,None,None,None,50292000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

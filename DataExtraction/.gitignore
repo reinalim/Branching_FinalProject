@@ -1,0 +1,7 @@
+# Ignore the config.py file.
+config.py
+config2.py
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/

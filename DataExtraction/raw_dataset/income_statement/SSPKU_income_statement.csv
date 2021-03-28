@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SSPKU,2020-12-31,USD,None,0,None,None,-3024774,3024774,None,3024774,None,50844,50844,None,None,None,None,None,-2952859,None,None,-2952859,None,-3024774,None,-2952859
+SSPKU,2020-09-30,USD,None,0,None,None,-159017,159017,None,159017,None,342126,342126,None,None,None,None,None,-113960,None,None,-113960,None,-159017,None,-113960
+SSPKU,2020-06-30,USD,None,0,None,None,-222827,222827,None,222827,None,932978,932978,None,None,None,None,None,-161809,None,None,-161809,None,649133,None,-161809
+SSPKU,2020-03-31,USD,None,0,None,None,-457616,457616,None,457616,None,932037,932037,None,None,None,None,None,1627107,None,None,1627107,None,-1610302,None,1627107
+SSPKU,2019-12-31,USD,None,0,None,None,-173214,173214,None,173214,None,1191908,1191908,None,None,None,None,None,1065036,None,None,1065036,None,-219556,None,1065036
+SSPKU,2019-09-30,USD,None,0,None,None,-133620,133620,None,133620,None,620669,620669,None,None,None,None,None,553123,None,None,553123,None,-199694,None,553123
+SSPKU,2019-06-30,USD,None,None,None,None,-5000,None,None,None,None,None,None,None,None,None,None,None,-5000,None,None,None,None,None,None,-5000

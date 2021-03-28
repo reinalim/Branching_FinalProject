@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CPAAU,2020-09-30,USD,None,0,None,None,-5018078,4968078,None,5018078,None,34433,34433,None,None,None,None,None,-4983645,None,None,-4980376,None,-5018078,None,-4980376
+CPAAU,2020-06-30,USD,None,0,None,None,-160177,110177,None,160177,None,211780,211780,None,None,None,None,None,51603,None,None,17629,None,-160177,None,17629
+CPAAU,2020-03-31,USD,None,0,None,None,-261860,211860,None,261860,None,1459181,1459181,None,None,None,None,None,1197321,None,None,901393,None,-261860,None,901393
+CPAAU,2019-12-31,USD,None,None,None,None,-189490,189490,None,None,None,None,1882160,None,None,None,None,None,1692670,384750,None,None,None,None,None,1307920
+CPAAU,2019-09-30,USD,None,0,None,None,-188090,138090,None,188090,None,1697230,1697230,None,None,None,None,None,1509140,345920,None,1163222,None,-188090,None,1163222
+CPAAU,2019-06-30,USD,None,None,None,None,-2000,2000,None,None,None,None,None,None,None,None,None,None,-2000,None,None,None,None,None,None,-2000

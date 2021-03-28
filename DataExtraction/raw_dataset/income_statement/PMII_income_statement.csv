@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PMII,2009-06-30,USD,None,2261000,1507000,1507000,None,7026000,811000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2009-03-31,USD,None,2743000,1689000,1689000,None,6923000,804000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2008-12-31,USD,None,2368000,1021000,1021000,None,8730000,1266000,None,None,None,None,649000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2008-09-30,USD,None,2242000,1116000,1116000,None,9222000,1539000,None,None,None,None,645000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2008-06-30,USD,None,2160000,2441000,2441000,None,10092000,1509000,None,None,None,None,650000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2008-03-31,USD,None,2224000,2259000,2259000,None,11392000,1582000,None,None,None,None,650000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2007-12-31,USD,None,1918000,1335000,1335000,None,14078000,1835000,None,None,None,None,800000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2007-09-30,USD,None,1701000,645000,645000,None,7804000,1821000,None,None,None,None,1084000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2007-06-30,USD,None,2378000,1498000,1498000,None,7510000,1554000,None,None,None,None,1086000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2007-03-31,USD,None,1815000,790000,790000,None,6479000,999000,None,None,None,None,6000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2006-12-31,USD,None,1838000,2508000,2508000,None,7495000,1304000,None,None,None,None,237000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2006-09-30,USD,None,1521000,1786000,1786000,None,6023000,978000,None,None,None,None,243000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2006-06-30,USD,None,4522000,3801000,3801000,None,11903000,2400000,None,None,None,None,738000,None,None,None,None,None,None,None,None,None,None,None,None
+PMII,2005-12-31,USD,None,11999000,10958000,10958000,None,26443000,5482000,None,None,None,None,916000,None,None,None,None,None,None,None,None,None,None,None,None

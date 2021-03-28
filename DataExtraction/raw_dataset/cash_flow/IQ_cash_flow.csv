@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+IQ,2020-12-31,CNY,-1519447000,None,None,None,None,4078652000,40181000,None,None,None,281471000,8392477000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1547614000
+IQ,2020-09-30,CNY,-1519447000,None,None,None,None,None,0,None,None,None,281471000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1174288000
+IQ,2020-06-30,CNY,-1358278000,None,None,None,None,None,0,None,None,None,1144401000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1441817000
+IQ,2020-03-31,CNY,-1358278000,None,None,None,None,None,0,None,None,None,1144401000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-2874642000
+IQ,2019-12-31,CNY,-1358278000,None,None,None,None,4544472000,3909414000,0,0,None,1144401000,-259249000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-2493785000
+IQ,2019-09-30,CNY,293485000,None,None,None,None,0,0,0,0,None,1144401000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-3688123000
+IQ,2019-06-30,CNY,890678000,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-2327445000
+IQ,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-1813976000
+IQ,2018-12-31,USD,76760049.43,None,None,None,None,551968743.19,25873664.32,0,0,None,-932164570.76,1006503307.41,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-505447263.21
+IQ,2018-09-30,USD,76867329.56,None,None,None,None,552740176.74,25909825.45,0,0,None,-933467367.41,1007910000.15,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-457195912.01
+IQ,2018-06-30,USD,79183263.35,None,None,None,None,569393671.27,26690461.91,0,0,None,-961591781.64,1038277294.54,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-314476754.65
+IQ,2018-03-31,USD,84068784.33,None,None,None,None,604524639.76,28337234.3,None,0,None,-1020920945.78,1102337871.19,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-63003423.29
+IQ,2017-12-31,USD,616600000,None,None,None,None,8728266000,157127000,None,None,None,-10660674000,1008424000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-3736932000
+IQ,2017-06-30,USD,1052764000,None,None,None,None,2083536000,176813000,None,None,None,1527213000,-2980784000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-953170000
+IQ,2017-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1119569000
+IQ,2016-12-31,USD,376224000,None,None,None,None,5019388000,57595000,None,None,None,-6663100000,491397000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-3074022000

@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+BKFS,2017-09-30,USD,263800000,263800000,0,0,67800000,140700000,None,0,None,None,None,14100000,None,None,None,None,53100000,9200000,None,14700000,None,67200000,None,14700000
+BKFS,2017-06-30,USD,262200000,262200000,0,0,66800000,142000000,None,0,None,None,None,14000000,None,None,None,None,38300000,9100000,None,8200000,None,52300000,None,8200000
+BKFS,2017-03-31,USD,258100000,258100000,0,0,58600000,145500000,None,0,None,None,None,16700000,None,None,None,None,39900000,6000000,None,12200000,None,56600000,None,12200000
+BKFS,2016-12-31,USD,261500000,261500000,0,0,58100000,149200000,None,0,None,None,None,17000000,None,None,None,None,40900000,6600000,None,99000000,None,57900000,None,11800000
+BKFS,2016-09-30,USD,267100000,267100000,0,0,57000000,152200000,None,0,None,None,None,16900000,None,None,None,None,38700000,6300000,None,75900000,None,55600000,None,11200000
+BKFS,2016-06-30,USD,255500000,255500000,0,0,60800000,144400000,None,0,None,None,None,16900000,None,None,None,None,39900000,6700000,None,54900000,None,56800000,None,11400000

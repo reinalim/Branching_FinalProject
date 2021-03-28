@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MULE,2017-12-31,USD,63131000,88714000,24577000,24577000,-25468000,88599000,18608000,0,None,None,None,None,None,None,None,None,-24862000,226000,None,-25088000,None,-24862000,None,-25088000
+MULE,2017-09-30,USD,55504000,77604000,21102000,21102000,-25395000,80899000,18048000,0,None,None,None,None,None,None,None,None,-24781000,335000,None,-25116000,None,-24781000,None,-25116000
+MULE,2017-06-30,USD,50885000,69233000,17361000,17361000,-19022000,69907000,15140000,0,None,None,None,None,None,None,None,None,-18856000,779000,None,-19635000,None,-18856000,None,-19635000
+MULE,2017-03-31,USD,45666000,60905000,14397000,14397000,-9910000,55576000,12789000,0,None,None,None,None,None,None,None,None,-9828000,313000,None,-10141000,None,-9828000,None,-10141000
+MULE,2016-12-31,USD,None,55353000,15134000,15134000,None,53055000,9969000,None,None,None,None,None,None,None,None,None,None,414000,None,None,None,None,None,None
+MULE,2016-09-30,USD,None,49369000,11898000,11898000,None,52176000,8701000,None,None,None,None,None,None,None,None,None,None,377000,None,None,None,None,None,None
+MULE,2016-06-30,USD,None,43994000,11435000,11435000,None,43990000,7332000,None,None,None,None,None,None,None,None,None,None,268000,None,None,None,None,None,None
+MULE,2016-03-31,USD,None,39031000,9393000,9393000,None,37848000,6860000,None,None,None,None,None,None,None,None,None,None,280000,None,None,None,None,None,None
+MULE,2015-12-31,USD,None,34196000,8581000,8581000,None,40335000,6522000,None,None,None,None,None,None,None,None,None,None,36000,None,None,None,None,None,None
+MULE,2015-09-30,USD,None,30026000,8768000,8768000,None,44261000,8531000,None,None,None,None,None,None,None,None,None,None,414000,None,None,None,None,None,None
+MULE,2015-06-30,USD,None,25904000,8314000,8314000,None,31255000,5362000,None,None,None,None,None,None,None,None,None,None,211000,None,None,None,None,None,None
+MULE,2015-03-31,USD,None,20126000,6507000,6507000,None,26299000,4310000,None,None,None,None,None,None,None,None,None,None,201000,None,None,None,None,None,None

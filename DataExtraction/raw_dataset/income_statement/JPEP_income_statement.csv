@@ -1,0 +1,16 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+JPEP,2016-12-31,USD,None,142895000,123860000,123860000,None,12274000,None,None,None,None,None,754000,None,None,None,None,None,None,None,None,None,None,None,None
+JPEP,2016-09-30,USD,None,122805000,107235000,107235000,None,9659000,None,None,None,None,None,683000,None,None,None,None,None,None,None,None,None,None,None,None
+JPEP,2016-06-30,USD,None,130769000,109739000,109739000,None,9441000,None,None,None,None,None,2103000,None,None,None,None,None,160000,None,None,None,None,None,None
+JPEP,2016-03-31,USD,None,97491000,73490000,73490000,1258000,11207000,None,None,None,None,None,2430000,None,None,None,None,None,416000,None,None,None,None,None,None
+JPEP,2015-12-31,USD,None,153205000,132441000,132441000,None,9977000,None,None,None,None,None,1527000,None,None,None,None,None,421000,None,None,None,None,None,None
+JPEP,2015-09-30,USD,None,154641000,138196000,138196000,None,10530000,None,None,None,None,None,1351000,None,None,None,None,None,82000,None,None,None,None,None,None
+JPEP,2015-06-30,USD,None,199448000,180047000,180047000,None,10815000,None,None,None,None,None,1381000,None,None,None,None,None,229000,None,None,None,None,None,None
+JPEP,2015-03-31,USD,None,173291000,146169000,146169000,2298000,14061000,None,None,None,None,None,1116000,None,None,None,None,1094000,22000,None,None,None,None,None,665000
+JPEP,2014-12-31,USD,None,399229000,391461000,391461000,None,12202000,None,None,None,None,None,1436000,None,None,None,None,None,302000,None,None,None,None,None,None
+JPEP,2014-09-30,USD,None,428591000,409710000,409710000,None,11315000,None,None,None,None,None,2406000,None,None,None,None,None,None,None,None,None,None,None,None
+JPEP,2014-06-30,USD,None,447144000,434411000,434411000,None,11253000,None,None,None,None,None,2292000,None,None,None,None,None,213000,None,None,None,None,None,None
+JPEP,2014-03-31,USD,None,418670000,399042000,399042000,None,12628000,None,None,None,None,None,3259000,None,None,None,None,None,None,None,None,None,None,None,None
+JPEP,2013-12-31,USD,None,549870000,530428000,530428000,None,14316000,None,None,None,None,None,2981000,None,None,None,None,None,None,None,None,None,None,None,None
+JPEP,2013-09-30,USD,None,564558000,548968000,548968000,None,10656000,None,None,None,None,None,2279000,None,None,None,None,None,42000,None,None,None,None,None,None
+JPEP,2013-06-30,USD,None,987805000,947160000,947160000,5147000,20312000,None,None,None,None,None,3815000,None,None,None,None,528000,304000,None,None,None,None,None,201000

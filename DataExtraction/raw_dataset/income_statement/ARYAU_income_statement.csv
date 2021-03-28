@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ARYAU,2020-03-31,USD,None,0,None,None,-4127299,4127299,None,4127299,None,None,None,None,None,None,None,None,-3269852,None,None,-3269852,None,-4127299,None,-3269852
+ARYAU,2019-12-31,USD,None,0,None,None,-355113,355113,None,355113,None,None,None,None,None,None,None,None,385490,None,None,385490,None,-355113,None,385490
+ARYAU,2019-09-30,USD,None,0,None,None,-177719,177719,None,177719,None,None,None,None,None,None,None,None,617205,None,None,617205,None,-177719,None,617205
+ARYAU,2019-06-30,USD,None,0,None,None,-88205,88205,None,88205,None,None,None,None,None,None,None,None,857162,None,None,857162,None,-88205,None,857162
+ARYAU,2019-03-31,USD,None,0,None,None,-153570,153570,None,153570,None,None,None,None,None,None,None,None,718765,None,None,718765,None,-153570,None,718765
+ARYAU,2018-12-31,USD,None,None,None,None,-109330,109330,None,None,None,None,None,None,None,None,None,None,628950,None,None,None,None,None,None,628950

@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MVNR,2014-12-31,USD,None,33727000,14881000,14881000,None,25372000,9178000,None,None,None,None,430000,None,None,None,None,None,673000,None,None,None,None,None,None
+MVNR,2014-09-30,USD,None,34052000,15791000,15791000,None,20761000,7958000,None,None,None,None,430000,None,None,None,None,None,None,None,None,None,None,None,None
+MVNR,2014-06-30,USD,None,33287000,14613000,14613000,None,19659000,7190000,None,None,None,None,425000,None,None,None,None,None,405000,None,None,None,None,None,None
+MVNR,2014-03-31,USD,None,28729000,12463000,12463000,None,17124000,6133000,None,None,None,None,783000,None,None,None,None,None,95000,None,None,None,None,None,None
+MVNR,2013-12-31,USD,None,27147000,11193000,11193000,None,16532000,5841000,None,None,None,None,1016000,None,None,None,None,None,524000,None,None,None,None,None,None
+MVNR,2013-09-30,USD,None,25971000,13389000,13389000,None,14934000,5436000,None,None,None,None,1072000,None,None,None,None,None,354000,None,None,None,None,None,None
+MVNR,2013-06-30,USD,None,25752000,12134000,12134000,None,13539000,5376000,None,None,None,None,665000,None,None,None,None,None,1198000,None,None,None,None,None,None
+MVNR,2013-03-31,USD,None,22438000,7865000,7865000,None,15424000,6122000,None,None,None,None,450000,None,None,None,None,None,420000,None,None,None,None,None,None
+MVNR,2012-12-31,USD,None,16783000,6881000,6881000,None,13414000,4912000,None,None,None,None,320000,None,None,None,None,None,898000,None,None,None,None,None,None
+MVNR,2012-09-30,USD,None,17108000,7645000,7645000,None,13608000,5552000,None,None,None,None,44000,None,None,None,None,None,43000,None,None,None,None,None,None
+MVNR,2012-06-30,USD,None,19027000,14406000,14406000,None,28401000,5861000,None,None,None,None,19000,None,None,None,None,None,133000,None,None,None,None,None,None
+MVNR,2012-03-31,USD,None,20922000,None,None,None,None,6987000,None,None,None,None,10000,None,None,None,None,None,78000,None,None,None,None,None,None
+MVNR,2011-12-31,USD,None,24137000,15086000,15086000,None,13577000,4213000,None,None,None,None,None,None,None,None,None,None,398000,None,None,None,None,None,None
+MVNR,2011-09-30,USD,None,11872000,7037000,7037000,None,12132000,5408000,None,None,None,None,None,None,None,None,None,None,728000,None,None,None,None,None,None
+MVNR,2011-06-30,USD,None,11555000,7127000,7127000,None,6933000,3508000,None,None,None,None,None,None,None,None,None,None,181000,None,None,None,None,None,None
+MVNR,2011-03-31,USD,None,1940000,1534000,1534000,None,4087000,1841000,None,None,None,None,None,None,None,None,None,None,23000,None,None,None,None,None,None

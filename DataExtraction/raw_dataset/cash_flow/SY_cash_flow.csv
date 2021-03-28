@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+SY,2020-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,38647000
+SY,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,903000
+SY,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2140000
+SY,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-35883000
+SY,2019-12-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,69945000
+SY,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,31600000
+SY,2019-06-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,29274000
+SY,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,45905000
+SY,2018-12-31,USD,13253325.58,None,None,None,None,97404.96,314748.86,0,0,None,-43953623.61,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,5933415.72
+SY,2018-06-30,USD,13671715.66,None,None,None,None,100479.90,324685.06,0,0,None,-45341181.76,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1330233.95
+SY,2018-03-31,USD,14515245.60,None,None,None,None,106679.40,344717.78,0,0,None,-48138683.23,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,4874771.12
+SY,2017-12-31,USD,9616088.03,None,None,None,None,21055.22,13831.9,0,0,None,-687445.25,49897951.34,None,None,None,None,0,0,None,None,None,None,0,None,0,0,5011910.80

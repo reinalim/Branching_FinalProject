@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+ISG,2020-12-31,EUR,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,493000000
+ISG,2020-09-30,EUR,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,788000000
+ISG,2020-06-30,EUR,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,299000000
+ISG,2020-03-31,EUR,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,670000000
+ISG,2019-12-31,EUR,36553704849.89,None,None,None,None,2209182162.11,790706311.85,0,0,None,-5557217600.13,-9252377519.40,None,None,None,None,-5967048477.24,-5967048477.24,None,None,None,None,2799977.40,None,0,0,2000000
+ISG,2019-09-30,EUR,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1345000000
+ISG,2019-06-30,EUR,14196594123.51,None,None,None,None,1467309142.22,314741936.53,0,0,None,8871925896.08,-9153161798.59,None,None,None,None,-3996056883.04,-3996056883.04,None,None,None,None,30253796.72,None,0,0,588000000
+ISG,2019-03-31,EUR,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1119000000
+ISG,2018-12-31,USD,13731180023.74,None,None,None,None,1032568852.12,328056893.78,0,0,None,10824101563.17,31737592237.08,None,None,None,None,-2990364762.56,-2990364762.56,None,None,None,None,7942837.33,None,0,0,13578280405.27
+ISG,2018-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1225000000
+ISG,2017-12-31,USD,-29796000000,None,None,None,None,347000000,304000000,None,None,None,11754000000,20595000000,None,None,None,None,-2564000000,-2564000000,None,None,None,None,7000000,None,None,None,1015000000
+ISG,2017-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1376000000
+ISG,2017-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1371000000
+ISG,2017-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1143000000

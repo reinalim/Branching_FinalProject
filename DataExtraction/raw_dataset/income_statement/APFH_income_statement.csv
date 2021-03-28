@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+APFH,2017-03-31,USD,107460000,402729000,278737000,278737000,54019000,53441000,None,0,None,None,None,13939000,None,None,None,None,46752000,18544000,None,28208000,None,60125000,None,28208000
+APFH,2016-12-31,USD,116544000,409423000,275879000,275879000,57991000,58781000,8946000,0,None,None,None,13704000,None,None,None,None,34321000,1176000,None,33145000,None,47490000,None,33145000
+APFH,2016-09-30,USD,105426000,393654000,272078000,272078000,58562000,46841000,None,0,None,None,None,14908000,None,None,None,None,20602000,-1843000,None,22445000,None,34895000,None,22445000
+APFH,2016-06-30,USD,100935000,370687000,253868000,253868000,46063000,54786000,None,0,None,None,None,22709000,None,None,None,None,6372000,-57762000,None,64134000,None,27057000,None,64134000
+APFH,2016-03-31,USD,None,394495000,277940000,277940000,47235000,53512000,None,None,None,None,None,25807000,None,None,None,None,18003000,1439000,None,None,None,None,None,16564000
+APFH,2015-12-31,USD,None,386054000,273749000,273749000,42096000,53725000,6551000,None,None,None,None,25727000,None,None,None,None,14550000,2862000,None,None,None,None,None,11688000
+APFH,2015-09-30,USD,None,407170000,301590000,301590000,43722000,45997000,None,None,None,None,None,25930000,None,None,None,None,15639000,3005000,None,None,None,None,None,12634000
+APFH,2015-06-30,USD,None,391878000,290841000,290841000,34553000,50225000,None,None,None,None,None,26210000,None,None,None,None,2813000,553000,None,None,None,None,None,2260000
+APFH,2015-03-31,USD,None,426509000,324408000,324408000,41626000,46222000,None,None,None,None,None,26510000,None,None,None,None,13028000,2499000,None,None,None,None,None,10529000
+APFH,2014-12-31,USD,None,440109000,1268377000,1268377000,83649000,167596000,5991000,None,None,None,None,105633000,None,None,None,None,None,8389000,None,None,None,None,None,None
+APFH,2014-09-30,USD,None,406328000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+APFH,2014-06-30,USD,None,356164000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+APFH,2014-03-31,USD,None,375026000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

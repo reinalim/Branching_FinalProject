@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+WOOF,2021-01-31,USD,569300000,1337700000,768400000,768400000,67000000,502300000,None,1270700000,None,-49700000,None,49700000,None,None,None,None,-200000,10200000,None,-6900000,None,95375000,None,-6200000
+WOOF,2020-10-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-7940000,None,None,None,None,None,None
+WOOF,2020-07-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-2798500,None,None,None,None,None,None
+WOOF,2020-04-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-2798500,None,None,None,None,None,None
+WOOF,2020-01-31,USD,497898000,1148656000,650758000,650758000,60133000,437765000,None,1088523000,None,-60662000,134000,60796000,None,None,None,None,-19529000,-7395000,None,-10019000,None,85211000,None,-7171000

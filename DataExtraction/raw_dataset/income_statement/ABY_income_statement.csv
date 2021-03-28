@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ABY,2017-06-30,USD,289000000,295000000,6000000,6000000,132000000,None,None,163000000,None,None,None,-84000000,None,None,None,None,None,17000000,None,None,None,132000000,None,24000000
+ABY,2017-03-31,USD,197000000,198000000,1000000,1000000,62000000,None,None,136000000,None,None,None,-84000000,None,None,None,None,None,-5000000,None,None,None,62000000,None,-12000000
+ABY,2016-12-31,USD,210000000,212000000,2000000,2000000,44000000,None,None,168000000,None,None,None,-89000000,None,None,None,None,None,-44000000,None,None,None,44000000,None,-15000000
+ABY,2016-09-30,USD,291000000,298000000,7000000,7000000,147000000,None,None,150000000,None,None,None,-83000000,None,None,None,None,None,30000000,None,None,None,147000000,None,33000000
+ABY,2016-06-30,USD,258000000,262000000,4000000,4000000,112000000,None,None,150000000,None,None,None,-84000000,None,None,None,None,None,20000000,None,None,None,112000000,None,3000000
+ABY,2016-03-31,USD,193000000,206000000,14000000,14000000,61000000,None,None,146000000,None,None,None,-79000000,None,None,None,None,None,-4000000,None,None,None,61000000,None,-26000000
+ABY,2014-03-31,USD,59300000,63800000,4500000,4500000,23900000,8200000,None,0,None,None,None,54300000,None,None,None,None,-30400000,-1800000,None,-27200000,None,23900000,None,-26900000

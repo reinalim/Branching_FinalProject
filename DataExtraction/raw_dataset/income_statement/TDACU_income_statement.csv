@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TDACU,2020-09-30,USD,None,0,None,None,-532732,None,None,532732,None,6267,6267,None,None,None,None,None,-526465,None,None,-362526,None,-532732,None,-362526
+TDACU,2020-06-30,USD,None,0,None,None,-334353,None,None,334353,None,78500,78500,None,None,None,None,None,-255853,None,None,-255633,None,-334353,None,-255633
+TDACU,2020-03-31,USD,None,0,None,None,-262564,None,None,262564,None,262479,262479,None,None,None,None,None,-85,None,None,-305,None,262390,None,-305
+TDACU,2019-12-31,USD,None,0,None,None,-316440,None,None,316440,None,1505183,1505183,1505183,None,None,None,None,237498,50040,None,187457,None,791440,None,187457
+TDACU,2019-09-30,USD,-244001,0,244001,244001,-244001,None,None,244001,None,338503,338503,338503,None,None,None,None,895242,171890,None,723357,None,2034490,None,723357
+TDACU,2019-06-30,USD,-313480,0,313480,313480,-313480,None,None,313480,None,1248225,1248225,1248225,None,None,None,None,1069080,468890,None,827477,None,4722060,None,827477
+TDACU,2019-03-31,USD,None,0,226217,226217,-226220,None,None,226217,None,1232149,1248320,1232149,None,None,None,None,1022100,227290,None,794815,None,2270430,None,794820
+TDACU,2018-12-31,USD,None,None,None,None,-289710,None,None,None,None,None,None,None,None,None,None,None,896750,189430,None,None,None,2083220,None,707320

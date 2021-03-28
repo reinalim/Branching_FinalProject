@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MNCLU,2020-09-30,USD,None,0,None,None,-226480,None,None,226480,None,16021,16021,None,None,None,None,None,-210459,None,None,-203323,None,-226480,None,-203323
+MNCLU,2020-06-30,USD,None,0,None,None,-358642,None,None,358642,None,185100,185100,None,None,None,None,None,-173542,None,None,-201934,None,-358642,None,-201934
+MNCLU,2020-03-31,USD,None,0,None,None,-286645,None,None,286645,None,622821,622821,None,None,None,None,None,336176,None,None,215725,None,-286645,None,215725
+MNCLU,2019-12-31,USD,None,0,None,None,-660074,None,None,660074,None,594669,594669,None,None,None,None,None,-65405,118950,None,-184355,None,-660074,None,-184355
+MNCLU,2019-09-30,USD,None,0,None,None,-666612,None,None,666612,None,973838,973838,None,None,None,None,None,307226,194940,None,112287,None,-666612,None,112287
+MNCLU,2019-06-30,USD,None,0,None,None,-162884,None,None,162884,None,1053042,1053042,None,None,None,None,None,890158,210640,None,679520,None,-162884,None,679520
+MNCLU,2019-03-31,USD,None,0,None,None,-83940,None,None,83942,None,543268,543270,None,None,None,None,None,459330,103270,None,356058,None,-83942,None,356060

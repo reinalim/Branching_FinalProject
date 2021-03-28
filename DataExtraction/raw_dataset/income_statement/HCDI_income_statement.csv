@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+HCDI,2020-09-30,USD,622600,7806500,7183900,7183900,-835600,None,None,8642100,None,-163900,None,163900,None,None,None,None,-1011900,-571600,None,-440300,None,-636200,None,-437100
+HCDI,2020-06-30,USD,893800,8329800,7436000,7436000,-388500,None,None,8718300,None,-18700,None,18700,None,None,None,None,-394200,39900,None,-434100,None,-166600,None,-431100
+HCDI,2020-03-31,USD,112800,9941000,9828200,9828200,-916600,None,None,10857600,None,-71600,None,71600,None,None,None,None,-1003700,-29800,None,-973900,None,-711000,None,-752000
+HCDI,2019-12-31,USD,2714800,13215600,10500800,10500800,1804000,None,None,11411600,None,-142100,None,142100,None,None,None,None,1661800,-194900,None,1856700,None,1997800,None,1843600
+HCDI,2019-09-30,USD,-180600,6783800,6964400,6964400,-911700,None,None,7695500,None,-131100,None,131100,None,None,None,None,-1036000,None,None,-596300,None,-704900,None,-493400
+HCDI,2019-06-30,USD,591300,6687600,6096300,6096300,-378500,None,None,7066100,None,-36000,None,36000,None,None,None,None,-342100,-22400,None,-319700,None,-251500,None,-318900

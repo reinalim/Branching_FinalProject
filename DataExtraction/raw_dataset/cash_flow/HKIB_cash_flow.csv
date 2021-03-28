@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+HKIB,2020-09-30,HKD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,124382696
+HKIB,2019-12-31,HKD,168246205,None,None,None,None,14440,13710,None,None,None,-954552557,883605974,None,None,None,None,0,0,None,None,None,None,94197600,None,None,None,89561811
+HKIB,2019-09-30,HKD,168246205,None,None,None,None,0,0,0,0,None,-954552557,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,307461675
+HKIB,2019-06-30,HKD,168246205,None,None,None,None,0,0,0,0,None,-954552557,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,219671645
+HKIB,2019-03-31,HKD,5784857,None,None,None,None,43170,13710,0,0,None,-13710,-3513320,None,None,None,None,0,0,None,None,None,None,0,None,0,0,256441020
+HKIB,2018-12-31,HKD,79111590,None,None,None,None,334840,14210,0,0,None,-14210,-38657140,None,None,None,None,0,0,None,None,None,None,0,None,0,0,608965230
+HKIB,2018-09-30,HKD,5784857,None,None,None,None,0,0,0,0,None,-13710,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,0
+HKIB,2018-06-30,USD,737394.14,None,None,None,None,701.45,222.77,0,0,None,-1747.61,-57086.32,None,None,None,None,0,0,None,None,None,None,0,None,0,0,6175520.27
+HKIB,2018-03-31,USD,1142715.86,None,None,None,None,1542.59,222.56,0,0,None,-1746.79,-74173.83,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-2233117.65

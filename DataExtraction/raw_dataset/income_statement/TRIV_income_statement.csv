@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TRIV,2015-09-30,USD,None,9455000,3334000,3334000,None,17418000,4173000,None,None,None,None,2102000,None,None,None,None,None,47000,None,None,None,None,None,None
+TRIV,2015-06-30,USD,None,9733000,3637000,3637000,None,18788000,4099000,None,None,None,None,1912000,None,None,None,None,None,65000,None,None,None,None,None,None
+TRIV,2015-03-31,USD,None,8025000,3238000,3238000,None,18212000,4045000,None,None,None,None,1874000,None,None,None,None,None,67000,None,None,None,None,None,None
+TRIV,2014-12-31,USD,None,9088000,3196000,3196000,None,18294000,3625000,None,None,None,None,1783000,None,None,None,None,None,147000,None,None,None,None,None,None
+TRIV,2014-09-30,USD,None,7878000,3243000,3243000,None,16613000,4047000,None,None,None,None,1726000,None,None,None,None,None,65000,None,None,None,None,None,None
+TRIV,2014-06-30,USD,None,7798000,3331000,3331000,None,17074000,4066000,None,None,None,None,2454000,None,None,None,None,None,77000,None,None,None,None,None,None
+TRIV,2014-03-31,USD,None,7034000,3524000,3524000,None,15998000,3806000,None,None,None,None,1689000,None,None,None,None,None,23000,None,None,None,None,None,None
+TRIV,2013-12-31,USD,None,6235000,2814000,2814000,None,15045000,3701000,None,None,None,None,1631000,None,None,None,None,None,150000,None,None,None,None,None,None
+TRIV,2013-09-30,USD,None,5505000,3388000,3388000,None,13136000,3279000,None,None,None,None,1614000,None,None,None,None,None,2000,None,None,None,None,None,None
+TRIV,2013-06-30,USD,None,4826000,2896000,2896000,None,12840000,3145000,None,None,None,None,1586000,None,None,None,None,None,20000,None,None,None,None,None,None
+TRIV,2013-03-31,USD,None,2942000,1575000,1575000,None,10674000,3169000,None,None,None,None,1555000,None,None,None,None,None,27000,None,None,None,None,None,None
+TRIV,2012-12-31,USD,None,5398000,7319000,7319000,None,30876000,12156000,None,None,None,None,4306000,None,None,None,None,None,175000,None,None,None,None,None,None

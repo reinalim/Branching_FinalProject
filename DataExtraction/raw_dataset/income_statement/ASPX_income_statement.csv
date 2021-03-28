@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ASPX,2014-12-31,USD,None,None,None,None,None,20187000,15850000,None,None,None,None,339000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2014-09-30,USD,None,None,None,None,None,13893000,15583000,None,None,None,None,388000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2014-06-30,USD,None,None,None,None,None,10027000,7131000,None,None,None,None,300000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2014-03-31,USD,None,None,None,None,None,6100000,3432000,None,None,None,None,400000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2013-12-31,USD,None,None,None,None,None,4905000,3479000,None,None,None,None,174000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2013-09-30,USD,None,None,None,None,None,2836000,2361000,None,None,None,None,95000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2013-06-30,USD,None,None,None,None,None,2815000,2432000,None,None,None,None,176000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2013-03-31,USD,None,None,None,None,None,2624000,1731000,None,None,None,None,61000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2012-12-31,USD,None,None,None,None,None,13399000,11741000,None,None,None,None,1488000,None,None,None,None,None,None,None,None,None,None,None,None
+ASPX,2011-12-31,USD,None,None,None,None,None,5812000,4080000,None,None,None,None,35000,None,None,None,None,None,None,None,None,None,None,None,None

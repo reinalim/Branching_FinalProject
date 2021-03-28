@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+FGXI,2009-12-31,USD,41433000,None,None,None,None,None,8504000,None,8736000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,7509000
+FGXI,2009-09-30,USD,31476000,None,None,None,None,None,6175000,None,7752000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,6700000
+FGXI,2009-06-30,USD,13625000,None,None,None,None,None,4014000,None,2485000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2921000
+FGXI,2009-03-31,USD,1485000,None,None,None,None,None,2223000,None,None,None,None,1729000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+FGXI,2008-12-31,USD,34313000,None,None,None,None,None,14583000,None,None,None,None,8639000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,6835000
+FGXI,2008-09-30,USD,24865000,None,None,None,None,None,10511000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,3906000
+FGXI,2008-06-30,USD,18310000,None,None,None,None,None,6902000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,4090000
+FGXI,2008-03-31,USD,9450000,None,None,None,None,None,3990000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2187000
+FGXI,2007-12-31,USD,10913000,None,None,None,None,None,15472000,None,1430000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1309000
+FGXI,2007-09-30,USD,None,None,None,None,None,None,11220000,None,None,None,None,6398000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+FGXI,2007-06-30,USD,None,None,None,None,None,None,7938000,None,None,None,None,12929000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1499000
+FGXI,2007-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1918000
+FGXI,2006-12-31,USD,None,None,None,None,None,None,10948000,None,None,None,None,11105000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,5911000
+FGXI,2005-12-31,USD,18404000,None,None,None,None,None,8969000,None,None,None,None,None,None,None,None,None,-98776000,-98776000,None,None,None,None,None,None,None,None,None

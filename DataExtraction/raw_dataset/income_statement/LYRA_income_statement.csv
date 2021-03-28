@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+LYRA,2020-12-31,USD,None,0,None,None,-7053000,3310000,3743000,7053000,None,32000,32000,None,None,None,None,None,-7021000,None,None,-7021000,None,-7012000,None,-7021000
+LYRA,2020-09-30,USD,None,0,None,None,-6363000,2651000,3712000,6363000,None,29000,29000,None,None,None,None,None,-6334000,None,None,-6334000,None,-6330000,None,-6334000
+LYRA,2020-06-30,USD,None,0,None,None,-4545000,2442000,2103000,4545000,None,5000,5000,None,None,None,None,None,-4540000,None,None,-4540000,None,-4522000,None,-4540000
+LYRA,2020-03-31,USD,None,0,None,None,-4248000,1284000,2964000,4248000,None,16000,16000,None,None,None,None,None,-4232000,None,None,-4232000,None,-4240000,None,-4232000
+LYRA,2019-12-31,USD,None,0,None,None,-4388000,1377000,3011000,4388000,None,35000,None,None,None,None,None,None,-4353000,None,None,-4353000,None,-4381000,None,-4353000
+LYRA,2019-09-30,USD,None,0,None,None,-4226000,1385000,2841000,4226000,None,63000,63000,None,None,None,None,None,-4163000,None,None,-4163000,None,-4220000,None,-4163000
+LYRA,2019-06-30,USD,None,0,None,None,-4281000,865000,3416000,4281000,None,80000,80000,None,None,None,None,None,-4201000,None,None,-4201000,None,-4275000,None,-4201000
+LYRA,2019-03-31,USD,None,0,None,None,-3624000,860000,2764000,3624000,None,35000,35000,None,None,None,None,None,-3589000,None,None,-3589000,None,-3616000,None,-3589000

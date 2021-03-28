@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TIBRU,2019-12-31,USD,None,0,None,None,-622114,622114,None,622114,None,814464,814464,None,None,None,None,None,264662,None,None,125162,None,-622114,None,125162
+TIBRU,2019-09-30,USD,None,0,None,None,-333527,333527,None,333527,None,968144,968144,None,None,None,None,None,568454,None,None,406454,None,-333527,None,406454
+TIBRU,2019-06-30,USD,None,0,None,None,-205330,205330,None,205330,None,1054046,1054046,None,None,None,None,None,940649,None,None,762649,None,-205330,None,762649
+TIBRU,2019-03-31,USD,None,0,None,None,-200197,200197,None,200197,None,1017602,1017602,None,None,None,None,None,814940,None,None,642940,None,-200197,None,642940
+TIBRU,2018-12-31,None,0,0,0,0,165294,0,0,0,None,None,None,0,None,None,None,None,-648501,0,None,0,None,0,None,1595891
+TIBRU,2018-09-30,None,0,0,0,0,96160,0,0,0,None,None,None,0,None,None,None,None,646290,-120500,None,0,None,0,None,-263
+TIBRU,2018-06-30,USD,0,0,0,0,-265251,0,0,0,None,None,None,0,None,None,None,None,-14086,120500,None,0,None,0,None,-1586
+TIBRU,2018-03-31,USD,0,0,0,0,-12500,0,0,0,None,None,None,0,None,None,None,None,0,0,None,0,None,0,None,-12500
+TIBRU,2017-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-1948,0,None,-1948,None,0,None,-1948
+TIBRU,2016-12-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,-1948,0,None,-1948,None,0,None,0

@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+BWMCU,2019-12-31,USD,49520000,0,63494000,63494000,-2810536,None,None,2810536,None,None,None,1835000,None,None,None,None,-1987778,None,None,-2123007,None,-2810536,None,-2123007
+BWMCU,2019-09-30,USD,None,0,None,None,-470858,None,None,470858,None,None,None,None,None,None,None,None,528939,None,None,353701,None,-470858,None,353701
+BWMCU,2019-06-30,USD,None,0,None,None,-191357,None,None,191357,None,None,None,None,None,None,None,None,928753,None,None,733601,None,-191357,None,733601
+BWMCU,2019-03-31,USD,None,0,None,None,-240246,None,None,240246,None,None,None,None,None,None,None,None,871245,None,None,688348,None,-240246,None,688348

@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MACQU,2017-12-31,USD,0,0,0,0,-147187,147187,None,147187,None,None,None,None,None,None,None,None,-13335,0,None,-13335,None,-147187,None,-13335
+MACQU,2017-09-30,USD,0,0,0,0,-397033,397033,None,397033,None,None,None,None,None,None,None,None,152350,0,None,152350,None,-397033,None,152350
+MACQU,2017-06-30,USD,0,0,0,0,-162035,162035,None,162035,None,None,None,None,None,None,None,None,-75024,0,None,-75024,None,-162035,None,-75024
+MACQU,2017-03-31,USD,0,0,0,0,-245466,245466,None,245466,None,None,None,None,None,None,None,None,-188845,0,None,-188845,None,-245466,None,-188845

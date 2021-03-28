@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+HCCHU,2020-09-30,USD,None,0,None,None,-363040,None,None,363040,None,13864,13864,None,None,None,None,None,-349176,None,None,-349176,None,-363040,None,-349176
+HCCHU,2020-06-30,USD,None,0,None,None,-341795,None,None,341795,None,68048,68048,None,None,None,None,None,-323537,None,None,-323537,None,-341795,None,-323537
+HCCHU,2020-03-31,USD,None,0,None,None,-237011,None,None,237011,None,189585,189585,None,None,None,None,None,2364,None,None,2364,None,506140,None,2364
+HCCHU,2019-12-31,USD,None,0,None,None,-330775,None,None,330775,None,256222,256222,None,None,None,None,None,-74553,None,None,-74553,None,524660,None,-74553
+HCCHU,2019-09-30,USD,None,0,None,None,-117801,None,None,117801,None,299519,299519,None,None,None,None,None,194172,None,None,194172,None,608720,None,194172
+HCCHU,2019-06-30,USD,None,0,None,None,-142162,None,None,142162,None,348015,348015,None,None,None,None,None,191247,None,None,191247,None,687820,None,191247
+HCCHU,2019-03-31,USD,None,0,None,None,-94480,None,None,94483,None,342683,351600,None,None,None,None,None,257120,None,None,257118,None,-94483,None,257120
+HCCHU,2018-12-31,USD,None,None,None,None,-210060,None,None,None,None,None,None,None,None,None,None,None,376690,None,None,None,None,None,None,376690

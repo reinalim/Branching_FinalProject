@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+FNTEU,2017-12-31,USD,0,0,0,0,-636953,636953,None,636953,None,None,None,None,None,None,None,None,-112122,172148,None,-284270,None,-636953,None,-284270
+FNTEU,2017-09-30,USD,0,0,0,0,-162040,162040,None,162040,None,None,None,None,None,None,None,None,294184,155116,None,139068,None,-162040,None,139068
+FNTEU,2017-06-30,USD,0,0,0,0,-106063,106063,None,106063,None,None,None,None,None,None,None,None,234402,109457,None,124945,None,-106063,None,124945
+FNTEU,2017-03-31,USD,0,0,0,0,-226756,226756,None,226756,None,None,None,None,None,None,None,None,-165090,0,None,-165090,None,-226756,None,-165090

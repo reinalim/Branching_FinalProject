@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TZACU,2020-08-31,USD,None,0,None,None,-525924,None,None,525924,None,9892,9892,None,None,None,None,None,-516032,None,None,-516032,None,-525924,None,-516032
+TZACU,2020-05-31,USD,None,0,None,None,-264941,None,None,264941,None,109175,109175,None,None,None,None,None,-155766,None,None,-155766,None,-46590,None,-155766
+TZACU,2020-02-29,USD,None,0,None,None,-393473,None,None,393473,None,249747,249747,None,None,None,None,None,-131651,None,None,-131651,None,-393473,None,-131651
+TZACU,2019-11-30,USD,None,0,None,None,-166022,None,None,166022,None,323704,323704,None,None,None,None,None,136808,None,None,136808,None,439640,None,136808
+TZACU,2019-08-31,USD,None,0,None,None,-94110,None,None,94110,None,351738,351738,None,None,None,None,None,274320,None,None,274320,None,642750,None,274320
+TZACU,2019-05-31,USD,None,0,None,None,-71135,None,None,71135,None,398746,398746,None,None,None,None,None,338426,None,None,338426,None,747990,None,338426
+TZACU,2019-02-28,USD,None,0,None,None,-57974,None,None,57974,None,352168,352168,None,None,None,None,None,306562,None,None,306562,None,130170,None,306562
+TZACU,2018-11-30,USD,0,0,0,0,0,79000,0,None,None,None,None,0,None,None,None,None,264000,0,None,None,None,None,None,264000
+TZACU,2018-08-31,USD,0,0,0,0,0,2000,0,None,None,None,None,0,None,None,None,None,18000,0,None,None,None,None,None,18000

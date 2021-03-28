@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+WMZ,2010-06-30,USD,23795000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-22993000,-22993000,None,None,None,None,None,None,None,None,9694000
+WMZ,2010-03-31,USD,25224000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-11497000,-11497000,None,None,None,None,None,None,None,None,11927000
+WMZ,2009-12-31,USD,43745000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-44891000,-44891000,None,None,None,None,None,None,None,None,13126000
+WMZ,2009-09-30,USD,32423000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-33394000,-33394000,None,None,None,None,None,None,None,None,12480000
+WMZ,2009-06-30,USD,20744000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-22091000,-22091000,None,None,None,None,None,None,None,None,11560000
+WMZ,2009-03-31,USD,9701000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,-10960000,-10960000,None,None,None,None,None,None,None,None,13655000
+WMZ,2008-12-31,USD,39979000,None,None,None,None,None,0,None,None,None,None,268681000,None,None,None,None,-34896000,-34896000,None,None,None,None,None,None,None,None,13295000
+WMZ,2008-09-30,USD,29729000,None,None,None,None,None,0,None,None,None,None,278463000,None,None,None,None,-24107000,-24107000,None,None,None,None,None,None,None,None,13863000
+WMZ,2008-06-30,USD,19023000,None,None,None,None,None,0,None,None,None,None,288584000,None,None,None,None,-13490000,-13490000,None,None,None,None,None,None,None,None,11867000
+WMZ,2008-03-31,USD,3143000,None,None,None,None,None,0,None,None,None,None,298615000,None,None,None,None,-3088000,-3088000,None,None,None,None,None,None,None,None,12855000
+WMZ,2007-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,121061000
+WMZ,2007-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,11583000
+WMZ,2007-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,13085000
+WMZ,2007-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,8175000
+WMZ,2006-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,19062000
+WMZ,2005-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,24141000

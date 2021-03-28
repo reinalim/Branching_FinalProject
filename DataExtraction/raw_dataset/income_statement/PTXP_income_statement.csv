@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PTXP,2017-03-31,USD,12899000,17071000,6125000,6125000,7511000,1953000,None,0,None,None,None,1615000,None,None,None,None,5896000,0,None,5896000,None,7511000,None,5896000
+PTXP,2016-12-31,USD,8329000,18367000,27061000,27061000,-12108000,17023000,None,0,None,None,None,1612000,None,None,None,None,-13720000,0,None,-13720000,None,-12108000,None,-13720000
+PTXP,2016-09-30,USD,15556000,22184000,11388000,11388000,7406000,4760000,None,0,None,None,None,1577000,None,None,None,None,5829000,0,None,5829000,None,7406000,None,5829000
+PTXP,2016-06-30,USD,13474000,19153000,9984000,9984000,5788000,4305000,None,0,None,None,None,1620000,None,None,None,None,4168000,0,None,4168000,None,5788000,None,4168000
+PTXP,2016-03-31,USD,None,17649000,8973000,8973000,5330000,None,None,None,None,None,None,1813000,None,None,None,None,3517000,None,None,None,None,None,None,3517000
+PTXP,2015-12-31,USD,None,19069000,8625000,8625000,7131000,None,None,None,None,None,None,1856000,None,None,None,None,5275000,None,None,None,None,None,None,5275000
+PTXP,2015-09-30,USD,None,11226000,7137000,7137000,2481000,None,None,None,None,None,None,461000,None,None,None,None,2020000,None,None,None,None,None,None,2020000
+PTXP,2015-06-30,USD,None,2695000,3555000,3555000,None,None,None,None,None,None,None,88000,None,None,None,None,None,None,None,None,None,None,None,None
+PTXP,2015-03-31,USD,None,229000,2975000,2975000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+PTXP,2014-12-31,USD,None,22000,4636000,4636000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
