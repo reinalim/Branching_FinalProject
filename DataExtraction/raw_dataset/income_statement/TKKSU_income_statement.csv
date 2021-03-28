@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TKKSU,2019-12-31,USD,None,0,None,None,-917646,None,None,917646,None,None,None,None,None,None,None,None,312177,None,None,312177,None,-917646,None,312177
+TKKSU,2019-09-30,USD,None,0,None,None,-690455,None,None,690455,None,None,None,None,None,None,None,None,552308,None,None,552308,None,-690455,None,552308
+TKKSU,2019-06-30,USD,None,0,None,None,-482837,482837,None,482837,None,None,None,None,None,None,None,None,1156951,None,None,1156951,None,-482837,None,1156951
+TKKSU,2019-03-31,USD,None,0,None,None,-260749,260749,None,260749,None,None,None,None,None,None,None,None,1256842,None,None,1256842,None,-260749,None,1256842
+TKKSU,2018-09-30,None,0,0,0,0,-64359,15000,0,None,None,None,None,0,None,None,None,None,0,0,None,None,None,None,None,371210

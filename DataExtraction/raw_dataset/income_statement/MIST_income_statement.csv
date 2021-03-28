@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MIST,2020-09-30,USD,None,0,None,None,-12085000,3857000,8228000,12085000,None,89000,89000,None,None,None,None,None,-11996000,-17000,None,-11979000,None,-12062000,None,-11979000
+MIST,2020-06-30,USD,None,0,None,None,-13105000,4483000,8622000,13105000,None,126000,126000,None,None,None,None,None,-12979000,None,None,-12979000,None,-13080000,None,-12979000
+MIST,2020-03-31,USD,None,0,None,None,-16758000,4886000,11872000,16758000,None,415000,415000,None,None,None,None,None,-16343000,None,None,-16343000,None,-16734000,None,-16343000
+MIST,2019-12-31,USD,None,0,None,None,-18892000,4743000,14149000,18892000,None,603000,603000,None,None,None,None,None,-18289000,-1000,None,-18288000,None,-18868000,None,-18288000
+MIST,2019-09-30,USD,None,0,None,None,-13725000,4180000,9545000,13725000,None,821000,821000,None,None,None,None,None,-12904000,-73000,None,-12831000,None,-13716000,None,-12831000
+MIST,2019-06-30,USD,None,0,None,None,-14334000,3807000,10527000,14334000,None,672000,672000,None,None,None,None,None,-13662000,-4000,None,-13658000,None,-14332000,None,-13658000
+MIST,2019-03-31,USD,0,0,0,0,-10930000,3165000,7765000,10930000,None,500000,500000,0,None,None,None,None,-10430000,22000,None,-10452000,None,-10927000,None,-10452000
+MIST,2018-12-31,USD,None,None,None,None,-10107000,2810000,None,None,None,None,None,None,None,None,None,None,-9661000,56000,None,None,None,None,None,-9717000
+MIST,2018-09-30,USD,None,None,None,None,-5785000,1874000,3911000,5785000,None,None,None,None,None,None,None,None,-5700000,None,None,-5700000,None,-5785000,None,-5700000
+MIST,2018-06-30,USD,None,None,None,None,-3676000,1125000,2551000,3676000,None,None,None,None,None,None,None,None,-3587000,2000,None,-3589000,None,-3676000,None,-3589000
+MIST,2018-03-31,USD,0,0,0,0,-4255000,1164000,3091000,4255000,None,None,None,0,None,None,None,None,-4165000,16000,None,-4181000,None,-4255000,None,-4181000

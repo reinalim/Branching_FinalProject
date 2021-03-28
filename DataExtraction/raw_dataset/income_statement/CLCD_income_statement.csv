@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CLCD,2016-09-30,USD,None,None,None,None,-12720000,2211000,10509000,-12720000,None,None,None,None,None,63000,None,None,-12657000,None,None,-12657000,None,-12657000,None,-12657000
+CLCD,2016-06-30,USD,None,None,None,None,-16344000,1961000,14383000,-16344000,None,None,None,None,None,67000,None,None,-16277000,None,None,-16277000,None,-16277000,None,-16277000
+CLCD,2016-03-31,USD,None,None,None,None,-13136000,2319000,10817000,-13136000,None,None,None,None,None,77000,None,None,-13059000,None,None,-13059000,None,-13059000,None,-13059000
+CLCD,2015-12-31,USD,None,None,None,None,-11298981,9025685,20264818,29290503,None,None,None,None,None,69677,None,None,-11229304,None,None,-11229304,None,-11229304,None,-11229304
+CLCD,2015-09-30,USD,None,None,None,None,-8995761,3218601,5777160,-8995761,None,None,None,None,None,45765,None,None,-8949996,None,None,-8949996,None,-8949996,None,-8949996
+CLCD,2015-06-30,USD,None,None,None,None,-7775909,1980083,5795000,7775909,None,None,None,None,None,15223,None,None,-7760686,None,None,-7760686,None,-7760686,None,-7760686
+CLCD,2015-03-31,USD,None,None,None,None,-2811118,850491,1961000,2811118,None,None,None,None,None,11575,None,None,-2799543,None,None,-2799543,None,-2799543,None,-2799543
+CLCD,2014-12-31,USD,None,None,None,None,None,566000,350000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+CLCD,2014-09-30,USD,None,None,None,None,None,675000,382000,None,None,None,None,41000,None,None,None,None,None,None,None,None,None,None,None,None
+CLCD,2014-06-30,USD,None,None,None,None,None,517000,272000,None,None,None,None,186000,None,None,None,None,None,248000,None,None,None,None,None,None
+CLCD,2014-03-31,USD,None,None,None,None,None,550000,165000,None,None,None,None,170000,None,None,None,None,None,None,None,None,None,None,None,None
+CLCD,2013-12-31,USD,None,None,None,None,None,1564000,652000,None,None,None,None,631000,None,None,None,None,None,None,None,None,None,None,None,None

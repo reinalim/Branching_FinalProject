@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+APIC,2016-07-31,USD,None,25116000,6706000,6706000,None,27404000,10281000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+APIC,2016-04-30,USD,None,23477000,6519000,6519000,None,26236000,9478000,None,None,None,None,None,None,None,None,None,None,73000,None,None,None,None,None,None
+APIC,2016-01-31,USD,None,22889000,6106000,6106000,None,24842000,8912000,None,None,None,None,None,None,None,None,None,None,128000,None,None,None,None,None,None
+APIC,2015-10-31,USD,None,20545000,5905000,5905000,None,26815000,9124000,None,None,None,None,None,None,None,None,None,None,79000,None,None,None,None,None,None
+APIC,2015-07-31,USD,None,18702000,5700000,5700000,None,24778000,8435000,None,None,None,None,None,None,None,None,None,None,84000,None,None,None,None,None,None
+APIC,2015-04-30,USD,None,17290000,5487000,5487000,None,21961000,7567000,None,None,None,None,None,None,None,None,None,None,140000,None,None,None,None,None,None
+APIC,2015-01-31,USD,None,17008000,5854000,5854000,None,21337000,7062000,None,None,None,None,None,None,None,None,None,None,92000,None,None,None,None,None,None
+APIC,2014-10-31,USD,None,15607000,5748000,5748000,None,24780000,7323000,None,None,None,None,None,None,None,None,None,None,111000,None,None,None,None,None,None
+APIC,2014-07-31,USD,None,14897000,5679000,5679000,None,23817000,6892000,None,None,None,None,None,None,None,None,None,None,127000,None,None,None,None,None,None
+APIC,2014-04-30,USD,None,14388000,5313000,5313000,None,21157000,6229000,None,None,None,None,None,None,None,None,None,None,128000,None,None,None,None,None,None
+APIC,2014-01-31,USD,None,13183000,14612000,14612000,None,21187000,4821000,None,None,None,None,None,None,None,None,None,None,38000,None,None,None,None,None,None
+APIC,2013-10-31,USD,None,10234000,None,None,None,17188000,4331000,None,None,None,None,None,None,None,None,None,None,99000,None,None,None,None,None,None
+APIC,2013-07-31,USD,None,43152000,20642000,20642000,None,46545000,16848000,None,None,None,None,None,None,None,None,None,None,273000,None,None,None,None,None,None

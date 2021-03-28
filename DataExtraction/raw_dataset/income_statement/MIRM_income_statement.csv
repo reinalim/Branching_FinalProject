@@ -1,0 +1,10 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MIRM,2020-12-31,USD,None,0,None,None,-36951000,7225000,29726000,36951000,None,-167000,168000,335000,None,None,None,None,-37201000,2000,None,-37203000,None,-35419000,None,-37203000
+MIRM,2020-09-30,USD,None,0,None,None,-21716000,5732000,15984000,21716000,None,237000,237000,None,None,None,None,None,-21509000,-3000,None,-21506000,None,-21561000,None,-21506000
+MIRM,2020-06-30,USD,None,0,None,None,-23597000,5042000,18555000,23597000,None,405000,405000,None,None,None,None,None,-23248000,3000,None,-23251000,None,-23450000,None,-23251000
+MIRM,2020-03-31,USD,None,0,None,None,-22032000,4692000,17340000,22032000,None,749000,749000,None,None,None,None,None,-21306000,4000,None,-21310000,None,-21876000,None,-21310000
+MIRM,2019-12-31,USD,None,0,None,None,-18658000,4278000,14380000,18658000,None,747000,747000,None,None,None,None,None,-17931000,21000,None,-17952000,None,-18538000,None,-17952000
+MIRM,2019-09-30,USD,None,0,None,None,-15867000,3708000,12159000,15867000,None,785000,785000,None,None,None,None,None,-15087000,None,None,-15087000,None,-15778000,None,-15087000
+MIRM,2019-06-30,USD,None,0,None,None,-14034000,2445000,11589000,14034000,None,468000,468000,None,None,None,None,None,-13557000,None,None,-13557000,None,-13946000,None,-13557000
+MIRM,2019-03-31,USD,0,0,0,0,-6184000,1321000,4863000,6184000,None,227000,227000,5000,None,0,None,None,-5957000,0,None,-5957000,None,-5925000,None,-5957000
+MIRM,2018-09-30,USD,None,None,None,None,-65000,62000,3000,65000,None,None,None,-2000,None,None,None,None,-67000,None,None,-67000,None,-65000,None,-67000

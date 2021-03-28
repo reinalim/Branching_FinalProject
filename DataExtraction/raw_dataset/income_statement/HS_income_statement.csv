@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+HS,2013-12-31,USD,None,17868000,13019000,13019000,None,5928000,None,None,None,None,None,3135000,None,None,None,None,None,324000,None,None,None,None,None,None
+HS,2013-09-30,USD,None,14070000,11572000,11572000,None,5055000,None,None,None,None,None,2254000,None,None,None,None,None,364000,None,None,None,None,None,None
+HS,2013-06-30,USD,None,11529000,10943000,10943000,None,6539000,None,None,None,None,None,1548000,None,None,None,None,None,385000,None,None,None,None,None,None
+HS,2013-03-31,USD,None,12813000,11080000,11080000,None,6413000,None,None,None,None,None,1477000,None,None,None,None,None,96000,None,None,None,None,None,None
+HS,2012-12-31,USD,None,12556000,10768000,10768000,None,7204000,None,None,None,None,None,1152000,None,None,None,None,None,59000,None,None,None,None,None,None
+HS,2012-09-30,USD,None,8824000,8549000,8549000,None,5176000,None,None,None,None,None,917000,None,None,None,None,None,54000,None,None,None,None,None,None
+HS,2012-06-30,USD,None,6494000,7710000,7710000,None,3741000,None,None,None,None,None,782000,None,None,None,None,None,51000,None,None,None,None,None,None
+HS,2012-03-31,USD,None,24458000,30238000,30238000,None,15722000,None,None,None,None,None,884000,None,None,None,None,None,None,None,None,None,None,None,None

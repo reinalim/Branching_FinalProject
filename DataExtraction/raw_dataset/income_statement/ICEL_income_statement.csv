@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ICEL,2014-12-31,USD,None,6549000,11463000,11463000,None,None,6225000,None,None,None,None,359000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2014-09-30,USD,None,3568000,10909000,10909000,None,None,5716000,None,None,None,None,343000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2014-06-30,USD,None,3636000,11469000,11469000,None,None,5578000,None,None,None,None,339000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2014-03-31,USD,None,2939000,10417000,10417000,None,None,4916000,None,None,None,None,304000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2013-12-31,USD,None,4159000,9965000,9965000,None,None,4949000,None,None,None,None,347000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2013-09-30,USD,None,2523000,9361000,9361000,None,None,3906000,None,None,None,None,358000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2013-06-30,USD,None,2812000,7531000,7531000,None,None,3911000,None,None,None,None,4000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2013-03-31,USD,None,2390000,7728000,7728000,None,None,3856000,None,None,None,None,7000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2012-12-31,USD,None,2943000,8377000,8377000,None,None,3949000,None,None,None,None,7000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2012-09-30,USD,None,1233000,6384000,6384000,None,None,3529000,None,None,None,None,8000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2012-06-30,USD,None,1260000,7089000,7089000,None,None,3765000,None,None,None,None,9000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2012-03-31,USD,None,1146000,5529000,5529000,None,None,3058000,None,None,None,None,10000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2011-12-31,USD,None,915000,6192000,6192000,None,None,3592000,None,None,None,None,10000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2011-09-30,USD,None,475000,6104000,6104000,None,None,3588000,None,None,None,None,11000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2011-06-30,USD,None,611000,6021000,6021000,None,None,3272000,None,None,None,None,11000,None,None,None,None,None,None,None,None,None,None,None,None
+ICEL,2011-03-31,USD,None,596000,5583000,5583000,None,None,3208000,None,None,None,None,12000,None,None,None,None,None,None,None,None,None,None,None,None

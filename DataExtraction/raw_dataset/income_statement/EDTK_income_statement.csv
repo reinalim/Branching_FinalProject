@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+EDTK,2020-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,872003,None,None,None,None,None,None
+EDTK,2020-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,872003,None,None,None,None,None,None
+EDTK,2020-03-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,807393,None,None,None,None,None,None
+EDTK,2019-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,807393,None,None,None,None,None,None
+EDTK,2019-09-30,USD,8070520,13420880,5350360,5350360,6819810,1239930,None,None,None,None,41690,None,None,None,None,None,6858160,862050,None,None,None,None,None,5134060
+EDTK,2019-06-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,862050,None,None,None,None,None,None
+EDTK,2019-03-31,USD,8070520,13420880,5350360,5350360,11479160,1239930,None,1250710,None,None,88390,None,None,None,None,None,11567560,689747,None,None,None,11073950,None,8675060
+EDTK,2018-12-31,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,689747,None,None,None,None,None,None

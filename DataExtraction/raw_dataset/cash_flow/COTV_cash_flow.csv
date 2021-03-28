@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+COTV,2018-06-30,USD,78714000,None,None,None,None,21652000,21213000,None,0,None,-8828000,990000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,16575000
+COTV,2018-03-31,USD,34716000,None,None,None,None,21689000,12385000,None,0,None,-12385000,1423000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,53927000
+COTV,2017-12-31,USD,175103000,None,None,None,None,14798000,37274000,None,None,None,-13925000,-11509000,None,None,None,None,None,None,None,None,None,None,2991000,None,None,None,70668000
+COTV,2017-09-30,USD,107163000,None,None,None,None,20865000,23610000,None,0,None,-76748000,-2697000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,19472000
+COTV,2017-06-30,USD,42300000,None,None,None,None,0,16593000,None,0,None,0,885000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,21088000
+COTV,2017-03-31,USD,24572000,None,None,None,None,0,9660000,None,0,None,0,2860000,None,None,None,None,0,0,None,None,None,None,0,None,None,None,26975000
+COTV,2016-12-31,USD,189171000,None,None,None,None,None,35213000,None,None,None,None,None,None,None,None,None,-150000000,-150000000,None,None,None,None,None,None,None,None,25292000
+COTV,2016-09-30,USD,108345000,None,None,None,None,0,22578000,None,0,None,0,0,None,None,None,None,-150000000,-150000000,None,None,None,None,0,None,None,None,4583000
+COTV,2016-06-30,USD,72574000,None,None,None,None,0,14019000,None,0,None,0,0,None,None,None,None,-150000000,-150000000,None,None,None,None,0,None,None,None,10893000
+COTV,2016-03-31,USD,36353000,None,None,None,None,None,9467000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,8084000
+COTV,2015-12-31,USD,63154000,None,None,None,None,None,22982000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,9183000
+COTV,2015-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,7780000
+COTV,2015-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,4194000
+COTV,2014-12-31,USD,95728000,None,None,None,None,None,19014000,None,None,None,None,1025872000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+COTV,2014-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,9534000
+COTV,2014-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,3949000

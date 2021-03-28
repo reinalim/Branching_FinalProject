@@ -1,0 +1,14 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+WEI,2019-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-99306000
+WEI,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,144203000
+WEI,2019-06-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,103321000
+WEI,2019-03-31,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,105392000
+WEI,2018-12-31,CNY,1214774000,None,None,None,None,42431000,32609000,0,0,None,-6468000,-686883000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,604630000
+WEI,2018-09-30,USD,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,26911004.67
+WEI,2018-06-30,CNY,895.01,None,None,None,None,474.48,466.62,0,0,None,8195.33,-13619.36,None,None,None,None,0,0,None,None,None,None,0,None,0,0,11686.33
+WEI,2018-03-31,USD,1878512.86,None,None,None,None,995860.20,979380.62,None,0,None,17200859.80,-28585144.49,None,None,None,None,0,0,None,None,None,None,0,None,None,None,24527983.44
+WEI,2017-12-31,USD,351056000,None,None,None,None,12747000,9586000,None,None,None,-2941921000,338983000,None,None,None,None,-4953000,-4953000,None,None,None,None,None,None,None,None,10258000
+WEI,2017-09-30,USD,876172000,None,None,None,None,3734500,18231000,None,None,None,-1117129000,1021030500,None,None,None,None,-8365000,-8365000,None,None,None,None,None,None,None,None,23154000
+WEI,2017-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,23395000
+WEI,2017-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,16172000
+WEI,2016-12-31,USD,133140000,None,None,None,None,3294000,7537000,None,None,None,-337051000,66053000,None,None,None,None,-32228000,-32228000,None,None,None,None,None,None,None,None,41917000

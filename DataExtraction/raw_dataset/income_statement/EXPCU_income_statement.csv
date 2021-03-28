@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+EXPCU,2020-12-31,USD,None,0,None,None,-257113,257113,None,257113,None,5507,5507,None,None,None,None,None,-251606,None,None,-338216,None,-257113,None,-338216
+EXPCU,2020-09-30,USD,None,0,None,None,-160688,160688,None,160688,None,33909,33909,None,None,None,None,None,-126779,None,None,-100155,None,-160688,None,-100155
+EXPCU,2020-06-30,USD,None,0,None,None,-115556,115556,None,115556,None,107984,107984,None,None,None,None,None,-7572,None,None,-5982,None,-115556,None,-5982
+EXPCU,2020-03-31,USD,None,0,None,None,-145130,145130,None,145130,None,869270,869270,None,None,None,None,None,724140,None,None,572071,None,-145130,None,572071
+EXPCU,2019-09-30,USD,None,0,None,None,-43053,43053,None,43053,None,168280,168280,None,None,None,None,None,125227,None,None,99139,None,-43053,None,99139

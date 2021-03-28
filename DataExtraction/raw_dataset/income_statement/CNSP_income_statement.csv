@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CNSP,2020-12-31,USD,None,0,None,None,-3001641,1087543,1914098,3001641,None,-3264,None,3264,None,None,None,None,-3004905,None,None,-3004905,None,-2998497,None,-3004905
+CNSP,2020-09-30,USD,None,0,None,None,-2011064,968790,1042274,2011064,None,0,None,0,None,None,None,None,-2011064,None,None,-2011064,None,-2007901,None,-2011064
+CNSP,2020-06-30,USD,None,0,None,None,-2473771,981486,1492285,2473771,None,0,None,0,None,None,None,None,-2473771,None,None,-2473771,None,-2470899,None,-2473771
+CNSP,2020-03-31,USD,None,0,None,None,-1968131,1355054,613077,1968131,None,0,None,0,None,None,None,None,-1968131,None,None,-1968131,None,-1966214,None,-1968131
+CNSP,2019-12-31,USD,None,0,None,None,-2523731,1039337,1484394,2523731,None,-3617,-3620,3617,None,None,None,None,-2527348,None,None,-2527348,None,-2522641,None,-2527348
+CNSP,2019-09-30,USD,None,0,None,None,-699094,420191,278903,699094,None,-7561,-7560,7561,None,None,None,None,-706655,None,None,-706655,None,-698396,None,-706655
+CNSP,2019-06-30,USD,None,0,None,None,-415062,372332,42730,415062,None,-16645,-16650,16645,None,None,None,None,-431707,None,None,-431707,None,-414895,None,-431707
+CNSP,2019-03-31,USD,None,0,None,None,-195090,146780,48307,195090,None,-16411,-16410,16411,None,None,None,None,-211500,None,None,-211501,None,-195090,None,-211500
+CNSP,2018-12-31,USD,None,None,None,None,-189244,186944,2300,189244,None,None,None,-18634,None,None,None,None,-3412359,None,None,-3412359,None,-189244,None,-3412359
+CNSP,2018-09-30,USD,None,None,None,None,-169905,165305,4600,169905,None,None,None,-23299,None,None,None,None,-193204,None,None,-193204,None,-169905,None,-193204

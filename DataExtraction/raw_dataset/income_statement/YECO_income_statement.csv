@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+YECO,2017-12-31,USD,-11261,2427189,2438449,2438449,3618762,3630023,0,-1191573,None,None,None,-69019,None,None,None,None,5634172,-67690,None,5701863,None,3618762,None,5701863
+YECO,2017-06-30,USD,345860,2459642,2113781,2113781,-466202,812062,0,2925844,None,None,None,-151456,None,None,None,None,-1004869,171269,None,-1176137,None,-466202,None,-1176137
+YECO,2017-03-31,USD,345860,2459642,2113781,2113781,-466202,812062,0,2925844,None,None,None,-151456,None,None,None,None,-1004869,171269,None,-1176137,None,-466202,None,-1176137
+YECO,2016-12-31,USD,292930,1783390,1490460,1490460,-1922390,2215320,0,3705780,None,None,None,-159800,None,None,None,None,-2432305,-193774,None,-2238531,None,-1922390,None,-2238531
+YECO,2016-09-30,USD,911229,2804030,1892801,1892801,-1075312,1986541,0,3879342,None,None,None,-196140,None,None,None,None,-2720985,117791,None,-2838776,None,-1075312,None,-2838776
+YECO,2016-06-30,USD,0,0,0,0,0,0,0,39459340,None,None,None,0,None,None,None,None,0,0,None,-55735523,None,-422572,None,0
+YECO,2016-03-31,USD,0,0,0,0,0,0,0,0,None,None,None,0,None,None,None,None,0,0,None,2545500,None,3607663,None,0

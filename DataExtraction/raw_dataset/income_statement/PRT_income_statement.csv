@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+PRT,2020-09-30,USD,None,327073,None,None,121657,205416,None,205416,None,None,None,None,None,None,None,None,121657,None,None,121657,None,121657,None,121657
+PRT,2020-06-30,USD,None,378237,None,None,100000,278237,None,278237,None,None,None,None,None,None,None,None,0,None,None,0,None,100000,None,0
+PRT,2020-03-31,USD,None,1757328,None,None,1495064,262264,None,262264,None,0,0,None,None,None,None,None,1195064,None,None,1195064,None,1495064,None,1195064
+PRT,2019-12-31,USD,None,2027575,None,None,1865532,162043,None,162043,None,None,None,None,None,None,None,None,1565532,None,None,1565532,None,1865532,None,1565532
+PRT,2019-09-30,USD,2953437,2953437,None,None,2716326,237111,None,237111,None,0,0,0,None,None,None,None,2556326,None,None,2556326,None,2556326,None,2556326
+PRT,2019-06-30,USD,3142282,3142282,None,None,2785711,356571,None,356571,None,None,None,None,None,None,None,None,2645711,None,None,2645711,None,2785711,None,2645711
+PRT,2019-03-31,USD,2326326,2326326,None,None,2070802,255524,None,255524,None,None,None,None,None,None,None,None,2070802,None,None,2070802,None,2070802,None,2070802
+PRT,2018-12-31,USD,3801580,3807871,1109506,1109506,3623088,178492,0,1287998,None,None,None,0,None,None,None,None,3624117,0,None,3624117,None,3623088,None,3624117
+PRT,2018-09-30,USD,4501294,4497974,-449024,-449024,4295226,206068,0,-242956,None,None,None,0,None,None,None,None,4294197,0,None,4294197,None,4295226,None,4294197
+PRT,2018-06-30,USD,7935911,7932940,-660482,-660482,7671541,264370,0,-396112,None,None,None,0,None,None,None,None,7671541,0,None,7671541,None,7671541,None,7671541
+PRT,2018-03-31,USD,3967956,3637715,-330241,-330241,3835771,132185,0,-198056,None,None,None,0,None,None,None,None,3835771,0,None,3835771,None,3835771,None,3835771

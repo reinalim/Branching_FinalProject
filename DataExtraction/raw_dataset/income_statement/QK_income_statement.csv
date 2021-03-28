@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+QK,2020-09-30,CNY,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6500,None,None,None,None,None,None
+QK,2020-06-30,CNY,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6500,None,None,None,None,None,None
+QK,2020-03-31,CNY,-67849000,627101000,694950000,694950000,None,105539000,None,384869000,None,None,None,None,None,None,None,None,None,13000,None,None,None,-478319000,None,None
+QK,2019-12-31,CNY,-15675000,335832000,351507000,351507000,None,65461000,None,-1967000,None,None,None,None,None,None,None,None,None,13000,None,None,None,-30314000,None,None
+QK,2019-09-30,CNY,-15675000,335832000,351507000,351507000,-87818000,65461000,8649000,-1967000,None,-24007000,1607000,25616000,None,0,None,None,-125113000,23000,None,-125136000,None,-30314000,None,-125116000
+QK,2019-03-31,CNY,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,42500,None,None,None,None,None,None
+QK,2018-09-30,CNY,-27284000,296913000,324197000,324197000,-137784000,69543000,0,11.89,None,None,-21271000,-0.66,None,0,None,None,-176289000,17000,None,-5.18,None,-3.16,None,-176291000

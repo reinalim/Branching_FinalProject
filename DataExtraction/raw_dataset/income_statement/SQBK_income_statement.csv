@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SQBK,2015-06-30,USD,35273000,35273000,3952000,3952000,14966000,20307000,None,20307000,None,None,None,None,None,None,None,None,14966000,5047000,None,9919000,None,14966000,None,9919000
+SQBK,2015-03-31,USD,29910000,29910000,5703000,5703000,11573000,18337000,None,18337000,None,None,None,None,None,None,None,None,11573000,3420000,None,8153000,None,11573000,None,8153000
+SQBK,2014-12-31,USD,31757000,31757000,4165000,4165000,14224000,17533000,None,17533000,None,None,None,None,None,None,None,None,14224000,4692000,None,9532000,None,14224000,None,9532000
+SQBK,2014-09-30,USD,29840000,29840000,2650000,2650000,13005000,16835000,None,16835000,None,None,None,None,None,None,None,None,13005000,4253000,None,8752000,None,13005000,None,8752000
+SQBK,2014-06-30,USD,28098000,28098000,3349000,3349000,11498000,16600000,None,16600000,None,None,None,None,None,None,None,None,11498000,3447000,None,8051000,None,11498000,None,8051000
+SQBK,2014-03-31,USD,26682000,26682000,3257000,3257000,11099000,15583000,None,15583000,None,None,None,None,None,None,None,None,11099000,3251000,None,7848000,None,11099000,None,7848000
+SQBK,2013-12-31,USD,None,None,4307000,4307000,13994000,11014000,None,None,None,None,None,None,None,None,None,None,10133000,3193000,None,None,None,None,None,6940000
+SQBK,2013-09-30,USD,None,None,3196000,3196000,13387000,9920000,None,None,None,None,None,None,None,None,None,None,9894000,2925000,None,None,None,None,None,6969000
+SQBK,2013-06-30,USD,None,None,4062000,4062000,10867000,10368000,None,None,None,None,None,None,None,None,None,None,7419000,2300000,None,None,None,None,None,5119000
+SQBK,2013-03-31,USD,None,None,3063000,3063000,7934000,9772000,None,None,None,None,None,None,None,None,None,None,4975000,1620000,None,None,None,None,None,3355000
+SQBK,2012-12-31,USD,None,None,10513000,10513000,35523000,35886000,None,None,None,None,None,None,None,None,None,None,21575000,7203000,None,None,None,None,None,14372000

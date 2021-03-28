@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+ITEK,2017-09-30,USD,None,None,None,None,None,None,70000,None,None,None,42453000,19000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2017-06-30,USD,None,None,None,None,None,None,70000,None,None,None,15316000,35000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2017-03-31,USD,None,None,None,None,None,None,53000,None,None,None,7094000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2016-12-31,USD,None,None,None,None,None,None,487000,None,None,None,None,53081000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2016-09-30,USD,None,None,None,None,None,None,344000,None,None,None,None,52868000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2016-06-30,USD,None,None,None,None,None,None,236000,None,None,None,None,4182000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2016-03-31,USD,None,None,None,None,None,None,15000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2015-12-31,USD,None,None,None,None,None,None,412000,None,None,None,None,125515000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2015-09-30,USD,None,None,None,None,None,None,318000,None,None,None,None,125442000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2015-06-30,USD,None,None,None,None,None,None,30000,None,None,None,None,51474000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2015-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,51514000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2014-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,568000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2013-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,17876000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+ITEK,2012-12-31,USD,None,None,None,None,None,None,0,None,None,None,3000,2500000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

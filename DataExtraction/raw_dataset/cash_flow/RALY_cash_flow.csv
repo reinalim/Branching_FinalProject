@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+RALY,2015-04-30,USD,1206000,None,None,None,None,None,365000,None,None,None,None,280000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2015-01-31,USD,None,None,None,None,None,None,2494000,None,None,None,None,3132000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2014-10-31,USD,None,None,None,None,None,None,2268000,None,None,None,None,1838000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2014-07-31,USD,None,None,None,None,None,None,1980000,None,None,None,None,1763000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2014-04-30,USD,None,None,None,None,None,None,648000,None,None,None,None,246000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2014-01-31,USD,None,None,None,None,None,None,3963000,None,None,None,None,96580000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2013-10-31,USD,None,None,None,None,None,None,3264000,None,None,None,None,93926000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2013-07-31,USD,None,None,None,None,None,None,2679000,None,None,None,None,94479000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2013-04-30,USD,1357000,None,None,None,None,None,2142000,None,None,None,None,89680000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2013-01-31,USD,1821000,None,None,None,None,None,2405000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2012-01-31,USD,None,None,None,None,None,None,1925000,None,None,None,None,18515000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+RALY,2011-01-31,USD,None,None,None,None,None,None,2760000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

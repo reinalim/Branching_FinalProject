@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SHP,2012-09-30,USD,None,31885000,23101000,23101000,1229000,7555000,None,None,None,None,None,None,None,None,None,None,1889000,321000,None,None,None,None,None,1568000
+SHP,2012-06-30,USD,None,31827000,22967000,22967000,609000,8251000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,408000
+SHP,2012-03-31,USD,None,30753000,21458000,21458000,1414000,7881000,None,None,None,None,None,None,None,None,None,None,2150000,417000,None,None,None,None,None,1733000
+SHP,2011-12-31,USD,45405000,30484000,20527000,20527000,2178000,7779000,0,0,None,None,None,38000,None,None,None,None,2914000,755000,None,0,None,0,None,2159000
+SHP,2011-09-30,USD,0,28836000,19843000,19843000,2013000,6980000,0,0,None,None,None,0,None,None,None,None,2934000,340000,None,0,None,0,None,2594000
+SHP,2011-06-30,USD,0,27508000,18360000,18360000,2828000,6320000,0,0,None,None,None,0,None,None,None,None,4178000,828000,None,0,None,0,None,3350000
+SHP,2011-03-31,USD,0,24774000,16774000,16774000,2478000,5522000,0,0,None,None,None,0,None,None,None,None,3531000,519000,None,0,None,0,None,3012000
+SHP,2010-12-31,USD,37197000,25608000,29080000,29080000,6525000,5148000,0,0,None,None,None,40000,None,None,None,None,3180000,633000,None,0,None,0,None,2547000
+SHP,2010-09-30,USD,0,23119000,-24004000,-24004000,-6366000,4396000,0,0,None,None,None,0,None,None,None,None,4086000,505000,None,0,None,0,None,3581000
+SHP,2010-06-30,USD,0,21826000,24004000,24004000,6366000,4163000,0,0,None,None,None,0,None,None,None,None,4658000,521000,None,0,None,0,None,4137000
+SHP,2010-03-31,USD,0,19728000,0,0,0,3815000,0,0,None,None,None,0,None,None,None,None,3158000,426000,None,0,None,0,None,2732000
+SHP,2009-12-31,USD,29753000,19824000,23679000,23679000,5646000,3830000,0,0,None,None,None,0,None,None,None,None,2941000,429000,None,0,None,0,None,2512000
+SHP,2009-09-30,USD,0,19800000,-18853000,-18853000,-4603000,3500000,0,0,None,None,None,0,None,None,None,None,3100000,400000,None,0,None,0,None,2700000
+SHP,2009-06-30,USD,0,17561000,18853000,18853000,4603000,3273000,0,0,None,None,None,0,None,None,None,None,3010000,423000,None,0,None,0,None,2587000
+SHP,2009-03-31,USD,0,15100000,0,0,0,3000000,0,0,None,None,None,0,None,None,None,None,2300000,300000,None,0,None,0,None,2000000
+SHP,2008-12-31,USD,24242000,60493000,36251000,36251000,9884000,10093000,0,0,None,None,None,0,None,None,None,None,9373000,315000,None,0,None,0,None,9058000

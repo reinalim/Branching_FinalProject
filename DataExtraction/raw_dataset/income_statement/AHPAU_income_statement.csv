@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AHPAU,2018-09-30,None,0,0,0,0,-4350337,0,0,None,None,None,None,0,None,None,None,None,0,0,None,None,None,None,None,5157743
+AHPAU,2018-06-30,USD,0,0,0,0,-2101349,0,0,None,None,None,None,0,None,None,None,None,0,0,None,None,None,None,None,221335
+AHPAU,2018-03-31,USD,0,0,0,0,-1158822,0,0,None,None,None,None,0,None,None,None,None,0,0,None,None,None,None,None,-135653
+AHPAU,2017-12-31,EUR,0,0,0,0,-1298247,0,0,0,None,None,None,0,None,None,None,None,0,0,None,23090,None,0,None,-498107
+AHPAU,2017-09-30,EUR,0,0,0,0,-2853131,0,0,0,None,None,None,0,None,None,None,None,0,0,None,-2497337,None,0,None,-2117003
+AHPAU,2017-06-30,EUR,0,0,0,0,-221808,0,0,-218648,None,None,None,0,None,None,None,None,0,0,None,239471,None,218648,None,380334
+AHPAU,2017-03-31,EUR,0,0,0,0,-218648,0,0,218648,None,None,None,0,None,None,None,None,0,0,None,140863,None,-218648,None,140863
+AHPAU,2016-09-30,USD,0,0,0,0,0,0,0,None,None,None,None,0,None,None,None,None,0,0,None,None,None,None,None,-30542

@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+JFKKU,2020-07-31,USD,None,0,None,None,-526232,526232,None,526232,None,976,976,None,None,None,None,None,-525256,None,None,-525256,None,-526232,None,-525256
+JFKKU,2020-04-30,USD,None,0,None,None,-309576,309576,None,309576,None,80313,80313,None,None,None,None,None,-229263,None,None,-229263,None,-309576,None,-229263
+JFKKU,2020-01-31,USD,None,0,None,None,-218785,218785,None,218785,None,185619,185619,None,None,None,None,None,-33166,None,None,-33166,None,-218785,None,-33166
+JFKKU,2019-10-31,USD,None,0,None,None,-297556,297556,None,297556,None,241342,241342,None,None,None,None,None,-56214,None,None,-56214,None,-297556,None,-56214
+JFKKU,2019-07-31,USD,None,0,None,None,-389690,389690,None,389690,None,87735,87735,None,None,None,None,None,-301955,None,None,-301955,None,-389690,None,-301955
+JFKKU,2019-04-30,USD,None,0,None,None,-58380,58376,None,58376,None,485,490,None,None,None,None,None,-57890,None,None,-57891,None,-58376,None,-57890
+JFKKU,2019-01-31,USD,None,0,None,None,-12091,12091,None,12091,None,None,None,None,None,None,None,None,-12090,None,None,-12090,None,-12091,None,-12090

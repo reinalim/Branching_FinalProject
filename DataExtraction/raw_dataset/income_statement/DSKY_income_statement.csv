@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+DSKY,2015-12-31,USD,None,129627000,82382000,82382000,7786000,39459000,6771000,None,None,None,None,None,None,None,None,None,3432000,5860000,None,None,None,None,None,None
+DSKY,2015-06-30,USD,None,63332000,38707000,38707000,5177000,19448000,4486000,None,None,None,None,None,None,None,None,None,5837000,2328000,None,None,None,None,None,3521000
+DSKY,2015-03-31,USD,None,59986000,36857000,36857000,7783000,15346000,4276000,None,None,None,None,None,None,None,None,None,7905000,1902000,None,None,None,None,None,6029000
+DSKY,2014-12-31,USD,None,51789000,31841000,31841000,4650000,15298000,3871000,None,None,None,None,None,None,None,None,None,5795000,1024000,None,None,None,None,None,4781000
+DSKY,2014-09-30,USD,None,48595000,28255000,28255000,5590000,14750000,3494000,None,None,None,None,None,None,None,None,None,6325000,368000,None,None,None,None,None,5967000
+DSKY,2014-06-30,USD,None,30226000,17248000,17248000,None,30330000,1804000,None,None,None,None,None,None,None,None,None,None,1363000,None,None,None,None,None,None
+DSKY,2014-03-31,USD,None,28007000,16290000,16290000,6803000,4914000,1094000,None,None,None,None,None,None,None,None,None,6901000,1566000,None,None,None,None,None,5254000
+DSKY,2013-12-31,USD,None,18911000,11874000,11874000,3494000,3389000,828000,None,None,None,None,None,None,None,None,None,3522000,777000,None,None,None,None,None,2756000
+DSKY,2013-09-30,USD,None,12814000,7945000,7945000,1923000,2748000,608000,None,None,None,None,None,None,None,None,None,2054000,228000,None,None,None,None,None,1838000
+DSKY,2013-06-30,USD,None,5450000,3237000,3237000,271000,1770000,535000,None,None,None,None,None,None,None,None,None,154000,15000,None,None,None,None,None,149000
+DSKY,2013-03-31,USD,None,3555000,2072000,2072000,None,1498000,377000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DSKY,2012-12-31,USD,None,1482000,1012000,1012000,None,736000,321000,None,None,None,None,None,None,None,None,None,59000,None,None,None,None,None,None,64000
+DSKY,2012-09-30,USD,None,910000,604000,604000,None,657000,324000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DSKY,2012-06-30,USD,None,718000,472000,472000,None,1016000,559000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

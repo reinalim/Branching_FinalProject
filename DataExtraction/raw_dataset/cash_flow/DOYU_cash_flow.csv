@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+DOYU,2020-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-196857000
+DOYU,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,85860000
+DOYU,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,336045000
+DOYU,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,260450000
+DOYU,2019-12-31,CNY,813176020,None,None,None,None,32814890,121950680,0,0,None,-246303030,1896331830,None,None,None,None,0,0,None,None,None,None,3307223910,None,0,0,161599000
+DOYU,2019-09-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-164637000
+DOYU,2019-06-30,CNY,0,None,None,None,None,0,0,0,0,None,0,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,22276000
+DOYU,2019-03-31,CNY,274837660,None,None,None,None,7997670,62663140,0,0,None,-85271140,-1368960190,None,None,None,None,0,0,None,None,None,None,0,None,0,0,18151520
+DOYU,2018-12-31,CNY,-2960234.92,None,None,None,None,455999.46,362944.1,0,0,None,-1460628.13,699968.96,None,None,None,None,0,0,None,None,None,None,579563599.62,None,0,0,-5736811.81
+DOYU,2018-06-30,USD,-21004776.69,None,None,None,None,3235610.38,2575322.59,0,0,None,-10364098.98,4966731.40,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-34298440.31
+DOYU,2018-03-31,USD,-80381684.09,None,None,None,None,8507352.69,4640243.57,0,0,None,-22061509.41,-49200393.65,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-191492567.35
+DOYU,2017-12-31,USD,-57541981.51,None,None,None,None,8240545.21,4144858.89,0,0,None,-22483920.98,300228173.41,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-53822288.94

@@ -1,0 +1,9 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ZNTL,2020-12-31,USD,None,0,None,None,-40245000,10724000,29521000,40245000,None,None,None,None,None,None,None,None,-39930000,None,None,-40356000,None,-40212000,None,-40303000
+ZNTL,2020-09-30,USD,None,0,None,None,-34767000,10097000,24670000,34767000,None,None,None,None,None,None,None,None,-34647000,18000,None,-34665000,None,-34836000,None,-34555000
+ZNTL,2020-06-30,USD,None,0,None,None,-27376000,9924000,17452000,27376000,None,None,None,None,None,None,None,None,-27292000,None,None,-27292000,None,-27338000,None,-26857000
+ZNTL,2020-03-31,USD,None,0,None,None,-16399000,3141000,13258000,16399000,None,164000,164000,None,None,None,None,None,-16235000,None,None,-16235000,None,-16361000,None,-16126000
+ZNTL,2019-12-31,USD,None,0,None,None,-14905000,3036000,11869000,14905000,None,None,None,None,None,None,None,None,-14546000,None,None,-14546000,None,-14864000,None,-14506000
+ZNTL,2019-09-30,USD,None,0,None,None,-12583000,1844000,10739000,12583000,None,None,None,None,None,None,None,None,-12571000,1000,None,-12572000,None,-12558000,None,-12344000
+ZNTL,2019-06-30,USD,None,0,None,None,-10635000,1946000,8689000,10635000,None,None,None,None,None,None,None,None,-10586000,11000,None,-10597000,None,-10611000,None,-10470000
+ZNTL,2019-03-31,USD,None,0,None,None,-8722000,1633000,7089000,8722000,None,74000,74000,None,None,None,None,None,-8660000,3000,None,-8663000,None,-8701000,None,-8343000

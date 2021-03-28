@@ -1,0 +1,4 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+DDMXU,2019-12-31,USD,None,0,None,None,-111931,0,None,111931,None,237739,237739,None,None,None,None,None,119110,None,None,119110,None,-111931,None,119110
+DDMXU,2019-09-30,USD,None,0,None,None,-675847,675847,None,675847,None,303822,303822,None,None,None,None,None,-363680,None,None,-363680,None,-675847,None,-363680
+DDMXU,2019-03-31,USD,None,0,None,None,-112925,112925,None,112925,None,323968,323968,None,None,None,None,None,217616,None,None,217616,None,-112925,None,217616

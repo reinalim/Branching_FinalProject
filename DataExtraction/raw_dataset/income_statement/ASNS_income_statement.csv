@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+ASNS,2018-12-31,None,0,3500000,0,0,-33438000,3575000,22107000,-12447000,None,None,None,1298000,None,None,None,None,10900000,0,None,10900000,None,12447000,None,-32121000
+ASNS,2018-09-30,USD,0,0,0,0,169000,12411000,9572000,-169000,None,None,None,259000,None,None,None,None,1233000,0,None,1233000,None,169000,None,1233000
+ASNS,2018-06-30,USD,0,0,0,0,-1666000,12577000,8930000,1666000,None,None,None,259000,None,None,None,None,-1503000,0,None,-1503000,None,-1666000,None,-1503000
+ASNS,2018-03-31,USD,0,0,0,0,-10950000,10904000,8133000,10950000,None,None,None,267000,None,None,None,None,-10630000,0,None,-10630000,None,-10950000,None,-10630000
+ASNS,2017-12-31,USD,0,0,0,0,-22528000,11559000,9230000,22528000,None,None,None,273000,None,None,None,None,-23237000,0,None,-23237000,None,-22528000,None,-23237000
+ASNS,2017-09-30,USD,0,0,0,0,-25442000,13004000,10601000,25442000,None,None,None,343000,None,None,None,None,-21090000,0,None,-21090000,None,-25442000,None,-21090000
+ASNS,2017-06-30,USD,0,0,0,0,17664000,5596000,3906000,-17664000,None,None,None,444000,None,None,None,None,15835000,0,None,15835000,None,17664000,None,15835000
+ASNS,2017-03-31,USD,0,0,0,0,-5827000,5779000,4391000,5827000,None,None,None,1019000,None,None,None,None,-5385000,0,None,-5385000,None,-5827000,None,-5385000
+ASNS,2016-12-31,USD,0,0,0,0,-24346000,24061000,17831000,24346000,None,None,None,2515000,None,None,None,None,-22975000,0,None,-22975000,None,-24346000,None,-22975000
+ASNS,2015-12-31,USD,0,0,0,0,-14825000,14436000,12706000,14825000,None,None,None,472000,None,None,None,None,-13218000,0,None,-13218000,None,-14825000,None,-13218000

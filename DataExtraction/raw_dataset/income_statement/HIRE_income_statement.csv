@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+HIRE,2008-06-30,USD,None,19831000,9017000,9017000,2273000,8143000,1166000,None,None,None,None,None,None,None,None,None,1653000,449000,None,None,None,None,None,1204000
+HIRE,2008-03-31,USD,None,17326000,8555000,8555000,1787000,6607000,1048000,None,None,None,None,None,None,None,None,None,2357000,854000,None,None,None,None,None,1503000
+HIRE,2007-12-31,USD,None,17150000,8706000,8706000,1457000,6579000,1114000,None,None,None,None,None,None,None,None,None,2047000,735000,None,None,None,None,None,1312000
+HIRE,2007-09-30,USD,None,17649000,8584000,8584000,2630000,6113000,982000,None,None,None,None,None,None,None,None,None,3031000,1189000,None,None,None,None,None,1842000
+HIRE,2007-06-30,USD,None,18576000,8813000,8813000,3127000,6315000,1023000,None,None,None,None,None,None,None,None,None,3243000,1343000,None,None,None,None,None,1900000
+HIRE,2007-03-31,USD,None,16020000,8219000,8219000,1924000,5575000,909000,None,None,None,None,None,None,None,None,None,2014000,837000,None,None,None,None,None,1177000
+HIRE,2006-12-31,USD,None,14185000,7613000,7613000,969000,5359000,1065000,None,None,None,None,34000,None,None,None,None,1004000,418000,None,None,None,None,None,586000
+HIRE,2006-09-30,USD,None,15330000,8045000,8045000,1515000,5511000,925000,None,None,None,None,2000,None,None,None,None,1558000,None,None,None,None,None,None,6551000
+HIRE,2006-06-30,USD,None,15535000,7912000,7912000,2457000,4893000,928000,None,None,None,None,16000,None,None,None,None,2462000,106000,None,None,None,None,None,2356000
+HIRE,2006-03-31,USD,None,13047000,7097000,7097000,1425000,4223000,861000,None,None,None,None,22000,None,None,None,None,1401000,None,None,None,None,None,None,1401000
+HIRE,2005-12-31,USD,None,11316000,6716000,6716000,340000,4260000,3131000,None,None,None,None,159000,None,None,None,None,309000,1000,None,None,None,None,None,308000
+HIRE,2005-09-30,USD,None,11839000,7123000,7123000,628000,4088000,None,None,None,None,None,None,None,None,None,None,556000,None,None,None,None,None,None,556000
+HIRE,2005-06-30,USD,None,11009000,7053000,7053000,67000,3889000,None,None,None,None,None,None,None,None,None,None,28000,None,None,None,None,None,None,28000
+HIRE,2005-03-31,USD,None,8889000,6042000,6042000,None,3692000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

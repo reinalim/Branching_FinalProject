@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+NTGN,2020-03-31,USD,None,0,None,None,-16666000,7220000,9446000,16666000,None,68000,68000,None,None,None,None,None,-16598000,None,None,-16598000,None,-16242000,None,-16598000
+NTGN,2019-12-31,USD,None,0,None,None,-17989000,5298000,12691000,17989000,None,149000,149000,None,None,None,None,None,-17840000,None,None,-17840000,None,-17611000,None,-17840000
+NTGN,2019-09-30,USD,None,0,None,None,-19254000,5134000,14120000,19254000,None,278000,278000,None,None,None,None,None,-18980000,None,None,-18980000,None,-18821000,None,-18980000
+NTGN,2019-06-30,USD,None,0,None,None,-22315000,5580000,16735000,22315000,None,418000,418000,None,None,None,None,None,-21932000,None,None,-21932000,None,-21897000,None,-21932000
+NTGN,2019-03-31,USD,None,0,None,None,-21580000,5408000,16172000,21580000,None,556000,556000,None,None,None,None,None,-21024000,None,None,-21024000,None,-21165000,None,-21024000
+NTGN,2018-12-31,USD,0,0,0,0,-23774000,5752000,18022000,23774000,None,None,None,0,None,None,None,None,-23123000,0,None,-23123000,None,-23774000,None,-23123000
+NTGN,2018-09-30,USD,0,0,0,0,-19053000,4612000,14441000,19053000,None,None,None,0,None,None,None,None,-18391000,0,None,-18391000,None,-19053000,None,-18391000
+NTGN,2018-06-30,USD,0,0,0,0,-19117000,4313000,14804000,19117000,None,None,None,0,None,None,None,None,-18899000,0,None,-18899000,None,-19117000,None,-18899000
+NTGN,2018-03-31,USD,0,0,0,0,-16757000,3599000,13158000,16757000,None,None,None,0,None,None,None,None,-16520000,0,None,-16520000,None,-16757000,None,-16520000
+NTGN,2017-12-31,USD,0,0,0,0,-48087000,14355000,10921000,48087000,None,None,None,0,None,None,None,None,-47536000,0,None,-47536000,None,-48087000,None,-47536000
+NTGN,2017-09-30,USD,0,0,0,0,-316000,13896000,11530000,316000,None,None,None,0,None,None,None,None,-309000,0,None,-309000,None,-316000,None,-309000
+NTGN,2017-06-30,USD,0,0,0,0,-8168000,9547000,7332000,8168000,None,None,None,0,None,None,None,None,-8276000,0,None,-8276000,None,-8168000,None,-8276000
+NTGN,2017-03-31,USD,0,0,0,0,8484000,9369000,7412000,-8484000,None,None,None,0,None,None,None,None,8585000,0,None,8585000,None,8484000,None,8585000
+NTGN,2016-12-31,USD,0,0,0,0,-27422000,27011000,19673000,27422000,None,None,None,0,None,None,None,None,-27433000,0,None,-27433000,None,-27422000,None,-27433000

@@ -1,0 +1,17 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+DRTX,2014-09-30,USD,None,10081000,27896000,27896000,None,None,11266000,None,None,None,None,1608000,None,None,None,None,None,207000,None,None,None,None,None,None
+DRTX,2014-06-30,USD,None,None,17185000,17185000,None,None,6185000,None,None,None,None,1040000,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2014-03-31,USD,None,None,16180000,16180000,None,None,9009000,None,None,None,None,895000,None,None,None,None,None,131000,None,None,None,None,None,None
+DRTX,2013-12-31,USD,None,None,None,None,None,12267000,7119000,None,None,None,None,815000,None,None,None,None,None,564000,None,None,None,None,None,None
+DRTX,2013-09-30,USD,None,None,None,None,None,10687000,5927000,None,None,None,None,648000,None,None,None,None,None,256000,None,None,None,None,None,None
+DRTX,2013-06-30,USD,None,None,None,None,None,17629000,13179000,None,None,None,None,655000,None,None,None,None,None,210000,None,None,None,None,None,None
+DRTX,2013-03-31,USD,None,None,None,None,None,15083000,11092000,None,None,None,None,108000,None,None,None,None,None,248000,None,None,None,None,None,None
+DRTX,2012-12-31,USD,None,None,None,None,None,13048000,9440000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2012-09-30,USD,None,None,None,None,None,21508000,18956000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2012-06-30,USD,None,None,None,None,None,18920000,16528000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2012-03-31,USD,None,None,None,None,None,7992000,6771000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2011-12-31,USD,None,None,None,None,None,10031000,9038000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2011-09-30,USD,None,None,None,None,None,9335000,8326000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2011-06-30,USD,None,None,None,None,None,9691000,8439000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2011-03-31,USD,None,None,None,None,None,5381000,4329000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+DRTX,2010-12-31,USD,None,None,None,None,None,7245000,4818000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

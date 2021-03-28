@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CFFAU,2020-09-30,USD,None,0,None,None,-378512,None,None,378512,None,7243,7243,None,None,None,None,None,-371269,None,None,-359930,None,-378512,None,-359930
+CFFAU,2020-06-30,USD,None,0,None,None,-421490,None,None,421490,None,80048,80048,None,None,None,None,None,-341442,None,None,-264764,None,-421490,None,-264764
+CFFAU,2020-03-31,USD,None,0,None,None,-235928,None,None,235928,None,628167,628167,None,None,None,None,None,392239,None,None,230228,None,-235928,None,230228
+CFFAU,2019-12-31,USD,None,0,None,None,-327550,None,None,327550,None,1194708,1194708,None,None,None,None,None,867158,224050,None,643106,None,-327550,None,643106
+CFFAU,2019-09-30,USD,None,0,None,None,-109776,None,None,109776,None,1608191,1608191,None,None,None,None,None,1498415,-143490,None,1641909,None,-109776,None,1641909
+CFFAU,2019-06-30,USD,None,0,None,None,-111093,None,None,111093,None,1706870,1706870,None,None,None,None,None,1595777,596490,None,999286,None,-111093,None,999286
+CFFAU,2019-03-31,USD,None,0,None,None,-104340,None,None,104339,None,1618410,1618410,None,None,None,None,None,1514070,514740,None,999332,None,-104339,None,999330

@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+RSTN,2020-09-30,USD,489000,654000,165000,165000,-802000,1101000,None,1456000,None,-275000,None,275000,None,None,None,None,2250000,None,None,2250000,None,2715000,None,2250000
+RSTN,2020-06-30,USD,555000,787000,232000,232000,-873000,1238000,None,1660000,None,-584000,None,584000,None,None,None,None,-1398000,None,None,-1398000,None,-624000,None,-1398000
+RSTN,2020-03-31,USD,425000,962000,537000,537000,-640000,1002000,None,1602000,None,-290000,None,290000,None,None,None,None,-874000,None,None,-874000,None,-521000,None,-874000
+RSTN,2019-12-31,USD,252000,673000,421000,421000,-979000,602000,None,1652000,None,-609000,None,609000,None,None,None,None,-9921000,None,None,-9921000,None,-8671000,None,-9921000
+RSTN,2019-09-30,USD,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

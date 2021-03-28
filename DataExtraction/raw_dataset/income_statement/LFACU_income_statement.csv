@@ -1,0 +1,11 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+LFACU,2020-12-31,USD,1392,1392,None,None,-967070,917579,None,917579,None,None,None,None,None,None,None,None,-965678,6552,None,-972230,-972230,-967070,None,-972230
+LFACU,2020-09-30,USD,8953,8953,None,None,-958668,908158,None,908158,None,8953,8953,None,None,None,None,None,-949715,-25379,None,-924336,-924336,-958668,None,-924336
+LFACU,2020-06-30,USD,45058,45058,None,None,-265590,215590,None,215590,None,45058,45058,None,None,None,None,None,-220532,2145,None,-222677,-222677,-265590,None,-222677
+LFACU,2020-03-31,USD,638916,638916,None,None,-479037,428987,None,428987,None,638916,638916,None,None,None,None,None,159879,137131,None,22748,22748,-479037,None,22748
+LFACU,2019-12-31,USD,681222,681222,None,None,-253143,203143,None,203143,None,681222,681222,None,None,None,None,None,428079,122886,None,305193,305193,-253143,None,305193
+LFACU,2019-09-30,USD,892606,892606,None,None,-241047,191047,None,191047,None,892606,892606,None,None,None,None,None,651559,174369,None,477190,477190,-241047,None,477190
+LFACU,2019-06-30,USD,965040,965040,None,None,-245018,195018,None,195018,None,965040,965040,None,None,None,None,None,720022,193059,None,526963,526963,-245018,None,526963
+LFACU,2019-03-31,USD,935129,935129,None,None,-287099,237099,None,237099,None,935129,935130,None,None,None,None,None,648030,185540,None,462490,462490,-287099,None,462490
+LFACU,2018-12-31,USD,882382,882382,None,None,-251218,201219,None,201219,None,None,None,None,None,None,None,None,631163,173456,None,457707,457707,-251218,None,457707
+LFACU,2018-09-30,USD,806551,806551,None,None,-243715,193715,None,193715,None,None,None,None,None,None,None,None,562837,137727,None,675111,425110,-243715,None,425110

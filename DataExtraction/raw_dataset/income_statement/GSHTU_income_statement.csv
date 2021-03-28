@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+GSHTU,2017-12-31,USD,0,0,0,0,-599534,444843,0,599534,None,None,None,0,None,None,None,None,1433166,263344,None,1169822,None,-599534,None,1169822
+GSHTU,2017-09-30,USD,0,0,0,0,5153,5153,0,-5153,None,None,None,0,None,None,None,None,260322,547582,None,-287260,None,5153,None,-287260
+GSHTU,2017-06-30,USD,0,0,0,0,-929,929,0,929,None,None,None,0,None,None,None,None,390347,0,None,390347,None,-929,None,390347
+GSHTU,2017-03-31,USD,0,0,0,0,-184970,139970,0,184970,None,None,None,0,None,None,None,None,151597,0,None,151597,None,-184970,None,151597

@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+GOMO,2014-12-31,USD,11930000,None,None,None,None,None,2572000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+GOMO,2014-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,747000
+GOMO,2014-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1072000
+GOMO,2014-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2288000
+GOMO,2013-12-31,USD,11544000,None,None,None,None,None,2058000,None,None,None,None,102417000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,5202000
+GOMO,2013-09-30,USD,6218000,None,None,None,None,None,1827000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,4513000
+GOMO,2013-06-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,3601000
+GOMO,2013-03-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,1851000
+GOMO,2012-12-31,USD,1966000,None,None,None,None,None,573000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2801000
+GOMO,2012-09-30,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,860000
+GOMO,2011-12-31,USD,None,None,None,None,None,None,562000,None,None,None,6965000,1995000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

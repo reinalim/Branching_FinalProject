@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+TKAI,2017-03-31,USD,None,None,None,None,None,None,0,None,None,None,4325000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2016-12-31,USD,None,None,None,None,None,None,17000,None,None,None,35683000,37000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2016-09-30,USD,None,None,None,None,None,None,17000,None,None,None,23780000,37000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2016-06-30,USD,None,None,None,None,None,None,17000,None,None,None,8133000,37000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2016-03-31,USD,None,None,None,None,None,None,17000,None,None,None,None,37000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2015-12-31,USD,None,None,None,None,None,None,565000,None,None,None,None,513000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2015-09-30,USD,None,None,None,None,None,None,349000,None,None,None,None,465000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2015-06-30,USD,None,None,None,None,None,None,192000,None,None,None,None,277000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2015-03-31,USD,None,None,None,None,None,None,45000,None,None,None,None,55000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2014-12-31,USD,None,None,None,None,None,None,25000,None,None,None,None,94799000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2014-09-30,USD,None,None,None,None,None,None,25000,None,None,None,None,88547000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2014-06-30,USD,None,None,None,None,None,None,18000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2013-12-31,USD,None,None,None,None,None,None,23000,None,None,None,None,35591000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+TKAI,2012-12-31,USD,None,None,None,None,None,None,8000,None,None,None,None,18779000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

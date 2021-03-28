@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+FTACU,2020-09-30,USD,None,0,None,None,-1519109,1469109,None,1519109,None,8895,8895,None,None,None,None,None,-1510214,None,None,-1501582,None,-1519109,None,-1501582
+FTACU,2020-06-30,USD,None,0,None,None,-334143,284143,None,334143,None,95495,95495,None,None,None,None,None,-238648,None,None,-248202,None,-334143,None,-248202
+FTACU,2020-03-31,USD,None,0,None,None,-542737,492737,None,542737,None,1745359,1745359,None,None,None,None,None,1202622,None,None,846597,None,-542737,None,846597
+FTACU,2019-12-31,USD,None,0,None,None,-586534,536484,None,586534,None,1747345,1747345,None,None,None,None,None,1160811,None,None,804379,None,-586534,None,804379
+FTACU,2019-09-30,USD,None,0,None,None,-523462,473462,None,523462,None,2035795,2035795,None,None,None,None,None,1512333,None,None,1095316,None,-523462,None,1095316
+FTACU,2019-06-30,USD,None,0,None,None,-441875,391875,None,441875,None,2123733,2123733,None,None,None,None,None,1681858,None,None,1246374,None,-441875,None,1246374
+FTACU,2019-03-31,USD,None,0,None,None,-512830,50000,None,512829,None,2070532,2070530,None,None,None,None,None,1557700,None,None,1129850,None,-512829,None,1129850

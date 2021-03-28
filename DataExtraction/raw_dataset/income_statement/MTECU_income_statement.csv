@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MTECU,2018-12-31,None,0,0,0,0,312942,0,0,0,None,None,None,0,None,None,None,None,41604,42677,None,0,None,0,None,74660
+MTECU,2018-09-30,None,0,0,0,0,-178232,0,0,0,None,None,None,0,None,None,None,None,-175568,19436,None,0,None,0,None,-195004
+MTECU,2018-06-30,USD,0,0,0,0,-49616,0,0,0,None,None,None,0,None,None,None,None,128658,-1352,None,0,None,0,None,130010
+MTECU,2018-03-31,USD,0,0,0,0,-86652,0,0,0,None,None,None,0,None,None,None,None,3748,14972,None,0,None,0,None,-11224
+MTECU,2017-09-30,USD,0,0,0,0,None,None,None,0,None,None,None,None,None,None,None,None,-2346,0,None,-2346,None,0,None,-2346

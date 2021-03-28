@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+GSX,2020-12-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-627033000
+GSX,2020-09-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-932512000
+GSX,2020-06-30,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,18627000
+GSX,2020-03-31,CNY,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,147988000
+GSX,2019-12-31,CNY,738758000,None,None,None,None,11919000,61267000,0,0,None,-609230000,1246065000,None,None,None,None,0,0,None,None,None,None,1280121000,None,0,0,226630000
+GSX,2019-09-30,CNY,738758000,None,None,None,None,0,0,0,0,None,-609230000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,1902000
+GSX,2019-06-30,CNY,738758000,None,None,None,None,0,0,0,0,None,-609230000,0,None,None,None,None,0,0,None,None,None,None,0,None,0,0,16374000
+GSX,2019-03-31,CNY,64609000,None,None,None,None,1529000,1175000,0,0,None,-57320000,-500000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,33891000
+GSX,2018-12-31,CNY,743188.51,None,None,None,None,12422.89,12134000,0,0,None,-198720000,-29193000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,60378.36
+GSX,2018-09-30,USD,9406018.43,None,None,None,None,229003.19,171060.87,0,0,None,-8344858.71,-72791.86,None,None,None,None,0,0,None,None,None,None,0,None,0,0,99579.26
+GSX,2018-06-30,USD,9689412.12,None,None,None,None,235902.82,176214.76,0,0,None,-8596280.74,-74985,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-60737.85
+GSX,2018-03-31,CNY,862988.62,None,None,None,None,179921.98,482923.33,0,0,None,-484993.23,73242.58,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-573680.44

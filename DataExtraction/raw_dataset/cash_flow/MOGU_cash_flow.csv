@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+MOGU,2020-12-31,CNY,12052000,None,None,None,None,None,0,None,None,None,94252000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-36694000
+MOGU,2020-09-30,CNY,-31382000,None,None,None,None,None,0,None,None,None,-116622000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-93737000
+MOGU,2020-06-30,CNY,-8599000,None,None,None,None,None,0,None,None,None,-14214000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-88911000
+MOGU,2020-03-31,CNY,-154827000,None,None,None,None,None,0,None,None,None,141860000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-141890000
+MOGU,2019-12-31,CNY,-37692000,None,None,None,None,0.01,0,0,0,None,12937000,-27822000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-1634638000
+MOGU,2019-09-30,CNY,-89391000,None,None,None,None,0,0,0,0,None,-148798000,-25773000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-326584000
+MOGU,2019-06-30,CNY,-29879000,None,None,None,None,0.01,0,0,0,None,-119149000,-6807000,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-120526000
+MOGU,2019-03-31,CNY,-325808000,None,None,None,None,206385000,19786000,0,0,None,-82836000,414872000,None,None,None,None,0,0,None,None,None,None,410943000,None,0,0,-486275000
+MOGU,2018-12-31,CNY,89501.32,None,None,None,None,212808.38,26572.62,0,-15151.44,None,-241654.79,1308323.83,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-129544.62
+MOGU,2018-09-30,USD,-35933701.17,None,None,None,None,8484619.08,179941.48,0,8880.61,None,-12827381.39,1626461.30,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-26303920.57
+MOGU,2018-06-30,USD,-2635422.92,None,None,None,None,4814637.07,239652.07,0,-51889.62,None,-8491751.65,148770.25,None,None,None,None,0,0,None,None,None,None,0,None,0,0,-18393971.21
+MOGU,2018-03-31,USD,None,None,None,None,None,None,824000,None,636000,None,54277000,1138000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,772000
+MOGU,2017-12-31,USD,-19215270.41,None,None,None,None,19196674.20,245593,None,-53175.96,None,34795057.40,360244.06,None,None,None,None,0,0,None,None,None,None,0,None,None,None,-24006331.93
+MOGU,2017-03-31,USD,None,None,None,None,None,None,3437000,None,None,None,None,28325000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,0

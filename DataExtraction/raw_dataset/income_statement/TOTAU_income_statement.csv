@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+TOTAU,2020-09-30,USD,None,0,None,None,-485080,485080,None,485080,None,993,993,None,None,None,None,None,-484087,None,None,-484087,None,-485080,None,-484087
+TOTAU,2020-06-30,USD,None,0,None,None,-144252,144252,None,144252,None,171214,171214,None,None,None,None,None,26962,None,None,26962,None,-144252,None,26962
+TOTAU,2020-03-31,USD,None,0,None,None,-209096,209096,None,209096,None,197151,197151,None,None,None,None,None,-11945,None,None,-11945,None,185200,None,-11945
+TOTAU,2019-12-31,USD,None,0,None,None,-239610,239610,None,239610,None,249898,249898,None,None,None,None,None,10288,None,None,10288,None,260190,None,10288
+TOTAU,2019-09-30,USD,None,0,None,None,-150031,150031,None,150031,None,271163,271163,None,None,None,None,None,121132,None,None,121132,None,392290,None,121132
+TOTAU,2019-06-30,USD,None,0,None,None,-105998,105998,None,105998,None,335927,335927,None,None,None,None,None,229929,None,None,229929,None,473220,None,229929
+TOTAU,2019-03-31,USD,None,0,None,None,-92663,92663,None,92663,None,17,17,None,None,None,None,None,-92646,None,None,-92646,None,-92630,None,-92646
+TOTAU,2018-12-31,USD,None,None,None,None,-197300,197300,None,None,None,None,None,None,None,None,None,None,145880,None,None,None,None,489060,None,145880
+TOTAU,2018-09-30,USD,None,None,None,None,-73140,73140,None,None,None,None,None,None,None,None,None,None,-72950,None,None,None,None,-72420,None,-72950
+TOTAU,2018-06-30,USD,None,None,None,None,-53510,53510,None,None,None,None,None,None,None,None,None,None,-53500,None,None,None,None,None,None,-53500
+TOTAU,2018-03-31,USD,None,None,None,None,-38210,38210,None,None,None,None,None,None,None,None,None,None,-38210,None,None,None,None,None,None,-38210

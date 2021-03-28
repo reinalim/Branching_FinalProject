@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+GTYHU,2017-12-31,USD,0,0,0,0,-124989,124989,0,124989,None,None,None,0,None,None,None,None,1290368,0,None,1290368,None,-124989,None,1290368
+GTYHU,2017-09-30,USD,0,0,0,0,-143531,143531,0,143531,None,None,None,0,None,None,None,None,1282695,0,None,1282695,None,-143531,None,1282695
+GTYHU,2017-06-30,USD,0,0,0,0,-144346,144346,0,144346,None,None,None,0,None,None,None,None,917671,0,None,917671,None,-144346,None,917671
+GTYHU,2017-03-31,USD,0,0,0,0,-281359,281359,0,281359,None,None,None,0,None,None,None,None,369442,0,None,369442,None,-281359,None,369442

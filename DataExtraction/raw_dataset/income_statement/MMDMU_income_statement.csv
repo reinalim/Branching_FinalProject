@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MMDMU,2017-12-31,USD,0,0,0,0,-1730.88,1730.88,0,1730.88,None,None,None,0,None,None,None,None,2480.17,1353.34,None,1126.84,None,-1730.88,None,1126.84
+MMDMU,2017-09-30,USD,0,0,0,0,-1539.95,1539.95,0,1539.95,None,None,None,0,None,None,None,None,2266.19,1145.92,None,1120.27,None,-1539.95,None,1120.27
+MMDMU,2017-06-30,USD,0,0,0,0,-1406.89,1406.89,0,1406.89,None,None,None,0,None,None,None,None,-954.32,0,None,-954.32,None,-1406.89,None,-954.32
+MMDMU,2017-03-31,USD,0,0,0,0,-1419.33,1419.33,0,0,None,None,None,0,None,None,None,None,5.52,0,None,5.52,None,0,None,5.52

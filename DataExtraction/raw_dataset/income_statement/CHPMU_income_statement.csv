@@ -1,0 +1,4 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+CHPMU,2020-09-30,USD,None,0,None,None,-140833,140833,None,140833,None,89159,89159,None,None,None,None,None,-51674,None,None,-59898,None,-140833,None,-59898
+CHPMU,2020-06-30,USD,None,0,None,None,-146810,146810,None,146810,None,679961,679961,None,None,None,None,None,533151,None,None,400860,None,-146810,None,400860
+CHPMU,2020-03-31,USD,None,0,None,None,-165097,165097,None,165097,None,1147527,1147527,None,None,None,None,None,982430,None,None,751949,None,-165097,None,751949

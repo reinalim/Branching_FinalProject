@@ -1,0 +1,8 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SNNA,2019-09-30,USD,33000,33000,None,None,-6036000,721000,3820000,6036000,None,316000,0,-316000,-346000,None,35000,None,-8588000,-4618000,9000,9133000,-5439000,-8904000,None,-3970000
+SNNA,2019-03-31,USD,-429000,-429000,None,None,-15839000,8746000,7093000,15839000,None,-428000,0,428000,-1000,None,39000,None,-16382000,0,428000,-25985000,-17395000,-15954000,None,-16382000
+SNNA,2018-12-31,USD,None,0,None,None,-19769000,10596000,10774000,19769000,None,None,None,-800000,None,None,40000,None,-19335000,0,None,-19335000,-38670000,-15069000,None,-19335000
+SNNA,2018-09-30,USD,-663000,0,None,None,-16584000,2837000,12146000,16584000,None,None,None,-700000,None,None,39000,None,-16794000,0,None,-5321000,-17190000,-16584000,None,-16794000
+SNNA,2018-06-30,USD,None,0,None,None,-21668000,5976000,15692000,21668000,None,None,None,-700000,None,None,39000,None,-20239000,0,None,-26215000,-22733000,-21568000,None,-20239000
+SNNA,2018-03-31,USD,0,0,None,None,-18477000,5497000,12980000,18477000,None,None,None,-700000,None,None,39000,None,-17103000,0,None,-22600000,-15729000,-16977000,None,-17103000
+SNNA,2017-09-30,USD,1458000,1458000,None,None,-14322000,4924000,9398000,14322000,None,None,None,1165000,None,None,27000,None,-16476000,-85000,None,-16390000,-14803000,-22086000,None,-16391000

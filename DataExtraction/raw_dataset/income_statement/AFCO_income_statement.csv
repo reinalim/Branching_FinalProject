@@ -1,0 +1,12 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AFCO,2016-09-30,USD,None,4497000,5690000,5690000,None,None,None,None,None,None,None,422000,None,None,None,None,555000,None,None,None,None,None,None,465000
+AFCO,2016-06-30,USD,None,3079000,4031000,4031000,None,None,None,None,None,None,None,445000,None,None,None,None,None,108000,None,None,None,None,None,None
+AFCO,2016-03-31,USD,None,2427000,4327000,4327000,None,None,None,None,None,None,None,373000,None,None,None,None,None,34000,None,None,None,None,None,None
+AFCO,2015-12-31,USD,None,3051000,12820000,12820000,None,None,None,None,None,None,None,192000,None,None,None,None,None,86000,None,None,None,None,None,None
+AFCO,2015-09-30,USD,None,1960000,1725000,1725000,235000,None,None,None,None,None,None,189000,None,None,None,None,46000,None,None,None,None,None,None,None
+AFCO,2015-06-30,USD,None,2811000,2366000,2366000,445000,None,None,None,None,None,None,118000,None,None,None,None,327000,None,None,None,None,None,None,194000
+AFCO,2015-03-31,USD,None,2328000,1737000,1737000,591000,None,None,None,None,None,None,96000,None,None,None,None,495000,80000,None,None,None,None,None,286000
+AFCO,2014-12-31,USD,None,2277000,2024000,2024000,253000,None,None,None,None,None,None,51000,None,None,None,None,202000,None,None,None,None,None,None,109000
+AFCO,2014-09-30,USD,None,1241000,1161000,1161000,80000,None,None,None,None,None,None,26000,None,None,None,None,47000,None,None,None,None,None,None,10000
+AFCO,2014-06-30,USD,None,3745000,2950000,2950000,795000,None,None,None,None,None,None,42000,None,None,None,None,808000,None,None,None,None,None,None,592000
+AFCO,2013-12-31,USD,None,5740000,5359000,5359000,381000,None,None,None,None,None,None,10000,None,None,None,None,834000,None,None,None,None,None,None,553000

@@ -1,0 +1,13 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+MPSX,2017-03-31,USD,79656000,382633000,283061000,283061000,25985000,45345000,None,0,None,None,None,11927000,None,None,None,None,9047000,-1234000,None,10754000,None,20974000,None,10754000
+MPSX,2016-12-31,USD,82633000,386126000,283512000,283512000,29238000,44674000,None,0,None,None,None,12903000,None,None,None,None,-1587000,-57000,None,-1125000,None,11316000,None,-1125000
+MPSX,2016-09-30,USD,84344000,407825000,303884000,303884000,30878000,43622000,None,0,None,None,None,14642000,None,None,None,None,16021000,3152000,None,13249000,None,30663000,None,13249000
+MPSX,2016-06-30,USD,72595000,373836000,276968000,276968000,17428000,47930000,None,0,None,None,None,14902000,None,None,None,None,-6264000,1102000,None,-6741000,None,8638000,None,-6741000
+MPSX,2016-03-31,USD,86747000,399184000,293849000,293849000,27077000,46806000,None,0,None,None,None,14896000,None,None,None,None,9791000,6178000,None,3783000,None,24687000,None,3783000
+MPSX,2015-12-31,USD,None,429357000,314199000,314199000,9937000,72494000,None,None,None,None,None,16016000,None,None,None,None,None,None,None,None,None,None,None,None
+MPSX,2015-09-30,USD,None,459051000,337637000,337637000,43855000,44248000,None,None,None,None,None,18729000,None,None,None,None,18315000,5231000,None,None,None,None,None,13007000
+MPSX,2015-06-30,USD,None,402524000,284957000,284957000,17944000,65905000,None,None,None,None,None,21395000,None,None,None,None,None,None,None,None,None,None,None,None
+MPSX,2015-03-31,USD,None,416207000,299881000,299881000,22444000,63586000,None,None,None,None,None,17631000,None,None,None,None,10299000,3309000,None,None,None,None,None,6783000
+MPSX,2014-12-31,USD,None,404827000,285561000,285561000,23010000,62410000,None,None,None,None,None,17871000,None,None,None,None,None,None,None,None,None,None,None,None
+MPSX,2014-09-30,USD,None,394082000,277152000,277152000,27628000,55459000,None,None,None,None,None,18540000,None,None,None,None,10982000,3694000,None,None,None,None,None,7007000
+MPSX,2014-06-30,USD,None,888294000,639030000,639030000,26634000,145205000,None,None,None,None,None,47206000,None,None,None,None,None,None,None,None,None,None,None,None

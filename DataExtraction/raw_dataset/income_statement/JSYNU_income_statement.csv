@@ -1,0 +1,7 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+JSYNU,2018-03-31,USD,0,0,0,0,-295027,295027,None,0,None,None,None,74831,None,None,None,None,-284488,0,None,-284488,None,-209657,None,-284488
+JSYNU,2017-12-31,USD,0,0,0,0,-719912,719912,0,0,None,None,None,53491,None,None,None,None,-553555,0,None,-553555,None,-500064,None,-553555
+JSYNU,2017-09-30,USD,0,0,0,0,-65098,65098,0,0,None,None,None,688,None,None,None,None,-86638,0,None,-86638,None,-85950,None,-86638
+JSYNU,2017-06-30,USD,0,0,0,0,213846,213846,0,0,None,None,None,49,None,None,None,None,190885,0,None,190885,None,190934,None,190885
+JSYNU,2017-03-31,USD,0,0,0,0,-175399,175399,0,0,None,None,None,143,None,None,None,None,-134969,0,None,-134969,None,-134826,None,-134969
+JSYNU,2016-12-31,USD,0,0,0,0,-163945,163945,None,0,None,None,None,46,None,None,None,None,-143511,0,None,-143511,None,-143465,None,-143511

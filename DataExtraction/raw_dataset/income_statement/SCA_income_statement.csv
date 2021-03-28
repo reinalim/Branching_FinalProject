@@ -1,0 +1,15 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+SCA,2020-09-30,USD,6835040,14016750,7181710,7181710,5696780,972090,None,None,None,None,2179740,None,None,None,None,None,7876520,None,None,None,None,None,None,7508680
+SCA,2020-06-30,USD,6852660,13841280,6988620,6988620,5724620,1000050,None,None,None,None,34377060,None,None,None,None,None,40101670,None,None,None,None,None,None,39812670
+SCA,2020-03-31,USD,7745590,15261050,7515460,7515460,6436260,1151900,None,None,None,None,-50179190,None,None,None,None,None,-43742940,None,None,None,None,None,None,-43939730
+SCA,2019-12-31,USD,7107330,15391480,8284150,8284150,7089320,861230,None,None,None,None,-5058280,None,None,None,None,None,2031040,198230,None,None,None,None,None,1832810
+SCA,2019-09-30,USD,7146550,15515230,8368680,8368680,6149210,796820,None,None,None,None,2669600,None,None,None,None,None,8818800,350550,None,None,None,None,None,8468250
+SCA,2019-06-30,USD,7133910,14170260,7036350,7036350,5757790,1141890,None,None,None,None,579280,None,None,None,None,None,6337070,342380,None,None,None,None,None,5994680
+SCA,2019-03-31,USD,5403490,13834930,8431440,8431440,4346400,862460,None,None,None,None,5808780,None,None,None,None,None,10155190,12740,None,None,None,None,None,10142440
+SCA,2018-12-31,USD,9170470,15247280,6076810,6076810,8099060,843160,None,None,None,None,None,None,None,None,None,None,2603640,240750,None,None,None,None,None,2362890
+SCA,2018-03-31,USD,8446801,8446801,0,0,4475379,3885725,None,0,None,None,None,2464980,None,None,None,None,7343929,0,None,7343929,None,9808909,None,7343929
+SCA,2017-12-31,USD,33289007,33289007,0,0,19228099,13517018,0,0,None,None,None,7305591,None,None,None,None,22927446,0,None,22927446,None,30233037,None,23041439
+SCA,2017-09-30,USD,5481119,5481119,0,0,2091456,2978893,0,0,None,None,None,2906071,None,None,None,None,5273824,0,None,5273824,None,8179895,None,5576556
+SCA,2017-06-30,USD,-14772494,14772494,0,0,-7492422,7062782,0,0,None,None,None,-4425081,None,None,None,None,-12029490,0,None,-12029490,None,-16454571,None,-12029490
+SCA,2017-03-31,USD,7795350,7795350,0,0,4143627,3542471,0,0,None,None,None,2068630,None,None,None,None,6024752,0,None,6024752,None,8093382,None,6024752
+SCA,2016-12-31,USD,8137071,8137071,0,0,4659066,3361954,None,0,None,None,None,2059371,None,None,None,None,5717826,0,None,5717826,None,7777197,None,5717826

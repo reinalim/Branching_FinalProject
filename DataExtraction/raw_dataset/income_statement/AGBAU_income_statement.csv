@@ -1,0 +1,6 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+AGBAU,2020-09-30,USD,471073,471073,None,None,383792,0,None,87281,48,470527,48,None,546,594,None,None,-86687,None,None,-86687,-76471,383792,None,-86687
+AGBAU,2020-06-30,USD,7039,7039,None,None,-73923,80962,None,80962,334574,334574,334574,None,7039,341613,None,None,260651,None,None,260651,260651,-73923,None,260651
+AGBAU,2020-03-31,USD,46838811,46838811,None,None,46705833,10000,None,132978,22,46838626,22,None,185,None,None,None,-132771,None,None,-132771,101847,46705833,None,-132771
+AGBAU,2019-12-31,USD,180608,180608,None,None,103937,76671,None,76671,505882,180427,505882,None,181,None,None,None,429392,None,None,610000,103951,103937,None,-15405
+AGBAU,2019-09-30,USD,261367,261367,None,None,124729,136639,None,136639,17,261363,17,None,4,None,None,None,-136617,None,None,124750,124741,124729,None,-136617

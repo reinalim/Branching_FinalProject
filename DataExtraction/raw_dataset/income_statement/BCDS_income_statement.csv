@@ -1,0 +1,5 @@
+SYMBOL,fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+BCDS,2013-12-31,USD,None,None,None,None,-226958,226958,None,226958,None,None,None,None,None,None,None,None,-226915,None,None,-226915,None,-226958,None,-226915
+BCDS,2013-09-30,USD,None,None,None,None,-228798,228798,None,228798,None,None,None,None,None,None,None,None,-228730,None,None,-228730,None,-228798,None,-228730
+BCDS,2013-06-30,USD,None,None,None,None,-401060,401060,None,401060,None,None,None,None,None,None,None,None,-400920,None,None,-400920,None,-401060,None,-400920
+BCDS,2013-03-31,USD,None,None,None,None,-616801,616801,None,616801,None,None,None,None,None,None,None,None,-616479,None,None,-616479,None,-616801,None,-616479
