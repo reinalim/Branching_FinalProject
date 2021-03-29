@@ -32,7 +32,7 @@ It is typical for companies to delay their initial public offerings when the mar
    
   
    ### Resources
-   * Data source: IPO_Listing_2019_2020.csv, company_overview.csv, balance_sheet.csv, cash_flow.csv, income_statement.csv, three_month_return.csv are created from dataset sourced via Alpha Vantage Inc, a company that has partnered with major exchanges and institutions around the world to provide stock APIs as well as forex (FX) and cryptocurrency data feeds. https://www.alphavantage.co/documentation/, and Stock Analysis https://stockanalysis.com/ipos/2020-list/ , https://stockanalysis.com/ipos/2019-list/
+   * Data source: company_overview.csv, balance_sheet.csv, cash_flow.csv, income_statement.csv, three_month_return.csv are created from dataset sourced via Alpha Vantage Inc, a company that has partnered with major exchanges and institutions around the world to provide stock APIs as well as forex (FX) and cryptocurrency data feeds. https://www.alphavantage.co/documentation/, and https://www.iposcoop.com/.
   
   * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   
