@@ -52,7 +52,7 @@ It is typical for companies to delay their initial public offerings when the mar
 
    ### Deliverable 1: Presentation
    
-   * **Selected Topic:** How the Global Pandemic Affected the New IPO Listing in 2019 and 2020
+   * **Selected Topic:** IPO Analysis
   
    * **Reason why this topic was selected:** It is typical for companies to delay their initial public offerings when the market for them is weak, but the unprecedented year of 2020 ended with companies delaying IPOs because the market was too strong. We are interested in comparing IPOs have gone public in 2019 and 2020, and discovering the porportion of each industry/sector and how the global pandemic affected the trend.
   
