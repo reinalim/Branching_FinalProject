@@ -14,12 +14,6 @@ UofT Data Analytics - Module 20: Final Project
  
 
 ---  
-
-## Overview 
-  
-It is typical for companies to delay their initial public offerings when the market for them is weak, but the unprecedented year of 2020 ended with companies delaying IPOs because the market was too strong. We are interested in comparing IPOs have gone public in 2019 and 2020, and discovering the porportion of each industry/sector and how the global pandemic affected the trend.
-   
-
    ### Purpose
    To apply machine learning and neural networks and use the features within our provided dataset to create a binary classifier that is capable of predicting upcoming IPO returns by industry/sector. 
    
@@ -29,11 +23,12 @@ It is typical for companies to delay their initial public offerings when the mar
    - Deliverable 2: GitHub
    - Deliverable 3: Machine Learning Model
    - Deliverable 4: Database
+   - Deliverable 5: Dashboard (Segment #2-4)
   
    
   
    ### Resources
-   * Data sources:
+   * Data Resources
      1. Alpha Vantage: https://www.alphavantage.co/documentation/
      2. IPOScoop:  https://www.iposcoop.com/.
   
