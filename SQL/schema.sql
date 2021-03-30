@@ -180,8 +180,8 @@ CREATE TABLE combined_filtered_cash_flow (
 );
 
 -- Loading CSV files into the table via copy from C drive (method used as regular Import CSV in pgAdmin4 was giving failed exit code 1)
--- Use the following queries if the regular import method to load in the CSV files vie the pgAdmin GUI don't work
--- Creat a "Files" folder on your C drive and copy&paste all the needed CSV files in this folder to load into pgAdmin4 when executing the following codes:
+-- Use the following queries if the regular import method to load in the CSV files via the pgAdmin GUI don't work
+-- Creat a "Files" folder on your C drive then copy & paste all the needed CSV files in this folder to load into pgAdmin4 when executing the following codes:
 COPY Public."ipo_scoop_listing" FROM 'C:\Files\IPO_SCOOP_Listing.csv' DELIMITER ',' CSV HEADER ;
 COPY Public."company_overview" FROM 'C:\Files\company_overview.csv' DELIMITER ',' CSV HEADER ;
 COPY Public."three_month_return" FROM 'C:\Files\three_month_return.csv' DELIMITER ',' CSV HEADER ;
@@ -288,7 +288,7 @@ SELECT * FROM ipo_overview_three_mth_return;
 SELECT COUNT (*) FROM ipo_overview_three_mth_return;
 SELECT COUNT (*) FROM information_schema.columns WHERE table_name = 'ipo_overview_three_mth_return';
 
--- Join 3: The above ipo_overview_three_mth_return and combined_filtered_income_statement tables = new ipos_with_income table
+-- Join 3: The above ipo_overview_three_mth_return and combined_filtered_income_statement tables = ipos_with_income table
 SELECT iotmr.symbol,
 	iotmr.trade_date,
 	iotmr.issuer,
