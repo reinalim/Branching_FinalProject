@@ -1,4 +1,4 @@
-# Group Project 
+# Group Project - IPO Analysis
 UofT Data Analytics - Module 20: Final Project
 
 ---
