@@ -58,9 +58,9 @@ UofT Data Analytics - Module 20: Final Project
    <ins> Segment #1 </ins>
   
    * Selected Topic - IPO Analysis
-   * Reason why we chose the topic - 
-   * Questions hoping to answer -
-   * Source of Data - 
+   * Reason why this topic was selected
+   * Questions hoping to answer
+   * Source of Data
    
 
   <ins> Segment #2 </ins>
