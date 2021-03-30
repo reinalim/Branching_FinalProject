@@ -63,9 +63,10 @@ It is typical for companies to delay their initial public offerings when the mar
    Segment #1:
   
    * Selected Topic - IPO Analysis
-   * Reason why
-   * Questions hoping to answer:
-     * 
+   * Reason why we chose the topic - 
+   * Questions hoping to answer -
+   * Source of Data - 
+   
 
   Segment #2:
   <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
@@ -105,9 +106,19 @@ It is typical for companies to delay their initial public offerings when the mar
       - Draft machine learning module is connected to the provisional database  - Completed
    
    Segment #2
-   * Database stores static data for use during the project
+   * **Database stores static data for use during the project**
  
    <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/SQL_Table_Screenshot/database_tables.png>
+   
+   
+   * **Database interface and connection strings to PostgreSQL with SQLAlchemy**
+
+   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png>
+   
+   
+   * **Relationship Entity Diagram (ERD)**
+   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png>
+   
       
 
 
