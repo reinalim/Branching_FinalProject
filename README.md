@@ -7,6 +7,7 @@ UofT Data Analytics - Module 20: Final Project
   * Overview
     - Purpose
     - Resources
+    - Communications
     - Team Member
   * Results
   * Summary
@@ -32,7 +33,9 @@ It is typical for companies to delay their initial public offerings when the mar
    
   
    ### Resources
-   * Data source: company_overview.csv, balance_sheet.csv, cash_flow.csv, income_statement.csv, three_month_return.csv are created from dataset sourced via Alpha Vantage Inc, a company that has partnered with major exchanges and institutions around the world to provide stock APIs as well as forex (FX) and cryptocurrency data feeds. https://www.alphavantage.co/documentation/, and https://www.iposcoop.com/.
+   * Data sources:
+     1. Alpha Vantage: https://www.alphavantage.co/documentation/
+     2. IPOScoop:  https://www.iposcoop.com/.
   
   * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   
@@ -57,30 +60,54 @@ It is typical for companies to delay their initial public offerings when the mar
 
 
    ### Deliverable 1: Presentation
- 
-<a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
-   
+   Segment #1:
+  
+   * Selected Topic - IPO Analysis
+   * Reason why
+   * Questions hoping to answer:
+     * 
+
+  Segment #2:
+  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
+  
    ### Deliverable 2: GitHub  
    Master Branch 
-   * READ.me established - completed
-   * Description of the communication protocols   OR
-   * Individual Branches established, and each team member with min of four commits - Completed 
+   * All code necessary to perform exploratory analysis - Completed
+   * Some code to complete the machine learning portion of the porject - Completed 
    
-   . 
+   README.md
+   * Description of the communication protocols - Established
+   * Outline of the project - Completed 
+   
    
    ### Deliverable 3: Machine Learning Model
-   
+   Segment #1 
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-      - Takes in data in from the provisional database - Completed
-      - Output labels for input data - Completed
-
-      
+      - Takes in data in from the provisional database
+      - Output labels for input data
+   
+   Segment #2
+   
+   * Preliminary Data Processing
+     - Content/Image here
+   * Preliminary feature engineering, feature selection, including decsion making process
+     - Content/Image here
+   * How data was split into training and testing sets
+     - Content/Image here
+   * Model choice, including limitation and benefits
+     - Content/Image here
+ 
      
    ### Deliverable 4: Database
-   
+   Segment #1
    * Present a provisional database that stands in for the final database and accomplishes the following:
       - Sample data that mimics the expected final database structure or schema  - Completed
       - Draft machine learning module is connected to the provisional database  - Completed
+   
+   Segment #2
+   * Database stores static data for use during the project
+ 
+   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/SQL_Table_Screenshot/database_tables.png>
       
 
 
