@@ -30,7 +30,7 @@ UofT Data Analytics - Module 20: Final Project
    ### Resources
    * Data Resources
      1. Alpha Vantage: https://www.alphavantage.co/documentation/
-     2. IPOScoop:  https://www.iposcoop.com/.
+     2. IPOScoop:  https://www.iposcoop.com/
   
   * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   
@@ -56,7 +56,7 @@ UofT Data Analytics - Module 20: Final Project
 
    ### Deliverable 1: Presentation
    <ins> Segment #1 </ins>
-  
+   
    * Selected Topic - IPO Analysis
    * Reason why this topic was selected
    * Questions hoping to answer
