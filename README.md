@@ -111,17 +111,17 @@ UofT Data Analytics - Module 20: Final Project
    
    <ins> Segment #2 </ins>
    
-   * **Database stores static data for use during the project**
+   **Database stores static data for use during the project**
  
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/SQL_Table_Screenshot/database_tables.png>
+   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png>
    
    
-   * **Database interface and connection strings to PostgreSQL with SQLAlchemy**
+   **Database interface and connection strings to PostgreSQL with SQLAlchemy**
 
    <img src=https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png>
    
    
-   * **Relationship Entity Diagram (ERD)**
+   **Relationship Entity Diagram (ERD)**
    <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png>
    
   ### Deliverable 5: Dashboard
