@@ -154,7 +154,7 @@ UofT Data Analytics - Module 20: Final Project
    
    **Database stores static data for use during the project**
  
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png>
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png" width="40%">
    
    
    **Database interface and connection strings to PostgreSQL with SQLAlchemy**
