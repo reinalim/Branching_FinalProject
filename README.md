@@ -119,15 +119,15 @@ UofT Data Analytics - Module 20: Final Project
 
 #### Logistic Regression
 
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png">
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
 
 #### Random Forest
 
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png">
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
 
 #### Deep Learning
 
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png">
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
 
 #### To be attempted
 
@@ -154,17 +154,17 @@ UofT Data Analytics - Module 20: Final Project
    
    **Database stores static data for use during the project**
  
-   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png" width="60%">
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png" width="80%">
    
    
    **Database interface and connection strings to PostgreSQL with SQLAlchemy**
 
-   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="70%">
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="80%">
    
    
    **Relationship Entity Diagram (ERD)**
    
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png>
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
    
   ### Deliverable 5: Dashboard
    * Storyboard on Google Slide(s):  
