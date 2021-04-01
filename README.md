@@ -87,12 +87,12 @@ UofT Data Analytics - Module 20: Final Project
    
    <ins> Segment #2 </ins>
 
-  ### Preliminary Data Preprocessing
+  #### Preliminary Data Preprocessing
    - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
    - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
      could be introduced into our model.
     - any N/A's, or infinite values had to be removed
-  ### Feature Engineering and Feature Selection
+  #### Feature Engineering and Feature Selection
   -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a 
      company's stock price
     - Net Profit Margin
@@ -105,7 +105,7 @@ UofT Data Analytics - Module 20: Final Project
 	- Current Ratio
         - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
 
-### Model Choice
+#### Model Choice
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
     - Random Forest
@@ -113,19 +113,19 @@ UofT Data Analytics - Module 20: Final Project
     - Deep Learning
 - Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price grain/increase:
 
-### Logistic Regression
+#### Logistic Regression
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png">
 
-### Random Forest
+#### Random Forest
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png">
 
-### Deep Learning
+#### Deep Learning
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png">
 
-### To be attempted
+#### To be attempted
 
 - Explore sector specific features
     - there are many different features at which people would value certain companies  more depending on the specific 
