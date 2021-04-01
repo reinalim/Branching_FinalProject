@@ -175,8 +175,8 @@ UofT Data Analytics - Module 20: Final Project
    * Description of the tool: 
      - Tableau
      
-   * Description of interatice element(s):
-     - Content Here
+   * Description of interative element(s):
+     - Hover Function, Search and Filter Functions for maps and charts: Dropdown multiple value filter by Year, Quarter, Sector, Region
 
 <br>
 
