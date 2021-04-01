@@ -34,7 +34,7 @@ UofT Data Analytics - Module 20: Final Project
    ### Resources
    * Data Resources
      1. Alpha Vantage: https://www.alphavantage.co/documentation/
-     2. IPOScoop:  https://www.iposcoop.com/.
+     2. IPOScoop:  https://www.iposcoop.com/
   
   * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   
@@ -64,7 +64,6 @@ UofT Data Analytics - Module 20: Final Project
    | **Reason why this topic was selected** | 1. Personal interest <br/> 2. Availability of data source <br/> 3. Discover how the global pandemic affected IPO listing |
    | **Questions hoping to answer** | 1. How many IPOs have gone public in 2019 and 2020? <br/> 2. Which industries have the best and worst return during <br/> the first 3 months of the IPO date? <br/> 3. What is the proportion of each industry/sector?
    | **Source of Data** | Alpha Vantage: https://www.alphavantage.co/documentation/ <br/> POScoop: https://www.iposcoop.com/.
-   
    
 
   #### <ins> Segment #2 </ins>
