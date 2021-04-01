@@ -52,13 +52,11 @@ UofT Data Analytics - Module 20: Final Project
   
 
 <br>
-
 --- 
 
-## Results - Segment #2
+## Results
 
-
-   ### Deliverable 1: Presentation
+### Deliverable 1: Presentation
    #### <ins> Segment #1 </ins>
    | README Requirements   |  Response  | 
    | :--- | :--- |
@@ -69,11 +67,12 @@ UofT Data Analytics - Module 20: Final Project
    
    
 
-  <ins> Segment #2 </ins>
+  #### <ins> Segment #2 </ins>
   
-  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
+ <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
+
   
-   ### Deliverable 2: GitHub  
+  ### Deliverable 2: GitHub  
    #### <ins> Segment #1 & 2 </ins>
    
    Master Branch 
@@ -91,7 +90,7 @@ UofT Data Analytics - Module 20: Final Project
       - Takes in data in from the provisional database
       - Output labels for input data
    
-   ### <ins> Segment #2 </ins>
+   #### <ins> Segment #2 </ins>
 
   #### Preliminary Data Preprocessing
    - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
@@ -144,6 +143,7 @@ UofT Data Analytics - Module 20: Final Project
     - Total Sales Revenue
     - Total Net Profit
     - EBITD
+     
      
    ### Deliverable 4: Database
    
