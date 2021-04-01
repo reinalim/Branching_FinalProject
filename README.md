@@ -145,7 +145,7 @@ UofT Data Analytics - Module 20: Final Project
     - EBITD
      
      
-   ### Deliverable 4: Database
+### Deliverable 4: Database
    
    #### <ins> Segment #1 </ins>
    * Present a provisional database that stands in for the final database and accomplishes the following:
@@ -168,7 +168,7 @@ UofT Data Analytics - Module 20: Final Project
    
    <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
    
-  ### Deliverable 5: Dashboard
+### Deliverable 5: Dashboard
    * Storyboard on Google Slide(s):  
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
    
