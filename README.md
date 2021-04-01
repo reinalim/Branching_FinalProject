@@ -97,10 +97,9 @@ UofT Data Analytics - Module 20: Final Project
      could be introduced into our model.
     - any N/A's, or infinite values had to be removed
   #### Feature Engineering and Feature Selection
-  -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a 
-     company's stock price
-    - Net Profit Margin
-		- This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue
+  -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
+  - Net Profit Margin
+       - This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue
         - Indicates the company's ability to bring money from its regular operations
 	- Gross Margin
 	    - This metric is especially important for starting companies as it reflects on improved processes and production
