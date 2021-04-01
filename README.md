@@ -159,7 +159,7 @@ UofT Data Analytics - Module 20: Final Project
    
    **Database interface and connection strings to PostgreSQL with SQLAlchemy**
 
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png>
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="70%">
    
    
    **Relationship Entity Diagram (ERD)**
