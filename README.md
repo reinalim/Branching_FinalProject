@@ -18,14 +18,18 @@ UofT Data Analytics - Module 20: Final Project
    To apply machine learning and neural networks and use the features within our provided dataset to create a binary classifier that is capable of predicting upcoming IPO returns by industry/sector. 
    
    
-  Segment 1 ~ 4 Deliverables:
+  Segment 1
+   - Deliverable 1: Presentation
+   - Deliverable 2: GitHub
+   - Deliverable 3: Machine Learning Model
+   - Deliverable 4: Database
+  
+  Segment 2 ~ 4 Deliverables:
    - Deliverable 1: Presentation
    - Deliverable 2: GitHub
    - Deliverable 3: Machine Learning Model
    - Deliverable 4: Database
    - Deliverable 5: Dashboard (Segment #2-4)
-  
-   
   
    ### Resources
    * Data Resources
