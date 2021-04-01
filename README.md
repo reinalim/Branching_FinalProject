@@ -18,14 +18,18 @@ UofT Data Analytics - Module 20: Final Project
    To apply machine learning and neural networks and use the features within our provided dataset to create a binary classifier that is capable of predicting upcoming IPO returns by industry/sector. 
    
    
-  Segment 1 ~ 4 Deliverables:
+  Segment 1 Deliverables:
+   - Deliverable 1: Presentation
+   - Deliverable 2: GitHub
+   - Deliverable 3: Machine Learning Model
+   - Deliverable 4: Database
+  
+  Segment 2 ~ 4 Deliverables:
    - Deliverable 1: Presentation
    - Deliverable 2: GitHub
    - Deliverable 3: Machine Learning Model
    - Deliverable 4: Database
    - Deliverable 5: Dashboard (Segment #2-4)
-  
-   
   
    ### Resources
    * Data Resources
@@ -48,27 +52,27 @@ UofT Data Analytics - Module 20: Final Project
   
 
 <br>
-
 --- 
 
-## Results - Segment #2
+## Results
 
-
-   ### Deliverable 1: Presentation
-   <ins> Segment #1 </ins>
+### Deliverable 1: Presentation
+   #### <ins> Segment #1 </ins>
+   | README Requirements   |  Response  | 
+   | :--- | :--- |
+   | **Selected Topic** | IPO Analysis | 
+   | **Reason why this topic was selected** | 1. Personal interest <br/> 2. Availability of data source <br/> 3. Discover how the global pandemic affected IPO listing |
+   | **Questions hoping to answer** | 1. How many IPOs have gone public in 2019 and 2020? <br/> 2. Which industries have the best and worst return during <br/> the first 3 months of the IPO date? <br/> 3. What is the proportion of each industry/sector?
+   | **Source of Data** | Alpha Vantage: https://www.alphavantage.co/documentation/ <br/> POScoop: https://www.iposcoop.com/.
    
-   * Selected Topic - IPO Analysis
-   * Reason why this topic was selected
-   * Questions hoping to answer
-   * Source of Data
-   
 
-  <ins> Segment #2 </ins>
+  #### <ins> Segment #2 </ins>
   
-  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
+ <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
+
   
-   ### Deliverable 2: GitHub  
-   <ins> Segment #1 & 2 </ins>
+  ### Deliverable 2: GitHub  
+   #### <ins> Segment #1 & 2 </ins>
    
    Master Branch 
    * All code necessary to perform exploratory analysis - Completed
@@ -80,59 +84,98 @@ UofT Data Analytics - Module 20: Final Project
    
    
    ### Deliverable 3: Machine Learning Model
-   <ins> Segment #1 </ins>
+   #### <ins> Segment #1 </ins>
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
       - Takes in data in from the provisional database
       - Output labels for input data
    
-   <ins> Segment #2 </ins>
-   
-   * Preliminary Data Processing
-     - Content/Image here
+   #### <ins> Segment #2 </ins>
 
+  #### Preliminary Data Preprocessing
+   - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
+   - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
+     could be introduced into our model.
+    - any N/A's, or infinite values had to be removed
+  #### Feature Engineering and Feature Selection
+  -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a 
+     company's stock price
+    - Net Profit Margin
+		- This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue
+        - Indicates the company's ability to bring money from its regular operations
+	- Gross Margin
+	    - This metric is especially important for starting companies as it reflects on improved processes and production
+	- Debt Asset Ratio
+        - For shareholders, this is a good indicator of where a company's assets are held. Whether the bulk of assets are owned by the shareholders vs. creditors
+	- Current Ratio
+        - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
 
-   * Preliminary feature engineering, feature selection, including decsion making process
-     - Content/Image here
+#### Model Choice
+- Since we have labeled data, we've tried using a variety of different binary classification models:
+    - Logistic Regression
+    - Random Forest
+    - Support Vector Machine - SVM  
+    - Deep Learning
+- Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price grain/increase:
 
+#### Logistic Regression
 
-   * How data was split into training and testing sets
-     - Content/Image here
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
 
+#### Random Forest
 
-   * Model choice, including limitation and benefits
-     - Content/Image here
- 
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
+
+#### Deep Learning
+
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
+
+#### To be attempted
+
+- Explore sector specific features
+    - there are many different features at which people would value certain companies  more depending on the specific 
+    - different businesses have could have differenent emphasis on different metrics
+    - ie. manufacturing KPI vs merchandising KPI
+- Training/testing:
+    - training data on pre 2019 data
+    - testing on 2020 data
+- Other Featrues to test:
+    - Total Sales Revenue
+    - Total Net Profit
+    - EBITD
      
-   ### Deliverable 4: Database
-   <ins> Segment #1 </ins>
+     
+### Deliverable 4: Database
+   
+   #### <ins> Segment #1 </ins>
    * Present a provisional database that stands in for the final database and accomplishes the following:
       - Sample data that mimics the expected final database structure or schema  - Completed
       - Draft machine learning module is connected to the provisional database  - Completed
    
-   <ins> Segment #2 </ins>
+   #### <ins> Segment #2 </ins>
    
-   * **Database stores static data for use during the project**
+   **Database stores static data for use during the project**
  
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/SQL_Table_Screenshot/database_tables.png>
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png" width="80%">
    
    
-   * **Database interface and connection strings to PostgreSQL with SQLAlchemy**
+   **Database interface and connection strings to PostgreSQL with SQLAlchemy**
 
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png>
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="80%">
    
    
-   * **Relationship Entity Diagram (ERD)**
-   <img src=https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png>
+   **Relationship Entity Diagram (ERD)**
    
-  ### Deliverable 5: Dashboard
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
+   
+### Deliverable 5: Dashboard
    * Storyboard on Google Slide(s):  
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
    
    * Description of the tool: 
      - Tableau
      
-   * Description of interatice element(s):
-     - Content Here
+   * Description of interative element(s):
+     - Hover Function, Search and Filter Functions for maps and charts: Dropdown multiple value filter by Year, Quarter, Sector, Region
 
 <br>
 
