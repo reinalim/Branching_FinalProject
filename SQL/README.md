@@ -2,11 +2,12 @@
 
 ### ERD Diagram
 
-Diagram Tool: https://app.quickdatabasediagrams.com/#/
+![FinalProject_IPO_ERD](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/FinalProject_IPO_ERD.png)
 
-Reference: FinalProject_IPO_ERD.png is saved in this folder
 
 Quick DBD site was used as a tool to create the ERD diagram to visually display the datasets and establish the data types and the relationships between each table using the primary and foreign keys in order to create the database.
+
+Diagram Tool: https://app.quickdatabasediagrams.com/#/
 
 ### Data sources 
 

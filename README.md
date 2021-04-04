@@ -33,8 +33,8 @@ UofT Data Analytics - Module 20: Final Project
   
    ### Resources
    * Data Resources
-     1. Alpha Vantage: https://www.alphavantage.co/documentation/
-     2. IPOScoop:  https://www.iposcoop.com/
+     1. IPOScoop:  https://www.iposcoop.com/
+     2. Alpha Vantage: https://www.alphavantage.co/documentation/
   
   * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   
