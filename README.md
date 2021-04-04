@@ -60,7 +60,7 @@ UofT Data Analytics - Module 20: Final Project
    | **Selected Topic** | IPO Analysis | 
    | **Reason why this topic was selected** | 1. Personal interest <br/> 2. Availability of data source <br/> 3. Discover how the global pandemic affected IPO listing |
    | **Questions hoping to answer** | 1. What is the proportion of each sector? <br/> 2.Which industries have the best and worst return in 2019 and 2020? <br/> 3. How has the appetite for IPOs in each sector changed? How did they performed over the years from 2000 to 2020? <br/> 4. How can you benefit from the above information?
-   | **Source of Data** | Alpha Vantage: https://www.alphavantage.co/documentation/ <br/> POScoop: https://www.iposcoop.com/.
+   | **Source of Data** | Alpha Vantage: https://www.alphavantage.co/documentation/ <br/> IPOScoop: https://www.iposcoop.com/.
    
 
   #### <ins> Segment #2 </ins>
@@ -96,13 +96,16 @@ UofT Data Analytics - Module 20: Final Project
   #### Feature Engineering and Feature Selection
   -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
   - Net Profit Margin
-       - This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue
+       - This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue.
         - Indicates the company's ability to bring money from its regular operations
-	- Gross Margin
-	    - This metric is especially important for starting companies as it reflects on improved processes and production
-	- Debt Asset Ratio
-        - For shareholders, this is a good indicator of where a company's assets are held. Whether the bulk of assets are owned by the shareholders vs. creditors
-	- Current Ratio
+- Gross Margin
+	- The higher the gross margin, the more capital a company retains on each dollar of sales
+- Debt Asset Ratio
+        - A leverage ratio that defines the total amount of debt relative to assets owned by the company
+	- In other words, it shows the degree to which a company has used debt to finance its assets.
+	- For shareholders, this is a good indicator of how a company's assets are financed; Whether the bulk of assets are financed by the shareholders vs. creditors
+	
+- Current Ratio
         - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
 
 #### Model Choice
