@@ -162,10 +162,19 @@ UofT Data Analytics - Module 20: Final Project
    <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="80%">
    
    
-   **Relationship Entity Diagram (ERD)**
+   **Relationship Entity Diagram (ERD)** - Showing Relationships
    
-   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
+   - List of Tables:
    
+   	- Three Month Return 
+	- Income Statement
+	- IPO Scoop LIsting
+	- Company Overview
+	- Cash Flow Statement
+	- Balance Sheet Table
+
+  <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
+     
 ### Deliverable 5: Dashboard
    * Storyboard on Google Slide(s):  
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
