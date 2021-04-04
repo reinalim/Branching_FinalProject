@@ -13,7 +13,7 @@
 	- Gross Margin
 	    - This metric is especially important for starting companies as it reflects on improved processes and production
 	- Debt Asset Ratio
-        - For shareholders, this is a good indicator of where a company's assets are held. Whether the bulk of assets are owned by the shareholders vs. creditors
+        - For shareholders, this is a good indicator of where a company's assets are held. Whether the bulk of assets are financed by the shareholders vs. creditors
 	- Current Ratio
         - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
 
