@@ -81,22 +81,24 @@ UofT Data Analytics - Module 20: Final Project
    - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
      could be introduced into our model.
     - any N/A's, or infinite values had to be removed
-   ### Target Features
+   ### Feature Engineering and Feature Selection
+   #### Target Features
    ####  *Three Month Return
    
    List of Features
    
-   | Features   |  Description & Importance  | 
-   | :--- | :--- |
-   | **EBITDA** | xxxx | 
-   | **Industry** | xxxx |
-   | **Sector** | xxxx
-   | **Debt Asset Ratio** | xxxx |
-   | **Gross Profit Margin**|xxx|
-   | **Net Profit Margin**|xxx|
-   | **Current Ratio**| xx|
-   | **Operating Cash Flow**|xxx|
-   | **Research Development**|xxx|
+   | Features Category  | Feature | Description & Reason for Selection | 
+   | :--- | :--- |:--- |
+   | **Categorical** | **Industry**| xxxx | 
+   | **Categorical**| **Sector** | xxxx |
+   | **Operational Financial Performance** | **EBITDA** | xxxx
+   | **Operational Financial Performance** | **Gross Profit Margin** | xxxx|
+   | **Operational Financial Performance**| **Net Profit Margin**| xxx |
+   | **Operational Financial Performance**|**Operating Cash Flow** | xxxx |
+   | **Financial Health Indication**| **Debt Asset Ratio**|xxxxx
+   | **Financial Health IndicationO**|**Current Ratio**| xxxxx |
+   | **Company's Planning and Vision**|**Research & Development**| xxx|
+   | **Company's Planning and Vision**| **Cash Flow from Investment**| xxx
    
    Model Choice
 
