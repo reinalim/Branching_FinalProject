@@ -48,7 +48,11 @@ Following our ERD diagram, we have created schema.sql to house all our queries p
 
 ### SQL Table Screeshot
 
-In this folder are the screenshot of each of the tables created in pgAdmin. There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
+In this folder are the screenshot of each of the tables created in pgAdmin. 
+There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
+
+![database_tables](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_Table_Screenshot/database_tables.png)
+
 
 ### Additional Data Clean-Up
 
