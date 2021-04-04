@@ -60,7 +60,7 @@ UofT Data Analytics - Module 20: Final Project
    | **Selected Topic** | IPO Analysis | 
    | **Reason why this topic was selected** | 1. Personal interest <br/> 2. Availability of data source <br/> 3. Discover how the global pandemic affected IPO listing |
    | **Questions hoping to answer** | 1. What is the proportion of each sector? <br/> 2.Which industries have the best and worst return in 2019 and 2020? <br/> 3. How has the appetite for IPOs in each sector changed? How did they performed over the years from 2000 to 2020? <br/> 4. How can you benefit from the above information?
-   | **Data Source** | Alpha Vantage: IPOScoop: https://www.iposcoop.com/ <br/> https://www.alphavantage.co/documentation/
+   | **Data Source** | IPOScoop: https://www.iposcoop.com/ <br/> Alpha Vantage: https://www.alphavantage.co/documentation/
    
 
   #### <ins> Segment #2 </ins>
