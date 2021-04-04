@@ -51,9 +51,6 @@ UofT Data Analytics - Module 20: Final Project
  * Reina Lim
   
 
-<br>
---- 
-
 ## Results
 
 ### Deliverable 1: Presentation
@@ -171,7 +168,10 @@ UofT Data Analytics - Module 20: Final Project
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
    
    * Description of the tool: 
-     - Tableau
+   
+  <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/Dashboard/Images/Tableau%20Logo.png" width="50%">
+  
+  Tableau is a data visualization software that is used for data science and business intelligence. Tableau can create a wide range of different visualization to interactively present the data and showcase insights.
      
    * Description of interative element(s):
      - Hover Function, Search and Filter Functions for maps and charts: Dropdown multiple value filter by Year, Quarter, Sector, Region
