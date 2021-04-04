@@ -72,15 +72,19 @@ UofT Data Analytics - Module 20: Final Project
    
    
    ### Deliverable 3: Machine Learning Model
-   #### <ins> Segment #1 </ins>
+
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
       - Takes in data in from the provisional database
       - Output labels for input data
+   ### Preliminary Data Preprocessing
+   - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
+   - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
+     could be introduced into our model.
+    - any N/A's, or infinite values had to be removed
+   ### Target Features
+   ####  *Three Month Return
    
-   #### <ins> Segment #2 </ins>
-   
-   #### Target Features
-   1. Three Month Return
+   List of Features
    
    | Features   |  Description & Importance  | 
    | :--- | :--- |
@@ -94,9 +98,40 @@ UofT Data Analytics - Module 20: Final Project
    | **Operating Cash Flow**|xxx|
    | **Research Development**|xxx|
    
+   Model Choice
+
+#### Logistic Regression
+
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
+
+Why - Here
+
+#### Random Forest
+
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
+
+Why - Here 
+
+#### Deep Learning
+
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
+
+Why - Here
    
+#### - First Day Stock Price
    
-   3. First Day Stock Price
+   | Features   |  Description & Importance  | 
+   | :--- | :--- |
+   | **EBITDA** | xxxx | 
+   | **Industry** | xxxx |
+   | **Sector** | xxxx
+   | **Debt Asset Ratio** | xxxx |
+   | **Gross Profit Margin**|xxx|
+   | **Net Profit Margin**|xxx|
+   | **Current Ratio**| xx|
+   | **Operating Cash Flow**|xxx|
+   | **Research Development**|xxx|
+   
   
   #### Preliminary Data Preprocessing
    - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
