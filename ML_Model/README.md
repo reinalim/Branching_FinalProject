@@ -23,7 +23,7 @@
     - Random Forest
     - Support Vector Machine - SVM  
     - Deep Learning
-- Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price grain/increase:
+- Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price gain/increase:
 
 ### Logistic Regression
 <img src="images/log.png"></img>
