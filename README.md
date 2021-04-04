@@ -140,7 +140,7 @@ UofT Data Analytics - Module 20: Final Project
 - Other Featrues to test:
     - Total Sales Revenue
     - Total Net Profit
-    - EBITD
+    - EBITDA
      
      
 ### Deliverable 4: Database
