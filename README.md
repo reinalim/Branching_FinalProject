@@ -168,10 +168,10 @@ UofT Data Analytics - Module 20: Final Project
    
    	- Three Month Return 
 	- Income Statement
-	- IPO Scoop LIsting
+	- IPO Scoop Listing
 	- Company Overview
 	- Cash Flow Statement
-	- Balance Sheet Table
+	- Balance Sheet
 
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
      
