@@ -16,20 +16,12 @@ UofT Data Analytics - Module 20: Final Project
 ---  
    ### Purpose
    To apply machine learning and neural networks and use the features within our provided dataset to create a binary classifier that is capable of predicting upcoming IPO returns by industry/sector. 
-   
-   
-  Segment 1 Deliverables:
-   - Deliverable 1: Presentation
-   - Deliverable 2: GitHub
-   - Deliverable 3: Machine Learning Model
-   - Deliverable 4: Database
   
-  Segment 2 ~ 4 Deliverables:
    - Deliverable 1: Presentation
    - Deliverable 2: GitHub
    - Deliverable 3: Machine Learning Model
    - Deliverable 4: Database
-   - Deliverable 5: Dashboard (Segment #2-4)
+   - Deliverable 5: Dashboard 
   
    ### Resources
    * Data Resources
@@ -54,7 +46,7 @@ UofT Data Analytics - Module 20: Final Project
 ## Results
 
 ### Deliverable 1: Presentation
-   #### <ins> Segment #1 </ins>
+
    | README Requirements   |  Response  | 
    | :--- | :--- |
    | **Selected Topic** | IPO Analysis | 
@@ -63,13 +55,11 @@ UofT Data Analytics - Module 20: Final Project
    | **Source of Data** | Alpha Vantage: https://www.alphavantage.co/documentation/ <br/> IPOScoop: https://www.iposcoop.com/.
    
 
-  #### <ins> Segment #2 </ins>
   
  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
 
   
   ### Deliverable 2: GitHub  
-   #### <ins> Segment #1 & 2 </ins>
    
    Master Branch 
    * All code necessary to perform exploratory analysis - Completed
@@ -77,7 +67,8 @@ UofT Data Analytics - Module 20: Final Project
    
    README.md
    * Description of the communication protocols - Established
-   * Outline of the project - Completed 
+   * Outline of the project - Completed
+   * 8 Commits in total - Completed
    
    
    ### Deliverable 3: Machine Learning Model
@@ -87,7 +78,26 @@ UofT Data Analytics - Module 20: Final Project
       - Output labels for input data
    
    #### <ins> Segment #2 </ins>
-
+   
+   #### Target Features
+   1. Three Month Return
+   
+   | Features   |  Description & Importance  | 
+   | :--- | :--- |
+   | **EBITDA** | xxxx | 
+   | **Industry** | xxxx |
+   | **Sector** | xxxx
+   | **Debt Asset Ratio** | xxxx |
+   | **Gross Profit Margin**|xxx|
+   | **Net Profit Margin**|xxx|
+   | **Current Ratio**| xx|
+   | **Operating Cash Flow**|xxx|
+   | **Research Development**|xxx|
+   
+   
+   
+   3. First Day Stock Price
+  
   #### Preliminary Data Preprocessing
    - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
    - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
