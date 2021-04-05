@@ -105,17 +105,19 @@ UofT Data Analytics - Module 20: Final Project
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
-   | Feature | Importance in 3 Month Return | Importance in First Day Return
-   | :--- |:--- |:--- |
-   | **Sector&Industry** | **xxxx**| xxxxx | 
-   | **EBITDA** | **xxxx**| xxxxx | 
-   | **Gross Profit Margin** | **xxxx**| xxxxx | 
-   | **Net Profit Margin** | **xxxx**| xxxxx | 
-   | **Operating Cash Flow** | **xxxx**| xxxxx | 
-   | **Debt Asset Ratio** | **xxxx**| xxxxx | 
-   | **Current Asset Ratio** | **xxxx**| xxxxx | 
-   | **Research & Development** | **xxxx**| xxxxx |
-   | **Cash Flow from Investment** | **xxxx**| xxxxx |
+   | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) | Importance in First Day Return <br/> Rating 1-10 (Least to Most)
+   | :--- |:---: |:---: |
+   | **Sector** | 9 | 3 | 
+   | **Industry** | 10 | 8 | 
+   | **EBITDA** | 1 | 4 | 
+   | **Current Ratio** | 5  | 7 |
+   | **Gross Profit Margin** | 3 | 5 | 
+   | **Net Profit Margin** | 8 | 6 | 
+   | **Operating Cash Flow** | 4 | 10 | 
+   | **Debt Asset Ratio** | 6 | 1 | 
+   | **Current Asset Ratio** | 5 | 4 | 
+   | **Research & Development** | 7 | 2 |
+   | **Cash Flow from Investment** | 2 | 9 |
   
 #### Model Choice
 - Since we have labeled data, we've tried using a variety of different binary classification models:
