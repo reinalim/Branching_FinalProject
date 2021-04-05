@@ -87,9 +87,10 @@ UofT Data Analytics - Module 20: Final Project
    
    List of Features
    
-   | Features Category  | Feature | Description & Reason for Selection | 
+   | Features Category  | Feature | Description | 
    | :--- | :--- |:--- |
-   | **Categorical** | **Industry & Sector**| The market's receptiveness of each IPO will never be the same each issuance. It will differ largely based onthe Sector and Industry of the company. | 
+   | **Categorical** | **Industry**| It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
+   | **Categorical** | **Sector**| It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow.
    | **Operational Performance** | **EBITDA** | earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance before the influence of accounting and financial deductions.  |
    | **Operational Performance** | **Gross Profit Margin** | A measure of profitability that shows the percentage of revenue that exceeds the cost of goods sold. |
    | **Operational Performance**| **Net Profit Margin**| It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue. |
@@ -99,6 +100,11 @@ UofT Data Analytics - Module 20: Final Project
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
+   * **Feature Category - Reason for Selection**
+   		* Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and Industry of the company.
+   		* Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
+   		* Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
+   		* Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
    
    | Feature | Importance in 3 Month Return | Importance in First Day Return
    | :--- |:--- |:--- |
@@ -152,7 +158,7 @@ Why - Here
 - Current Ratio
         - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
 
-#### Model Choice
+### Model Choice
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
     - Random Forest
