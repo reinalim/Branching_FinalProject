@@ -112,7 +112,7 @@ UofT Data Analytics - Module 20: Final Project
    | **Research & Development** | **xxxx**| xxxxx |
    | **Cash Flow from Investment** | **xxxx**| xxxxx |
   
-   Model Choice
+#### Model Choice
 
 #### Logistic Regression
 
