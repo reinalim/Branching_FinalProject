@@ -125,7 +125,7 @@ UofT Data Analytics - Module 20: Final Project
     - Random Forest
     - Support Vector Machine - SVM  
     - Deep Learning
-- Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price grain/increase:
+- The most successful model is Deep Learning with Neural Networks, where the 3-Month Return Model achieved a 65% accuracy, and the First Day Return Model achieved at 60% accuracy.
 
 #### Logistic Regression
 
