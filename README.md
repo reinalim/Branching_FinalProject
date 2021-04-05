@@ -212,7 +212,7 @@ Why - Here
    <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="80%">
    
    
-   **Relationship Entity Diagram (ERD)** - Showing Relationships
+   **Entity Relationship Diagram (ERD)** - Showing Relationships
    
    - List of Tables:
    
