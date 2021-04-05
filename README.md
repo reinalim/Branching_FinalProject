@@ -81,6 +81,7 @@ UofT Data Analytics - Module 20: Final Project
    - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
      could be introduced into our model.
     - any N/A's, or infinite values had to be removed
+   
    ### Feature Engineering and Feature Selection
    #### *Target Features - Three Month Return & First Day Return
    
@@ -131,21 +132,6 @@ Why - Here
 
 Why - Here
    
-#### - First Day Stock Price
-   
-   | Features   |  Description & Importance  | 
-   | :--- | :--- |
-   | **EBITDA** | xxxx | 
-   | **Industry** | xxxx |
-   | **Sector** | xxxx
-   | **Debt Asset Ratio** | xxxx |
-   | **Gross Profit Margin**|xxx|
-   | **Net Profit Margin**|xxx|
-   | **Current Ratio**| xx|
-   | **Operating Cash Flow**|xxx|
-   | **Research Development**|xxx|
-   
-  
   #### Preliminary Data Preprocessing
    - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
    - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
