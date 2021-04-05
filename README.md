@@ -83,7 +83,7 @@ UofT Data Analytics - Module 20: Final Project
     - any N/A's, or infinite values had to be removed
    
    ### Feature Engineering and Feature Selection
-   #### *Target Features - Three Month Return & First Day Return
+   * **Target Features - Three Month Return & First Day Return**
    
    List of Features
    
