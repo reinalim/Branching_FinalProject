@@ -83,9 +83,14 @@ UofT Data Analytics - Module 20: Final Project
     - any N/A's, or infinite values had to be removed
    
    ### Feature Engineering and Feature Selection
+   -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
+   * **Feature Category - Reason for Selection**
+   		* Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and Industry of the company.
+   		* Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
+   		* Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
+   		* Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
+    
    * **Target Features - Three Month Return & First Day Return**
-   
-   List of Features
    
    | Features Category  | Feature | Description | 
    | :--- | :--- |:--- |
@@ -100,12 +105,6 @@ UofT Data Analytics - Module 20: Final Project
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
-   * **Feature Category - Reason for Selection**
-   		* Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and Industry of the company.
-   		* Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
-   		* Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
-   		* Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
-   
    | Feature | Importance in 3 Month Return | Importance in First Day Return
    | :--- |:--- |:--- |
    | **Sector&Industry** | **xxxx**| xxxxx | 
@@ -119,46 +118,6 @@ UofT Data Analytics - Module 20: Final Project
    | **Cash Flow from Investment** | **xxxx**| xxxxx |
   
 #### Model Choice
-
-#### Logistic Regression
-
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
-
-Why - Here
-
-#### Random Forest
-
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
-
-Why - Here 
-
-#### Deep Learning
-
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
-
-Why - Here
-   
-  #### Preliminary Data Preprocessing
-   - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
-   - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
-     could be introduced into our model.
-    - any N/A's, or infinite values had to be removed
-  #### Feature Engineering and Feature Selection
-  -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
-  - Net Profit Margin
-       - This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue.
-        - Indicates the company's ability to bring money from its regular operations
-- Gross Margin
-	- The higher the gross margin, the more capital a company retains on each dollar of sales
-- Debt Asset Ratio
-        - A leverage ratio that defines the total amount of debt relative to assets owned by the company
-	- In other words, it shows the degree to which a company has used debt to finance its assets.
-	- For shareholders, this is a good indicator of how a company's assets are financed; Whether the bulk of assets are financed by the shareholders vs. creditors
-	
-- Current Ratio
-        - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
-
-### Model Choice
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
     - Random Forest
@@ -170,13 +129,17 @@ Why - Here
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
 
+
 #### Random Forest
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
+ 
 
 #### Deep Learning
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
+
+
 
 #### To be attempted
 
@@ -195,12 +158,10 @@ Why - Here
      
 ### Deliverable 4: Database
    
-   #### <ins> Segment #1 </ins>
    * Present a provisional database that stands in for the final database and accomplishes the following:
       - Sample data that mimics the expected final database structure or schema  - Completed
       - Draft machine learning module is connected to the provisional database  - Completed
    
-   #### <ins> Segment #2 </ins>
    
    **Database stores static data for use during the project**
  
