@@ -16,20 +16,12 @@ UofT Data Analytics - Module 20: Final Project
 ---  
    ### Purpose
    To apply machine learning and neural networks and use the features within our provided dataset to create a binary classifier that is capable of predicting upcoming IPO returns by industry/sector. 
-   
-   
-  Segment 1 Deliverables:
-   - Deliverable 1: Presentation
-   - Deliverable 2: GitHub
-   - Deliverable 3: Machine Learning Model
-   - Deliverable 4: Database
   
-  Segment 2 ~ 4 Deliverables:
    - Deliverable 1: Presentation
    - Deliverable 2: GitHub
    - Deliverable 3: Machine Learning Model
    - Deliverable 4: Database
-   - Deliverable 5: Dashboard (Segment #2-4)
+   - Deliverable 5: Dashboard 
   
    ### Resources
    * Data Resources
@@ -54,7 +46,7 @@ UofT Data Analytics - Module 20: Final Project
 ## Results
 
 ### Deliverable 1: Presentation
-   #### <ins> Segment #1 </ins>
+
    | README Requirements   |  Response  | 
    | :--- | :--- |
    | **Selected Topic** | IPO Analysis | 
@@ -63,13 +55,11 @@ UofT Data Analytics - Module 20: Final Project
    | **Data Source** | IPOScoop: https://www.iposcoop.com/ <br/> Alpha Vantage: https://www.alphavantage.co/documentation/
    
 
-  #### <ins> Segment #2 </ins>
   
  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
 
   
   ### Deliverable 2: GitHub  
-   #### <ins> Segment #1 & 2 </ins>
    
    Master Branch 
    * All code necessary to perform exploratory analysis - Completed
@@ -77,56 +67,81 @@ UofT Data Analytics - Module 20: Final Project
    
    README.md
    * Description of the communication protocols - Established
-   * Outline of the project - Completed 
+   * Outline of the project - Completed
+   * 8 Commits in total - Completed
    
    
    ### Deliverable 3: Machine Learning Model
-   #### <ins> Segment #1 </ins>
+
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
       - Takes in data in from the provisional database
       - Output labels for input data
-   
-   #### <ins> Segment #2 </ins>
-
-  #### Preliminary Data Preprocessing
+   ### Preliminary Data Preprocessing
    - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
    - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
      could be introduced into our model.
     - any N/A's, or infinite values had to be removed
-  #### Feature Engineering and Feature Selection
-  -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
-  - Net Profit Margin
-       - This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue.
-        - Indicates the company's ability to bring money from its regular operations
-- Gross Margin
-	- The higher the gross margin, the more capital a company retains on each dollar of sales
-- Debt Asset Ratio
-        - A leverage ratio that defines the total amount of debt relative to assets owned by the company
-	- In other words, it shows the degree to which a company has used debt to finance its assets.
-	- For shareholders, this is a good indicator of how a company's assets are financed; Whether the bulk of assets are financed by the shareholders vs. creditors
-	
-- Current Ratio
-        - This is a financial KPI that measure the company's ability to pay off its short term financial obligations in one year.
-
+   
+   ### Feature Engineering and Feature Selection
+   -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
+   * **Feature Category - Reason for Selection**
+   		* Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and Industry of the company.
+   		* Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
+   		* Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
+   		* Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
+    
+   * **Target Features - Three Month Return & First Day Return**
+   
+   | Features Category  | Feature | Description | 
+   | :--- | :--- |:--- |
+   | **Categorical** | **Industry**| It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
+   | **Categorical** | **Sector**| It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow.
+   | **Operational Performance** | **EBITDA** | Earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance before the influence of accounting and financial deductions.  |
+   | **Operational Performance** | **Gross Profit Margin** | A measure of profitability that shows the percentage of revenue that exceeds the cost of goods sold. |
+   | **Operational Performance**| **Net Profit Margin**| It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue. |
+   | **Operational Performance**| **Operating Cash Flow** | It is a measure of the amount of cash generated by a company's normal business operations. It indicates whether a company can generate sufficient positive cash flow to maintain and grow its operations. | 
+   | **Financial Health** | **Debt Asset Ratio**| A leverage ratio that defines the total amount of debt relative to assets owned by the company.|
+   | **Financial Health**|**Current Ratio**| A liquidity metric that measures the company's ability to pay off its short term financial obligations in one year|
+   | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
+   | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
+   
+   | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) | Importance in First Day Return <br/> Rating 1-10 (Least to Most)
+   | :--- |:---: |:---: |
+   | **Sector** | 9 | 3 | 
+   | **Industry** | 10 | 8 | 
+   | **EBITDA** | 1 | 4 | 
+   | **Current Ratio** | 5  | 7 |
+   | **Gross Profit Margin** | 3 | 5 | 
+   | **Net Profit Margin** | 8 | 6 | 
+   | **Operating Cash Flow** | 4 | 10 | 
+   | **Debt Asset Ratio** | 6 | 1 | 
+   | **Current Asset Ratio** | 5 | 4 | 
+   | **Research & Development** | 7 | 2 |
+   | **Cash Flow from Investment** | 2 | 9 |
+  
 #### Model Choice
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
     - Random Forest
     - Support Vector Machine - SVM  
     - Deep Learning
-- Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price grain/increase:
+- The most successful model is Deep Learning with Neural Networks, where the 3-Month Return Model achieved a 65% accuracy, and the First Day Return Model achieved at 60% accuracy.
 
 #### Logistic Regression
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
 
+
 #### Random Forest
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
+ 
 
 #### Deep Learning
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
+
+
 
 #### To be attempted
 
@@ -145,12 +160,10 @@ UofT Data Analytics - Module 20: Final Project
      
 ### Deliverable 4: Database
    
-   #### <ins> Segment #1 </ins>
    * Present a provisional database that stands in for the final database and accomplishes the following:
       - Sample data that mimics the expected final database structure or schema  - Completed
       - Draft machine learning module is connected to the provisional database  - Completed
    
-   #### <ins> Segment #2 </ins>
    
    **Database stores static data for use during the project**
  
