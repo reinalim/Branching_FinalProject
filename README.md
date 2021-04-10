@@ -28,7 +28,9 @@ UofT Data Analytics - Module 20: Final Project
      1. Alpha Vantage: https://www.alphavantage.co/documentation/
      2. IPOScoop:  https://www.iposcoop.com/
   
-  * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
+  * Software/Tools: Python, Pandas, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
+  * Languages: Python
+  * Algorithm: ?
   
   ### Communications
   1. Slack Channel
