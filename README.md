@@ -47,7 +47,7 @@ UofT Data Analytics - Module 20: Final Project
 
 ## Results
 
-### Deliverable 1: Presentation
+## Deliverable 1: Presentation
 
    | README Requirements   |  Response  | 
    | :--- | :--- |
@@ -61,7 +61,7 @@ UofT Data Analytics - Module 20: Final Project
  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
 
   
-  ### Deliverable 2: GitHub  
+  ## Deliverable 2: GitHub  
    
    Master Branch 
    * All code necessary to perform exploratory analysis - Completed
@@ -73,7 +73,7 @@ UofT Data Analytics - Module 20: Final Project
    * 8 Commits in total - Completed
    
    
-   ### Deliverable 3: Machine Learning Model
+   ## Deliverable 3: Machine Learning Model
 
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
       - Takes in data in from the provisional database
@@ -161,14 +161,14 @@ To counter-act overfitting, we reduced our neuron count from 2x our input featur
 
 Doing this resulted in our 65% and 60% accuracy on our three day return and first day close models respectively.
 
-# To be attempted
+### To be attempted
 - Explore sector specific features
     - there are many different features at which people would value certain companies more depending on the specific 
     - different businesses have could have different emphasis on different metrics
     - ie. manufacturing KPI vs merchandising KPI
      
      
-### Deliverable 4: Database
+## Deliverable 4: Database
    
    * Present a provisional database that stands in for the final database and accomplishes the following:
       - Sample data that mimics the expected final database structure or schema  - Completed
