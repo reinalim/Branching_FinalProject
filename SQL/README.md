@@ -1,6 +1,6 @@
 # SQL Database
 
-Here you will find the a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we used have chosen for this project. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
+Here you will find the a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we have chosen for this project. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
 
 ### ERD Diagram
 
