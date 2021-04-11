@@ -2,11 +2,12 @@
 
 ### ERD Diagram
 
-Diagram Tool: https://app.quickdatabasediagrams.com/#/
+![FinalProject_IPO_ERD](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/FinalProject_IPO_ERD.png)
 
-Reference: FinalProject_IPO_ERD.png is saved in this folder
 
 Quick DBD site was used as a tool to create the ERD diagram to visually display the datasets and establish the data types and the relationships between each table using the primary and foreign keys in order to create the database.
+
+Diagram Tool: https://app.quickdatabasediagrams.com/#/
 
 ### Data sources 
 
@@ -47,7 +48,11 @@ Following our ERD diagram, we have created schema.sql to house all our queries p
 
 ### SQL Table Screeshot
 
-In this folder are the screenshot of each of the tables created in pgAdmin. There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
+In this folder are the screenshot of each of the tables created in pgAdmin. 
+There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
+
+![database_tables](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_Table_Screenshot/database_tables.png)
+
 
 ### Additional Data Clean-Up
 
@@ -59,4 +64,23 @@ In this folder are the screenshot of each of the tables created in pgAdmin. Ther
 
 ### ipo_database.db
 
-A database file was created using the "backup" function as another option for the team to recreate the database in their local pgAdmin by using the "restore" function. This is just an alternative way but the schema.sql file is also provided in order to execute the same purpose.
+A database file was created using the "backup" function as another option for the team to recreate the database in their local pgAdmin 4 by using the "restore" function. This is just an alternative way but the schema.sql file is also provided in order to execute the same purpose.
+
+Steps to back-up your database in pgAdmin 4:
+1. Right-click on your database and choose "Backup".
+2. Once the "Backup" menu opens, click the "..." under Filename and this will then a pop open a "Select file" menu in order to select or enter a location (your local drive and folder) to save to. In this "Select file" menu choose the Format at the bottom right corner to be "All Files", then enter the file name (for this project we used ipo_database) to be created with a .db (Database File Type) as the extension and then click on "Create" which will take you back to the previous "Backup" menu.
+3. Select Custom as format. There are many types of formats when you back up, such as Custom, Tar, Directory, Plain. But the Custom format is the most common.
+4. Under Encoding choose UTF8 which is the most common.
+5. Under Role name choose postgres.
+6. Click on "Backup" at the bottom right corner.
+
+Steps to restore the database in your local pgAdmin 4 using the .db file already provided:
+1. To restore, on the pgAdmin, create an empty database, preferrably named the project you are working on (for this project we used ipo_database).
+2. Once the empty database has been created (no tables or any other objects), use the "Restore" function (right-click on the database and choose Restore) to restore this database from the .db file provided.
+3. A "Restore" menu will pop open in which you will select Custom as format.
+4. Under filename. click the "..." and find the .db file saved in your local drive and folder.
+5. Under Role name choose postgres.
+6. Click on "Restore" at the bottom right corner.
+
+All tables and objects will be restored to your database server and ready for use.
+

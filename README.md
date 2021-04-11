@@ -25,8 +25,8 @@ UofT Data Analytics - Module 20: Final Project
   
    ### Resources
    * Data Resources
-     1. Alpha Vantage: https://www.alphavantage.co/documentation/
-     2. IPOScoop:  https://www.iposcoop.com/
+     1. IPOScoop:  https://www.iposcoop.com/
+     2. Alpha Vantage: https://www.alphavantage.co/documentation/
   
   * Software/Tools: Python, Pandas, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   * Languages: Python
@@ -54,7 +54,7 @@ UofT Data Analytics - Module 20: Final Project
    | **Selected Topic** | IPO Analysis | 
    | **Reason why this topic was selected** | 1. Personal interest <br/> 2. Availability of data source <br/> 3. Discover how the global pandemic affected IPO listing |
    | **Questions hoping to answer** | 1. What is the proportion of each sector? <br/> 2.Which industries have the best and worst return in 2019 and 2020? <br/> 3. How has the appetite for IPOs in each sector changed? How did they performed over the years from 2000 to 2020? <br/> 4. How can you benefit from the above information?
-   | **Source of Data** | Alpha Vantage: https://www.alphavantage.co/documentation/ <br/> IPOScoop: https://www.iposcoop.com/.
+   | **Data Source** | IPOScoop: https://www.iposcoop.com/ <br/> Alpha Vantage: https://www.alphavantage.co/documentation/
    
 
   
@@ -169,7 +169,7 @@ Doing this resulted in our 65% and 60% accuracy on our three day return and firs
     - Random Forest
     - Support Vector Machine - SVM  
     - Deep Learning
-- Our most successful results so far - with introducing just debt-to-asset ratio with Sector/Industry and a target feature of three month price grain/increase:
+- The most successful model is Deep Learning with Neural Networks, where the 3-Month Return Model achieved a 65% accuracy, and the First Day Return Model achieved at 60% accuracy.
 
 #### Logistic Regression
 
