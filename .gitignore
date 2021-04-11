@@ -27,3 +27,10 @@ ML_Model/notebooks/.ipynb_checkpoints/IPO_Model-Three_month-checkpoint.ipynb
 ML_Model/README.md
 ML_Model/notebooks/explained_weights.csv
 ML_Model/notebooks/.ipynb_checkpoints/IPO_Model-Firstday-checkpoint.ipynb
+ML_Model/notebooks/IPO_Model-Three_month-annvizualize.ipynb
+ML_Model/notebooks/model.h5
+ML_Model/notebooks/model.json
+ML_Model/notebooks/network.gv
+ML_Model/notebooks/nn.json
+ML_Model/notebooks/.ipynb_checkpoints/IPO_Model-Three_month-annvizualize-checkpoint.ipynb
+ML_Model/notebooks/testing notebooks/.ipynb_checkpoints/de-encode-checkpoint.ipynb
