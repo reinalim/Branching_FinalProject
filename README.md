@@ -85,14 +85,15 @@ UofT Data Analytics - Module 20: Final Project
     - any N/A's, or infinite values had to be removed
    
    ### Feature Engineering and Feature Selection
-   -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
-   * **Feature Category - Reason for Selection**
-   		* Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and Industry of the company.
-   		* Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
-   		* Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
-   		* Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
+Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price.
+
+   **Feature Category - Reason for Selection**
+   * Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and  		Industry of the company.
+   * Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
+   * Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
+   * Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
     
-   * **Target Features - Three Month Return & First Day Return**
+   **Target Features - Three Month Return & First Day Return**
    
    | Features Category  | Feature | Description | 
    | :--- | :--- |:--- |
@@ -107,7 +108,7 @@ UofT Data Analytics - Module 20: Final Project
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
-   * **Feature Importance**
+   **Feature Importance**
    
    | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) | Importance in First Day Return <br/> Rating 1-10 (Least to Most)
    | :--- |:---: |:---: |
@@ -123,29 +124,31 @@ UofT Data Analytics - Module 20: Final Project
    | **Research & Development** | 7 | 2 |
    | **Cash Flow from Investment** | 2 | 9 |
   
-  ### Model Choices
+  ## Model Choices
 
   #### Training/Testing Split
 
 - During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
 
- ### Model Selection
+ ## Model Selection
 
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
-<img src="images/log.png"></img>
-    - Random Forest
-    <img src="images/random.png"></img>
-    - Support Vector Machine - SVM  
-    - Deep Learning
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
+
+   - Random Forest
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
+
+   - Support Vector Machine - SVM  
+   - Deep Learning
 - Our most successful results so far were found using **Deep Learning**
     - using all our 10 features, our models performed:
         - ~65% accuracy - Three Month Return model
-        <img src="images/three_mth_model.png"></img>
+      <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/three_mth_model.png">
         - ~60% accuracy - First Day Closing Price model
-        <img src="images/first_day_model.png"></img>
+      <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/first_day_model.png">
 
-## Attempts at Model Optimization
+### Attempts at Model Optimization
 
 In attempts to optimize our model and achieve higher accuracy, the models were observed as features were added/removed. 
 
@@ -154,7 +157,7 @@ In attempts to optimize our model and achieve higher accuracy, the models were o
 Though modeling with Deep Learning allows it to handle many features, it is prone to overfitting. Our first attempts resulted in high training accuracy while our testing set would be low.
 
 To counter-act overfitting, we reduced our neuron count from 2x our input features to 1.5. We also removed a hidden layer:
-   <img src="images/overfit_example.png"></img>
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/overfit_example.png">
 
 Doing this resulted in our 65% and 60% accuracy on our three day return and first day close models respectively.
 
@@ -163,43 +166,6 @@ Doing this resulted in our 65% and 60% accuracy on our three day return and firs
     - there are many different features at which people would value certain companies more depending on the specific 
     - different businesses have could have different emphasis on different metrics
     - ie. manufacturing KPI vs merchandising KPI
-#### Model Choice
-- Since we have labeled data, we've tried using a variety of different binary classification models:
-    - Logistic Regression
-    - Random Forest
-    - Support Vector Machine - SVM  
-    - Deep Learning
-- The most successful model is Deep Learning with Neural Networks, where the 3-Month Return Model achieved a 65% accuracy, and the First Day Return Model achieved at 60% accuracy.
-
-#### Logistic Regression
-
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
-
-
-#### Random Forest
-
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
- 
-
-#### Deep Learning
-
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
-
-
-
-#### To be attempted
-
-- Explore sector specific features
-    - there are many different features at which people would value certain companies  more depending on the specific 
-    - different businesses have could have differenent emphasis on different metrics
-    - ie. manufacturing KPI vs merchandising KPI
-- Training/testing:
-    - training data on pre 2019 data
-    - testing on 2020 data
-- Other Featrues to test:
-    - Total Sales Revenue
-    - Total Net Profit
-    - EBITDA
      
      
 ### Deliverable 4: Database
