@@ -198,7 +198,7 @@ Doing this resulted in our 65% and 60% accuracy on our three day return and firs
 
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
      
-### Deliverable 5: Dashboard
+## Deliverable 5: Dashboard
    * Storyboard on Google Slide(s):  
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
    
