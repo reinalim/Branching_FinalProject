@@ -28,7 +28,9 @@ UofT Data Analytics - Module 20: Final Project
      1. IPOScoop:  https://www.iposcoop.com/
      2. Alpha Vantage: https://www.alphavantage.co/documentation/
   
-  * Software: Python, Pandas, GitHub, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
+  * Software/Tools: Python, Pandas, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
+  * Languages: Python
+  * Algorithm: ?
   
   ### Communications
   1. Slack Channel
@@ -45,7 +47,7 @@ UofT Data Analytics - Module 20: Final Project
 
 ## Results
 
-### Deliverable 1: Presentation
+## Deliverable 1: Presentation
 
    | README Requirements   |  Response  | 
    | :--- | :--- |
@@ -59,7 +61,7 @@ UofT Data Analytics - Module 20: Final Project
  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
 
   
-  ### Deliverable 2: GitHub  
+  ## Deliverable 2: GitHub  
    
    Master Branch 
    * All code necessary to perform exploratory analysis - Completed
@@ -71,7 +73,7 @@ UofT Data Analytics - Module 20: Final Project
    * 8 Commits in total - Completed
    
    
-   ### Deliverable 3: Machine Learning Model
+   ## Deliverable 3: Machine Learning Model
 
    * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
       - Takes in data in from the provisional database
@@ -83,82 +85,106 @@ UofT Data Analytics - Module 20: Final Project
     - any N/A's, or infinite values had to be removed
    
    ### Feature Engineering and Feature Selection
-   -  Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price
-   * **Feature Category - Reason for Selection**
-   		* Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and Industry of the company.
-   		* Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
-   		* Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
-   		* Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
+Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price.
+
+   **Feature Category - Reason for Selection**
+   * Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and  		Industry of the company.
+   * Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
+   * Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
+   * Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
     
-   * **Target Features - Three Month Return & First Day Return**
+   **Target Features - Three Month Return & First Day Return**
    
    | Features Category  | Feature | Description | 
    | :--- | :--- |:--- |
-   | **Categorical** | **Industry**| It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
-   | **Categorical** | **Sector**| It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow.
-   | **Operational Performance** | **EBITDA** | Earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance before the influence of accounting and financial deductions.  |
-   | **Operational Performance** | **Gross Profit Margin** | A measure of profitability that shows the percentage of revenue that exceeds the cost of goods sold. |
+   | **Categorical** | **Industry** | It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
+   | **Categorical** | **Sector** | It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow. 
+   | **Operational Performance** | **EBITDA** | Earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance before the influence. |
+   | **Operational Performance** | **EBIT margin** | Earnings before interest and taxes is a company's net income before income tax expense and interest expenses are deducted of accounting and financial deductions. | 
+   | **Operational Performance** | **Gross Profit Margin** | A measure of profitability that shows the percentage of revenue that exceeds the cost of goods sold. | 
    | **Operational Performance**| **Net Profit Margin**| It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue. |
-   | **Operational Performance**| **Operating Cash Flow** | It is a measure of the amount of cash generated by a company's normal business operations. It indicates whether a company can generate sufficient positive cash flow to maintain and grow its operations. | 
-   | **Financial Health** | **Debt Asset Ratio**| A leverage ratio that defines the total amount of debt relative to assets owned by the company.|
+   | **Financial Health** | **Debt Asset Ratio**| A leverage ratio that defines the total amount of debt relative to assets owned by the company.| 
    | **Financial Health**|**Current Ratio**| A liquidity metric that measures the company's ability to pay off its short term financial obligations in one year|
+   | **Financial Health**| **Debt Equity Ratio** | It is a measure of the degree to which a company is financing its operations through debt versus wholly-owned funds. |
+   | **Financial Health**| **Operating Cash Flow Ratio** | A measure of how readily current liabilities are covered by the cash flows generated from a company's operations. This ratio can help gauge a company's liquidity in the short term. |
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
-   | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) | Importance in First Day Return <br/> Rating 1-10 (Least to Most)
-   | :--- |:---: |:---: |
-   | **Sector** | 9 | 3 | 
-   | **Industry** | 10 | 8 | 
-   | **EBITDA** | 1 | 4 | 
-   | **Current Ratio** | 5  | 7 |
-   | **Gross Profit Margin** | 3 | 5 | 
-   | **Net Profit Margin** | 8 | 6 | 
-   | **Operating Cash Flow** | 4 | 10 | 
-   | **Debt Asset Ratio** | 6 | 1 | 
-   | **Current Asset Ratio** | 5 | 4 | 
-   | **Research & Development** | 7 | 2 |
-   | **Cash Flow from Investment** | 2 | 9 |
+   **Feature Importance** - 3 Months Return
+   
+   | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) |
+   | :--- |:---: |
+   | **Net Profit Margin** | 10 |
+   | **Sector** | 9 |
+   | **OCF Ratio** | 8 |
+   | **Gross Profit Margin** | 7  |
+   | **Industry** | 6 |
+   | **Debt Equity Ratio** | 5 |
+   | **EBITDA** | 5 |
+   | **Debt Asset Ratio** | 4 |
+   | **Research Development** | 3 |
+   | **Cashflow From Investment** | 2 |
+   | **Current Ratio** | 1 |
   
-#### Model Choice
+  **Feature Importance** - First Day Return
+  
+  | Feature | Importance in First Day Return  <br/> Rating 1-10 (Least to Most) |
+   | :--- |:---: |
+   | **Gross Profit Margin** | 10 |
+   | **Cashflow From Investment** | 9 |
+   | **OCF Ratio** | 8 |
+   | **Debt Equity Ratio** | 7  |
+   | **Industry** | 6 |
+   | **EBIT Margin** | 5 |
+   | **Debt Asset Ratio** | 4 |
+   | **Current Ratio** | 4 |
+   | **Net Profit Margin** | 2 |
+   | **Sector** | 1 |
+   
+  ## Model Choices
+
+  #### Training/Testing Split
+
+- During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
+
+ ## Model Selection
+
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
-    - Random Forest
-    - Support Vector Machine - SVM  
-    - Deep Learning
-- The most successful model is Deep Learning with Neural Networks, where the 3-Month Return Model achieved a 65% accuracy, and the First Day Return Model achieved at 60% accuracy.
-
-#### Logistic Regression
-
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/log.png" width="80%">
 
-
-#### Random Forest
-
+   - Random Forest
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
- 
 
-#### Deep Learning
+   - Deep Learning
+- Our most successful results so far were found using **Deep Learning**
+    - using all our 10 features, our models performed:
+        - ~65% accuracy - Three Month Return model
+      <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/three_mth_model.png">
+        - ~60% accuracy - First Day Closing Price model
+      <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/first_day_model.png">
 
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/deep.png" width="80%">
+### Attempts at Model Optimization
 
+In attempts to optimize our model and achieve higher accuracy, the models were observed as features were added/removed. 
 
+## Overfitting
 
-#### To be attempted
+Though modeling with Deep Learning allows it to handle many features, it is prone to overfitting. Our first attempts resulted in high training accuracy while our testing set would be low.
 
+To counter-act overfitting, we reduced our neuron count from 2x our input features to 1.5. We also removed a hidden layer:
+   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/overfit_example.png">
+
+Doing this resulted in our 65% and 60% accuracy on our three day return and first day close models respectively.
+
+### To be attempted
 - Explore sector specific features
-    - there are many different features at which people would value certain companies  more depending on the specific 
-    - different businesses have could have differenent emphasis on different metrics
+    - there are many different features at which people would value certain companies more depending on the specific 
+    - different businesses have could have different emphasis on different metrics
     - ie. manufacturing KPI vs merchandising KPI
-- Training/testing:
-    - training data on pre 2019 data
-    - testing on 2020 data
-- Other Featrues to test:
-    - Total Sales Revenue
-    - Total Net Profit
-    - EBITDA
      
      
-### Deliverable 4: Database
+## Deliverable 4: Database
    
    * Present a provisional database that stands in for the final database and accomplishes the following:
       - Sample data that mimics the expected final database structure or schema  - Completed
@@ -188,7 +214,7 @@ UofT Data Analytics - Module 20: Final Project
 
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
      
-### Deliverable 5: Dashboard
+## Deliverable 5: Dashboard
    * Storyboard on Google Slide(s):  
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
    

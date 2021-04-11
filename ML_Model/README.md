@@ -17,7 +17,18 @@ While our primary target is the stock price return, we decided to explore two sp
     - Some may attribute the first day IPO pop as an indicator of success and demand for that stock.
 
 ## Feature Selection 
--  Potential features we decided to include and test since these are relevant Key Performance Indicators (KPIs)/ Business metrics to determine company performance which could influence a company's **stock price**
+-  Potential features we decided to include and test since these are relevant Key Performance Indicators (KPIs)/ Business metrics to determine company performance which could influence a company's **stock price**. Our features can fall under 4 main categories:
+    1. Categorical Features:
+        - Sector/Industry
+    
+    2. Financial Health:
+        - Debt-to-Asset Ratio
+        - Debt-to-equity Ratio
+        - Current Ratio
+
+    3. Operational Performance:
+    - EBIT/Revenue
+    - revenue you're generating how much EBIT you're getting
     - Net Profit Margin
 		- This is the percentage of total profit over total sales made by the company. It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue
         - Indicates the company's ability to bring money from its regular operations
