@@ -97,16 +97,16 @@ Potential features we decided to include and test since these are relevant KPIs/
    
    | Features Category  | Feature | Description | 
    | :--- | :--- |:--- |
-   | **Categorical** | **Industry**| It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
-   | **Categorical** | **Sector**| It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow.
+   | **Categorical** | **Industry** | It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
+   | **Categorical** | **Sector** | It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow. 
    | **Operational Performance** | **EBITDA** | Earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance before the influence. |
    | **Operational Performance** | **EBIT margin** | Earnings before interest and taxes is a company's net income before income tax expense and interest expenses are deducted of accounting and financial deductions. | 
    | **Operational Performance** | **Gross Profit Margin** | A measure of profitability that shows the percentage of revenue that exceeds the cost of goods sold. | 
    | **Operational Performance**| **Net Profit Margin**| It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue. |
    | **Financial Health** | **Debt Asset Ratio**| A leverage ratio that defines the total amount of debt relative to assets owned by the company.| 
    | **Financial Health**|**Current Ratio**| A liquidity metric that measures the company's ability to pay off its short term financial obligations in one year|
-   | **Financial Health**| **Debt Equity Ratio** | 
-   | **Financial Health**| **Operating Cash Flow Ratio** | 
+   | **Financial Health**| **Debt Equity Ratio** | It is a measure of the degree to which a company is financing its operations through debt versus wholly-owned funds. |
+   | **Financial Health**| **Operating Cash Flow Ratio** | A measure of how readily current liabilities are covered by the cash flows generated from a company's operations. This ratio can help gauge a company's liquidity in the short term. |
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
@@ -126,6 +126,19 @@ Potential features we decided to include and test since these are relevant KPIs/
    | **Cashflow From Investment** | 2 |
    | **Current Ratio** | 1 |
   
+  | Feature | Importance in First Day Return  <br/> Rating 1-10 (Least to Most) |
+   | :--- |:---: |
+   | **Gross Profit Margin** | 10 |
+   | **Cashflow From Investment** | 9 |
+   | **OCF Ratio** | 8 |
+   | **Debt Equity Ratio** | 7  |
+   | **Industry** | 6 |
+   | **EBIT Margin** | 5 |
+   | **Debt Asset Ratio** | 4 |
+   | **Current Ratio** | 4 |
+   | **Net Profit Margin** | 2 |
+   | **Sector** | 1 |
+   
   ## Model Choices
 
   #### Training/Testing Split
