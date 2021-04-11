@@ -130,6 +130,8 @@ UofT Data Analytics - Module 20: Final Project
   **Description of interative element(s)**
    - Search and Filter Functions available on Tableau Dashboard <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
 
+<br>
+
 **For presentation, please click the link below:**
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Link to Google Slides </a>
 <br>
