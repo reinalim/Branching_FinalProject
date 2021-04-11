@@ -73,13 +73,13 @@ UofT Data Analytics - Module 20: Final Project
    
    ## Machine Learning Model
 
-  ## Model Choices
+  ### Model Choices
 
   #### Training/Testing Split
 
 - During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
 
- ## Model Selection
+ ### Model Selection
 
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
@@ -112,26 +112,26 @@ UofT Data Analytics - Module 20: Final Project
 
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here for more details** </a>
 
-<a href=""> **Click here for more details** </a>
-
 ## Deliverable 5: Dashboard
    
-   * Description of the tool: 
+  **Description of the tool**
    
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/Dashboard/Images/Tableau%20Logo.png" width="50%">
   
   Tableau is a data visualization software that is used for data science and business intelligence. Tableau can create a wide range of different visualization to interactively present the data and showcase insights.
  
-  * Dashboard Overview
+ **Dashboard Overview**
+ 
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="80%">
 
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
 
-   * Description of interative element(s):
-     - Hover Function, Search and Filter Functions for maps and charts: Dropdown multiple value filter by Year, Quarter, Sector, Region
+  **Description of interative element(s)**
+     - Search and Filter Functions available on Tableau Dashboard: Dropdown multiple value filter by Year, Quarter, Sector
+    
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
 
-  * Storyboard on Google Slide(s):  
    <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
 <br>
 
