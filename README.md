@@ -73,13 +73,13 @@ UofT Data Analytics - Module 20: Final Project
    
    ## Machine Learning Model
 
-  ### Model Choices
+  #### Model Choices
 
-  #### Training/Testing Split
+  ##### Training/Testing Split
 
 - During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
 
- ### Model Selection
+ #### Model Selection
 
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
@@ -123,16 +123,15 @@ UofT Data Analytics - Module 20: Final Project
  **Dashboard Overview**
  
 
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="80%">
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="90%">
 
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
 
   **Description of interative element(s)**
-     - Search and Filter Functions available on Tableau Dashboard: Dropdown multiple value filter by Year, Quarter, Sector
-    
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
+   - Search and Filter Functions available on Tableau Dashboard <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
 
-   <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
+**For presentation, please click the link below:**
+   <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Link to Google Slides </a>
 <br>
 
 ---
