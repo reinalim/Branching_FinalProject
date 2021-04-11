@@ -1,6 +1,6 @@
 # SQL Database
 
-Here you will find the a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we used to ingest our raw data. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
+Here you will find the a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we used have chosen for this project. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
 
 ### ERD Diagram
 
@@ -29,20 +29,15 @@ Under the "notebooks" folder, we created Jupyter Notebooks to concatenate each o
 
 Multiple table joins were performed in order to eventually produce a "master_data" table to contain all data records from the 6 base tables using a "LEFT" join, which will connect to our machine learning model in Jupyter notebook. Due to the number of rows and columns on each table, it was best to join them one at a time in order to have full control on the final output, validate that all records are accounted for, and avoid the risk of unintentionally loosing any data.
 
-Join 1: ipo_scoop_listing and company_overview tables = ipo_listing_with_overview table
-- Returning a total of 3470 rows and combined 20 columns
+- Join 1: ipo_scoop_listing and company_overview tables = ipo_listing_with_overview table. Returning a total of 3470 rows and combined 20 columns.
 
-Join 2: The above ipo_listing_with_overview and three_month_return tables = ipo_overview_three_mth_return table
-- Returning a total of 3470 rows and now combined 25 columns
+- Join 2: The above ipo_listing_with_overview and three_month_return tables = ipo_overview_three_mth_return table. Returning a total of 3470 rows and now combined 25 columns.
 
-Join 3: The above ipo_overview_three_mth_return and combined_filtered_income_statement tables = ipos_with_income table
-- Returning a total of 3470 rows and now combined 51 columns
+- Join 3: The above ipo_overview_three_mth_return and combined_filtered_income_statement tables = ipos_with_income table. Returning a total of 3470 rows and now combined 51 columns.
 
-Join 4: The above ipos_with_income and combined_filtered_balance_sheet tables = ipos_with_income_balancesheet table
-- Returning a total of 3470 rows and now combined 87 columns
+- Join 4: The above ipos_with_income and combined_filtered_balance_sheet tables = ipos_with_income_balancesheet table. Returning a total of 3470 rows and now combined 87 columns.
 
-Final Join 5: The above ipos_with_income_balancesheet and combined_filtered_cash_flow tables = master_data table
-- Returning a total of 3470 rows and now combined 113 columns
+- Final Join 5: The above ipos_with_income_balancesheet and combined_filtered_cash_flow tables = master_data table. Returning a total of 3470 rows and now combined 113 columns.
 
 ### schema.sql
 
@@ -54,6 +49,13 @@ In this folder are the screenshot of each of the tables created in pgAdmin.
 There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
 
 ![database_tables](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_Table_Screenshot/database_tables.png)
+
+
+### Database Interface from SQL to Machine Learning Models
+
+Using SQLAlchemy, we were able to connect our database into our machine learning models in Jupyter notebook.
+
+![SQL_connect_ML](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_connect_ML.png)
 
 
 ### Additional Data Clean-Up
@@ -85,9 +87,3 @@ Steps to restore the database in your local pgAdmin 4 using the .db file already
 6. Click on "Restore" at the bottom right corner.
 
 All tables and objects will be restored to your database server and ready for use.
-
-### Database Interface from SQL to Machine Learning Models
-
-Using SQLAlchemy, we were able to connect our database into our machine learning models in Jupyter notebook.
-
-![SQL_connect_ML](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_connect_ML.png)
