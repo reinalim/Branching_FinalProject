@@ -1,5 +1,7 @@
 # SQL Database
 
+Here you will find the a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we used to ingest our raw data. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
+
 ### ERD Diagram
 
 ![FinalProject_IPO_ERD](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/FinalProject_IPO_ERD.png)
@@ -69,7 +71,7 @@ A database file was created using the "backup" function as another option for th
 Steps to back-up your database in pgAdmin 4:
 1. Right-click on your database and choose "Backup".
 2. Once the "Backup" menu opens, click the "..." under Filename and this will then a pop open a "Select file" menu in order to select or enter a location (your local drive and folder) to save to. In this "Select file" menu choose the Format at the bottom right corner to be "All Files", then enter the file name (for this project we used ipo_database) to be created with a .db (Database File Type) as the extension and then click on "Create" which will take you back to the previous "Backup" menu.
-3. Select Custom as format. There are many types of formats when you back up, such as Custom, Tar, Directory, Plain. But the Custom format is the most common.
+3. Select Custom as format. There are many types of formats when you back up, such as Custom, Tar, Directory, Plain, but the Custom format is the most common.
 4. Under Encoding choose UTF8 which is the most common.
 5. Under Role name choose postgres.
 6. Click on "Backup" at the bottom right corner.
@@ -84,3 +86,8 @@ Steps to restore the database in your local pgAdmin 4 using the .db file already
 
 All tables and objects will be restored to your database server and ready for use.
 
+### Database Interface from SQL to Machine Learning Models
+
+Using SQLAlchemy, we were able to connect our database into our machine learning models in Jupyter notebook.
+
+![SQL_connect_ML]()
