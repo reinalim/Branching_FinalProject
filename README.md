@@ -110,7 +110,7 @@ Potential features we decided to include and test since these are relevant KPIs/
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
-   **Feature Importance**
+   **Feature Importance** - 3 Months Return
    
    | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) |
    | :--- |:---: |
@@ -125,6 +125,8 @@ Potential features we decided to include and test since these are relevant KPIs/
    | **Research Development** | 3 |
    | **Cashflow From Investment** | 2 |
    | **Current Ratio** | 1 |
+  
+  **Feature Importance** - First Day Return
   
   | Feature | Importance in First Day Return  <br/> Rating 1-10 (Least to Most) |
    | :--- |:---: |
