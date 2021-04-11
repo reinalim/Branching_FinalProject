@@ -90,4 +90,4 @@ All tables and objects will be restored to your database server and ready for us
 
 Using SQLAlchemy, we were able to connect our database into our machine learning models in Jupyter notebook.
 
-![SQL_connect_ML]()
+![SQL_connect_ML](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_connect_ML.png)
