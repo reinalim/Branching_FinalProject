@@ -107,6 +107,8 @@ UofT Data Analytics - Module 20: Final Project
    | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
    | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
    
+   * **Feature Importance**
+   
    | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) | Importance in First Day Return <br/> Rating 1-10 (Least to Most)
    | :--- |:---: |:---: |
    | **Sector** | 9 | 3 | 
@@ -121,6 +123,46 @@ UofT Data Analytics - Module 20: Final Project
    | **Research & Development** | 7 | 2 |
    | **Cash Flow from Investment** | 2 | 9 |
   
+  ### Model Choices
+
+  #### Training/Testing Split
+
+- During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
+
+ ### Model Selection
+
+- Since we have labeled data, we've tried using a variety of different binary classification models:
+    - Logistic Regression
+<img src="images/log.png"></img>
+    - Random Forest
+    <img src="images/random.png"></img>
+    - Support Vector Machine - SVM  
+    - Deep Learning
+- Our most successful results so far were found using **Deep Learning**
+    - using all our 10 features, our models performed:
+        - ~65% accuracy - Three Month Return model
+        <img src="images/three_mth_model.png"></img>
+        - ~60% accuracy - First Day Closing Price model
+        <img src="images/first_day_model.png"></img>
+
+## Attempts at Model Optimization
+
+In attempts to optimize our model and achieve higher accuracy, the models were observed as features were added/removed. 
+
+## Overfitting
+
+Though modeling with Deep Learning allows it to handle many features, it is prone to overfitting. Our first attempts resulted in high training accuracy while our testing set would be low.
+
+To counter-act overfitting, we reduced our neuron count from 2x our input features to 1.5. We also removed a hidden layer:
+   <img src="images/overfit_example.png"></img>
+
+Doing this resulted in our 65% and 60% accuracy on our three day return and first day close models respectively.
+
+# To be attempted
+- Explore sector specific features
+    - there are many different features at which people would value certain companies more depending on the specific 
+    - different businesses have could have different emphasis on different metrics
+    - ie. manufacturing KPI vs merchandising KPI
 #### Model Choice
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
