@@ -91,7 +91,7 @@ UofT Data Analytics - Module 20: Final Project
         - **Three Month Return model: Current Accuracy 69%**
         - **First Day Closing Price model: Current Accuracy 65%**
        
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Choices** </a>
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Model Choices** </a>
      
 ## Deliverable 4: Database
    
