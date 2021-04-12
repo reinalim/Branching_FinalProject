@@ -107,7 +107,7 @@ UofT Data Analytics - Module 20: Final Project
 
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
 
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here for database details** </a>
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here to learn more about database details** </a>
 
 ## Deliverable 5: Dashboard
    
@@ -125,7 +125,7 @@ UofT Data Analytics - Module 20: Final Project
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for Tableau Dashboard details** </a>
 
   **Description of interative element(s)**
-   - Search and Filter Functions available on Tableau Dashboard <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for details** </a>
+   - Search and Filter Functions available on Tableau Dashboard <a href="https://public.tableau.com/profile/reina6848#!/vizhome/Book1_16172235019440/DashboardFinal1?publish=yes"> **Link to Tableau Dashboard** </a>
 
 <br>
 
