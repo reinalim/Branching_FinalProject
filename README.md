@@ -70,8 +70,7 @@ UofT Data Analytics - Module 20: Final Project
    * Outline of the project - Completed
    * 12 Commits in total - Completed
    
-   
-   ## Machine Learning Model
+  ## Machine Learning Model
 
   #### Model Choices
 
