@@ -119,10 +119,13 @@ UofT Data Analytics - Module 20: Final Project
  
  **Dashboard Overview**
  
-
+Part #1
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="100%">
 
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Tableau Dashboard details** </a>
+Part #2: Machine Learning Visual
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/Dashboard/Images/Dashboard_Table2.png" width="100%">
+
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Tableau Dashboard Workflow Details** </a>
 
   **Description of interative element(s)**
    - Search and Filter Functions available on Tableau Dashboard <a href="https://public.tableau.com/profile/reina6848#!/vizhome/Book1_16172235019440/DashboardFinal1?publish=yes"> **Link to Tableau Dashboard** </a>
