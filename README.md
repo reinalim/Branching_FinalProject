@@ -89,11 +89,11 @@ UofT Data Analytics - Module 20: Final Project
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
 
    - Deep Learning
-    - using all our 10 features, our models performed:
-        - ~69% accuracy - Three Month Return model
-        - ~65% accuracy - First Day Closing Price model
+    - Using all our 10 features, our models performed:
+        - **Three Month Return model: Current Accuracy 69%**
+        - **First Day Closing Price model: Current Accuracy 65%**
        
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for more details** </a>
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Choices ** </a>
      
 ## Deliverable 4: Database
    
@@ -123,7 +123,7 @@ UofT Data Analytics - Module 20: Final Project
  **Dashboard Overview**
  
 
-<img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="90%">
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="100%">
 
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
 
