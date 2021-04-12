@@ -1,6 +1,6 @@
 # SQL Database
 
-Here you will find the a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we have chosen for this project. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
+Here you will find a fully detailed description of our database. Raw data source was extracted via excel (from iposcoop.com) and API requests (from Alpha Vantage) which was pre-processed using Jupyter notebook in order to have it ready for PostgreSQL, which is the database we have chosen for this project. Jupyter notebook is used to then create that connection from our SQL database to our machine learning models. From SQL we also exported our master data table into a CSV and imported it to Tableau in order to create our dashboards to visualize the answers to the questions in our analysis.
 
 ### ERD Diagram
 
@@ -10,6 +10,25 @@ Here you will find the a fully detailed description of our database. Raw data so
 Quick DBD site was used as a tool to create the ERD diagram to visually display the datasets and establish the data types and the relationships between each table using the primary and foreign keys in order to create the database.
 
 Diagram Tool: https://app.quickdatabasediagrams.com/#/
+
+### schema.sql
+
+Following our ERD diagram, we have created schema.sql to house all our queries performed in pgAdmin from creating our tables, importing our CSV files, creating our joined tables, and validating that the data has been returned with the records as per the CSV files. The team can use this in order to recreate the database in their local pgAdmin.
+
+### SQL Table Screeshot
+
+In this folder are the screenshot of each of the tables created in pgAdmin. 
+There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
+
+![database_tables](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_Table_Screenshot/database_tables.png)
+
+
+### Database Interface from SQL to Machine Learning Models
+
+Using SQLAlchemy, we were able to connect our database into our machine learning models in Jupyter notebook.
+
+![SQL_connect_ML](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_connect_ML.png)
+
 
 ### Data sources 
 
@@ -38,25 +57,6 @@ Multiple table joins were performed in order to eventually produce a "master_dat
 - Join 4: The above ipos_with_income and combined_filtered_balance_sheet tables = ipos_with_income_balancesheet table. Returning a total of 3470 rows and now combined 87 columns.
 
 - Final Join 5: The above ipos_with_income_balancesheet and combined_filtered_cash_flow tables = master_data table. Returning a total of 3470 rows and now combined 113 columns.
-
-### schema.sql
-
-Following our ERD diagram, we have created schema.sql to house all our queries performed in pgAdmin from creating our tables, importing our CSV files, creating our joined tables, and validating that the data has been returned with the records as per the CSV files. The team can use this in order to recreate the database in their local pgAdmin.
-
-### SQL Table Screeshot
-
-In this folder are the screenshot of each of the tables created in pgAdmin. 
-There are 6 base tables plus 5 joined tables = a total of 11 tables in our database.
-
-![database_tables](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_Table_Screenshot/database_tables.png)
-
-
-### Database Interface from SQL to Machine Learning Models
-
-Using SQLAlchemy, we were able to connect our database into our machine learning models in Jupyter notebook.
-
-![SQL_connect_ML](https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/SQL/SQL/SQL_connect_ML.png)
-
 
 ### Additional Data Clean-Up
 
