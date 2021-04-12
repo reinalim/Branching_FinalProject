@@ -51,9 +51,8 @@ UofT Data Analytics - Module 20: Final Project
 
  <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> **Link to Google Slides** </a>
 
-   | README Requirements   |  Response  | 
+   | Selected Topic   |  IPO Analysis  | 
    | :--- | :--- |
-   | **Selected Topic** | IPO Analysis | 
    | **Reason why this topic was selected** | 1. Personal interest <br/> 2. Availability of data source <br/> 3. Discover how the global pandemic affected IPO listing |
    | **Questions hoping to answer** | 1. What is the proportion of each sector? <br/> 2.Which industries have the best and worst return in 2019 and 2020? <br/> 3. How has the appetite for IPOs in each sector changed? How did they performed over the years from 2000 to 2020? <br/> 4. How can you benefit from the above information?
    | **Data Source** | IPOScoop: https://www.iposcoop.com/ <br/> Alpha Vantage: https://www.alphavantage.co/documentation/
@@ -74,7 +73,7 @@ UofT Data Analytics - Module 20: Final Project
 
   #### Model Choices
 
-  ##### Training/Testing Split
+  #### Training/Testing Split
 
 - During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
 
@@ -92,7 +91,7 @@ UofT Data Analytics - Module 20: Final Project
         - **Three Month Return model: Current Accuracy 69%**
         - **First Day Closing Price model: Current Accuracy 65%**
        
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Choices ** </a>
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Choices** </a>
      
 ## Deliverable 4: Database
    
@@ -109,7 +108,7 @@ UofT Data Analytics - Module 20: Final Project
 
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
 
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here for more details** </a>
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here for details** </a>
 
 ## Deliverable 5: Dashboard
    
@@ -124,10 +123,10 @@ UofT Data Analytics - Module 20: Final Project
 
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="100%">
 
-<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for details** </a>
 
   **Description of interative element(s)**
-   - Search and Filter Functions available on Tableau Dashboard <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
+   - Search and Filter Functions available on Tableau Dashboard <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for details** </a>
 
 <br>
 
