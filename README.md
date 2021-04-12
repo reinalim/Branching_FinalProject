@@ -30,7 +30,7 @@ UofT Data Analytics - Module 20: Final Project
   
   * Software/Tools: Python, Pandas, Visual Studio Code, PostgreSQL, Jupyter Notebook, Tableau,
   * Languages: Python
-  * Algorithm: ?
+  * Algorithm: Neural Network
   
   ### Communications
   1. Slack Channel
@@ -47,7 +47,9 @@ UofT Data Analytics - Module 20: Final Project
 
 ## Results
 
-## Deliverable 1: Presentation
+## Presentation
+
+ <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> **Link to Google Slides** </a>
 
    | README Requirements   |  Response  | 
    | :--- | :--- |
@@ -56,12 +58,8 @@ UofT Data Analytics - Module 20: Final Project
    | **Questions hoping to answer** | 1. What is the proportion of each sector? <br/> 2.Which industries have the best and worst return in 2019 and 2020? <br/> 3. How has the appetite for IPOs in each sector changed? How did they performed over the years from 2000 to 2020? <br/> 4. How can you benefit from the above information?
    | **Data Source** | IPOScoop: https://www.iposcoop.com/ <br/> Alpha Vantage: https://www.alphavantage.co/documentation/
    
-
   
- <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
-
-  
-  ## Deliverable 2: GitHub  
+  ## GitHub  
    
    Master Branch 
    * All code necessary to perform exploratory analysis - Completed
@@ -70,84 +68,17 @@ UofT Data Analytics - Module 20: Final Project
    README.md
    * Description of the communication protocols - Established
    * Outline of the project - Completed
-   * 8 Commits in total - Completed
+   * 12 Commits in total - Completed
    
-   
-   ## Deliverable 3: Machine Learning Model
+  ## Machine Learning Model
 
-   * Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-      - Takes in data in from the provisional database
-      - Output labels for input data
-   ### Preliminary Data Preprocessing
-   - To convert our categorical variable data into indicator variables of 0 or 1, we used panda's .get_dummies
-   - Preprocessing on our calculated columns which serve as our selected features such as Debt-to-Asset ratio and Net Profit Margin, had to be done before they   
-     could be introduced into our model.
-    - any N/A's, or infinite values had to be removed
-   
-   ### Feature Engineering and Feature Selection
-Potential features we decided to include and test since these are relevant KPIs/ Business metrics to determine company performance which could influence a company's stock price.
+  #### Model Choices
 
-   **Feature Category - Reason for Selection**
-   * Categorical: The market’s receptiveness of each IPO will never be the same each issuance. We believe that it will differ largely based on the Sector and  		Industry of the company.
-   * Operational Performance: We believe that the market’s receptiveness of an IPO would be directly related to how well the company is performing. Specifically, it should be tied to a company’s profitability on different levels (gross, net, and earnings before accounting & financial deductions), as well as its ability to generate sufficient cash flow to maintain and grow its operations.
-   * Financial Health: We believe that the market would also take into consideration of the company’s indebtedness and liquidity. 
-   * Long-term Planning: The market should also take into account of the company’s plan for the future. R&D and Cash Flow from Investment are good proxies that reflect the company’s willingness and preparedness for facing future challenges.
-    
-   **Target Features - Three Month Return & First Day Return**
-   
-   | Features Category  | Feature | Description | 
-   | :--- | :--- |:--- |
-   | **Categorical** | **Industry** | It refers to a part of the economy in which a great number of companies can be categorized and is larger in comparison to “Industry”. | 
-   | **Categorical** | **Sector** | It refers to a series of companies that operate in a similar business sphere, and its categorization is more narrow. 
-   | **Operational Performance** | **EBITDA** | Earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance before the influence. |
-   | **Operational Performance** | **EBIT margin** | Earnings before interest and taxes is a company's net income before income tax expense and interest expenses are deducted of accounting and financial deductions. | 
-   | **Operational Performance** | **Gross Profit Margin** | A measure of profitability that shows the percentage of revenue that exceeds the cost of goods sold. | 
-   | **Operational Performance**| **Net Profit Margin**| It is the percentage of sales remaining after all expenses, interest, taxes and preferred stock dividends have been deducted from total revenue. |
-   | **Financial Health** | **Debt Asset Ratio**| A leverage ratio that defines the total amount of debt relative to assets owned by the company.| 
-   | **Financial Health**|**Current Ratio**| A liquidity metric that measures the company's ability to pay off its short term financial obligations in one year|
-   | **Financial Health**| **Debt Equity Ratio** | It is a measure of the degree to which a company is financing its operations through debt versus wholly-owned funds. |
-   | **Financial Health**| **Operating Cash Flow Ratio** | A measure of how readily current liabilities are covered by the cash flows generated from a company's operations. This ratio can help gauge a company's liquidity in the short term. |
-   | **Long-term Planning**|**Research & Development (R&D)**| This is the amount of expenses in which the company devotes into developing or enhancing new products and services.|
-   | **Long-term Planning**| **Cash Flow from Investment**| How much cash has been generated or spent from various investment-related activities in a specific period. Investing activities include purchases of physical assets, investments in R&D, investments in securities, or the sale of securities or assets.| 
-   
-   **Feature Importance** - 3 Months Return
-   
-   | Feature | Importance in 3 Month Return <br/> Rating 1-10 (Least to Most) |
-   | :--- |:---: |
-   | **Net Profit Margin** | 10 |
-   | **Sector** | 9 |
-   | **OCF Ratio** | 8 |
-   | **Gross Profit Margin** | 7  |
-   | **Industry** | 6 |
-   | **Debt Equity Ratio** | 5 |
-   | **EBITDA** | 5 |
-   | **Debt Asset Ratio** | 4 |
-   | **Research Development** | 3 |
-   | **Cashflow From Investment** | 2 |
-   | **Current Ratio** | 1 |
-  
-  **Feature Importance** - First Day Return
-  
-  | Feature | Importance in First Day Return  <br/> Rating 1-10 (Least to Most) |
-   | :--- |:---: |
-   | **Gross Profit Margin** | 10 |
-   | **Cashflow From Investment** | 9 |
-   | **OCF Ratio** | 8 |
-   | **Debt Equity Ratio** | 7  |
-   | **Industry** | 6 |
-   | **EBIT Margin** | 5 |
-   | **Debt Asset Ratio** | 4 |
-   | **Current Ratio** | 4 |
-   | **Net Profit Margin** | 2 |
-   | **Sector** | 1 |
-   
-  ## Model Choices
-
-  #### Training/Testing Split
+  ##### Training/Testing Split
 
 - During Training/Testing our models, the highest accuracy found for both Three Month Return and First Day Closing Price was found when using a 67% training and 33% testing split
 
- ## Model Selection
+ #### Model Selection
 
 - Since we have labeled data, we've tried using a variety of different binary classification models:
     - Logistic Regression
@@ -157,49 +88,13 @@ Potential features we decided to include and test since these are relevant KPIs/
 <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/ML_Model/images/random.png" width="80%">
 
    - Deep Learning
-- Our most successful results so far were found using **Deep Learning**
-    - using all our 10 features, our models performed:
-        - ~65% accuracy - Three Month Return model
-      <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/three_mth_model.png">
-        - ~60% accuracy - First Day Closing Price model
-      <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/first_day_model.png">
-
-### Attempts at Model Optimization
-
-In attempts to optimize our model and achieve higher accuracy, the models were observed as features were added/removed. 
-
-## Overfitting
-
-Though modeling with Deep Learning allows it to handle many features, it is prone to overfitting. Our first attempts resulted in high training accuracy while our testing set would be low.
-
-To counter-act overfitting, we reduced our neuron count from 2x our input features to 1.5. We also removed a hidden layer:
-   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/ML_Model/images/overfit_example.png">
-
-Doing this resulted in our 65% and 60% accuracy on our three day return and first day close models respectively.
-
-### To be attempted
-- Explore sector specific features
-    - there are many different features at which people would value certain companies more depending on the specific 
-    - different businesses have could have different emphasis on different metrics
-    - ie. manufacturing KPI vs merchandising KPI
-     
+    - Using all our 10 features, our models performed:
+        - **Three Month Return model: Current Accuracy 69%**
+        - **First Day Closing Price model: Current Accuracy 65%**
+       
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Choices ** </a>
      
 ## Deliverable 4: Database
-   
-   * Present a provisional database that stands in for the final database and accomplishes the following:
-      - Sample data that mimics the expected final database structure or schema  - Completed
-      - Draft machine learning module is connected to the provisional database  - Completed
-   
-   
-   **Database stores static data for use during the project**
- 
-   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Database_Table_Screenshot.png" width="80%">
-   
-   
-   **Database interface and connection strings to PostgreSQL with SQLAlchemy**
-
-   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/DatabaseConnect_ToModel.png" width="80%">
-   
    
    **Entity Relationship Diagram (ERD)** - Showing Relationships
    
@@ -213,20 +108,31 @@ Doing this resulted in our 65% and 60% accuracy on our three day return and firs
 	- Balance Sheet
 
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/SQL/FinalProject_IPO_ERD.png" width="80%">
-     
+
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here for more details** </a>
+
 ## Deliverable 5: Dashboard
-   * Storyboard on Google Slide(s):  
-   <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Presentation: Link to Google Slides </a>
    
-   * Description of the tool: 
+  **Description of the tool**
    
   <img src="https://github.com/reinalim/FinalProject_IPO/blob/Develop/Dashboard/Images/Tableau%20Logo.png" width="50%">
   
   Tableau is a data visualization software that is used for data science and business intelligence. Tableau can create a wide range of different visualization to interactively present the data and showcase insights.
-     
-   * Description of interative element(s):
-     - Hover Function, Search and Filter Functions for maps and charts: Dropdown multiple value filter by Year, Quarter, Sector, Region
+ 
+ **Dashboard Overview**
+ 
 
+<img src="https://github.com/reinalim/FinalProject_IPO/blob/Sub-branch/Dashboard/Dashboard/Images/Dashboard_Tableau.png" width="100%">
+
+<a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
+
+  **Description of interative element(s)**
+   - Search and Filter Functions available on Tableau Dashboard <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/Dashboard"> **Click here for more details** </a>
+
+<br>
+
+**For presentation, please click the link below:**
+   <a href="https://docs.google.com/presentation/d/1ZlcIOSct6o92qZ16Grknb6WAb4lZjYQNEJHsQfV6WdI/edit?usp=sharing" target="_blank"> Link to Google Slides </a>
 <br>
 
 ---
