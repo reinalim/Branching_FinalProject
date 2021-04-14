@@ -92,7 +92,7 @@ UofT Data Analytics - Module 20: Final Project
        
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Model Choices** </a>
      
-## Deliverable 4: Database
+## Database
    
    **Entity Relationship Diagram (ERD)** - Showing Relationships
    
@@ -109,7 +109,7 @@ UofT Data Analytics - Module 20: Final Project
 
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/SQL"> **Click here to learn more about database details** </a>
 
-## Deliverable 5: Dashboard
+## Dashboard
    
   **Description of the tool**
    
