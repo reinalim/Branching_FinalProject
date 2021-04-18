@@ -66,7 +66,7 @@ UofT Data Analytics - Module 20: Final Project
    README.md
    * Description of the communication protocols - Established
    * Outline of the project - Completed
-   * 12 Commits in total - Completed
+   * 18 Commits in total - Completed
    
   ## Machine Learning Model
 
