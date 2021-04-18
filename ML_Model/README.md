@@ -64,9 +64,9 @@ While the above shows all of the features selected, our two models had their own
 
 With the primary difference of EBIT margin being used in our First Day Return model, while EBITDA and Research & Development proved more beneficial to the Three Month Return model
 
-## Feature Importance
+## Features with Biggest Impact - Permutation Importance
 
-To find which features were most impactful on our models, we implemented Permuation Importance on our features used - which displays features and their weights on our models.
+To find which features were most impactful on our models, we implemented **Permuation Importance** on our features used - which displays features and their weights on our models.
 
 ### Feature Importance on Three Month Return:
 <img src="images/feature_weight_three_mth.png"></img>
@@ -148,7 +148,7 @@ Doing this resulted in our 65% and 60% accuracy on our Three Month Return and Fi
 
 ## Features Adjusted
 
-### <u>First Day Return - Accuracy Increased to 65% </u>
+### <u>**First Day Return** - Accuracy Increased to 65% </u>
 
 More attempts at increasing the accuracy of our model came about adding new features and adjusting features chosen. 
 
@@ -167,7 +167,7 @@ While trying to avoid over-fitting by lowering neurons, epochs and removing a la
 ### First Day Return - New Features and Added Hidden Layer:
 <img src="images/first_day_model_65.png"></img>
 
-### <u>Three Month Return - Accuracy Increased to 69%</u>
+### <u>**Three Month Return** - Accuracy Increased to 69%</u>
 
 In attempts to increase our Three Month Return Model, similar steps were taken, but ultimately adjusting features proved most beneficial - resulting in an accuracy of ~69%
 
@@ -178,8 +178,25 @@ Features Added:
 - Operating Cash Flow Ratio
 - Debt-to-Equity Ratio
 
-### <u>Three Month Return - New Features added</u>
+### Three Month Return - After new Features added:
 <img src="images/three_mth_model_69.png"></img>
+
+### <u>**Three Month Return** - Accuracy Increased to 71% </u>
+
+The R&D feature was adjusted to an R&D ratio, which is the amount of R&D invested as a percentage of total revenue. This metric allows for the dollar amount of R&D more comparability between companies, which may have been the reason for a slightly better accuracy.
+
+### Three Month Return - Replacing R&D with R&D Ratio:
+<img src="images/three_mth_model_71.png"></img>
+
+## Confusion Matrix
+
+Three Month Return
+
+<img src="images/three_mth_cm.png"></img>
+
+First Day Return
+
+<img src="images/first_day_cm.png"></img>
 
 ## Loss function
 
