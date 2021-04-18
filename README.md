@@ -87,7 +87,7 @@ UofT Data Analytics - Module 20: Final Project
 
    - Deep Learning
     - Using all our 10 features, our models performed:
-        - **Three Month Return model: Current Accuracy 69%**
+        - **Three Month Return model: Current Accuracy 71%**
         - **First Day Closing Price model: Current Accuracy 65%**
        
 <a href="https://github.com/reinalim/FinalProject_IPO/tree/Develop/ML_Model"> **Click here for learn more about Machine Learning Model Choices** </a>
