@@ -148,7 +148,7 @@ Doing this resulted in our 65% and 60% accuracy on our Three Month Return and Fi
 
 ## Features Adjusted
 
-### <u>First Day Return - Accuracy Increased to 65% </u>
+### <u>**First Day Return** - Accuracy Increased to 65% </u>
 
 More attempts at increasing the accuracy of our model came about adding new features and adjusting features chosen. 
 
@@ -167,7 +167,7 @@ While trying to avoid over-fitting by lowering neurons, epochs and removing a la
 ### First Day Return - New Features and Added Hidden Layer:
 <img src="images/first_day_model_65.png"></img>
 
-### <u>Three Month Return - Accuracy Increased to 69%</u>
+### <u>**Three Month Return** - Accuracy Increased to 69%</u>
 
 In attempts to increase our Three Month Return Model, similar steps were taken, but ultimately adjusting features proved most beneficial - resulting in an accuracy of ~69%
 
@@ -178,14 +178,25 @@ Features Added:
 - Operating Cash Flow Ratio
 - Debt-to-Equity Ratio
 
-### Three Month Return - After new Features added
+### Three Month Return - After new Features added:
 <img src="images/three_mth_model_69.png"></img>
 
-### <u>Three Month Return - Accuracy Increased to 71% </u>
+### <u>**Three Month Return** - Accuracy Increased to 71% </u>
 
-The R&D 
+The R&D feature was adjusted to an R&D ratio, which is the amount of R&D invested as a percentage of total revenue. This metric allows for the dollar amount of R&D more comparability between companies, which may have been the reason for a slightly better accuracy.
 
+### Three Month Return - Replacing R&D with R&D Ratio:
 <img src="images/three_mth_model_71.png"></img>
+
+## Confusion Matrix
+
+Three Month Return
+
+<img src="images/three_mth_cm.png"></img>
+
+First Day Return
+
+<img src="images/first_day_cm.png"></img>
 
 ## Loss function
 
