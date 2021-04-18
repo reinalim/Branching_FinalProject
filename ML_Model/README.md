@@ -64,9 +64,9 @@ While the above shows all of the features selected, our two models had their own
 
 With the primary difference of EBIT margin being used in our First Day Return model, while EBITDA and Research & Development proved more beneficial to the Three Month Return model
 
-## Feature Importance
+## Features with Biggest Impact - Permutation Importance
 
-To find which features were most impactful on our models, we implemented Permuation Importance on our features used - which displays features and their weights on our models.
+To find which features were most impactful on our models, we implemented **Permuation Importance** on our features used - which displays features and their weights on our models.
 
 ### Feature Importance on Three Month Return:
 <img src="images/feature_weight_three_mth.png"></img>
@@ -178,8 +178,14 @@ Features Added:
 - Operating Cash Flow Ratio
 - Debt-to-Equity Ratio
 
-### <u>Three Month Return - New Features added</u>
+### Three Month Return - After new Features added
 <img src="images/three_mth_model_69.png"></img>
+
+### <u>Three Month Return - Accuracy Increased to 71% </u>
+
+The R&D 
+
+<img src="images/three_mth_model_71.png"></img>
 
 ## Loss function
 
