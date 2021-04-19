@@ -138,8 +138,14 @@ Part #2: Machine Learning Visual
 
 ---
 
-## Summary
+## Analysis Results Recap
+* Stock market’s appetite for IPOs are not affected by the recent economic downturn in 2020.
+* First Day Returns are positively correlated with Gross Profit Margin while negatively correlated with Cash Flow from Investment (The higher the investment spent, the stronger the First Day Return).
+* 3 Month Returns are positively correlated with EBITDA.
+* Indeed, Gross Profit Margin, Cash Flow from Investment, and EBITDA turned out to be the most important features in our models, which returned an accuracy of 65% and 71% respectively.
+* Our models were better at predicting Gains than Losses, as Gains had better precision and recall scores than Losses, for both the First Day Return and Three Month Return.
 
+---
 
 
 
