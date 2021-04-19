@@ -149,7 +149,7 @@ Part #2: Machine Learning Visual
 
 ## Recommendation for Future Analysis
 
-#To obtain data with higher quality:
+# To obtain data with higher quality:
 * The extent of  our analysis is partly limited by the quality and  incompleteness of our data as we were only able to obtain sufficient quarterly financial information from Alpha Vantage  for 15%  of the original listing of IPOs.
 * Therefore, there were not enough high quality data to perform meaningful statistical analysis to uncover trends in the the relationship between Returns and various financial metrics.
 
