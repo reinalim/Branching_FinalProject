@@ -188,15 +188,48 @@ The R&D feature was adjusted to an R&D ratio, which is the amount of R&D investe
 ### Three Month Return - Replacing R&D with R&D Ratio:
 <img src="images/three_mth_model_71.png"></img>
 
-## Confusion Matrix
+## <u>Confusion Matrix</u>
+
+To best describe the performance of our model, a confusion matrix is a good visualization of how precise and sensitive our model really is. 
+
+Our **Confusion Matrix** is setup to show the outcomes of our binary classification of either Gain or Loss when it comes to returns on either the First Day or Three Month after an IPO has released.
+
+The matrix compares actual outcomes and compares them to what the model predicted as either Gain or Loss. Looking at this comparison will result in determining how well our model can predict correctly, and how often.
+
+First Day Return
+
+<img src="images/first_day_cm.png"></img>
+
+Looking at First Day Return, of the 58 times that the model predicted a Gain:
+- 41 times it was actually a Gain
+- 17 times it was actually a Loss
+
+And when it came to predicting a loss:
+- 4 times it was actually  a Loss
+- 10 times it was actually a Gain
 
 Three Month Return
 
 <img src="images/three_mth_cm.png"></img>
 
-First Day Return
+For our Three Month Return 
 
-<img src="images/first_day_cm.png"></img>
+When guessing a Gain:
+- 27 it was actually a Gain
+- 17 it was actually a Loss
+
+When guessing a Loss:
+- 16 it was actually a Loss
+- 12 it was actually a Gain
+
+So to use this information, to see how often we are correct is to determine the model's precision, and to see how often the model predicts a gain and its actually a gain is to determine its sensitivity/recall.
+
+### Precision and Recall
+<img src="images/confusion_matrix_summary.png"></img>
+
+For our first day model, its precision to predict a Gain is 71% whereas our Three Month has a precision of only 61%. So our first day is better at predicting a True Gain in IPO return but not when it comes to predicting a True Loss
+
+WHen it comes to how often our model predicts a Gain when it is ACTUALLY a Gain? Our First month sensitivity is 80% of the time able to predict a Gain when its a Gain, and in our three month - 69%
 
 ## Loss function
 
